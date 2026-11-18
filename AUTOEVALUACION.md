@@ -345,6 +345,22 @@ Exponer lo más a la derecha posible del histograma **sin quemar**, porque el **
 → [Conceptos 10 · La mirada](conceptos/10-la-mirada.md#los-cinco-escalones-en-este-orden-no-saltes)
 </details>
 
+### Práctica extra: el porqué, con tus JPEG
+
+**A1. Disparas en JPEG de noche y te falta luz. ¿Es mejor disparar con ISO bajo y aclarar dos pasos en Luminar, o subir el ISO en la cámara?**
+<details><summary>Respuesta</summary>
+
+**Subir el ISO en la cámara.** El JPEG ya está procesado y guarda 8 bits: si lo aclaras después, aparecen ruido y bandas. La "invarianza ISO" solo vale para RAW.
+→ [Conceptos 9 · §6](conceptos/09-por-que-funciona.md#6--ruido-iso-y-el-punto-en-que-deja-de-importar)
+</details>
+
+**A2. Quieres que una montaña lejana salga enorme detrás de una persona. ¿Te acercas con el gran angular o te alejas con el tele?**
+<details><summary>Respuesta</summary>
+
+**Te alejas y usas el tele.** La perspectiva la decide la distancia: desde lejos, persona y montaña parecen del mismo tamaño. Con el gran angular desde cerca, la montaña sale diminuta.
+→ [Conceptos 5 · Óptica](conceptos/05-optica.md#3--la-perspectiva-la-hace-la-distancia)
+</details>
+
 ---
 
 [🧭 Volver a la ruta](RUTA.md) · [🏠 Inicio](README.md)
