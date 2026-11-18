@@ -14,7 +14,7 @@ visible gran parte de la noche.
 > al anochecer. Las recetas y el enfoque de este capítulo valen igual; el
 > **plan de tus noches concretas** está en
 > [la mirada](../conceptos/la-mirada.md), el fino en
-> [estrellas con la tierra dentro](https://github.com/morandeirachema/a6700-namibia/blob/main/mejora/estrellas-con-tierra.md), y el catálogo completo de lo
+> [estrellas con la tierra dentro](estrellas-con-tierra.md), y el catálogo completo de lo
 > fotografiable en tu ventana, objetivo a objetivo, en
 > [el cielo del viaje](https://github.com/morandeirachema/a6700-namibia/blob/main/plan/cielo-del-viaje.md).
 
@@ -66,7 +66,8 @@ visible gran parte de la noche.
 
    En luna nueva prueba también el encuadre **vertical**: el núcleo de la Vía
    Láctea es alto y estrecho, y en vertical entra entero con su primer plano.
-4. **Enfoca a una estrella** (la parte más delicada, 2 minutos):
+4. **Enfoca a una estrella** (la parte más delicada, 2 minutos; el detalle,
+   y qué hacer si no hay estrellas brillantes, en [Enfocar el 11 mm](enfocar-el-11mm.md)):
    1. Interruptor **AF/MF del objetivo en MF**, SteadyShot OFF.
    2. Activa la **lupa de enfoque** (`Amplific. enfoque`) y lleva el recuadro a
       la estrella más brillante.
@@ -109,7 +110,7 @@ visible gran parte de la noche.
 
 La versión a fondo de las dos fotos con primer plano — la postal (cielo
 fijo con silueta) y los círculos sobre un objeto — está en
-[Estrellas con la tierra dentro](https://github.com/morandeirachema/a6700-namibia/blob/main/mejora/estrellas-con-tierra.md).
+[Estrellas con la tierra dentro](estrellas-con-tierra.md).
 
 ## Star trails (circumpolares del sur)
 
@@ -127,7 +128,7 @@ para un novato: círculos de estrellas girando sobre el paisaje.
    cámara nivelada y el horizonte en el tercio bajo, el 11 mm abarca 71° de
    alto: el polo entra seguro. Las cuatro formas de encontrarlo — incluida
    la **prueba de giro** de 4 minutos con `Aj. temporiz. BULB` — están en
-   [Estrellas con la tierra dentro](https://github.com/morandeirachema/a6700-namibia/blob/main/mejora/estrellas-con-tierra.md).
+   [Estrellas con la tierra dentro](estrellas-con-tierra.md).
 2. Receta: **30 s, f/2.8, ISO 800–1600**, balance fijo 3900 K,
    reducción de ruido de larga exposición **OFF** (o cada foto irá seguida de
    30 s a oscuras y los arcos saldrán cortados), enfoque a las estrellas como

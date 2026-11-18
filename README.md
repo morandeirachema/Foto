@@ -7,7 +7,7 @@
 ![Sony a6700](https://img.shields.io/badge/cámara-Sony%20a6700-1D1D1F)
 ![Luminar for Desktop 1.29.x](https://img.shields.io/badge/retoque-Luminar%201.29.x-B4561C)
 ![Idioma: español](https://img.shields.io/badge/idioma-español-5F6368)
-![39 guías](https://img.shields.io/badge/guías-39-2E7D32)
+![41 guías](https://img.shields.io/badge/guías-41-2E7D32)
 ![PDF para imprimir](https://img.shields.io/badge/PDF-4%20para%20imprimir-5F6368)
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Elephants_rushing_to_water_%28Etosha%2C_2013%29.jpg/1920px-Elephants_rushing_to_water_%28Etosha%2C_2013%29.jpg" alt="Elefantes corriendo hacia una charca en Etosha" width="100%">
@@ -35,7 +35,7 @@ flowchart LR
 | Carpeta | Qué hay | Guías |
 |---|---|---|
 | [`conceptos/`](conceptos/) | Lo que vale para cualquier cámara: el modelo técnico, el histograma, el balance de blancos, la composición y la mirada | 7 |
-| [`manejo-a6700/`](manejo-a6700/) | La cámara: del móvil a la a6700, menús, diales, configuración, recetas por escenario, equipo y referencia completa de ajustes | 13 |
+| [`manejo-a6700/`](manejo-a6700/) | La cámara: del móvil a la a6700, menús, diales, configuración, recetas por escenario, equipo y referencia completa de ajustes | 15 |
 | [`retoques/`](retoques/) | La guía de Luminar en 18 capítulos, verificada con la documentación oficial de Skylum | 19 |
 | [`pdf/`](pdf/) | Las hojas imprimibles y la guía de retoques completa, maquetadas en A4 | 4 PDF |
 
@@ -66,6 +66,7 @@ Cada guía de conceptos y de manejo abre con su **nivel**: 🟢 **Iniciación** 
 | 🟢 | [**0 · Del móvil a la a6700**](manejo-a6700/00-de-movil-a-la-a6700.md) | Los tres números, las ruedas, el visor, RAW, los errores típicos y **7 tardes de deberes** |
 | 🟢 | [**0.5 · Los menús, los botones y el primer día**](manejo-a6700/00b-menus-y-primer-dia.md) | De la caja a la primera foto: el mapa del menú, el Fn, Mi Menú, revisar al 100 % y cómo deshacerlo todo |
 | 🟢 | [**0.7 · Los diales y los botones**](manejo-a6700/00c-diales-y-botones.md) | Qué hace cada mando, la botonera del viaje (y por qué se intercambian los diales), el táctil, el bloqueo y la noche sin luz |
+| 🟢 | [**Enfocar el 11 mm**](manejo-a6700/enfocar-el-11mm.md) | De día (AF con el pulgar e hiperfocal), a una estrella y a una luz lejana; la configuración de la lupa y el *peaking*, y un ejercicio para **esta noche** |
 | 🔵 | [**1 · Configuración básica**](manejo-a6700/01-configuracion-basica.md) | Firmware, enfoque con el pulgar, memorias **MR1** (safari) y **MR2** (astro), los mandos de los objetivos y el glosario de menús español/inglés |
 
 **Recetas por escenario**
@@ -73,6 +74,7 @@ Cada guía de conceptos y de manejo abre con su **nivel**: 🟢 **Iniciación** 
 | Nivel | Guía | Qué resuelve |
 |:---:|---|---|
 | 🔵 | [**2 · Astrofotografía**](manejo-a6700/02-astrofotografia-namibia.md) | La noche completa paso a paso: Vía Láctea, star trails con el intervalómetro integrado y apilado |
+| 🔵 → 🔴 | [**Estrellas con la tierra dentro**](manejo-a6700/estrellas-con-tierra.md) | Astro **desde cero en tres noches** con el 11 mm: la primera foto de estrellas, la postal con silueta y los círculos |
 | 🔵 | [**3 · Safari diurno**](manejo-a6700/03-safari-diurno.md) | El AF con reconocimiento de animales, la rutina de 10 segundos, composición y receta por escena |
 | 🔵 | [**4 · Charcas nocturnas**](manejo-a6700/04-safari-nocturno-charcas.md) | Fauna con foco artificial: obturador silencioso, AF en penumbra, techo de ISO |
 | 🔵 | [**5 · Equipo y accesorios**](manejo-a6700/05-equipo-accesorios.md) | El kit con precios y alternativas, tarjetas (y el búfer), baterías, filtros y polvo |
@@ -133,6 +135,7 @@ flowchart LR
 
 - 🐣 *Nunca he manejado una cámara en serio* → [Del móvil a la a6700](manejo-a6700/00-de-movil-a-la-a6700.md) y el [glosario](conceptos/glosario.md).
 - 📦 *La cámara acaba de llegar* → [Los menús y el primer día](manejo-a6700/00b-menus-y-primer-dia.md), luego [los diales y los botones](manejo-a6700/00c-diales-y-botones.md) y la [configuración básica](manejo-a6700/01-configuracion-basica.md).
+- 🔭 *Quiero fotografiar estrellas con el 11 mm* → [Enfocar el 11 mm](manejo-a6700/enfocar-el-11mm.md) (esta misma noche) y luego [Estrellas con la tierra dentro](manejo-a6700/estrellas-con-tierra.md).
 - 🔎 *¿Qué es esta línea del menú?* → [El menú completo](manejo-a6700/menu-completo.md).
 - 📊 *No sé si la foto está bien expuesta* → [El histograma](conceptos/histograma.md).
 - 🦁 *Voy de safari* → [Safari diurno](manejo-a6700/03-safari-diurno.md) para disparar y [Retoques · Safari](retoques/05-safari.md) para editar.
@@ -159,7 +162,7 @@ Necesita `pandoc` y Google Chrome. Al editar una hoja, regenera su PDF (la chule
 
 ## 🔗 Origen y enlaces
 
-- Las secciones de **conceptos** y **manejo de la a6700** vienen de [a6700-namibia](https://github.com/morandeirachema/a6700-namibia), la guía del viaje completo (planificación, fauna, logística, vídeo y móvil). Los enlaces a esas guías apuntan allí.
+- Las secciones de **conceptos** y **manejo de la a6700** vienen de [a6700-namibia](https://github.com/morandeirachema/a6700-namibia), la guía del viaje completo (planificación, fauna, logística, vídeo y móvil). Los enlaces a esas guías apuntan allí. *Estrellas con la tierra dentro* también viene de allí.
 - El dossier del viaje (itinerario, ruta y presupuesto): [namibia](https://github.com/morandeirachema/namibia).
 - Soporte de la Sony a6700: <https://www.sony.es/electronics/support> · Guía de ayuda: <https://helpguide.sony.net/ilc/2320/v1/es/>
 - Documentación de Luminar: <https://support.skylum.com/>

@@ -103,7 +103,7 @@ La lista completa, especie por especie y con los ajustes de cada una:
 
 El catálogo completo de tu cielo —qué hay cada noche, en qué dirección y con
 qué receta— vive en [el cielo del viaje](https://github.com/morandeirachema/a6700-namibia/blob/main/plan/cielo-del-viaje.md), y la
-técnica desde cero en [estrellas con la tierra dentro](https://github.com/morandeirachema/a6700-namibia/blob/main/mejora/estrellas-con-tierra.md).
+técnica desde cero en [estrellas con la tierra dentro](../manejo-a6700/estrellas-con-tierra.md).
 Lo que importa para **la mirada**, en cinco líneas:
 
 - **Tus fechas son buenas de verdad**: luna nueva el 9 de noviembre, cielos

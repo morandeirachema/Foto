@@ -12,7 +12,7 @@ aves.
 **El resto del nivel avanzado**: el porqué de todo esto está en
 [por qué funciona](../conceptos/por-que-funciona.md); lo creativo, en
 [safari a fondo](https://github.com/morandeirachema/a6700-namibia/blob/main/mejora/safari-a-fondo.md); el astro avanzado se mudó a
-[estrellas con la tierra dentro](https://github.com/morandeirachema/a6700-namibia/blob/main/mejora/estrellas-con-tierra.md) y el paisaje de
+[estrellas con la tierra dentro](estrellas-con-tierra.md) y el paisaje de
 los maestros, a [paisaje a fondo](https://github.com/morandeirachema/a6700-namibia/blob/main/mejora/paisaje-a-fondo.md).
 
 ## Safari avanzado

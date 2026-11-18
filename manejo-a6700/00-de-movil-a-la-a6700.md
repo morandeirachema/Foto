@@ -216,7 +216,7 @@ edición está explicada en la [guía de edición](../retoques/README.md).
    la cámara, como cualquier objetivo), 10 s, ISO 1600. Juega con los
    segundos mirando el histograma. Si puedes escaparte a cielo oscuro,
    sigue la escalera de tres noches de
-   [Estrellas con la tierra dentro](https://github.com/morandeirachema/a6700-namibia/blob/main/mejora/estrellas-con-tierra.md) —
+   [Estrellas con la tierra dentro](estrellas-con-tierra.md) —
    empieza de cero y acaba en la postal del viaje.
 6. **La cámara a ciegas**: configura los botones y las memorias MR1/MR2 del
    [capítulo 1](01-configuracion-basica.md) y practica el cambio sin mirar.

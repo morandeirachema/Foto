@@ -9,7 +9,7 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 | Folder | Section | Origin |
 |---|---|---|
 | `conceptos/` | Concepts: technical model, histogram, white balance, composition, "la mirada" | Copied from `a6700-namibia` (Nov 2026) |
-| `manejo-a6700/` | Handling the Sony a6700: chapters 0–5, AF a fondo, full settings and menu reference, field sheets | Copied from `a6700-namibia` (Nov 2026) |
+| `manejo-a6700/` | Handling the Sony a6700: chapters 0–5, AF a fondo, `estrellas-con-tierra.md` (copied too), `enfocar-el-11mm.md` (native: focusing the SEL11F18 day and night), full settings and menu reference, field sheets | Copied from `a6700-namibia` (Nov 2026) |
 | `retoques/` | Editing **in Luminar only** (18 chapters + intro), verified against Skylum's docs | Native to this repo |
 | `pdf/` | Generated PDFs, their CSS and generator scripts | — |
 
