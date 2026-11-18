@@ -82,6 +82,70 @@ Haz una foto de prueba y pásala al ordenador: tiene que haber un archivo **`.AR
 
 ---
 
+### Práctica extra: la medición (la trampa más común)
+
+La regla directa: **¿el sujeto sale quemado (demasiado blanco)? → −. ¿Sale oscuro? → +.** Y por qué pasa: la cámara lo pone todo gris medio, así que si lo que llena el encuadre es claro, oscurece; si es oscuro, aclara.
+
+**M1. Un folio blanco llena todo el encuadre. Con la compensación en 0 sale gris. ¿Qué haces para que salga blanco?**
+<details><summary>Respuesta</summary>
+
+**+1.** La cámara lo ha puesto gris; tú le devuelves el blanco sumando.
+→ [Conceptos 1 · El gris medio](conceptos/01-la-luz.md#por-qué-la-cámara-se-equivoca-el-gris-medio)
+</details>
+
+**M2. Una montaña nevada llena casi todo el encuadre y la nieve sale gris. ¿Qué compensación?**
+<details><summary>Respuesta</summary>
+
+**Positiva (+).** Lo que llena el encuadre es claro: la cámara oscureció. Sumas.
+→ [Conceptos 1 · El gris medio](conceptos/01-la-luz.md#por-qué-la-cámara-se-equivoca-el-gris-medio)
+</details>
+
+**M3. Un león iluminado por un foco, de noche, sale quemado (sin detalle en la piel). ¿Qué compensación?**
+<details><summary>Respuesta</summary>
+
+**Negativa (−).** El sujeto sale quemado → restas. Por qué: casi todo el encuadre es negro y la cámara aclaró de más.
+→ [Conceptos 1 · El gris medio](conceptos/01-la-luz.md#por-qué-la-cámara-se-equivoca-el-gris-medio)
+</details>
+
+**M4. Un rinoceronte en una charca de noche, con el fondo negro, sale con la piel quemada. ¿Qué compensación?**
+<details><summary>Respuesta</summary>
+
+**Negativa (−0,7 a −1).** Igual que el león: fondo oscuro → la cámara aclara → lo iluminado se quema → restas.
+→ [Conceptos 1 · El gris medio](conceptos/01-la-luz.md#por-qué-la-cámara-se-equivoca-el-gris-medio) · [Manejo 9 · Charcas nocturnas](manejo-a6700/09-safari-nocturno-charcas.md)
+</details>
+
+**M5. Una cebra contra un cielo blanco nublado que llena casi todo el encuadre sale oscura. ¿Qué compensación?**
+<details><summary>Respuesta</summary>
+
+**Positiva (+).** El sujeto sale oscuro → sumas. Dejarla en 0 la deja oscura.
+→ [Conceptos 1 · El gris medio](conceptos/01-la-luz.md#por-qué-la-cámara-se-equivoca-el-gris-medio)
+</details>
+
+**M6. Un búfalo negro delante de una pared de arena blanca al sol sale oscuro, sin detalle en el pelo. ¿Qué compensación?**
+<details><summary>Respuesta</summary>
+
+**Positiva (+).** Fondo claro → la cámara oscureció → el búfalo sale negro → sumas.
+→ [Conceptos 1 · El gris medio](conceptos/01-la-luz.md#por-qué-la-cámara-se-equivoca-el-gris-medio)
+</details>
+
+### Práctica extra: enfoque y objetivos
+
+**E1. Quieres la Vía Láctea con una roca a 8 m, las dos nítidas, enfocando a las estrellas con el diafragma abierto. ¿Qué objetivo usas, el 11 mm o el Viltrox 25 mm?**
+<details><summary>Respuesta</summary>
+
+**El 11 mm.** Enfocado a las estrellas, deja nítido lo que está a más de ~4 m; el 25 mm, solo a más de ~18 m. Cuanto más larga la focal, más lejos tiene que estar el primer plano.
+→ [Manejo 5 · Enfocar el 11 mm](manejo-a6700/05-enfocar-el-11mm.md) · [Conceptos 5 · Óptica](conceptos/05-optica.md#5--la-hiperfocal-todo-nítido-de-cerca-al-infinito)
+</details>
+
+**E2. De noche, con el Viltrox 25 mm montado, C1 (`Verificac. luminosa`) no aclara la pantalla. ¿Qué cambias?**
+<details><summary>Respuesta</summary>
+
+**`Modo de enfoque` → `Enfoque man.`** en el menú. C1 solo funciona en MF, y el Viltrox no tiene interruptor AF/MF en el objetivo.
+→ [Manejo 11 · Viltrox](manejo-a6700/11-viltrox-25mm.md)
+</details>
+
+---
+
 ## Etapa 2 · Básico
 
 **1. Vas a fotografiar un atardecer. ¿Balance de blancos automático o fijo? ¿Y para las estrellas?**
