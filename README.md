@@ -7,7 +7,7 @@
 ![Sony a6700](https://img.shields.io/badge/cámara-Sony%20a6700-1D1D1F)
 ![Luminar for Desktop 1.29.x](https://img.shields.io/badge/retoque-Luminar%201.29.x-B4561C)
 ![Idioma: español](https://img.shields.io/badge/idioma-español-5F6368)
-![41 guías](https://img.shields.io/badge/guías-41-2E7D32)
+![42 guías](https://img.shields.io/badge/guías-42-2E7D32)
 ![PDF para imprimir](https://img.shields.io/badge/PDF-4%20para%20imprimir-5F6368)
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Elephants_rushing_to_water_%28Etosha%2C_2013%29.jpg/1920px-Elephants_rushing_to_water_%28Etosha%2C_2013%29.jpg" alt="Elefantes corriendo hacia una charca en Etosha" width="100%">
@@ -35,9 +35,10 @@ flowchart LR
 | Carpeta | Qué hay | Guías |
 |---|---|---|
 | [`conceptos/`](conceptos/) | Lo que vale para cualquier cámara: el modelo técnico, el histograma, el balance de blancos, la composición y la mirada | 7 |
-| [`manejo-a6700/`](manejo-a6700/) | La cámara: del móvil a la a6700, menús, diales, configuración, recetas por escenario, equipo y referencia completa de ajustes | 15 |
+| [`manejo-a6700/`](manejo-a6700/) | La cámara: del móvil a la a6700, menús, diales, configuración, recetas por escenario, equipo y referencia completa de ajustes | 16 |
 | [`retoques/`](retoques/) | La guía de Luminar en 18 capítulos, verificada con la documentación oficial de Skylum | 19 |
 | [`pdf/`](pdf/) | Las hojas imprimibles y la guía de retoques completa, maquetadas en A4 | 4 PDF |
+| [`sources/`](sources/) | Material de origen: la **edición completa en PDF** de a6700-namibia (264 páginas), con la configuración de la cámara y el anexo de verificación de menús | 1 PDF |
 
 Cada guía de conceptos y de manejo abre con su **nivel**: 🟢 **Iniciación** (nunca has manejado una cámara en serio) · 🔵 **Básico** (las recetas) · 🔴 **Avanzado** (el porqué y la foto que no es correcta, sino buena). En cada una se indica qué da por sabido y qué te desbloquea.
 
@@ -86,6 +87,7 @@ Cada guía de conceptos y de manejo abre con su **nivel**: 🟢 **Iniciación** 
 |:---:|---|---|
 | 🟢 | [**Todos los ajustes, con su ruta de menú**](manejo-a6700/ajustes-a6700.md) | La referencia única: cada ajuste con su ruta exacta y su valor para fauna y para noche, con el mapa del menú dibujado |
 | 🟢 | [**El menú completo**](manejo-a6700/menu-completo.md) | Las pestañas línea a línea: qué hace cada ajuste, tu valor y las líneas que hay que cambiar sí o sí |
+| ✅ | [**Verificación de los menús**](manejo-a6700/verificacion-de-menus.md) | La auditoría contra la Guía de ayuda de Sony: **79/79 rutas correctas**, el mapa oficial completo del menú y las 11 subopciones por confirmar con C3 |
 | 📋 | [**Chuleta**](manejo-a6700/chuleta.md) | Todas las recetas y arreglos rápidos en **una cara** ([PDF](pdf/chuleta.pdf)) |
 | ✅ | [**Verificación in situ**](manejo-a6700/verificacion-in-situ.md) | Listas de comprobación por momento del día, con el porqué de cada una, y diagnóstico de averías ([PDF](pdf/verificacion-in-situ.pdf)) |
 
@@ -146,7 +148,7 @@ flowchart LR
 
 ## 🎯 Sobre la precisión
 
-- **Manejo de la a6700:** los nombres de menú, las rutas y los datos técnicos están verificados con la [Guía de ayuda oficial de Sony](https://helpguide.sony.net/ilc/2320/v1/es/). Los menús se escriben **abreviados, como aparecen en pantalla** (`Calid. img/grab.`, `AF c/obturador`, `Rec. motivo en AF`…).
+- **Manejo de la a6700:** las guías describen **cómo está configurada la cámara**. Los nombres de menú, las rutas y los datos técnicos están verificados con la [Guía de ayuda oficial de Sony](https://helpguide.sony.net/ilc/2320/v1/es/) (edición 5-051-980-47(1), firmware 2.00): [79 de 79 rutas correctas](manejo-a6700/verificacion-de-menus.md), con 11 subopciones pendientes de confirmar en la cámara. Los menús se escriben **abreviados, como aparecen en pantalla** (`Calid. img/grab.`, `AF c/obturador`, `Rec. motivo en AF`…).
 - **Retoques:** cada herramienta y atajo de Luminar está comprobado con la [documentación de Skylum](https://support.skylum.com/). Lo que la documentación no dice, la guía lo indica en lugar de suponerlo.
 - **Valores:** las cifras de los deslizadores y de las recetas son puntos de partida, no verdades. Las [recetas de Luminar](retoques/08-recetas.md) están marcadas como provisionales hasta probarlas con fotos reales.
 

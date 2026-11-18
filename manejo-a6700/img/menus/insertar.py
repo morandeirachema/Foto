@@ -34,7 +34,7 @@ PANTALLAS = [
     ("modo-medicion.jpg",      "`Exposición/color → [Medición] → [Modo medición]`"),
     ("balance-blanco.jpg",     "`Exposición/color → [Balance blanco]` — en Kelvin"),
     ("modo-de-enfoque.jpg",    "`Enfoque → [AF/MF] → [Modo de enfoque]` — AF-C"),
-    ("af-con-disparador.jpg",  "`Enfoque → [AF/MF] → [AF con disparador]` — Desactivar (enfoque al pulgar)"),
+    ("af-c-obturador.jpg",     "`Enfoque → [AF/MF] → [AF c/obturador]` — Desactivar (enfoque al pulgar)"),
     ("sens-seguim-af.jpg",     "`Enfoque → [AF/MF] → [Sens. Seguim. AF]`"),
     ("area-de-enfoque.jpg",    "`Enfoque → [Área de enfoque] → [Área de enfoque]`"),
     ("dest-reconocim.jpg",     "`Enfoque → [Reconoc. motivo] → [Dest. reconocim.]` — Animal"),

@@ -53,7 +53,7 @@ Las **★** son las catorce imprescindibles. Si solo vas a hacer catorce, haz es
 | ☐ | Pantalla | Ruta | Nombre del archivo |
 |---|---|---|---|
 | ☐ ★ | Modo de enfoque = AF-C | `Enfoque → [AF/MF]` | `modo-de-enfoque.jpg` |
-| ☐ ★ | AF c/obturador = Desactivar | `Enfoque → [AF/MF]` | `af-con-disparador.jpg` |
+| ☐ ★ | AF c/obturador = Desactivar | `Enfoque → [AF/MF]` | `af-c-obturador.jpg` |
 | ☐ ★ | Sens. Seguim. AF | `Enfoque → [AF/MF]` | `sens-seguim-af.jpg` |
 | ☐ ★ | Área de enfoque | `Enfoque → [Área de enfoque]` | `area-de-enfoque.jpg` |
 | ☐ ★ | Dest. reconocim. = Animal | `Enfoque → [Reconoc. motivo]` | `dest-reconocim.jpg` |

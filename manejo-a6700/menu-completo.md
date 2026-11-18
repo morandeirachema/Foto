@@ -9,6 +9,10 @@ cámara con el selector en **Foto**. Cada línea lleva una frase de qué hace y
 **qué valor le das tú**. Cuando el valor es "no lo toques", es que no pinta
 nada en Namibia: puedes pasar de largo.
 
+> ✅ Las rutas de esta página pasaron una auditoría independiente el 3 de
+> noviembre de 2026: [verificación de los menús](verificacion-de-menus.md),
+> con el mapa oficial completo y las 11 subopciones que quedan por confirmar con C3.
+
 Todos los nombres están copiados de la **Guía de ayuda oficial de Sony en
 español** (auditoría de octubre de 2026, página por página). Salen
 **abreviados como en la pantalla** (`Calid. img/grab.`, `Ajust dif imgs fij/víd`):

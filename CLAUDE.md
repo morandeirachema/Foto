@@ -12,12 +12,14 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 | `manejo-a6700/` | Handling the Sony a6700: chapters 0–5, AF a fondo, `estrellas-con-tierra.md` (copied too), `enfocar-el-11mm.md` (native: focusing the SEL11F18 day and night), full settings and menu reference, field sheets | Copied from `a6700-namibia` (Nov 2026) |
 | `retoques/` | Editing **in Luminar only** (18 chapters + intro), verified against Skylum's docs | Native to this repo |
 | `pdf/` | Generated PDFs, their CSS and generator scripts | — |
+| `sources/` | Source material kept as-is: `Namibia-a6700-edicion-completa.pdf` (264 pp., a6700-namibia at `a5252c3` + Annex A menu audit) | Added by the owner |
 
 The owner's explicit scope decisions:
 - **Retoques is Luminar-only.** No darktable or Lightroom content, and no "equivalences" tables.
 - **No video content.** The video guides were deliberately left out, and the video sections of the copied files were removed. Mentions of the camera's Foto/Vídeo/S&Q selector, the MOVIE button and video-only menu lines stay, because they are needed to operate the camera.
 - From `a6700-namibia`, only concepts, composition and the camera chapters were brought over: no trip planning, no fauna or landscape guides, no Pixel, no logistics. Links in the copied files to guides that were not copied point to absolute URLs at `https://github.com/morandeirachema/a6700-namibia/blob/main/...`. Keep it that way, and don't copy those guides in unless asked. Links that used to go to `campo/edicion-basica.md` now point to `retoques/README.md`.
 - `a6700-namibia` remains its own repo and is not modified from here.
+- **`sources/Namibia-a6700-edicion-completa.pdf` is how the owner's camera is actually configured.** Its content equals a6700-namibia at `a5252c3`, the version copied here. Don't change camera values in `manejo-a6700/` unless the owner asks or the PDF says otherwise. Its Annex A (the menu audit against Sony's Guía de ayuda, edition 5-051-980-47(1), firmware 2.00) lives as `manejo-a6700/verificacion-de-menus.md`, with all five findings applied. The 11 sub-option names listed there as ❓ are still unconfirmed: don't present them as verified until the owner checks them on the camera with C3. If the camera screen ever disagrees with the repo, the screen wins.
 
 ## Commands
 

@@ -43,7 +43,13 @@ Info de campamentos: <https://www.nwr.com.na/>
    con focos LED parpadeantes el obturador electrónico puede sacar **franjas
    finas** (banding). Revisa las primeras fotos ampliadas: si aparecen, pasa
    a obturador **mecánico** (ya es discreto de por sí) — a 1/60 s el
-   parpadeo apenas se nota, y el anti-parpadeo del menú ayuda a afinar.
+   parpadeo apenas se nota, y el anti-parpadeo del menú
+   (`Toma → [Obturad./silenc.] → [Ajust. sin parpadeo]`) ayuda a afinar.
+   **Por qué el plan B es el mecánico:** según la Guía de ayuda de Sony, con
+   `Obturad. electr.` no están disponibles el flash, `RR exposic. larga`,
+   `e-Prim. cortin. obtur.`, la toma BULB ni la toma sin parpadeo — el
+   anti-parpadeo solo funciona con el mecánico
+   ([verificación de los menús](verificacion-de-menus.md)).
 3. **Prueba de color**: foto a la zona iluminada, revisa en pantalla y ajusta
    el balance de blancos en Kelvin hasta que el agua no salga naranja butano.
    Suele quedar entre 3200 y 4000 K. (El visor electrónico ya te enseña la
@@ -99,7 +105,7 @@ obturación** (1/60 → 1/40 → 1/30) — es luz gratis sin ruido.
 |---|---|
 | Oscura | Sube ISO (6400 → 12800). Una foto ruidosa se arregla; una oscura, a medias |
 | Naranja intenso | Balance de blancos en Kelvin, baja hacia 3200 K |
-| **Franjas horizontales** en la foto | Focos LED + obturador electrónico: pasa a obturador **mecánico** (paso 2) |
+| **Franjas horizontales** en la foto | Focos LED + obturador electrónico: pasa a obturador **mecánico** (paso 2). El anti-parpadeo no se puede combinar con el electrónico |
 | El animal movido, el fondo nítido | Es el animal moviéndose: espera el momento quieto o sube a 1/125 s (y el ISO con ello) |
 | Todo movido | Tocaste la cámara o vibra el trípode: temporizador 2 s y no la toques durante la toma |
 | El AF caza y suelta sin fijar | Poca luz para el AF: punto único a una zona con contraste, o enfoque manual prefijado a la orilla (paso 4) |

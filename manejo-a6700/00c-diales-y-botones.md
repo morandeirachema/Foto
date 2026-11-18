@@ -104,6 +104,7 @@ flowchart TD
     D6 --> D7["7 · Táctil: Seguimient. táct. · Ambos válidos · relativa"]
     D7 --> D8["8 · Ahora sí: MR1 y MR2 (capítulo 1)"]
     D8 --> D9(["9 · Guard./carg. ajustes → Guardar<br/>y copia el archivo al móvil"])
+```
 
 Con el selector en **Foto** y el dial en **M**:
 
