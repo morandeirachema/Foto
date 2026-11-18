@@ -19,7 +19,7 @@ En fotografía documental, de naturaleza y de viaje, la línea general es: **pue
 | Quitar polvo del sensor | Borrar collares de seguimiento o anillas |
 | Blanco y negro | Pintar un brillo en el ojo |
 
-**Las reglas exactas cambian de un concurso a otro.** Muchos concursos de naturaleza piden a los finalistas el archivo original para comprobar que no se ha alterado la escena. Lee siempre las bases antes de editar. Si dudas, guarda una **copia virtual** sin los retoques dudosos.
+**Las reglas exactas cambian de un concurso a otro.** Algunos concursos de naturaleza piden a los finalistas el archivo original para comprobar que no se ha alterado la escena. Lee siempre las bases antes de editar. Si dudas, guarda una **copia virtual** sin los retoques dudosos.
 
 ## 12.2. Herramientas que crean contenido
 

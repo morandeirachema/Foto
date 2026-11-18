@@ -8,7 +8,7 @@
 
 La mejor edición empieza en la cámara. Si disparas en JPEG, estos ajustes amplían el margen para editar en Luminar.
 
-> Los nombres de los menús cambian según la marca. Consulta el manual de tu cámara.
+> Los nombres de los menús cambian según la marca. Consulta el manual de tu cámara. Con la **Sony a6700**, la configuración completa, con las rutas de menú verificadas, está en [Manejo de la a6700](../manejo-a6700/README.md).
 
 ## 13.1. Ajustes de la cámara
 

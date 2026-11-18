@@ -28,7 +28,7 @@ Cada sección acaba en segundos; el orden importa. Imprímela junto a la
 - [ ] **Zebra 100+ activado**. *Por qué:* es tu aviso de quemados **en
   vivo**, antes de disparar — la alarma de exposición más rápida que tiene
   esta cámara.
-- [ ] **Firmware al día**: el de la cámara y el de los dos objetivos (el del
+- [ ] **Firmware al día**: el de la cámara y el de los objetivos (el Viltrox, por su USB-C; el del
   70-350 también: su dueño dio permiso; se
   actualizan con el objetivo montado, conectando la cámara al ordenador
   desde <https://www.sony.es/electronics/support>). *Por qué:* en Namibia no

@@ -29,7 +29,7 @@ Luminar **recuerda la configuración** de la última exportación. Revísala ant
 | **Seguir editando en otro programa** | TIFF | Original | — | No |
 
 - **Redes sociales:** cada red cambia a menudo sus tamaños recomendados. Consulta el actual antes de exportar.
-- **Espacio de color:** para pantallas y web, **sRGB**, que es el estándar. Un espacio más amplio no recupera colores que el JPEG original no tiene, y muchas aplicaciones lo muestran mal. Para imprimir, usa el que te pida el laboratorio.
+- **Espacio de color:** para pantallas y web, **sRGB**, que es el estándar. Un espacio más amplio no recupera colores que el JPEG original no tiene, y algunas aplicaciones y webs pueden mostrarlo con los colores apagados. Para imprimir, usa el que te pida el laboratorio.
 
 ## 11.3. Imprimir
 

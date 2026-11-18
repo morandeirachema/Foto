@@ -22,6 +22,8 @@ The owner's explicit scope decisions:
 - `a6700-namibia` remains its own repo and is not modified from here.
 - **`sources/Namibia-a6700-edicion-completa.pdf` is how the owner's camera is actually configured.** Its content equals a6700-namibia at `a5252c3`, the version copied here. Don't change camera values in `manejo-a6700/` unless the owner asks or the PDF says otherwise. Its Annex A (the menu audit against Sony's Guía de ayuda, edition 5-051-980-47(1), firmware 2.00) lives as `manejo-a6700/verificacion-de-menus.md`, with all five findings applied. The 11 sub-option names listed there as ❓ are still unconfirmed: don't present them as verified until the owner checks them on the camera with C3. If the camera screen ever disagrees with the repo, the screen wins.
 
+Each section folder has a `README.md` index (`conceptos/`, `manejo-a6700/`, `retoques/`). Keep them, and the root README's tables and guide counts, in sync when adding or removing guides.
+
 ## Commands
 
 ```sh

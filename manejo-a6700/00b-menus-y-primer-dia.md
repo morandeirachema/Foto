@@ -335,7 +335,7 @@ capítulo 1 desde cero y la guardas sabiendo exactamente qué hay dentro.
 | No encuentro un ajuste corriente | Está en el **Fn** casi seguro | Pulsa Fn antes de bucear en el menú |
 | Me pierdo cada vez que entro al menú | No has hecho tu **Mi Menú** | Diez minutos hoy, y `[Mostrar de Mi Menú] → Activar` |
 | **No dispara y no sé por qué** | Sin tarjeta · tarjeta **bloqueada (LOCK)** · tarjeta llena · buffer volcando tras una ráfaga · tapa del objetivo puesta · objetivo mal montado | Por ese orden: mira la ranura, la pestañita lateral de la SD, el hueco libre, espera unos segundos, quita la tapa, remonta el objetivo |
-| No enfoca nada de repente | El interruptor **AF/MF** del objetivo se movió en la mochila | Ponlo en AF (lo llevan los dos objetivos) |
+| No enfoca nada de repente | El interruptor **AF/MF** del objetivo se movió en la mochila | Ponlo en AF (lo llevan el 11 mm y el 70-350). El **Viltrox** no tiene interruptor: mira `Modo de enfoque` |
 | El visor se ve borroso pero las fotos salen nítidas | **Dioptrías** | La ruedecita del visor, hasta ver nítidos los números |
 | El visor no se enciende al acercar el ojo | La pantalla desplegada desactiva el sensor de ojo | Pliégala contra el cuerpo |
 | El menú está en inglés | — | `MENU → Ajustes → [Área/fecha] → [Idioma]`, y la tabla ES/EN del [capítulo 1](01-configuracion-basica.md) |

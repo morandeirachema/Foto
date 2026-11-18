@@ -52,14 +52,15 @@ principal del móvil ≈ 24 mm ≈ "1x"):
 | Móvil | Milímetros | En este viaje |
 |---|---|---|
 | Ultra gran angular (0.5x) | ~13 mm | El **11 mm** (16,5 mm equivalentes — casi lo mismo que tu 0.5x): la Vía Láctea con paisaje, y el primer plano de las dunas |
-| Principal (1x) | ~25 mm | — (ese encuadre es del móvil) |
-| 2x (recorte del principal) | ~50 mm | — (el hueco entre tus dos objetivos: lo cubre el Pixel) |
+| Principal (1x) | ~25 mm | — (el más cercano es el **Viltrox 25 mm**, algo más cerrado) |
+| 2x (recorte del principal) | ~50 mm | El **Viltrox 25 mm** (37,5 mm equivalentes) queda entre 1x y 2x: el retrato, el grupo, la calle |
 | Tele (5x) | ~113 mm | El extremo corto del **70-350** (105 mm equivalentes): el animal en su paisaje |
 | No existe en móvil | 350 mm = 525 mm equivalentes ≈ "21x" | El extremo largo del **70-350**: un león a 50 m llenando el encuadre |
 
-Fíjate en el hueco: entre 16,5 y 105 mm equivalentes tus objetivos no llegan
-— ese tramo (el retrato, el grupo, el coche en la pista) es justo donde el
-Pixel es mejor herramienta que cambiar de objetivo con polvo en el aire.
+Fíjate en el hueco: entre 16,5 y 105 mm equivalentes solo está el **Viltrox
+25 mm** (37,5 mm equivalentes, [su guía](viltrox-25mm.md)). Ese tramo (el
+retrato, el grupo, el coche en la pista) es el suyo; y cuando hay polvo en el
+aire y no quieres cambiar de objetivo, el Pixel.
 
 La lección: el tele de fauna ve cosas que tu móvil jamás ha visto. Al
 principio te costará *encontrar* al animal por el visor a 350 mm — es normal,

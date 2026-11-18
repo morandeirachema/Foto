@@ -211,10 +211,11 @@ frenan.
 - **Filtros: en este viaje no va ninguno** (decisión del 25 de octubre). El
   70-350 prestado se protege con el parasol siempre puesto, la tapa entre
   escenas y la pera antes de tocar el cristal. Por si algún día los compras,
-  el **anillo que ahorra dinero**: los dos objetivos
-  **no** comparten rosca — el 11 mm es de **55 mm** y el 70-350 de **67 mm**.
-  La solución barata es un **anillo step-up 55→67** (~8 €): compras todos los
-  filtros en 67 mm y sirven para los dos. Con eso: un **filtro protector**
+  el **anillo que ahorra dinero**: los objetivos
+  **no** comparten rosca — el 11 mm es de **55 mm**, el Viltrox de **52 mm** y
+  el 70-350 de **67 mm**. La solución barata es un **anillo step-up 55→67**
+  (~8 €), y otro 52→67 para el Viltrox: compras todos los filtros en 67 mm
+  y sirven para los tres. Con eso: un **filtro protector**
   (~25–40 €) contra el polvo de Etosha para el que lleves puesto —para astro,
   siempre sin filtro—, y si te pica el paisaje
   ([Paisaje a fondo](https://github.com/morandeirachema/a6700-namibia/blob/main/mejora/paisaje-a-fondo.md)), un **ND1000** (~25–40 €)
@@ -247,5 +248,6 @@ frenan.
 - Mercado de segunda mano de confianza: <https://www.mpb.com/>
 - Sony E 11mm F1.8 (SEL11F18), ficha oficial: <https://www.sony.es/lenses/products/sel11f18>
 - Sony E 70-350mm F4.5-6.3 G OSS (SEL70350G), ficha oficial: <https://www.sony.es/lenses/products/sel70350g>
-- Reviews de referencia de los dos objetivos (Dustin Abbott): <https://dustinabbott.net/2022/06/sony-e-11mm-f1-8-review/> · <https://dustinabbott.net/2022/05/sony-e-70-350mm-f4-5-6-3-g-oss-review/>
+- Viltrox AF 25 mm F1.7 Air, review de Digital Camera World: <https://www.digitalcameraworld.com/cameras/lenses/viltrox-af-25mm-f-1-7-air-review>
+- Reviews de referencia de los dos objetivos Sony (Dustin Abbott): <https://dustinabbott.net/2022/06/sony-e-11mm-f1-8-review/> · <https://dustinabbott.net/2022/05/sony-e-70-350mm-f4-5-6-3-g-oss-review/>
 - Soporte oficial Sony (a6700 y firmware de objetivos): <https://www.sony.es/electronics/support>

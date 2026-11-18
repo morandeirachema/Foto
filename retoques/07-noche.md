@@ -28,7 +28,7 @@ La fotografía nocturna es la que **más sufre en JPEG**: mucho ruido, sombras m
 - **Noiseless AI**, normalmente en *Middle*.
 - **Riesgo:** una reducción de ruido fuerte **borra las estrellas pequeñas** porque las confunde con ruido. Mira al 100 % y baja **Luminosity Denoise** hasta que vuelvan a verse.
 - **Color Denoise:** el ruido de color (manchas moradas y verdes) es lo que más ensucia un cielo nocturno.
-- **Apilar fotos:** si hiciste varias fotos iguales seguidas, un programa de astrofotografía puede apilarlas y reducir mucho el ruido (por ejemplo, Sequator en Windows o Starry Landscape Stacker en Mac). Luminar no apila para reducir ruido. Después terminas la edición en Luminar.
+- **Apilar fotos:** si hiciste varias fotos iguales seguidas, un programa de astrofotografía puede apilarlas y reducir mucho el ruido (por ejemplo, Sequator en Windows o Starry Landscape Stacker en Mac). Las herramientas de fusión de Luminar (HDR Merge, Panorama Stitching y Focus Stacking) no incluyen un apilado para reducir ruido. Después terminas la edición en Luminar.
 
 **2. Balance de blancos**
 - El cielo nocturno suele salir naranja (contaminación lumínica) o verdoso.

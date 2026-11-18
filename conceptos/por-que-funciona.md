@@ -126,7 +126,7 @@ objetivo: le pasa a todos por igual.
 Cuándo empieza a notarse depende del tamaño del píxel. El tuyo mide unas
 **3,8 micras** (26 Mpx en 23,3 mm de ancho), así que:
 
-- **f/5.6 – f/8**: el punto dulce. Máxima nitidez real de tus dos objetivos.
+- **f/5.6 – f/8**: el punto dulce. Máxima nitidez real de los objetivos del kit.
 - **f/11**: ya se nota si amplías al 100 %. Aceptable cuando de verdad
   necesitas la profundidad.
 - **f/16 y más allá**: pérdida clara. Ganas profundidad y pierdes detalle en
@@ -196,9 +196,9 @@ cielo uniforme no hay nada que medir, y el objetivo "caza" recorriendo todo
 el rango.
 
 Y hay un número que lo explica casi todo: la ficha de Sony da sensibilidad de
-AF **de −3 EV a +20 EV**, medida **a f/2.0**. Tu 70-350 abre a **f/6.3**: son
+AF **de −3 EV a +20 EV**, medida **a f/2.0**. El 70-350 abre a **f/6.3**: son
 algo más de **tres pasos** (3,3) menos de luz llegando al sensor. El AF que
-en el papel ve a −3 EV, con tu tele puesto se queda alrededor de **+0,3 EV** — que
+en el papel ve a −3 EV, con el tele puesto se queda alrededor de **+0,3 EV** — que
 es, exactamente, la penumbra de la charca de Okaukuejo.
 
 **Las decisiones**:
@@ -215,7 +215,7 @@ es, exactamente, la penumbra de la charca de Okaukuejo.
 
 ---
 
-## 8 · Tus dos objetivos, sin marketing
+## 8 · Los objetivos, sin marketing
 
 **Sony E 11mm F1.8** — angular luminoso, sin estabilizador propio (lo pone el
 IBIS), rosca de 55 mm.
@@ -238,6 +238,17 @@ que más vas a usar.
   menudo da un resultado igual o mejor.
 - **0,23x de ampliación máxima** a 350 mm desde 1,5 m: da para texturas y
   flores grandes. No es macro, y no lo va a ser.
+
+**Viltrox AF 25 mm F1.7 Air** — 37,5 mm equivalentes, 170 g, rosca de 52 mm,
+sin estabilizador propio y **sin interruptor AF/MF**.
+
+- Es el más luminoso de los tres: a f/1.7 entra más luz que la de la
+  medición de la ficha del AF (f/2.0), justo al revés que con el 70-350.
+- A f/1.7 y a 2 m del retratado, la zona nítida mide **unos 40 cm** (la
+  misma cuenta del punto 3): el fondo se va, pero un paso en falso también.
+- La hiperfocal pide cerrar mucho más que con el 11 mm: a f/8 se enfoca a
+  ~3,9 m y queda nítido desde ~2 m. Tabla completa y receta en
+  [su guía](../manejo-a6700/viltrox-25mm.md).
 
 ---
 

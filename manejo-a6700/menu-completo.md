@@ -193,7 +193,7 @@ de la primera foto del día: si algo no cuadra con la
 | `Aj. modo silenc.` | Silencio total de golpe: fuerza electrónico y apaga los pitidos | **Desactivar**: en la charca basta con `Tipo de obturador` |
 | `Tipo de obturador` | Mecánico (1/4000–30 s y BULB) o electrónico (1/8000–30 s, sin BULB) | **Mecánico de día**; **electrónico en la charca** (silencio absoluto). ⚠️ el electrónico desactiva BULB y `RR exposic. larga`, y con LED parpadeantes puede sacar franjas |
 | `e-Prim. cortin. obtur.` | Primera cortinilla electrónica: menos retardo | **Activar**. Desactívala solo si a 1/4000 con el 11 mm a f/1.8 ves el bokeh recortado |
-| `Liber. sin objetivo` | Disparar sin objetivo montado | **Inhabilitar** (tus dos objetivos tienen contactos) |
+| `Liber. sin objetivo` | Disparar sin objetivo montado | **Inhabilitar** (los tres objetivos tienen contactos) |
 | `Liberar sin tarj. mem.` | Disparar sin tarjeta (la foto no se guarda) | **Inhabilitar** ⚠️ Sony lo trae habilitado |
 | `Ajust. sin parpadeo` | Reduce las franjas de luces artificiales (solo con obturador mecánico) | **Desactivar**; en la charca, si pasas a mecánico por las franjas, actívalo |
 
@@ -202,7 +202,7 @@ de la primera foto del día: si algo no cuadra con la
 | Ajuste | Qué hace | Tu valor |
 |---|---|---|
 | `SteadyShot` (foto) | El estabilizador del sensor | **Activar** a pulso, **Desactivar** en trípode. Con el 70-350 **manda su interruptor OSS**: la cámara obedece al objetivo |
-| `Adaptac. SteadyS.` | Focal automática o manual | **Automático** (los dos objetivos informan de su focal) |
+| `Adaptac. SteadyS.` | Focal automática o manual | **Automático** (los Sony informan de su focal; con el Viltrox, comprueba una vez que la foto dice 25 mm) |
 | `Distanc. focal` | La focal para el modo manual | No lo toques |
 
 ### [Zoom]

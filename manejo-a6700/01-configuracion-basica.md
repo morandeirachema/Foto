@@ -23,6 +23,8 @@ dos objetivos también tienen firmware, y al ser Sony se actualizan **con el
 objetivo montado en la cámara**, conectándola al ordenador por USB con el
 actualizador de la misma web de soporte (busca "SEL11F18" y "SEL70350G").
 El 70-350 es **prestado**: su dueño ya dio permiso para actualizar el suyo.
+El **Viltrox 25 mm** no se actualiza desde Sony: tiene un puerto **USB-C** en
+la montura para su firmware ([su guía](viltrox-25mm.md)).
 Hazlo en casa, con todo cargado, y no vuelvas a pensar en ello.
 
 ## Ajustes generales recomendados
@@ -37,7 +39,7 @@ Hazlo en casa, con todo cargado, y no vuelvas a pensar en ello.
 | `Liberar sin tarj. mem.` | **Inhabilitar** | De fábrica la cámara dispara sin tarjeta y no guarda nada |
 | `Iluminador AF` | **Desactivar** | Su luz naranja espanta a los animales de la charca |
 | DRO (optimizador de rango dinámico) | OFF | No toca el RAW, pero maquilla el JPEG y el histograma — engaña justo a lo que usas para exponer |
-| `SteadyShot` | **Activar** | Los dos objetivos son Sony con contactos: la cámara sabe la focal sola (`Ajuste SteadyShot` en Auto). En trípode, **Desactivar** |
+| `SteadyShot` | **Activar** | Los Sony informan de su focal a la cámara; el Viltrox también es un objetivo con contactos (comprueba una vez que la información de una foto dice 25 mm) (`Ajuste SteadyShot` en Auto). En trípode, **Desactivar** |
 | Efecto de ajustes en visor/pantalla | ON | Ver la exposición real antes de disparar |
 
 ## Enfoque con el pulgar (back-button focus)

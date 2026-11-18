@@ -2,7 +2,7 @@
 
 > 🟢 **Iniciación** · Da por sabido: el [capítulo 0.5](00b-menus-y-primer-dia.md) (cómo se entra en MENU y se vuelve atrás) · Te desbloquea: fotos nítidas con el Sony E 11 mm F1.8 en cualquier situación, y estrellas como puntos y no como bolas.
 
-**Qué resuelve.** El 11 mm enfoca solo de día sin que tengas que pensar. El problema llega de noche: el autofoco no engancha las estrellas, y el anillo de enfoque es **electrónico**, así que girarlo hasta el final **no** te deja en infinito. Hay que enfocar **mirando**, con la lupa y el *peaking*. Esta guía lo deja configurado una vez y te da tres métodos: de día, a una estrella y a una luz lejana cuando no hay estrellas brillantes. Al final hay un ejercicio para hacer **esta misma noche** desde casa.
+**Qué resuelve.** El 11 mm enfoca solo de día sin que tengas que pensar. El problema llega de noche: el autofoco no engancha las estrellas, y el anillo de enfoque es **electrónico**, así que girarlo hasta el final **no garantiza** el infinito. Hay que enfocar **mirando**, con la lupa y el *peaking*. Esta guía lo deja configurado una vez y te da tres métodos: de día, a una estrella y a una luz lejana cuando no hay estrellas brillantes. Al final hay un ejercicio para hacer **esta misma noche** desde casa.
 
 ## Receta rápida
 
@@ -18,7 +18,7 @@
 
 - **Interruptor AF/MF en el barrilete.** **Manda** sobre el `Modo de enfoque` del menú: si la cámara "no enfoca" o "no me deja enfocar a mano", mira primero el interruptor ([diales y botones](00c-diales-y-botones.md)).
 - **Botón de retención de foco** en el barrilete (de fábrica, `Retención enfoque`): mientras lo pulsas, el foco no se mueve.
-- **Anillo de enfoque electrónico.** No tiene tope en el infinito y no "recuerda" un sitio fijo. La cinta adhesiva evita que lo gires sin querer, pero **no bloquea el foco**. Si cambias la batería o la cámara se apaga sola, compruébalo otra vez con la lupa (5 segundos).
+- **Anillo de enfoque electrónico.** Girarlo hasta el final no garantiza estar en el infinito: hay que enfocar mirando. La cinta adhesiva evita que lo gires sin querer, pero **no bloquea el foco**. Si cambias la batería o la cámara se apaga sola, compruébalo otra vez con la lupa (5 segundos).
 - **Sin estabilizador en el objetivo:** lo pone el IBIS de la cámara. En trípode, **SteadyShot OFF**.
 - **f/1.8** de apertura máxima, que se pone con la rueda de la cámara. Si las estrellas de las esquinas salen con "alitas", cierra a f/2.8 ([capítulo 2](02-astrofotografia-namibia.md)).
 

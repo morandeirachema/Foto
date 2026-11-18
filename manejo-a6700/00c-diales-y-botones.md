@@ -191,17 +191,18 @@ para la pantalla (`Solo pant. táctil`).
 
 ## Los mandos de los objetivos
 
-| | 11 mm F1.8 | 70-350 G OSS |
-|---|---|---|
-| Interruptor **AF/MF** | Sí | Sí |
-| **Botón de retención de foco** | Sí | Sí |
-| Interruptor **OSS** (estabilizador) | No (lo pone el cuerpo) | Sí: **ON/OFF** |
-| **Bloqueo de zoom** | — | Sí, solo a 70 mm |
+| | 11 mm F1.8 | 70-350 G OSS (prestado) | Viltrox 25 mm F1.7 |
+|---|---|---|---|
+| Interruptor **AF/MF** | Sí | Sí | **No**: MF desde `Modo de enfoque` |
+| **Botón de retención de foco** | Sí | Sí | No |
+| Interruptor **OSS** (estabilizador) | No (lo pone el cuerpo) | Sí: **ON/OFF** | No (lo pone el cuerpo) |
+| **Bloqueo de zoom** | — | Sí, solo a 70 mm | — |
 
 Dos reglas que se olvidan: **el interruptor AF/MF del objetivo manda** sobre
 el `Modo de enfoque` del menú, y con el 70-350 **el OSS del objetivo manda**
 sobre el `SteadyShot` del menú. Si "la cámara no enfoca" o "el estabilizador
-no se apaga", mira primero el barrilete. El botón de retención es
+no se apaga", mira primero el barrilete. Con el **Viltrox** no hay
+interruptor: manda el menú ([su guía](viltrox-25mm.md)). El botón de retención es
 reasignable desde `Ajuste t. pers./dial`, pero la asignación es de la
 cámara, no del objetivo: vale para los dos a la vez. Déjalo como viene.
 

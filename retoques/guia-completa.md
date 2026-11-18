@@ -808,7 +808,7 @@ La fotografía nocturna es la que **más sufre en JPEG**: mucho ruido, sombras m
 - **Noiseless AI**, normalmente en *Middle*.
 - **Riesgo:** una reducción de ruido fuerte **borra las estrellas pequeñas** porque las confunde con ruido. Mira al 100 % y baja **Luminosity Denoise** hasta que vuelvan a verse.
 - **Color Denoise:** el ruido de color (manchas moradas y verdes) es lo que más ensucia un cielo nocturno.
-- **Apilar fotos:** si hiciste varias fotos iguales seguidas, un programa de astrofotografía puede apilarlas y reducir mucho el ruido (por ejemplo, Sequator en Windows o Starry Landscape Stacker en Mac). Luminar no apila para reducir ruido. Después terminas la edición en Luminar.
+- **Apilar fotos:** si hiciste varias fotos iguales seguidas, un programa de astrofotografía puede apilarlas y reducir mucho el ruido (por ejemplo, Sequator en Windows o Starry Landscape Stacker en Mac). Las herramientas de fusión de Luminar (HDR Merge, Panorama Stitching y Focus Stacking) no incluyen un apilado para reducir ruido. Después terminas la edición en Luminar.
 
 **2. Balance de blancos**
 - El cielo nocturno suele salir naranja (contaminación lumínica) o verdoso.
@@ -1092,7 +1092,7 @@ Luminar **recuerda la configuración** de la última exportación. Revísala ant
 | **Seguir editando en otro programa** | TIFF | Original | — | No |
 
 - **Redes sociales:** cada red cambia a menudo sus tamaños recomendados. Consulta el actual antes de exportar.
-- **Espacio de color:** para pantallas y web, **sRGB**, que es el estándar. Un espacio más amplio no recupera colores que el JPEG original no tiene, y muchas aplicaciones lo muestran mal. Para imprimir, usa el que te pida el laboratorio.
+- **Espacio de color:** para pantallas y web, **sRGB**, que es el estándar. Un espacio más amplio no recupera colores que el JPEG original no tiene, y algunas aplicaciones y webs pueden mostrarlo con los colores apagados. Para imprimir, usa el que te pida el laboratorio.
 
 ## 11.3. Imprimir
 
@@ -1134,7 +1134,7 @@ En fotografía documental, de naturaleza y de viaje, la línea general es: **pue
 | Quitar polvo del sensor | Borrar collares de seguimiento o anillas |
 | Blanco y negro | Pintar un brillo en el ojo |
 
-**Las reglas exactas cambian de un concurso a otro.** Muchos concursos de naturaleza piden a los finalistas el archivo original para comprobar que no se ha alterado la escena. Lee siempre las bases antes de editar. Si dudas, guarda una **copia virtual** sin los retoques dudosos.
+**Las reglas exactas cambian de un concurso a otro.** Algunos concursos de naturaleza piden a los finalistas el archivo original para comprobar que no se ha alterado la escena. Lee siempre las bases antes de editar. Si dudas, guarda una **copia virtual** sin los retoques dudosos.
 
 ## 12.2. Herramientas que crean contenido
 
@@ -1163,7 +1163,7 @@ Muchas cámaras y todos los móviles guardan la **ubicación GPS** en el archivo
 
 La mejor edición empieza en la cámara. Si disparas en JPEG, estos ajustes amplían el margen para editar en Luminar.
 
-> Los nombres de los menús cambian según la marca. Consulta el manual de tu cámara.
+> Los nombres de los menús cambian según la marca. Consulta el manual de tu cámara. Con la **Sony a6700**, la configuración completa, con las rutas de menú verificadas, está en [Manejo de la a6700](../manejo-a6700/README.md).
 
 ## 13.1. Ajustes de la cámara
 
