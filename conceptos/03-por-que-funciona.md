@@ -1,6 +1,12 @@
-# Por qué funciona — el modelo que hay detrás de las recetas
+<!-- nav -->
+[← Anterior](02-balance-de-blancos.md) · [Índice](README.md) · [Siguiente →](04-atlas-de-encuadres.md)
+<!-- /nav -->
 
-> 🔴 **Avanzado** · Da por sabido: los capítulos 0 a 5 y haber disparado unas cuantas tardes · Te desbloquea: inventar **tu** receta cuando la escena no está en ninguna tabla.
+*Parte I · La luz y la exposición*
+
+# 3. Por qué funciona — el modelo que hay detrás de las recetas
+
+> 🔴 **Avanzado** · Da por sabido: los capítulos 1 a 10 y haber disparado unas cuantas tardes · Te desbloquea: inventar **tu** receta cuando la escena no está en ninguna tabla.
 
 Todo el repo hasta aquí te da recetas: números que funcionan, comprobados,
 para las situaciones que vas a encontrar. Funcionan porque debajo hay un
@@ -66,7 +72,7 @@ borde**. En la práctica de este viaje:
   si parpadea sobre algo que debe tener detalle, baja.
 - Un animal oscuro sobre fondo claro no es un problema de exposición: es un
   problema de **medición** (medición puntual vinculada al punto de enfoque,
-  [AF y exposición a fondo](../manejo-a6700/af-y-exposicion-a-fondo.md)).
+  [AF y exposición a fondo](../manejo-a6700/12-af-y-exposicion-a-fondo.md)).
 - **Dónde NO se aplica**: en astro no hay derecha a la que exponer — el cielo
   es oscuro de verdad. Ahí la montaña del histograma va en el **primer
   tercio**, separada del borde izquierdo, y punto.
@@ -181,7 +187,7 @@ levantar la exposición después en el revelado dan casi el mismo resultado.
   entre quemar la orilla iluminada o dejar la foto un poco oscura: **déjala
   oscura y levántala en revelado**. Lo quemado no vuelve; el ruido que añades
   al levantar es pequeño y la reducción por IA se lo come.
-- Y antes de cruzar ningún techo de ISO, el orden del [capítulo 4](../manejo-a6700/04-safari-nocturno-charcas.md)
+- Y antes de cruzar ningún techo de ISO, el orden del [capítulo 9](../manejo-a6700/09-safari-nocturno-charcas.md)
   sigue mandando: con trípode y animal quieto, **baja la obturación primero**.
   Eso es luz gratis; el ISO nunca lo es.
 
@@ -205,7 +211,7 @@ es, exactamente, la penumbra de la charca de Okaukuejo.
 
 - En la charca, no es que el AF "falle": es que está fuera de su rango.
   **Punto único sobre una zona iluminada y con borde**, o enfoque manual
-  prefijado a la orilla. Las dos cosas que dice el capítulo 4, ahora con el
+  prefijado a la orilla. Las dos cosas que dice el capítulo 9, ahora con el
   porqué.
 - Con el 11 mm (f/1.8) el AF ve muchísimo mejor, pero en astro tampoco hay
   contraste: por eso ahí siempre es **manual con lupa y peaking**.
@@ -224,7 +230,7 @@ IBIS), rosca de 55 mm.
   sufre** en astro: las estrellas del borde pueden salir con "alitas" (coma).
   Si te pasa, cierra a **f/2.2–f/2.8** y sube el ISO un paso: pierdes menos
   que ganas. Compruébalo en casa con la prueba de punto de luz de la
-  [hoja de verificación](../manejo-a6700/verificacion-in-situ.md), no en Namibia.
+  [hoja de verificación](../manejo-a6700/17-verificacion-in-situ.md), no en Namibia.
 - Para paisaje, f/8 con la hiperfocal de la tabla del punto 3.
 
 **Sony E 70-350mm F4.5-6.3 G OSS** — 105–525 mm equivalentes, y el objetivo
@@ -248,7 +254,7 @@ sin estabilizador propio y **sin interruptor AF/MF**.
   misma cuenta del punto 3): el fondo se va, pero un paso en falso también.
 - La hiperfocal pide cerrar mucho más que con el 11 mm: a f/8 se enfoca a
   ~3,9 m y queda nítido desde ~2 m. Tabla completa y receta en
-  [su guía](../manejo-a6700/viltrox-25mm.md).
+  [su guía](../manejo-a6700/11-viltrox-25mm.md).
 
 ---
 
@@ -287,3 +293,7 @@ sin estabilizador propio y **sin interruptor AF/MF**.
 - Prueba de invarianza ISO de la a6700 hecha por usuarios (foro DPReview): <https://www.dpreview.com/forums/threads/a6700-iso-invariance-test.4740029/>
 - Review de referencia del Sony E 70-350mm G OSS (Dustin Abbott): <https://dustinabbott.net/2022/05/sony-e-70-350mm-f4-5-6-3-g-oss-review/>
 - Ficha oficial del Sony E 11mm F1.8: <https://www.sony.es/lenses/products/sel11f18>
+
+<!-- nav -->
+[← Anterior](02-balance-de-blancos.md) · [Índice](README.md) · [Siguiente →](04-atlas-de-encuadres.md)
+<!-- /nav -->

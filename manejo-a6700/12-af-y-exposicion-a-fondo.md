@@ -1,8 +1,14 @@
-# El AF y la exposición a fondo — la máquina, a tu medida
+<!-- nav -->
+[← Anterior](11-viltrox-25mm.md) · [Índice](README.md) · [Siguiente →](13-ajustes-a6700.md)
+<!-- /nav -->
 
-> 🔴 **Avanzado** · Da por sabido: [capítulo 1](01-configuracion-basica.md) y [capítulo 3](03-safari-diurno.md) · Te desbloquea: sacarle a la cámara lo que la receta base deja sobre la mesa.
+*Parte III · Equipo y objetivos*
 
-Las recetas del capítulo 3 funcionan siempre y por eso son la base. Esto es
+# 12. El AF y la exposición a fondo — la máquina, a tu medida
+
+> 🔴 **Avanzado** · Da por sabido: [capítulo 4](04-configuracion-basica.md) y [capítulo 8](08-safari-diurno.md) · Te desbloquea: sacarle a la cámara lo que la receta base deja sobre la mesa.
+
+Las recetas del capítulo 8 funcionan siempre y por eso son la base. Esto es
 lo que hay **por encima**: los tres mandos del autofoco que casi nadie toca,
 la medición ligada al punto de enfoque, una botonera pensada para no apartar
 el ojo del visor y los límites reales del 70-350. Todo verificado contra el
@@ -10,9 +16,9 @@ Help Guide oficial de la a6700 y la práctica de especialistas de safari y
 aves.
 
 **El resto del nivel avanzado**: el porqué de todo esto está en
-[por qué funciona](../conceptos/por-que-funciona.md); lo creativo, en
+[por qué funciona](../conceptos/03-por-que-funciona.md); lo creativo, en
 [safari a fondo](https://github.com/morandeirachema/a6700-namibia/blob/main/mejora/safari-a-fondo.md); el astro avanzado se mudó a
-[estrellas con la tierra dentro](estrellas-con-tierra.md) y el paisaje de
+[estrellas con la tierra dentro](07-estrellas-con-tierra.md) y el paisaje de
 los maestros, a [paisaje a fondo](https://github.com/morandeirachema/a6700-namibia/blob/main/mejora/paisaje-a-fondo.md).
 
 ## Safari avanzado
@@ -24,7 +30,7 @@ saber cuál tocar en cada escena (los tres viven en la pestaña **Enfoque**
 del menú; mételos en **Mi Menú** con
 `MENU → Mi Menú → [Ajuste Mi Menú] → [Añadir elemento]`, y pon
 `[Mostrar de Mi Menú] → Activar` para que MENU los abra directamente —
-[capítulo 0.5](00b-menus-y-primer-dia.md)):
+[capítulo 2](02-menus-y-primer-dia.md)):
 
 - **Sens. Seguim. AF** (`Enfoque → [AF/MF]`; 1 fija … 5 reactiva): qué hace el AF si algo se
   cruza o el sujeto se tapa un instante. Baja = "aguanta con el sujeto
@@ -70,7 +76,7 @@ El metaconsejo: no memorices combinaciones — mete estos tres ajustes en
 ### Botonera de francotirador
 
 - **AF-ON al pulgar**: enfoque separado del disparador
-  ([capítulo 1](01-configuracion-basica.md)) — para esperar el
+  ([capítulo 4](04-configuracion-basica.md)) — para esperar el
   momento sin que la cámara reenfoque al arbusto.
 - **Un botón custom = `Verificac. luminosa`** (*Bright Monitoring* en
   inglés): asignado desde la personalización de botones, amplifica el visor en plena oscuridad — tu botón de "ver la
@@ -89,7 +95,7 @@ El metaconsejo: no memorices combinaciones — mete estos tres ajustes en
 - **MR3 = preajuste de vuelo**: guarda 1/2500 · apertura mínima · ISO Auto ·
   reconocimiento **Ave** · área Zona · Sens. Seguim. 3 · ráfaga Hi+ — un
   giro de dial y estás en modo "despegue". Se guarda igual que MR1 y MR2
-  ([las tres memorias](ajustes-a6700.md#las-tres-memorias-del-dial)).
+  ([las tres memorias](13-ajustes-a6700.md#las-tres-memorias-del-dial)).
 - **Valoración con estrellas** en la revisión de cada noche: marca ★ los
   aciertos y el cribado en casa empieza hecho.
 
@@ -97,7 +103,7 @@ El metaconsejo: no memorices combinaciones — mete estos tres ajustes en
 
 - **Punto dulce**: es un objetivo de la serie G y a 350 mm es usable a plena
   apertura (f/6.3), aunque ahí está su punto más blando: si el animal lo
-  permite, encuadra a ~300 mm y recorta ([por qué funciona](../conceptos/por-que-funciona.md)).
+  permite, encuadra a ~300 mm y recorta ([por qué funciona](../conceptos/03-por-que-funciona.md)).
   Con el sol alto y el ISO sobrado, cerrar a **f/7.1–f/8** afina un poco los
   bordes. Regla: nunca compres f/8 pagándolo con
   obturación insuficiente o ISO ruidoso.
@@ -162,3 +168,7 @@ sabes decir en una frase cuándo bajas la sensibilidad a 1 y cuándo la subes.
 - Apilar las Nubes de Magallanes sin seguimiento (Ian Morison): <https://www.ianmorison.com/imaging-the-magellanic-clouds-without-a-tracking-mount/>
 - Entrevista a Marsel van Oosten (previsualización y composición): <https://www.photocascadia.com/an-interview-with-marsel-van-oosten-from-adrian-klein/>
 - La imagen de Deadvlei de Lanting, contada por Nat Geo: <https://www.nationalgeographic.com/magazine/article/frans-lanting-behind-the-photo>
+
+<!-- nav -->
+[← Anterior](11-viltrox-25mm.md) · [Índice](README.md) · [Siguiente →](13-ajustes-a6700.md)
+<!-- /nav -->

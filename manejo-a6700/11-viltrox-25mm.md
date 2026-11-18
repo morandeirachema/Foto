@@ -1,6 +1,12 @@
-# El Viltrox AF 25 mm F1.7 Air — el objetivo "normal" del kit
+<!-- nav -->
+[← Anterior](10-equipo-accesorios.md) · [Índice](README.md) · [Siguiente →](12-af-y-exposicion-a-fondo.md)
+<!-- /nav -->
 
-> 🔵 **Básico** · Da por sabido: el [capítulo 1](01-configuracion-basica.md) y [Enfocar el 11 mm](enfocar-el-11mm.md) (la lupa y el *peaking*) · Te desbloquea: el hueco entre el 11 mm y el 70-350 (retrato, calle, interiores y poca luz) y saber manejar un objetivo **sin interruptor AF/MF**.
+*Parte III · Equipo y objetivos*
+
+# 11. El Viltrox AF 25 mm F1.7 Air — el objetivo "normal" del kit
+
+> 🔵 **Básico** · Da por sabido: el [capítulo 4](04-configuracion-basica.md) y [Enfocar el 11 mm](05-enfocar-el-11mm.md) (la lupa y el *peaking*) · Te desbloquea: el hueco entre el 11 mm y el 70-350 (retrato, calle, interiores y poca luz) y saber manejar un objetivo **sin interruptor AF/MF**.
 
 **Qué resuelve.** Con el 11 mm (16,5 mm equivalentes) y el 70-350 prestado (105–525 mm equivalentes) queda un hueco justo donde vive la fotografía de viaje "a la altura de los ojos": personas, calles, mesas, interiores. El Viltrox 25 mm F1.7 lo cubre: **37,5 mm equivalentes**, mucha luz (f/1.7) y 170 g. La diferencia práctica con los dos Sony del kit (tu 11 mm y el 70-350 **prestado**) es una: **no tiene interruptor AF/MF**. El enfoque manual se elige **en la cámara**, y eso cambia la noche.
 
@@ -39,14 +45,14 @@ Con el 11 mm y el 70-350, el interruptor del barrilete **manda** sobre el menú.
 
 - **Pasar a MF:** `Enfoque → [AF/MF] → [Modo de enfoque]` → **`Enfoque man.`** Es lo que tienes que hacer de noche: `Verificac. luminosa` (C1) **solo funciona en MF**.
 - **Volver a AF:** el mismo sitio → `AF continuo` (AF-C) o `AF toma sencilla` (AF-S).
-- **Más rápido, con un botón:** asigna **`Alter. select. AF/MF`** (alterna AF y MF con cada pulsación) o **`Reten. select. AF/MF`** (MF solo mientras mantienes pulsado) a un botón libre, en `Ajustes → [Personal. operac.] → [Ajuste t. pers./dial]`. Ambos nombres están verificados ([verificación de los menús](verificacion-de-menus.md)). C1 y C3 ya están ocupados por la botonera del repo ([diales y botones](00c-diales-y-botones.md)), así que elige otro.
+- **Más rápido, con un botón:** asigna **`Alter. select. AF/MF`** (alterna AF y MF con cada pulsación) o **`Reten. select. AF/MF`** (MF solo mientras mantienes pulsado) a un botón libre, en `Ajustes → [Personal. operac.] → [Ajuste t. pers./dial]`. Ambos nombres están verificados ([verificación de los menús](15-verificacion-de-menus.md)). C1 y C3 ya están ocupados por la botonera del repo ([diales y botones](03-diales-y-botones.md)), así que elige otro.
 - **Al volver a un Sony**, recuerda que su interruptor vuelve a mandar. Si la cámara "no enfoca" tras cambiar de objetivo, mira primero el interruptor del Sony y luego `Modo de enfoque`.
 
 > **Ojo con MR2.** La receta de astro (MR2) está pensada para el 11 mm, que pasa a MF con su interruptor. Con el Viltrox montado, al cargar MR2 comprueba en pantalla que la cámara está de verdad en MF; si no, pon `Modo de enfoque` en `Enfoque man.`.
 
 ## El enfoque, situación a situación
 
-**De día:** igual que con cualquier objetivo. Enfoque con el pulgar (**AF-ON**, [enfocar el 11 mm](enfocar-el-11mm.md)) y el reconocimiento de motivo: `Humano` para personas, `Animal` o `Ave` para fauna. La review de Digital Camera World describe el AF como "no especialmente rápido, pero suficiente" y preciso de forma constante. Para acción rápida (niños o animales corriendo), pruébalo antes de fiarte.
+**De día:** igual que con cualquier objetivo. Enfoque con el pulgar (**AF-ON**, [enfocar el 11 mm](05-enfocar-el-11mm.md)) y el reconocimiento de motivo: `Humano` para personas, `Animal` o `Ave` para fauna. La review de Digital Camera World describe el AF como "no especialmente rápido, pero suficiente" y preciso de forma constante. Para acción rápida (niños o animales corriendo), pruébalo antes de fiarte.
 
 **Hiperfocal** (con el mismo círculo de confusión que el resto del repo): con 25 mm hace falta cerrar mucho más que con el 11 mm para tener todo nítido.
 
@@ -58,7 +64,7 @@ Con el 11 mm y el 70-350, el interruptor del barrilete **manda** sobre el menú.
 
 Para un primer plano a menos de ~2 m y el fondo nítido a la vez, el objetivo es el **11 mm**, no este.
 
-**De noche, a las estrellas:** el mismo método que con el 11 mm ([enfocar el 11 mm](enfocar-el-11mm.md), método 2), con una diferencia: **pon `Modo de enfoque` en `Enfoque man.`** antes de nada (no hay interruptor). El anillo es electrónico: girarlo hasta el final tampoco garantiza el infinito, y tras apagar la cámara hay que comprobar el foco con la lupa.
+**De noche, a las estrellas:** el mismo método que con el 11 mm ([enfocar el 11 mm](05-enfocar-el-11mm.md), método 2), con una diferencia: **pon `Modo de enfoque` en `Enfoque man.`** antes de nada (no hay interruptor). El anillo es electrónico: girarlo hasta el final tampoco garantiza el infinito, y tras apagar la cámara hay que comprobar el foco con la lupa.
 
 **Un primer plano bajo las estrellas tiene que estar más lejos.** Enfocado a las estrellas a f/1.7, el 25 mm solo deja nítido lo que está a **más de ~18 m** (con el 11 mm bastaban ~4 m). Un árbol a 10 m saldrá blando: aléjate, o usa el 11 mm para las postales con silueta.
 
@@ -93,3 +99,7 @@ Para un primer plano a menos de ~2 m y el fondo nítido a la vez, el objetivo es
 - Ficha en B&H: <https://www.bhphotovideo.com/c/product/1876138-REG/viltrox_af_25_1_7_e_af_25mm_f_1_7_e.html/overview>
 - Profundidad de campo e hiperfocal, con calculadora: <https://www.dofmaster.com/dofjs.html>
 - Guía de ayuda a6700, `Modo de enfoque` y asignación de AF/MF: <https://helpguide.sony.net/ilc/2320/v1/es/>
+
+<!-- nav -->
+[← Anterior](10-equipo-accesorios.md) · [Índice](README.md) · [Siguiente →](12-af-y-exposicion-a-fondo.md)
+<!-- /nav -->

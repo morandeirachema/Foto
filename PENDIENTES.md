@@ -6,14 +6,14 @@ Cosas que el repo **no puede verificar por sí solo**: hacen falta tu cámara, t
 
 Las fotos de Namibia salieron **solo en JPEG** por un error de configuración. Antes de la próxima salida:
 
-- [ ] `Toma → [Calid. img/grab.] → [Formato archivo]` = **RAW**, con `Tipo archivo RAW` = comprimido sin pérdida ([configuración básica](manejo-a6700/01-configuracion-basica.md)).
+- [ ] `Toma → [Calid. img/grab.] → [Formato archivo]` = **RAW**, con `Tipo archivo RAW` = comprimido sin pérdida ([configuración básica](manejo-a6700/04-configuracion-basica.md)).
 - [ ] Carga **MR1** y comprueba otra vez el formato. Haz lo mismo con **MR2**. Si alguna vuelve a JPEG, pon RAW y **vuelve a guardar esa memoria** (`Toma → [Modo de toma] → [Mem. ajustes cám]`).
 - [ ] Foto de prueba → al ordenador: tiene que haber un archivo **`.ARW`**.
 - [ ] Si quieres saber **qué falló** en Namibia: abre una foto del viaje en la cámara o en el ordenador y anota qué formato y qué tamaño tiene. Así sabremos si fue el formato, una memoria o un reinicio de ajustes.
 
 ## 2 · La cámara: 11 nombres de menú por confirmar
 
-La auditoría confirmó las 79 rutas, pero estos nombres no se pudieron localizar ([verificación de los menús](manejo-a6700/verificacion-de-menus.md)). Ponte sobre cada línea y pulsa **C3**: la Guía en la cámara muestra el nombre oficial.
+La auditoría confirmó las 79 rutas, pero estos nombres no se pudieron localizar ([verificación de los menús](manejo-a6700/15-verificacion-de-menus.md)). Ponte sobre cada línea y pulsa **C3**: la Guía en la cámara muestra el nombre oficial.
 
 - [ ] `Tem.col./filtro` (dentro de `Balance blanco`)
 - [ ] `Cuadr. regl. terc.`
@@ -29,7 +29,7 @@ La auditoría confirmó las 79 rutas, pero estos nombres no se pudieron localiza
 
 ## 3 · El Viltrox 25 mm
 
-- [ ] ¿Es el **AF 25 mm F1.7 Air**? Lo pone en el barrilete o en la caja. Si es otro modelo, la ficha de [su guía](manejo-a6700/viltrox-25mm.md) puede cambiar.
+- [ ] ¿Es el **AF 25 mm F1.7 Air**? Lo pone en el barrilete o en la caja. Si es otro modelo, la ficha de [su guía](manejo-a6700/11-viltrox-25mm.md) puede cambiar.
 - [ ] Haz una foto y mira su información: ¿dice **25 mm** de focal? (Para el estabilizador y para los datos de la foto.)
 - [ ] **Firmware:** anota la versión instalada y compárala con la última de la web de Viltrox.
 - [ ] Asigna **`Alter. select. AF/MF`** a un botón libre (no C1 ni C3) y anota cuál: lo pongo en la guía.
@@ -56,7 +56,7 @@ Las [recetas completas](retoques/08-recetas.md) están marcadas como provisional
 ## 6 · El equipo y el estado del repo
 
 - [ ] **El 70-350 prestado**: ¿lo sigues teniendo o ya lo devolviste? Si ya no está, ajusto las guías para que no cuenten con él.
-- [ ] El estado del equipo de [equipo y accesorios](manejo-a6700/05-equipo-accesorios.md) es del **25 de octubre**. ¿Ha cambiado algo?
+- [ ] El estado del equipo de [equipo y accesorios](manejo-a6700/10-equipo-accesorios.md) es del **25 de octubre**. ¿Ha cambiado algo?
 - [ ] **Capturas de los menús:** el [guion](manejo-a6700/img/menus/) tiene 14 imprescindibles (marcadas ★). Hazlas con el móvil y ejecuta `python3 manejo-a6700/img/menus/insertar.py`.
 - [ ] En **macOS Vista Previa**: comprueba que la ruta para quitar la ubicación de una foto es la de [retoques, 12.3](retoques/12-etica.md) (Herramientas → Mostrar inspector → ubicación).
 
@@ -64,5 +64,5 @@ Las [recetas completas](retoques/08-recetas.md) están marcadas como provisional
 
 - [ ] ¿Traigo las guías **"después del viaje"** de a6700-namibia (el archivo y la selección: copias 3-2-1, criba en dos pasadas, las 20 finales)?
 - [ ] ¿Escribo un capítulo de **Luminar con RAW** para las próximas salidas? (Depende de la comprobación de la sección 4.)
-- [ ] ¿Añado el **Viltrox** a la [chuleta](manejo-a6700/chuleta.md)? Tiene que seguir cabiendo en una cara.
+- [ ] ¿Añado el **Viltrox** a la [chuleta](manejo-a6700/16-chuleta.md)? Tiene que seguir cabiendo en una cara.
 - [ ] Hay 81 enlaces que llevan a **a6700-namibia** para guías no copiadas. ¿Mantienes ese repo publicado, o traigo lo que te interese?

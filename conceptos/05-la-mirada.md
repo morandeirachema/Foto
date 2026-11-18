@@ -1,8 +1,14 @@
-# La mirada — cómo piensan los que hacen las fotos que te gustan
+<!-- nav -->
+[← Anterior](04-atlas-de-encuadres.md) · [Índice](README.md) · [Siguiente →](06-cuaderno-de-composicion.md)
+<!-- /nav -->
 
-> 🔴 **Avanzado** · Da por sabido: los capítulos 0 a 5 · Te desbloquea: decidir tú dónde ponerte y qué esperar, en vez de reaccionar a lo que aparezca.
+*Parte II · La composición y la mirada*
 
-Los capítulos 0–5 hacen que la foto salga **bien**. Esta guía va de que salga
+# 5. La mirada — cómo piensan los que hacen las fotos que te gustan
+
+> 🔴 **Avanzado** · Da por sabido: los capítulos 1 a 10 · Te desbloquea: decidir tú dónde ponerte y qué esperar, en vez de reaccionar a lo que aparezca.
+
+Los capítulos 1–10 hacen que la foto salga **bien**. Esta guía va de que salga
 **buena**, y no trata de ajustes: trata de dónde estar, a qué hora, qué
 esperar y qué mirar. Es lo que separa al que vuelve con 3.000 fotos correctas
 del que vuelve con veinte que valen la pena — y se entrena, como todo lo
@@ -42,7 +48,7 @@ La luz decide la charca. Con fuentes de fotógrafos que las trabajan:
 | Mediodía (calor) | Cualquier charca abierta: en noviembre el calor **obliga** a beber a todas horas — elefantes, cebras y jirafas en pleno día | Congregación por sed; luz dura → clave alta B/N (abajo) |
 | Tarde | **Okondeka** (borde del pan: animales contra el vacío blanco, y manada de leones residente emboscando), **Gemsbokvlakte**, **Goas** (leones 16:00–18:00) | Mejor luz de tarde documentada |
 | Última hora | Vuelta hacia el campamento con margen; **Klein Namutoni y Namutoni a contraluz = siluetas** | Puertas cierran con el sol (~19:05) |
-| Noche | Mirador de **Okaukuejo**: rinos negros 21:00–24:00 casi garantizados; **Moringa** (Halali) para rino/hiena/leopardo al anochecer; **King Nehale**, junto al fuerte de Namutoni; y la última noche de safari, la charca iluminada de **Onguma Tamboti**, ya fuera del parque | [Capítulo 4](../manejo-a6700/04-safari-nocturno-charcas.md) |
+| Noche | Mirador de **Okaukuejo**: rinos negros 21:00–24:00 casi garantizados; **Moringa** (Halali) para rino/hiena/leopardo al anochecer; **King Nehale**, junto al fuerte de Namutoni; y la última noche de safari, la charca iluminada de **Onguma Tamboti**, ya fuera del parque | [Capítulo 9](../manejo-a6700/09-safari-nocturno-charcas.md) |
 
 - **Kalkheuwel** aparece citada como "la mejor charca para muchos
   fotógrafos" (mopane, elefantes, jirafas, rapaces): métela en ruta.
@@ -103,7 +109,7 @@ La lista completa, especie por especie y con los ajustes de cada una:
 
 El catálogo completo de tu cielo —qué hay cada noche, en qué dirección y con
 qué receta— vive en [el cielo del viaje](https://github.com/morandeirachema/a6700-namibia/blob/main/plan/cielo-del-viaje.md), y la
-técnica desde cero en [estrellas con la tierra dentro](../manejo-a6700/estrellas-con-tierra.md).
+técnica desde cero en [estrellas con la tierra dentro](../manejo-a6700/07-estrellas-con-tierra.md).
 Lo que importa para **la mirada**, en cinco líneas:
 
 - **Tus fechas son buenas de verdad**: luna nueva el 9 de noviembre, cielos
@@ -140,8 +146,8 @@ Sin esto, "practicar" es hacer más fotos iguales. El método es de una noche:
 
 | Escalón | Lo tienes cuando… | Dónde se entrena |
 |---|---|---|
-| **1 · Nítida** | El ojo del animal aguanta el 100 % en la mayoría de tus ráfagas | [Capítulo 3](../manejo-a6700/03-safari-diurno.md) y los deberes del [capítulo 0](../manejo-a6700/00-de-movil-a-la-a6700.md) |
-| **2 · Bien expuesta** | Miras el histograma antes de que te lo pida nadie y compensas sin pensar | [El histograma](histograma.md) |
+| **1 · Nítida** | El ojo del animal aguanta el 100 % en la mayoría de tus ráfagas | [Capítulo 8](../manejo-a6700/08-safari-diurno.md) y los deberes del [capítulo 1](../manejo-a6700/01-de-movil-a-la-a6700.md) |
+| **2 · Bien expuesta** | Miras el histograma antes de que te lo pida nadie y compensas sin pensar | [El histograma](01-histograma.md) |
 | **3 · Limpia** | Antes de disparar ya has mirado el fondo y has movido el coche medio metro | [Safari a fondo §5](https://github.com/morandeirachema/a6700-namibia/blob/main/mejora/safari-a-fondo.md) |
 | **4 · Con luz** | Dejas de disparar a mediodía sin remordimiento y madrugas sin discutirlo | [Mejores horas](https://github.com/morandeirachema/a6700-namibia/blob/main/plan/mejores-horas.md) |
 | **5 · Con momento** | Esperas el gesto que sabes que va a llegar, con el encuadre ya montado | [La fauna, animal por animal](https://github.com/morandeirachema/a6700-namibia/blob/main/tecnica/fauna-de-namibia.md) |
@@ -171,3 +177,7 @@ está calendarizado en el [plan de entrenamiento](https://github.com/morandeirac
 - Charcas y fauna de Etosha: <https://www.etoshanationalpark.org/>
 - Calendario de lluvias de meteoros (AMS): <https://www.amsmeteors.org/meteor-showers/meteor-shower-calendar/>
 - Stellarium, para ensayar tu cielo desde casa: <https://stellarium.org/>
+
+<!-- nav -->
+[← Anterior](04-atlas-de-encuadres.md) · [Índice](README.md) · [Siguiente →](06-cuaderno-de-composicion.md)
+<!-- /nav -->

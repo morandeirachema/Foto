@@ -9,9 +9,9 @@ Material de origen del repo, guardado tal cual.
 ## Qué se ha tomado de aquí
 
 - **La configuración de la cámara.** El PDF recoge cómo está configurada la a6700. Las guías de [`manejo-a6700/`](../manejo-a6700/) y [`conceptos/`](../conceptos/) proceden de esa misma versión (`a5252c3`), así que sus valores coinciden con el PDF. Las únicas diferencias son las decididas para este repo: sin vídeo, y con el retoque en Luminar.
-- **El Anexo A**, convertido en [Verificación de los menús](../manejo-a6700/verificacion-de-menus.md), con sus cinco hallazgos aplicados:
-  - la valla de cierre del diagrama de [diales y botones](../manejo-a6700/00c-diales-y-botones.md)
-  - la restricción del obturador electrónico en el [capítulo 4](../manejo-a6700/04-safari-nocturno-charcas.md)
+- **El Anexo A**, convertido en [Verificación de los menús](../manejo-a6700/15-verificacion-de-menus.md), con sus cinco hallazgos aplicados:
+  - la valla de cierre del diagrama de [diales y botones](../manejo-a6700/03-diales-y-botones.md)
+  - la restricción del obturador electrónico en el [capítulo 4](../manejo-a6700/09-safari-nocturno-charcas.md)
   - el nombre de la captura `af-c-obturador.jpg`
   - las 11 subopciones pendientes, como lista para comprobar con C3
   - la edición de la Guía (firmware 2.00)

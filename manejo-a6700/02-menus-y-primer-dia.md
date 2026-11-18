@@ -1,9 +1,15 @@
-# 0.5 Los menús, los botones y el primer día
+<!-- nav -->
+[← Anterior](01-de-movil-a-la-a6700.md) · [Índice](README.md) · [Siguiente →](03-diales-y-botones.md)
+<!-- /nav -->
 
-> 🟢 **Iniciación** · Da por sabido: nada (mejor con el capítulo 0 leído) · Te desbloquea: moverte por la cámara sin buscar a ciegas.
+*Parte I · Empezar de cero*
 
-El capítulo 0 te explica **qué** poner y el capítulo 1 **qué dejar
-guardado** (y [diales y botones](00c-diales-y-botones.md), cómo manejarlo
+# 2. Los menús, los botones y el primer día
+
+> 🟢 **Iniciación** · Da por sabido: nada (mejor con el capítulo 1 leído) · Te desbloquea: moverte por la cámara sin buscar a ciegas.
+
+El capítulo 1 te explica **qué** poner y el capítulo 4 **qué dejar
+guardado** (y [diales y botones](03-diales-y-botones.md), cómo manejarlo
 sin mirar); los dos dan por sabido algo que nadie te ha contado: **cómo se
 mueve uno por esta cámara**. Cuando una guía dice "en el menú de
 personalización" o "mételo en Mi Menú", eso es un muro si vienes del móvil,
@@ -15,7 +21,7 @@ verdad, y cómo deshacerlo todo si la lías. Media hora, una vez, en casa.
 ## Día 0 — de la caja a la primera foto
 
 Hazlo el día que llegue la cámara, con luz y sin prisa. **No configures
-nada más hoy**: eso es el capítulo 1.
+nada más hoy**: eso es el capítulo 4.
 
 1. **Carga la batería.** La caja de la a6700 **no trae cargador**: se carga
    por USB-C con la batería dentro de la cámara (cualquier cargador de
@@ -50,20 +56,20 @@ nada más hoy**: eso es el capítulo 1.
    de fábrica en una posición cualquiera: si no lo haces, verás borroso y
    creerás que la cámara enfoca mal.
 9. **Pon la correa** (con el nudo bien hecho) y haz **la primera foto**, a
-   lo que sea. Ya está: mañana, el capítulo 0.
+   lo que sea. Ya está: mañana, el capítulo 1.
 
 ## El mapa: qué es cada cosa
 
 | Mando | Dónde | Para qué |
 |---|---|---|
 | **Dial de modos** | Arriba a la derecha | A, S, M y las memorias 1/2/3 |
-| **Selector Foto / Vídeo / S&Q** | Anillo bajo el dial de modos | Cambia entre foto, vídeo y cámara lenta. El vídeo lleva **sus propios ajustes** si marcas las casillas de `Ajust dif imgs fij/víd` ([capítulo 1](01-configuracion-basica.md)) |
-| **Dial delantero** | Delante, bajo el disparador | En M, de fábrica, la **apertura**; el repo lo cambia a **obturación** ([diales y botones](00c-diales-y-botones.md)) |
+| **Selector Foto / Vídeo / S&Q** | Anillo bajo el dial de modos | Cambia entre foto, vídeo y cámara lenta. El vídeo lleva **sus propios ajustes** si marcas las casillas de `Ajust dif imgs fij/víd` ([capítulo 4](04-configuracion-basica.md)) |
+| **Dial delantero** | Delante, bajo el disparador | En M, de fábrica, la **apertura**; el repo lo cambia a **obturación** ([diales y botones](03-diales-y-botones.md)) |
 | **Dial trasero** | Arriba a la derecha, bajo el pulgar | El otro número |
 | **Rueda de control** | La rueda grande del respaldo | Navega por los menús; sus cuatro flechas son atajos (**arriba: DISP**, **derecha: ISO**, **abajo: compensación de exposición**, **izquierda: modo de manejo** — ráfaga y temporizador) y el centro es "aceptar" |
 | **MENU** | Arriba a la izquierda del respaldo | Abre el menú. Y **es también el "atrás"** y el "salir" |
 | **Fn** | Respaldo, a la derecha | La pantalla rápida de **12 ajustes** del día a día |
-| **AF-ON** | Respaldo, bajo el pulgar | Enfocar con el pulgar (el gran ajuste del [capítulo 1](01-configuracion-basica.md)) |
+| **AF-ON** | Respaldo, bajo el pulgar | Enfocar con el pulgar (el gran ajuste del [capítulo 4](04-configuracion-basica.md)) |
 | **C1, C2, C3** | **C1** en la esquina trasera derecha, junto al enganche de la correa; **C2** arriba, delante del dial de modos; **C3** abajo a la derecha | Botones personalizables. C2 trae `Área de enfoque`. **C3 hace de papelera en reproducción y de Guía en la cámara en el menú** |
 | **▶ (reproducción)** | Respaldo, abajo | Ver lo que has hecho |
 | **DISP** | Flecha superior de la rueda | Cambia qué información se ve encima de la imagen (aquí vive **el histograma**) |
@@ -129,7 +135,7 @@ salen **abreviados** en pantalla (`Obturad./silenc.`, `Rest/guard ajust`,
 
 Las rutas que de verdad vas a usar en el viaje (la lista completa, ajuste a
 ajuste y con los valores de fauna y de noche, está en
-[la referencia de ajustes](ajustes-a6700.md)):
+[la referencia de ajustes](13-ajustes-a6700.md)):
 
 | Lo que quieres | Ruta |
 |---|---|
@@ -175,7 +181,7 @@ recorrer pestañas.
 
 Los que merecen estar ahí, según lo que usan las guías de este repo:
 **Sens. Seguim. AF**, **Dest. reconocim.**, **Área de enfoque**
-(los tres mandos del AF de [AF y exposición a fondo](af-y-exposicion-a-fondo.md)),
+(los tres mandos del AF de [AF y exposición a fondo](12-af-y-exposicion-a-fondo.md)),
 **Tipo de obturador**, **Func. capt. interv.**, **Formatear** y
 **Mem. ajustes cám**
 
@@ -187,13 +193,13 @@ asignas una función. Se guarda **por separado** para foto, vídeo y
 reproducción.
 
 Los tres cambios del viaje (el porqué y el paso a paso, en
-[diales y botones](00c-diales-y-botones.md)):
+[diales y botones](03-diales-y-botones.md)):
 
 - **Los dos diales intercambiados**: de fábrica el delantero mueve la
   apertura en M; el repo lo quiere en la **obturación**.
 - **`Verificac. luminosa`** (*Bright Monitoring*) a **C1** — amplifica la
   pantalla en plena oscuridad para **componer la Vía Láctea viéndola**
-  ([capítulo 2](02-astrofotografia-namibia.md)). Solo funciona en MF.
+  ([capítulo 6](06-astrofotografia-namibia.md)). Solo funciona en MF.
 - **`Amplific. enfoque`** (la lupa) a **C3**: enfocar una estrella sin
   entrar al menú. C2 se queda con `Área de enfoque`, como viene.
 
@@ -235,7 +241,7 @@ MENU → Toma → [Visualizac. toma] → [Tipo lín. cuadríc.]
 Con la **regla de tres** dibujada encima, dos cosas dejan de fallar:
 
 - **El aire de la mirada**: ves de un vistazo si el animal está en un tercio
-  o centrado como una foto de carnet ([atlas de encuadres](../conceptos/atlas-de-encuadres.md)).
+  o centrado como una foto de carnet ([atlas de encuadres](../conceptos/04-atlas-de-encuadres.md)).
 - **El horizonte torcido**: en el pan de Etosha, en las dunas y en la costa,
   medio grado canta. La cuadrícula lo caza antes de disparar; el **Nivel**
   del DISP lo remata.
@@ -276,7 +282,7 @@ Aquí está el gesto que este repo te pide una y otra vez ("verifica al
 6. **DISP** cambia la información sobre la foto hasta enseñarte el
    **histograma** — la única forma honesta de saber si la exposición está
    bien, porque la pantalla en la oscuridad siempre parece más clara de lo
-   que la foto es ([el histograma por escenario](../conceptos/histograma.md)).
+   que la foto es ([el histograma por escenario](../conceptos/01-histograma.md)).
 
 Si quieres que empiece más ampliada, `MENU → Reproducc. → [Aumento]`
 tiene el aumento y la posición iniciales (`Aum. aumento inic` y
@@ -298,7 +304,7 @@ pulsación va subiendo estrellas mientras revisas
 reproducción).
 
 **Para qué sirve de verdad**: el repaso de cada noche te pide elegir **las
-tres mejores del día** ([la mirada](../conceptos/la-mirada.md)). Si además les
+tres mejores del día** ([la mirada](../conceptos/05-la-mirada.md)). Si además les
 pones tres estrellas ahí mismo, las localizas enseguida al revisar en la
 cámara. Que el programa de edición lea esa valoración al importar no está
 garantizado (la documentación de Luminar no lo menciona): compruébalo con
@@ -324,13 +330,13 @@ opciones:
 
 **Ninguna de las dos borra tus fotos.** Y el mejor momento para usarla es
 **antes** de guardar MR1 y MR2: dejas la cámara limpia, montas la receta del
-capítulo 1 desde cero y la guardas sabiendo exactamente qué hay dentro.
+capítulo 4 desde cero y la guardas sabiendo exactamente qué hay dentro.
 
 ## Si algo no cuadra…
 
 | Problema | Es… | Haces… |
 |---|---|---|
-| Giro el dial delantero y se mueve la apertura | Es el reparto de fábrica | Intercámbialos: [diales y botones](00c-diales-y-botones.md), paso 1 |
+| Giro el dial delantero y se mueve la apertura | Es el reparto de fábrica | Intercámbialos: [diales y botones](03-diales-y-botones.md), paso 1 |
 | "Ese ajuste no existe en mi cámara" | El selector **Foto / Vídeo / S&Q** está en otro modo: el menú cambia con él | Pon el selector en Foto y vuelve a buscar |
 | No encuentro un ajuste corriente | Está en el **Fn** casi seguro | Pulsa Fn antes de bucear en el menú |
 | Me pierdo cada vez que entro al menú | No has hecho tu **Mi Menú** | Diez minutos hoy, y `[Mostrar de Mi Menú] → Activar` |
@@ -338,7 +344,7 @@ capítulo 1 desde cero y la guardas sabiendo exactamente qué hay dentro.
 | No enfoca nada de repente | El interruptor **AF/MF** del objetivo se movió en la mochila | Ponlo en AF (lo llevan el 11 mm y el 70-350). El **Viltrox** no tiene interruptor: mira `Modo de enfoque` |
 | El visor se ve borroso pero las fotos salen nítidas | **Dioptrías** | La ruedecita del visor, hasta ver nítidos los números |
 | El visor no se enciende al acercar el ojo | La pantalla desplegada desactiva el sensor de ojo | Pliégala contra el cuerpo |
-| El menú está en inglés | — | `MENU → Ajustes → [Área/fecha] → [Idioma]`, y la tabla ES/EN del [capítulo 1](01-configuracion-basica.md) |
+| El menú está en inglés | — | `MENU → Ajustes → [Área/fecha] → [Idioma]`, y la tabla ES/EN del [capítulo 4](04-configuracion-basica.md) |
 | Toqué cuarenta cosas y ya no sé qué tengo puesto | — | **Reponer ajustes de cámara** (arriba). No borra fotos |
 | Un mensaje de error raro en pantalla | Sony los tiene documentados uno a uno | La página de mensajes de aviso, en Referencias |
 
@@ -355,3 +361,7 @@ capítulo 1 desde cero y la guardas sabiendo exactamente qué hay dentro.
 - Aj. área/fecha/hora: <https://helpguide.sony.net/ilc/2320/v1/es/contents/0601_area_date_time_setting.html>
 - Mensajes de aviso (todos los errores de pantalla): <https://helpguide.sony.net/ilc/2320/v1/es/contents/t11_messages.html>
 - Soporte oficial Sony (firmware y manuales): <https://www.sony.es/electronics/support>
+
+<!-- nav -->
+[← Anterior](01-de-movil-a-la-a6700.md) · [Índice](README.md) · [Siguiente →](03-diales-y-botones.md)
+<!-- /nav -->

@@ -1,4 +1,10 @@
-# Cuaderno de composición — 20 ejercicios, para imprimir y tachar
+<!-- nav -->
+[← Anterior](05-la-mirada.md) · [Índice](README.md) · [Siguiente →](07-glosario.md)
+<!-- /nav -->
+
+*Parte II · La composición y la mirada*
+
+# 6. Cuaderno de composición — 20 ejercicios, para imprimir y tachar
 
 Veinte ejercicios en escalera, del más tonto al más difícil. Cada uno tiene
 un **criterio de aprobado**: o lo cumples o no, sin opinión. Se hacen con
@@ -7,7 +13,7 @@ puerto— y ninguno necesita Namibia.
 
 **Cómo se usa**: uno o dos por sesión, en orden. No pases al siguiente
 bloque hasta tener el anterior entero. Los encuadres numerados son los del
-[atlas](atlas-de-encuadres.md).
+[atlas](04-atlas-de-encuadres.md).
 
 ---
 
@@ -59,7 +65,7 @@ Encaja en las once semanas del [plan de entrenamiento](https://github.com/morand
 
 | Semanas | Bloque | Con qué se junta |
 |---|---|---|
-| 1–3 | **Ver** (1–5) | Las primeras tardes de deberes del capítulo 0 |
+| 1–3 | **Ver** (1–5) | Las primeras tardes de deberes del capítulo 1 |
 | 4–7 | **Encuadrar** (6–12) | Las monográficas de [safari a fondo](https://github.com/morandeirachema/a6700-namibia/blob/main/mejora/safari-a-fondo.md) |
 | 8–9 | **Esperar** (13–16) | La tarde del gesto de la [fauna](https://github.com/morandeirachema/a6700-namibia/blob/main/tecnica/fauna-de-namibia.md) |
 | 9–10 | **Contar** (17–20) | El ensayo general de Cabárceno (el 20) y la criba de su vuelta (18 y 19) |
@@ -76,7 +82,11 @@ Si vas mal de tiempo, estos tres valen más que los otros diecisiete:
 
 ## Para seguir
 
-- El repertorio: [atlas de encuadres](atlas-de-encuadres.md)
+- El repertorio: [atlas de encuadres](04-atlas-de-encuadres.md)
 - El análisis: [fotos desmontadas](https://github.com/morandeirachema/a6700-namibia/blob/main/mejora/fotos-desmontadas.md)
 - A quién mirar: [fotógrafos de referencia](https://github.com/morandeirachema/a6700-namibia/blob/main/mejora/fotografos-de-referencia.md)
-- El método de autocrítica y los cinco escalones: [la mirada](la-mirada.md)
+- El método de autocrítica y los cinco escalones: [la mirada](05-la-mirada.md)
+
+<!-- nav -->
+[← Anterior](05-la-mirada.md) · [Índice](README.md) · [Siguiente →](07-glosario.md)
+<!-- /nav -->

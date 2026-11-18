@@ -1,6 +1,12 @@
-# 0.7 Los diales y los botones — manejar la a6700 sin mirarla
+<!-- nav -->
+[← Anterior](02-menus-y-primer-dia.md) · [Índice](README.md) · [Siguiente →](04-configuracion-basica.md)
+<!-- /nav -->
 
-> 🟢 **Iniciación** · Da por sabido: el [capítulo 0.5](00b-menus-y-primer-dia.md) (qué es MENU y cómo se vuelve atrás) · Te desbloquea: cambiar cualquier ajuste del viaje **sin apartar el ojo del visor**, y de noche, sin encender la frontal.
+*Parte I · Empezar de cero*
+
+# 3. Los diales y los botones — manejar la a6700 sin mirarla
+
+> 🟢 **Iniciación** · Da por sabido: el [capítulo 2](02-menus-y-primer-dia.md) (qué es MENU y cómo se vuelve atrás) · Te desbloquea: cambiar cualquier ajuste del viaje **sin apartar el ojo del visor**, y de noche, sin encender la frontal.
 
 Con el móvil tocas la pantalla y ya está. Con la a6700 el truco es el
 contrario: **casi nada se cambia en el menú**. Se cambia con dos diales, una
@@ -30,7 +36,7 @@ Lo que hace cada mando **en foto**, de fábrica y como lo vas a dejar:
 | **Rueda**: izquierda | | `Modo manejo` | Igual |
 | **Rueda**: derecha | | `ISO` | Igual |
 | **Rueda**: centro | | Aceptar | Igual |
-| **AF-ON** | Respaldo, bajo el pulgar | `AF activado` | Igual: **enfocas con él** ([capítulo 1](01-configuracion-basica.md)) |
+| **AF-ON** | Respaldo, bajo el pulgar | `AF activado` | Igual: **enfocas con él** ([capítulo 4](04-configuracion-basica.md)) |
 | **C1** | Esquina trasera derecha, junto al enganche de la correa | (varía) | **`Verificac. luminosa`** (*Bright Monitoring*: ver la noche) |
 | **C2** | Arriba, delante del dial de modos | `Área de enfoque` | Igual |
 | **C3** | Respaldo, abajo a la derecha | (varía) · en reproducción, **borrar** · en el menú, **Guía en la cámara** | **`Amplific. enfoque`** (la lupa) |
@@ -102,7 +108,7 @@ flowchart TD
     D4 --> D5["5 · Las 12 casillas del Fn"]
     D5 --> D6["6 · Bloqueo dial/rueda = Bloquear"]
     D6 --> D7["7 · Táctil: Seguimient. táct. · Ambos válidos · relativa"]
-    D7 --> D8["8 · Ahora sí: MR1 y MR2 (capítulo 1)"]
+    D7 --> D8["8 · Ahora sí: MR1 y MR2 (capítulo 4)"]
     D8 --> D9(["9 · Guard./carg. ajustes → Guardar<br/>y copia el archivo al móvil"])
 ```
 
@@ -136,7 +142,7 @@ Con el selector en **Foto** y el dial en **M**:
    AF se le pega). En `[Pantall./almoh. táctil]`, **Ambos válidos**; en
    `[Ajust. almohad.táctil]` → `Modo posición táctil`, **Posición relativa**.
 8. **Las memorias, después.** Ahora sí, monta MR1 y MR2
-   ([capítulo 1](01-configuracion-basica.md)). Ojo: **las memorias no guardan
+   ([capítulo 4](04-configuracion-basica.md)). Ojo: **las memorias no guardan
    la botonera** — la asignación de botones es de la cámara, igual en
    1, 2 y 3. Eso es bueno: C1 siempre es C1.
 9. **Guárdalo todo**: `Ajustes → [Rest/guard ajust] → [Guard./carg. ajustes]
@@ -185,7 +191,7 @@ para la pantalla (`Solo pant. táctil`).
   propios botones y su propio Fn. Los ocho ajustes de exposición y enfoque
   van aparte **solo si los marcas** en
   `Ajustes → [Personal. operac.] → [Ajust dif imgs fij/víd]`
-  ([capítulo 1](01-configuracion-basica.md)).
+  ([capítulo 4](04-configuracion-basica.md)).
 - El botón **MOVIE graba vídeo incluso con el anillo en Foto**: cuidado
   con pulsarlo sin querer.
 
@@ -202,7 +208,7 @@ Dos reglas que se olvidan: **el interruptor AF/MF del objetivo manda** sobre
 el `Modo de enfoque` del menú, y con el 70-350 **el OSS del objetivo manda**
 sobre el `SteadyShot` del menú. Si "la cámara no enfoca" o "el estabilizador
 no se apaga", mira primero el barrilete. Con el **Viltrox** no hay
-interruptor: manda el menú ([su guía](viltrox-25mm.md)). El botón de retención es
+interruptor: manda el menú ([su guía](11-viltrox-25mm.md)). El botón de retención es
 reasignable desde `Ajuste t. pers./dial`, pero la asignación es de la
 cámara, no del objetivo: vale para los dos a la vez. Déjalo como viene.
 
@@ -288,4 +294,8 @@ menos de diez.
 - Ampliar en reproducción: <https://helpguide.sony.net/ilc/2320/v1/es/contents/0501C_playback_zoom.html>
 - Mem. ajustes cám: <https://helpguide.sony.net/ilc/2320/v1/es/contents/0413_setting_memory.html>
 - Guía en la cámara: <https://helpguide.sony.net/ilc/2320/v1/es/contents/0105C_in_camera_guide.html>
-- El menú completo, línea a línea: [referencia/menu-completo.md](menu-completo.md)
+- El menú completo, línea a línea: [referencia/14-menu-completo.md](14-menu-completo.md)
+
+<!-- nav -->
+[← Anterior](02-menus-y-primer-dia.md) · [Índice](README.md) · [Siguiente →](04-configuracion-basica.md)
+<!-- /nav -->

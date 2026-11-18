@@ -1,10 +1,16 @@
-# Todos los ajustes de la a6700 — el manual de tu cámara, con tus valores
+<!-- nav -->
+[← Anterior](12-af-y-exposicion-a-fondo.md) · [Índice](README.md) · [Siguiente →](14-menu-completo.md)
+<!-- /nav -->
 
-> 🟢 **Iniciación** · Da por sabido: el [capítulo 0.5](00b-menus-y-primer-dia.md) (cómo se navega el menú) · Te desbloquea: dejar de buscar ajustes y saber exactamente dónde está cada uno y qué valor lleva.
+*Parte IV · Referencia*
+
+# 13. Todos los ajustes de la a6700 — el manual de tu cámara, con tus valores
+
+> 🟢 **Iniciación** · Da por sabido: el [capítulo 2](02-menus-y-primer-dia.md) (cómo se navega el menú) · Te desbloquea: dejar de buscar ajustes y saber exactamente dónde está cada uno y qué valor lleva.
 
 El resto del repo te da los valores repartidos por escenario. Esto es la
 **referencia única** (y si quieres **el menú entero**, también lo que no
-toca este viaje, está en [el menú completo](menu-completo.md)): cada ajuste que toca este viaje, con su **ruta exacta
+toca este viaje, está en [el menú completo](14-menu-completo.md)): cada ajuste que toca este viaje, con su **ruta exacta
 de menú**, el valor para **fauna** y el valor para **noche**, y por qué. Para
 consultar, no para leer de seguido.
 
@@ -66,7 +72,7 @@ Esto se hace en casa, antes de volar, y no se vuelve a mirar en todo el viaje.
 | Ajuste | Ruta | Valor | Por qué |
 |---|---|---|---|
 | **Formato archivo** | `Toma → [Calid. img/grab.] → [Formato archivo]` | **RAW** | Todo el revelado del repo asume RAW |
-| **Tipo archivo RAW** | `Toma → [Calid. img/grab.] → [Tipo archivo RAW]` | **Comprimido sin pérdida** | Máxima calidad… y ojo: es el que deja el búfer en **23 fotos** (ver [equipo](05-equipo-accesorios.md)) |
+| **Tipo archivo RAW** | `Toma → [Calid. img/grab.] → [Tipo archivo RAW]` | **Comprimido sin pérdida** | Máxima calidad… y ojo: es el que deja el búfer en **23 fotos** (ver [equipo](10-equipo-accesorios.md)) |
 | **RR exposic. larga** | `Toma → [Calid. img/grab.] → [RR exposic. larga]` | **Desactivar** | Si no, tras cada foto de 20 s la cámara se pasa otros 20 s en negro: adiós star trails |
 | **RR ISO Alta** | `Toma → [Calid. img/grab.] → [RR ISO Alta]` | **Bajo / Desactivar** | Solo afecta al JPEG; el ruido del RAW lo arreglas mucho mejor en casa |
 | **Visualizac. cebra** | `Exposición/color → [Visualizac. cebra] → [Visualizac. cebra]` | **Activar** | Tu única alarma de quemados **en vivo** |
@@ -75,7 +81,7 @@ Esto se hace en casa, antes de volar, y no se vuelve a mirar en todo el viaje.
 | **Área / fecha / hora** | `Ajustes → [Área/fecha] → [Aj. área/fecha/hora]` | Hora de **Namibia** al aterrizar | Ordenar 4.000 fotos por hora depende de esto |
 | **Formatear** | `Toma → [Soporte] → [Formatear]` | Cada tarjeta nueva, **en la cámara** | Y **nunca más** durante el viaje: las tarjetas son tu segunda copia |
 | **Liberar sin tarj. mem.** | `Toma → [Obturad./silenc.] → [Liberar sin tarj. mem.]` | **Inhabilitar** | De fábrica dispara sin tarjeta y **no guarda nada** |
-| **Diales en M** | `Ajustes → [Personal. operac.] → [Ajuste t. pers./dial]` | **Dial frontal = `Velocidad obturador`**, **dial trasero = `Abertura`** | De fábrica es al revés; todo el repo cuenta con la velocidad en el delantero ([diales y botones](00c-diales-y-botones.md)) |
+| **Diales en M** | `Ajustes → [Personal. operac.] → [Ajuste t. pers./dial]` | **Dial frontal = `Velocidad obturador`**, **dial trasero = `Abertura`** | De fábrica es al revés; todo el repo cuenta con la velocidad en el delantero ([diales y botones](03-diales-y-botones.md)) |
 | **Iluminador AF** | `Enfoque → [AF/MF] → [Iluminador AF]` | **Desactivar** | Su luz espanta a los animales de la charca |
 | **AF c/obturador** | `Enfoque → [AF/MF] → [AF c/obturador]` | **Desactivar** | Es lo que separa enfoque (pulgar) y disparo (índice) |
 | **Vis. lín. cuadrícul.** | `Toma → [Visualizac. toma] → [Vis. lín. cuadrícul.]` | **Activar** | La herramienta de encuadre: aire de la mirada y horizontes rectos |
@@ -109,7 +115,7 @@ solo tocas la rueda delantera.
 |---|---|---|---|
 | **Modo de toma** | `Toma → [Modo de toma] → [Modo de toma]` | **M** | Con ISO Auto, y la compensación sigue funcionando (rareza buena de esta cámara) |
 | **ISO** | `Exposición/color → [Exposición] → [ISO]` | **ISO AUTO**, y dentro: **ISO AUTO mínimo 100 · máximo 12800** | El techo de trabajo real del sensor |
-| Obturación | Rueda delantera (tras intercambiar los diales) | **1/1000** de partida | Y la mueves por escena: [capítulo 3](03-safari-diurno.md) |
+| Obturación | Rueda delantera (tras intercambiar los diales) | **1/1000** de partida | Y la mueves por escena: [capítulo 8](08-safari-diurno.md) |
 | Apertura | Rueda trasera | **La mínima** del zoom | Cambia sola al zoomear; por debajo de 200 mm ganas luz |
 | **Modo de enfoque** | `Enfoque → [AF/MF] → [Modo de enfoque]` | **AF-C** | Todo lo que se mueve |
 | **Área de enfoque** | `Enfoque → [Área de enfoque] → [Área de enfoque]` | **Zona** (o *Ancho* si la escena está limpia) | Deja trabajar al reconocimiento sin perder el control |
@@ -118,7 +124,7 @@ solo tocas la rueda delantera.
 | **Sens. Seguim. AF** | `Enfoque → [AF/MF] → [Sens. Seguim. AF]` | **3** (estándar) · **1** con hierba delante · **4–5** en persecución | 1 = tozudo, 5 = saltarín |
 | **Modo manejo** | `Toma → [Modo de manejo] → [Modo manejo]` | **`Captura contin.`** en **Hi+** | 11 fps (~10 en RAW sin pérdida). En Hi+ el visor no va en vivo durante la ráfaga: si te cuesta seguir, baja a Hi |
 | **SteadyShot** | `Toma → [Estabiliz. de img] → [SteadyShot]` | **Activar** (+ interruptor **OSS** del objetivo en ON) | A pulso y desde la ventanilla |
-| **Modo medición** | `Exposición/color → [Medición] → [Modo medición]` | **Multi** de partida · **Puntual** vinculada al AF para el nivel avanzado (`[Medición] → [Punto med. punt.] → Vínc. punto enf.`) | El detalle, en [AF y exposición a fondo](af-y-exposicion-a-fondo.md) |
+| **Modo medición** | `Exposición/color → [Medición] → [Modo medición]` | **Multi** de partida · **Puntual** vinculada al AF para el nivel avanzado (`[Medición] → [Punto med. punt.] → Vínc. punto enf.`) | El detalle, en [AF y exposición a fondo](12-af-y-exposicion-a-fondo.md) |
 | **Balance blanco** | `Exposición/color → [Balance blancos] → [Balance blanco]` | **Luz diurna** o K fijo | Es RAW: se cambia después sin coste |
 
 **Guardarlo**: `Toma → [Modo de toma] → [Mem. ajustes cám]` → **1**.
@@ -175,8 +181,8 @@ Las tres son distintas de verdad: no intentes cubrirlas con una sola memoria.
 | **RR exposic. larga** | `Toma → [Calid. img/grab.] → [RR exposic. larga]` | **Desactivar** (crítico en series) |
 | **SteadyShot** | `Toma → [Estabiliz. de img] → [SteadyShot]` | **Desactivar** |
 | **Modo manejo** | `Toma → [Modo de manejo] → [Modo manejo]` | **`Autodisp.(senc)`** de **2 s** |
-| **Star trails** | `Toma → [Modo de manejo] → [Func. capt. interv.]` | 30 s de exposición · intervalo **31 s** · 90–180 tomas ([estrellas con la tierra dentro](estrellas-con-tierra.md)) |
-| **Timelapse del cielo** | `Toma → [Modo de manejo] → [Func. capt. interv.]` | 15 s de exposición · intervalo **17 s** · 300 tomas ([capítulo 2](02-astrofotografia-namibia.md)) |
+| **Star trails** | `Toma → [Modo de manejo] → [Func. capt. interv.]` | 30 s de exposición · intervalo **31 s** · 90–180 tomas ([estrellas con la tierra dentro](07-estrellas-con-tierra.md)) |
+| **Timelapse del cielo** | `Toma → [Modo de manejo] → [Func. capt. interv.]` | 15 s de exposición · intervalo **17 s** · 300 tomas ([capítulo 6](06-astrofotografia-namibia.md)) |
 
 **Guardarlo**: `Toma → [Modo de toma] → [Mem. ajustes cám]` → **2**.
 
@@ -207,8 +213,8 @@ Estos tres son los que vas a querer a mano. Mételos en el **menú Fn** y en
   componer la Vía Láctea viéndola; solo en MF), **C2 = `Área de enfoque`**
   (de fábrica) y **C3 = `Amplific. enfoque`**. La **Guía en la cámara** no
   necesita botón: selecciona una línea del menú y pulsa C3.
-- Todos los botones y diales, uno a uno: [diales y botones](00c-diales-y-botones.md).
-- Todo el menú, no solo lo del viaje: [el menú completo](menu-completo.md).
+- Todos los botones y diales, uno a uno: [diales y botones](03-diales-y-botones.md).
+- Todo el menú, no solo lo del viaje: [el menú completo](14-menu-completo.md).
 
 ---
 
@@ -296,3 +302,7 @@ python3 manejo-a6700/img/menus/insertar.py
 - Formatear: <https://helpguide.sony.net/ilc/2320/v1/es/contents/0601_memory_format.html>
 - Restablecer ajuste: <https://helpguide.sony.net/ilc/2320/v1/es/contents/0601_setting_reset.html>
 - Guía de ayuda completa: <https://helpguide.sony.net/ilc/2320/v1/es/>
+
+<!-- nav -->
+[← Anterior](12-af-y-exposicion-a-fondo.md) · [Índice](README.md) · [Siguiente →](14-menu-completo.md)
+<!-- /nav -->

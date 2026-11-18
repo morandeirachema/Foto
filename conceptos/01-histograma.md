@@ -1,4 +1,10 @@
-# El histograma por escenario — chuleta visual
+<!-- nav -->
+[← Anterior](00-introduccion.md) · [Índice](README.md) · [Siguiente →](02-balance-de-blancos.md)
+<!-- /nav -->
+
+*Parte I · La luz y la exposición*
+
+# 1. El histograma por escenario — chuleta visual
 
 > 🟢 **Iniciación** · Da por sabido: nada · Te desbloquea: juzgar si una foto está bien expuesta sin fiarte de la pantalla.
 
@@ -182,5 +188,9 @@ cámara intenta hacerla gris, y hay que compensar **en negativo**.
 
 ## Referencias
 
-- El porqué de todo esto (rango dinámico y ETTR): [por qué funciona](por-que-funciona.md)
+- El porqué de todo esto (rango dinámico y ETTR): [por qué funciona](03-por-que-funciona.md)
 - Guía de ayuda de la a6700 (histograma y Zebra): <https://helpguide.sony.net/ilc/2320/v1/es/>
+
+<!-- nav -->
+[← Anterior](00-introduccion.md) · [Índice](README.md) · [Siguiente →](02-balance-de-blancos.md)
+<!-- /nav -->

@@ -1,4 +1,10 @@
-# Chuleta Sony a6700 — para imprimir y llevar en el coche
+<!-- nav -->
+[← Anterior](15-verificacion-de-menus.md) · [Índice](README.md) · [Siguiente →](17-verificacion-in-situ.md)
+<!-- /nav -->
+
+*Parte V · Hojas de campo*
+
+# 16. Chuleta Sony a6700 — para imprimir y llevar en el coche
 
 ## Recetas
 
@@ -58,3 +64,7 @@ Volver a MR1 (restaura todo) · batería + repuesto · SD con hueco · 70-350: *
 ## Enfocar una estrella (resumen)
 
 MR2 → Verificac. luminosa para encuadrar → lupa sobre la estrella más brillante → anillo hasta el punto mínimo → cinta en el anillo → prueba 20 s → histograma primer tercio.
+
+<!-- nav -->
+[← Anterior](15-verificacion-de-menus.md) · [Índice](README.md) · [Siguiente →](17-verificacion-in-situ.md)
+<!-- /nav -->

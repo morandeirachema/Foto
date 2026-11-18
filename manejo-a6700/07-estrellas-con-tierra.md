@@ -1,4 +1,10 @@
-# Estrellas con la tierra dentro — desde cero, en tres noches
+<!-- nav -->
+[← Anterior](06-astrofotografia-namibia.md) · [Índice](README.md) · [Siguiente →](08-safari-diurno.md)
+<!-- /nav -->
+
+*Parte II · Recetas por escenario*
+
+# 7. Estrellas con la tierra dentro — desde cero, en tres noches
 
 > 🔵 **Básico** → 🔴 avanzado al final · Da por sabido: nada: empieza desde cero · Te desbloquea: cielo con paisaje dentro, en tres noches de práctica.
 
@@ -19,7 +25,7 @@ Tierra gira. Si la foto dura pocos segundos, salen como **puntos** (noches
 - **La a6700 con el 11 mm F1.8**. Es un objetivo normal y corriente: la
   apertura se pone con la rueda de la cámara y tiene autofoco. Lo único que
   cambia de noche es que el enfoque lo harás **tú** — el interruptor
-  **AF/MF** del barrilete, a MF ([capítulo 1](01-configuracion-basica.md)).
+  **AF/MF** del barrilete, a MF ([capítulo 4](04-configuracion-basica.md)).
 - **Trípode**. Sin trípode no hay foto nocturna: las exposiciones duran
   segundos.
 - **Frontal de luz roja** (no arruina la visión nocturna) y un trozo de
@@ -34,7 +40,7 @@ cada foto va seguida de la misma pausa a oscuras) · disparo con
 **temporizador de 2 s** (para no mover la cámara al pulsar) ·
 **`Verificac. luminosa`** (*Bright Monitoring*) asignada a un botón (amplifica la pantalla en plena oscuridad: tu linterna para
 componer). Todo está en el
-[capítulo 1](01-configuracion-basica.md), o directamente en el
+[capítulo 4](04-configuracion-basica.md), o directamente en el
 modo **MR2**, que ya lo guarda.
 
 ## Noche 1 — tu primera foto de estrellas (la base, completa)
@@ -75,7 +81,7 @@ Nada más.
 4. **Dispara** (el temporizador de 2 s ya evita el meneo del dedo).
 5. **Mira el histograma**, no la foto — el de la **revisión** (▶ y **DISP**):
    el histograma en vivo no acumula los 20 s de exposición y aquí no vale
-   ([capítulo 2](02-astrofotografia-namibia.md)). La montaña debe
+   ([capítulo 6](06-astrofotografia-namibia.md)). La montaña debe
    estar en el **primer tercio izquierdo, despegada del borde**. ¿Pegada al borde? Sube a ISO
    3200. La pantalla a oscuras engaña: el histograma no.
 6. **Amplía una estrella al máximo** en la revisión: ¿es un punto? Lo
@@ -92,7 +98,7 @@ Nada más.
 | Todo movido | Trípode vibrando: viento, correa suelta o lo tocaste |
 | Cielo naranja raro | WB en K = 3900 (y en RAW se corrige después) |
 
-Esto es, resumido, el [capítulo 2](02-astrofotografia-namibia.md) —
+Esto es, resumido, el [capítulo 6](06-astrofotografia-namibia.md) —
 allí está el detalle fino y el plan concreto de Namibia. Cuando esta noche
 te salga entera sin mirar la guía, pasa a la siguiente.
 
@@ -135,7 +141,7 @@ atrás o asume el tamaño.
   mucha foto horizontal ([el cielo del viaje](https://github.com/morandeirachema/a6700-namibia/blob/main/plan/cielo-del-viaje.md)).
 - El truco de composición que usan los maestros: la franja de estrellas
   como **diagonal que entra por una esquina y no corta tu objeto**
-  ([la mirada](../conceptos/la-mirada.md)).
+  ([la mirada](../conceptos/05-la-mirada.md)).
 
 ### 4 · Expón igual — y deja la silueta negra
 
@@ -347,3 +353,7 @@ apuntando a otra parte del cielo ([su guía](https://github.com/morandeirachema/
 - PhotoPills (AR y planificador): <https://www.photopills.com/> · "3 tips to use PhotoPills offline" (la RA y los cálculos funcionan sin red): <https://www.photopills.com/videos/3-tips-to-use-photopills-offline-photopills-tip-7> · Stellarium: <https://stellarium.org/>
 - Sony, Help Guide ILCE-6700 — disparo Bulb y "BULB Timer Settings" (2–900 s; no disponible con obturador electrónico): <https://helpguide.sony.net/ilc/2320/v1/en/contents/0302C_bulb.html> · <https://helpguide.sony.net/ilc/2320/v1/en/contents/211h_bulb_timer.html>
 - Declinación magnética en Namibia (WMM2025; ~13° O en Windhoek): <https://www.magnetic-declination.com/>
+
+<!-- nav -->
+[← Anterior](06-astrofotografia-namibia.md) · [Índice](README.md) · [Siguiente →](08-safari-diurno.md)
+<!-- /nav -->

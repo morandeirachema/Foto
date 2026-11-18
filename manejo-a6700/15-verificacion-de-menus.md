@@ -1,6 +1,12 @@
-# Verificación de los menús — cada ruta, contra la Guía de ayuda de Sony
+<!-- nav -->
+[← Anterior](14-menu-completo.md) · [Índice](README.md) · [Siguiente →](16-chuleta.md)
+<!-- /nav -->
 
-> 🟢 **Iniciación** · Da por sabido: el [capítulo 0.5](00b-menus-y-primer-dia.md) (qué es MENU y cómo se usa C3 como Guía en la cámara) · Te desbloquea: confiar en que cada línea de menú de este repo existe tal cual en tu cámara, y saber qué falta por confirmar.
+*Parte IV · Referencia*
+
+# 15. Verificación de los menús — cada ruta, contra la Guía de ayuda de Sony
+
+> 🟢 **Iniciación** · Da por sabido: el [capítulo 2](02-menus-y-primer-dia.md) (qué es MENU y cómo se usa C3 como Guía en la cámara) · Te desbloquea: confiar en que cada línea de menú de este repo existe tal cual en tu cámara, y saber qué falta por confirmar.
 
 **Qué resuelve.** Este repo te pide tocar decenas de líneas del menú de la a6700. Esta página recoge la **auditoría independiente** de esas rutas, hecha el **3 de noviembre de 2026** contra la Guía de ayuda oficial en español. Es el Anexo A de la [edición completa en PDF](../sources/README.md). Resultado: **las 79 rutas son correctas**. Quedan **11 subopciones** por confirmar en la propia cámara (diez minutos, con C3), y la auditoría encontró **un error de formato**, ya corregido aquí.
 
@@ -13,11 +19,11 @@
 | Rutas `Pestaña → [Grupo] → [Ajuste]` distintas en el repo | 79 rutas, 176 apariciones en total | ✅ 79/79 coinciden |
 | Pestañas citadas | 8 de 8 (Principal, Toma, Exposición/color, Enfoque, Reproducc., Red, Ajustes, Mi Menú) | ✅ Nombres exactos |
 | Grupos que el repo usa en rutas | 33 de los 54 oficiales | ✅ Todos existen y en su pestaña |
-| Grupos y elementos de [el menú completo](menu-completo.md) | Las 8 pestañas, grupo a grupo | ✅ Sin elementos inventados ni mal colocados |
+| Grupos y elementos de [el menú completo](14-menu-completo.md) | Las 8 pestañas, grupo a grupo | ✅ Sin elementos inventados ni mal colocados |
 | Nombres de segundo nivel verificados | 12 nombres o familias de valores | ✅ 12 coinciden en la ficha |
 | Nombres de segundo nivel no localizados | 11 subopciones | ❓ Pendientes de comprobar en la cámara (C3) |
 | Errores que impidan encontrar un ajuste | Ninguno | ✅ |
-| Otros hallazgos | 1 error de formato que ocultaba medio capítulo 0.7 en GitHub, y 2 mejoras menores | ✅ Aplicados en este repo |
+| Otros hallazgos | 1 error de formato que ocultaba medio capítulo 3 en GitHub, y 2 mejoras menores | ✅ Aplicados en este repo |
 
 **Conclusión de la auditoría:** las auditorías previas (agosto y octubre de 2026) se sostienen. Las abreviaturas del repo (`Calid. img/grab.`, `Obturad./silenc.`, `Rest/guard ajust`, `AF c/obturador`…) son las mismas que usa Sony en pantalla y **no deben "corregirse"** a formas largas.
 
@@ -47,7 +53,7 @@
 
 Estos nombres no salen en la lista principal de Sony y no se pudo abrir su ficha durante la auditoría. Lo más probable es que estén bien, pero **no están confirmados**:
 
-- [ ] `Tem.col./filtro`: valor de `Balance blanco` para fijar los grados Kelvin ([balance de blancos](../conceptos/balance-de-blancos.md), [diales y botones](00c-diales-y-botones.md))
+- [ ] `Tem.col./filtro`: valor de `Balance blanco` para fijar los grados Kelvin ([balance de blancos](../conceptos/02-balance-de-blancos.md), [diales y botones](03-diales-y-botones.md))
 - [ ] `Cuadr. regl. terc.`: tipo de cuadrícula
 - [ ] `C. sin pérd.`: RAW comprimido sin pérdida
 - [ ] `Compens. variación`
@@ -66,12 +72,12 @@ Estos nombres no salen en la lista principal de Sony y no se pudo abrir su ficha
 | # | Hallazgo | Qué se hizo en este repo |
 |---|---|---|
 | 1 | Ninguna ruta errónea: ni las recetas ni la referencia de ajustes necesitan correcciones | Nada que cambiar |
-| 2 | Con `Obturad. electr.` **no están disponibles** el flash, `RR exposic. larga`, `e-Prim. cortin. obtur.`, la toma BULB ni la toma sin parpadeo. Eso explica por qué el plan B contra las franjas de los LED es el obturador mecánico | Añadido al [capítulo 4](04-safari-nocturno-charcas.md), paso 2 y tabla "si sale mal" |
+| 2 | Con `Obturad. electr.` **no están disponibles** el flash, `RR exposic. larga`, `e-Prim. cortin. obtur.`, la toma BULB ni la toma sin parpadeo. Eso explica por qué el plan B contra las franjas de los LED es el obturador mecánico | Añadido al [capítulo 9](09-safari-nocturno-charcas.md), paso 2 y tabla "si sale mal" |
 | 3 | La captura de `AF c/obturador` se llamaba `af-con-disparador.jpg`, con el nombre antiguo e incorrecto | Renombrada a `af-c-obturador.jpg` en el [guion de capturas](img/menus/) y en `insertar.py` |
-| 4 | En [diales y botones](00c-diales-y-botones.md), el diagrama "la botonera en 15 minutos" no tenía la valla de cierre: en GitHub, el resto del capítulo no se veía | Valla añadida: el capítulo entero vuelve a verse |
+| 4 | En [diales y botones](03-diales-y-botones.md), el diagrama "la botonera en 15 minutos" no tenía la valla de cierre: en GitHub, el resto del capítulo no se veía | Valla añadida: el capítulo entero vuelve a verse |
 | 5 | La Guía consultada (5-051-980-47(1)) ya recoge el firmware 2.00 | Anotado arriba, en *Método* |
 
-**Cobertura del menú completo.** [El menú completo](menu-completo.md) describe el menú con el selector en **Foto**. Los grupos oficiales que no aparecen en sus tablas están justificados: `Grabac. sonido`, `TC/UB`, `Visual. marcador` y `Opción de toma` son solo de Vídeo/S&Q; `Accesibilidad` es "para algunos modelos solamente"; los elementos solo de vídeo dentro de grupos mixtos no se ven con el selector en Foto; `Calidad HEIF` y `Tamaño img HEIF` van junto a sus equivalentes JPEG; `Aviso de privacidad` y `Logotip. certificación` son informativos.
+**Cobertura del menú completo.** [El menú completo](14-menu-completo.md) describe el menú con el selector en **Foto**. Los grupos oficiales que no aparecen en sus tablas están justificados: `Grabac. sonido`, `TC/UB`, `Visual. marcador` y `Opción de toma` son solo de Vídeo/S&Q; `Accesibilidad` es "para algunos modelos solamente"; los elementos solo de vídeo dentro de grupos mixtos no se ven con el selector en Foto; `Calidad HEIF` y `Tamaño img HEIF` van junto a sus equivalentes JPEG; `Aviso de privacidad` y `Logotip. certificación` son informativos.
 
 ## Mapa oficial del menú
 
@@ -173,3 +179,7 @@ La estructura oficial completa, pestaña → grupo → elementos, transcrita de 
 - Versión imprimible completa (PDF): <https://helpguide.sony.net/ilc/2320/v1/es/print.pdf>
 - Fichas consultadas en la auditoría: `0414H_shutter_type`, `211h_recognition_target`, `0406_metering_mode`, `0405_af_mf_control`, `0601_save_load_settings`, `202h_version`, `211h_touchpanel_settings`, `0412D_marker_display`, `221h_main_menu_ilc2320`, `211h_usb_streaming`
 - La auditoría completa, en su forma original: Anexo A de la [edición completa en PDF](../sources/README.md)
+
+<!-- nav -->
+[← Anterior](14-menu-completo.md) · [Índice](README.md) · [Siguiente →](16-chuleta.md)
+<!-- /nav -->

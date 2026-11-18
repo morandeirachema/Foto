@@ -1,6 +1,12 @@
-# 4. Safari nocturno en charcas con la a6700 — paso a paso
+<!-- nav -->
+[← Anterior](08-safari-diurno.md) · [Índice](README.md) · [Siguiente →](10-equipo-accesorios.md)
+<!-- /nav -->
 
-> 🔵 **Básico** · Da por sabido: el capítulo 1 y saber usar el trípode · Te desbloquea: el rinoceronte de Okaukuejo a medianoche.
+*Parte II · Recetas por escenario*
+
+# 9. Safari nocturno en charcas con la a6700 — paso a paso
+
+> 🔵 **Básico** · Da por sabido: el capítulo 4 y saber usar el trípode · Te desbloquea: el rinoceronte de Okaukuejo a medianoche.
 
 Tres charcas de Etosha están **iluminadas con focos** y tienen mirador junto
 al campamento: Okaukuejo (rinocerontes negros casi cada noche, con ventana
@@ -32,7 +38,7 @@ Info de campamentos: <https://www.nwr.com.na/>
 | Obturador | **Electrónico** (`Tipo de obturador`): disparo totalmente mudo |
 
 > Cada ajuste con su **ruta de menú**, en
-> [la referencia de ajustes](ajustes-a6700.md#c1-charca-nocturna-okaukuejo-halali-onguma).
+> [la referencia de ajustes](13-ajustes-a6700.md#c1-charca-nocturna-okaukuejo-halali-onguma).
 
 ## Al llegar al mirador (10 minutos de preparación)
 
@@ -49,7 +55,7 @@ Info de campamentos: <https://www.nwr.com.na/>
    `Obturad. electr.` no están disponibles el flash, `RR exposic. larga`,
    `e-Prim. cortin. obtur.`, la toma BULB ni la toma sin parpadeo — el
    anti-parpadeo solo funciona con el mecánico
-   ([verificación de los menús](verificacion-de-menus.md)).
+   ([verificación de los menús](15-verificacion-de-menus.md)).
 3. **Prueba de color**: foto a la zona iluminada, revisa en pantalla y ajusta
    el balance de blancos en Kelvin hasta que el agua no salga naranja butano.
    Suele quedar entre 3200 y 4000 K. (El visor electrónico ya te enseña la
@@ -158,7 +164,7 @@ movido siempre ([la guía del Pixel](https://github.com/morandeirachema/a6700-na
 
 Los campamentos de Etosha también dan cielo oscuro lejos de los focos. Plan
 realista: la Vía Láctea en la primera hora oscura (hasta el 10 es cuando está,
-[capítulo 2](02-astrofotografia-namibia.md)), la charca de 21:00 a medianoche,
+[capítulo 6](06-astrofotografia-namibia.md)), la charca de 21:00 a medianoche,
 y de madrugada círculos de estrellas o las Nubes de Magallanes desde la zona
 oscura del campamento.
 
@@ -183,3 +189,7 @@ en cualquier parque con una farola:
 - Campamentos, miradores y night drives (NWR): <https://www.nwr.com.na/>
 - Charcas y fauna de Etosha: <https://www.etoshanationalpark.org/>
 - Fase lunar y planificación nocturna (PhotoPills): <https://www.photopills.com/>
+
+<!-- nav -->
+[← Anterior](08-safari-diurno.md) · [Índice](README.md) · [Siguiente →](10-equipo-accesorios.md)
+<!-- /nav -->

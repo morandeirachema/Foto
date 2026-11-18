@@ -1,6 +1,12 @@
-# 3. Safari diurno con la a6700 — recetas desde el coche
+<!-- nav -->
+[← Anterior](07-estrellas-con-tierra.md) · [Índice](README.md) · [Siguiente →](09-safari-nocturno-charcas.md)
+<!-- /nav -->
 
-> 🔵 **Básico** · Da por sabido: el capítulo 1 (memoria MR1 guardada) · Te desbloquea: fauna nítida desde el coche, con el AF trabajando para ti.
+*Parte II · Recetas por escenario*
+
+# 8. Safari diurno con la a6700 — recetas desde el coche
+
+> 🔵 **Básico** · Da por sabido: el capítulo 4 (memoria MR1 guardada) · Te desbloquea: fauna nítida desde el coche, con el AF trabajando para ti.
 
 En Etosha el safari se hace desde el coche: cámara apoyada en la ventanilla,
 luz durísima a mediodía y polvo en todas partes. La cámara va preconfigurada
@@ -13,10 +19,10 @@ luz durísima a mediodía y polvo en todas partes. La cámara va preconfigurada
 | Modo | M con **ISO Auto** (100–12800) |
 | Obturación | 1/1000 s |
 | Apertura | La mínima del zoom (f/4.5–6.3: al zoomear cambia sola, olvídate) |
-| Enfoque | **AF-C** + AF-ON con el pulgar ([capítulo 1](01-configuracion-basica.md)) |
+| Enfoque | **AF-C** + AF-ON con el pulgar ([capítulo 4](04-configuracion-basica.md)) |
 | Reconocimiento de sujeto | **Animal** (cámbialo a Ave para aves) |
 | Área AF | Zona — o Ancha si la escena está limpia |
-| Sensibilidad de seguimiento | **3** (la estándar); con hierba/ramas robando el foco, **1** ([AF y exposición a fondo](af-y-exposicion-a-fondo.md)) |
+| Sensibilidad de seguimiento | **3** (la estándar); con hierba/ramas robando el foco, **1** ([AF y exposición a fondo](12-af-y-exposicion-a-fondo.md)) |
 | Ráfaga | **Hi+** (11 fps) — en Hi+ el visor no va en tiempo real durante la ráfaga; si te cuesta seguir al animal, baja a Hi |
 | Formato | RAW en la SD (UHS-II, con hueco) |
 | Estabilizador | **OSS del objetivo en ON**; el IBIS de la cámara se suma solo (los dos, OFF en trípode) |
@@ -31,7 +37,7 @@ según el movimiento.
 > [la fauna, animal por animal](https://github.com/morandeirachema/a6700-namibia/blob/main/tecnica/fauna-de-namibia.md).
 
 > Cada uno de estos ajustes, con su **ruta exacta de menú**, en
-> [la referencia de ajustes](ajustes-a6700.md#bloque-b-fauna-la-receta-de-mr1).
+> [la referencia de ajustes](13-ajustes-a6700.md#bloque-b-fauna-la-receta-de-mr1).
 
 ## La rutina de 10 segundos (cada vez que llegas a una escena)
 
@@ -66,7 +72,7 @@ aquí viene de serie. Tu trabajo cambia, no desaparece:
   rueda de control** — la cámara amplía sola **sobre el punto donde enfocó**
   (o sea, sobre el ojo), no tienes que buscarlo; y **girando el dial
   delantero o el trasero saltas de foto manteniendo la ampliación**, así
-  revisas la ráfaga entera en diez segundos ([capítulo 0.5](00b-menus-y-primer-dia.md)).
+  revisas la ráfaga entera en diez segundos ([capítulo 2](02-menus-y-primer-dia.md)).
 
 ## Exposición en la práctica
 
@@ -75,7 +81,7 @@ En M con ISO Auto la compensación de exposición **funciona con normalidad**
 oscuro (sombra, noche) → **−0.7 a −1**; escena normal → 0. Es la única
 corrección que necesitas de día. Para casos finos (animal pequeño a
 contraluz), la medición **puntual vinculada al punto de enfoque** mide justo
-donde enfocas ([AF y exposición a fondo](af-y-exposicion-a-fondo.md)).
+donde enfocas ([AF y exposición a fondo](12-af-y-exposicion-a-fondo.md)).
 
 ## Configurar una sola vez
 
@@ -157,7 +163,7 @@ Cinco reglas que no requieren técnica, solo acordarse:
 ## Práctica desde el coche
 
 - **Bean bag** en la ventanilla (mejor que trípode dentro del coche; qué es
-  y cómo se usa: [equipo](05-equipo-accesorios.md)). Llévalo
+  y cómo se usa: [equipo](10-equipo-accesorios.md)). Llévalo
   vacío y rellénalo allí con arroz o alubias.
 - **Motor apagado** en las tomas importantes: la vibración se nota a 525 mm
   equivalentes.
@@ -202,3 +208,7 @@ animal, en [el Pixel de día](https://github.com/morandeirachema/a6700-namibia/b
 - Guía práctica para preparar un safari fotográfico: <https://photographylife.com/preparing-for-a-safari-trip-to-africa>
 - Help Guide oficial de la a6700 (menús y AF, en español): <https://helpguide.sony.net/ilc/2320/v1/es/>
 - Sony E 70-350mm F4.5-6.3 G OSS (ficha oficial): <https://www.sony.es/lenses/products/sel70350g>
+
+<!-- nav -->
+[← Anterior](07-estrellas-con-tierra.md) · [Índice](README.md) · [Siguiente →](09-safari-nocturno-charcas.md)
+<!-- /nav -->

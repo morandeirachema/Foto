@@ -1,17 +1,17 @@
 #!/usr/bin/env python3
-"""Pega las capturas de menú que existan en la galería de ajustes-a6700.md.
+"""Pega las capturas de menú que existan en la galería de 13-ajustes-a6700.md.
 
 Uso:  python3 manejo-a6700/img/menus/insertar.py
 
 Recorre esta carpeta, mira qué archivos del guion (README.md) están ya
 hechos y reconstruye la sección "Las pantallas, una a una" al final de
-manejo-a6700/ajustes-a6700.md. Es idempotente: ejecútalo las veces que quieras.
+manejo-a6700/13-ajustes-a6700.md. Es idempotente: ejecútalo las veces que quieras.
 """
 import pathlib
 import sys
 
 AQUI = pathlib.Path(__file__).resolve().parent
-GUIA = AQUI.parent.parent / "ajustes-a6700.md"
+GUIA = AQUI.parent.parent / "13-ajustes-a6700.md"
 
 INICIO = "<!-- CAPTURAS:INICIO -->"
 FIN = "<!-- CAPTURAS:FIN -->"

@@ -1,4 +1,10 @@
-# 5. Equipo y accesorios para la a6700 (enfoque budget)
+<!-- nav -->
+[← Anterior](09-safari-nocturno-charcas.md) · [Índice](README.md) · [Siguiente →](11-viltrox-25mm.md)
+<!-- /nav -->
+
+*Parte III · Equipo y objetivos*
+
+# 10. Equipo y accesorios para la a6700 (enfoque budget)
 
 > 🔵 **Básico** · Da por sabido: nada · Te desbloquea: saber qué comprar, qué no, y por qué.
 
@@ -32,7 +38,7 @@ un 20–40 %.
 > equivalentes, 170 g, filtro de 52 mm). Cubre el hueco entre el 11 mm y el
 > 70-350: retrato, calle, interiores y poca luz. No tiene interruptor
 > AF/MF: el enfoque manual se pone desde el menú. Todo en
-> [su guía](viltrox-25mm.md).
+> [su guía](11-viltrox-25mm.md).
 
 ## El cuerpo: Sony a6700
 
@@ -43,11 +49,11 @@ esta y no otra:
 - **AF con reconocimiento de animales y pájaros**: la cámara encuentra el
   ojo del animal y lo sigue sola. Para un novato en safari es la función más
   valiosa que existe — hace por ti la habilidad que antes llevaba años
-  entrenar ([capítulo 3](03-safari-diurno.md)).
+  entrenar ([capítulo 8](08-safari-diurno.md)).
 - **Estabilizador en el cuerpo (IBIS)** de ~5 pasos: suma con el del tele y
   estabiliza también el 11 mm, que no lleva estabilizador propio.
 - **Intervalómetro integrado**: los timelapses y star trails del
-  [capítulo 2](02-astrofotografia-namibia.md) sin comprar ni un cable.
+  [capítulo 6](06-astrofotografia-namibia.md) sin comprar ni un cable.
 - **26 Mpx APS-C**: margen de recorte en edición, y su recorte 1.5x
   multiplica el alcance aparente de cualquier tele.
 
@@ -115,7 +121,7 @@ Etosha y una sola bolsa vale oro.
 
 - **f/6.3 en el extremo largo** es lento para la charca nocturna: allí
   trabajarás a ISO 6400–12800 y salvarás las fotos con reducción de ruido
-  por IA (ver [capítulo 4](04-safari-nocturno-charcas.md)). La alternativa
+  por IA (ver [capítulo 9](09-safari-nocturno-charcas.md)). La alternativa
   luminosa (un 70-200 f/2.8) se sale de presupuesto; el enfoque budget es
   asumir el ISO alto. Consuelo real: por debajo de **200 mm** abre a f/5.6 y
   por debajo de 114 mm a f/5 — encuadrar un poco más ancho es luz gratis.
@@ -251,3 +257,7 @@ frenan.
 - Viltrox AF 25 mm F1.7 Air, review de Digital Camera World: <https://www.digitalcameraworld.com/cameras/lenses/viltrox-af-25mm-f-1-7-air-review>
 - Reviews de referencia de los dos objetivos Sony (Dustin Abbott): <https://dustinabbott.net/2022/06/sony-e-11mm-f1-8-review/> · <https://dustinabbott.net/2022/05/sony-e-70-350mm-f4-5-6-3-g-oss-review/>
 - Soporte oficial Sony (a6700 y firmware de objetivos): <https://www.sony.es/electronics/support>
+
+<!-- nav -->
+[← Anterior](09-safari-nocturno-charcas.md) · [Índice](README.md) · [Siguiente →](11-viltrox-25mm.md)
+<!-- /nav -->

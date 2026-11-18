@@ -1,14 +1,20 @@
-# 1. Configuración básica de la Sony a6700
+<!-- nav -->
+[← Anterior](03-diales-y-botones.md) · [Índice](README.md) · [Siguiente →](05-enfocar-el-11mm.md)
+<!-- /nav -->
 
-> 🔵 **Básico** · Da por sabido: los capítulos 0 y 0.5 · Te desbloquea: dejar la cámara lista para el viaje y no volver a configurarla.
+*Parte I · Empezar de cero*
+
+# 4. Configuración básica de la Sony a6700
+
+> 🔵 **Básico** · Da por sabido: los capítulos 1 y 2 · Te desbloquea: dejar la cámara lista para el viaje y no volver a configurarla.
 
 > **Todos los ajustes con su ruta exacta de menú, fauna y noche en dos
-> columnas**: [la referencia de ajustes](ajustes-a6700.md).
+> columnas**: [la referencia de ajustes](13-ajustes-a6700.md).
 
 > Si vienes del móvil y los términos (obturación, ISO, modo M) aún te bailan,
-> empieza por el [capítulo 0](00-de-movil-a-la-a6700.md): 10 minutos y listo.
+> empieza por el [capítulo 1](01-de-movil-a-la-a6700.md): 10 minutos y listo.
 > Y si lo que te pierde es **el menú** —dónde está cada cosa, cómo se navega,
-> cómo se reasigna un botón—, el [capítulo 0.5](00b-menus-y-primer-dia.md) es
+> cómo se reasigna un botón—, el [capítulo 2](02-menus-y-primer-dia.md) es
 > el mapa: este capítulo lo da por sabido.
 
 El objetivo es poder cambiar entre "modo safari" y "modo astro" girando el
@@ -24,7 +30,7 @@ objetivo montado en la cámara**, conectándola al ordenador por USB con el
 actualizador de la misma web de soporte (busca "SEL11F18" y "SEL70350G").
 El 70-350 es **prestado**: su dueño ya dio permiso para actualizar el suyo.
 El **Viltrox 25 mm** no se actualiza desde Sony: tiene un puerto **USB-C** en
-la montura para su firmware ([su guía](viltrox-25mm.md)).
+la montura para su firmware ([su guía](11-viltrox-25mm.md)).
 Hazlo en casa, con todo cargado, y no vuelvas a pensar en ello.
 
 ## Ajustes generales recomendados
@@ -71,7 +77,7 @@ que tocas en el safari y el índice es el dedo rápido. Así que:
 **`Dial frontal` = `Velocidad obturador`** y **`Dial trasero` = `Abertura`**.
 Compruébalo: en M, el delantero mueve la velocidad. La botonera completa
 (C1, C3, el Fn, el bloqueo y el táctil) está en
-[diales y botones](00c-diales-y-botones.md).
+[diales y botones](03-diales-y-botones.md).
 
 ## Otros botones útiles
 
@@ -80,13 +86,13 @@ Compruébalo: en M, el delantero mueve la velocidad. La botonera completa
   (funciona también en M con ISO Auto); si prefieres girar una rueda sin
   soltar el agarre, asígnala a la que quede libre en M desde
   `MENU → Ajustes → [Personal. operac.] → [Ajuste t. pers./dial]`
-  ([capítulo 0.5](00b-menus-y-primer-dia.md)).
+  ([capítulo 2](02-menus-y-primer-dia.md)).
 - **`Verificac. luminosa` en un botón custom** (*Bright Monitoring* en
   inglés): en `MENU → Ajustes → [Personal. operac.] → [Ajuste t. pers./dial]`,
   asígnala a C1. No está en ningún menú: solo existe como función de botón,
   y solo funciona con el enfoque en MF.
   Amplifica la pantalla en plena oscuridad para poder **componer la Vía Láctea viéndola** — la joya
-  nocturna de esta cámara ([capítulo 2](02-astrofotografia-namibia.md)).
+  nocturna de esta cámara ([capítulo 6](06-astrofotografia-namibia.md)).
 - **Botón Fn**: la pantalla rápida con los ajustes del día a día, editables.
 - **Pantalla táctil**: toca al animal y el seguimiento se engancha a él;
   vuelve a tocar para soltarlo.
@@ -170,9 +176,9 @@ Este capítulo se aprueba con la cámara en la mano, no leyéndolo:
 1. **Firmware** del cuerpo y de los dos objetivos al día, con todo cargado
    (el del 70-350 también: su dueño ya dio permiso).
 2. **Los diales intercambiados** (delantero = velocidad) y la botonera de
-   [diales y botones](00c-diales-y-botones.md).
+   [diales y botones](03-diales-y-botones.md).
 3. **La tabla de ajustes generales**, uno a uno, con la
-   [referencia de ajustes](ajustes-a6700.md) al lado para la
+   [referencia de ajustes](13-ajustes-a6700.md) al lado para la
    ruta exacta. Tacha cada fila.
 4. **El pulgar**: `AF c/obturador` en Desactivar y cincuenta fotos por
    casa enfocando solo con AF-ON.
@@ -204,3 +210,7 @@ larga de esto.)
 - Soporte oficial Sony (firmware y manuales): <https://www.sony.es/electronics/support>
 - Sony E 11mm F1.8 (SEL11F18), ficha oficial: <https://www.sony.es/lenses/products/sel11f18>
 - Sony E 70-350mm F4.5-6.3 G OSS (SEL70350G), ficha oficial: <https://www.sony.es/lenses/products/sel70350g>
+
+<!-- nav -->
+[← Anterior](03-diales-y-botones.md) · [Índice](README.md) · [Siguiente →](05-enfocar-el-11mm.md)
+<!-- /nav -->

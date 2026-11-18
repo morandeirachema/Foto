@@ -1,4 +1,10 @@
-# 0. Del móvil a la a6700 — curso práctico exprés
+<!-- nav -->
+[← Anterior](00-introduccion.md) · [Índice](README.md) · [Siguiente →](02-menus-y-primer-dia.md)
+<!-- /nav -->
+
+*Parte I · Empezar de cero*
+
+# 1. Del móvil a la a6700 — curso práctico exprés
 
 > 🟢 **Iniciación** · Da por sabido: nada — es el punto de partida · Te desbloquea: entender los tres números y perderle el miedo a la cámara.
 
@@ -58,7 +64,7 @@ principal del móvil ≈ 24 mm ≈ "1x"):
 | No existe en móvil | 350 mm = 525 mm equivalentes ≈ "21x" | El extremo largo del **70-350**: un león a 50 m llenando el encuadre |
 
 Fíjate en el hueco: entre 16,5 y 105 mm equivalentes solo está el **Viltrox
-25 mm** (37,5 mm equivalentes, [su guía](viltrox-25mm.md)). Ese tramo (el
+25 mm** (37,5 mm equivalentes, [su guía](11-viltrox-25mm.md)). Ese tramo (el
 retrato, el grupo, el coche en la pista) es el suyo; y cuando hay polvo en el
 aire y no quieres cambiar de objetivo, el Pixel.
 
@@ -74,18 +80,18 @@ pidiendo en el viaje (0.5x, macro, modo astro, panorámicas) está en
   - **A**: tú eliges apertura. Para pasear y paisaje de día.
   - **S**: tú eliges obturación. Transición fácil hacia la fauna.
   - **M**: tú lo eliges todo. Modo safari (con ISO Auto) y modo astro (con ISO fijo).
-  - **1 y 2**: memorias con todo preconfigurado ([capítulo 1](01-configuracion-basica.md)).
+  - **1 y 2**: memorias con todo preconfigurado ([capítulo 4](04-configuracion-basica.md)).
 - **El selector Foto / Vídeo / S&Q** (el anillo de debajo del dial de modos):
   cambia entre hacer fotos, grabar vídeo y cámara lenta/timelapse. Lo bueno
   para un novato: **el vídeo puede llevar sus propios ajustes**, así que
   poner la cámara en vídeo no te descoloca el modo safari (hay que pedírselo
   una vez, marcando las casillas de `Ajust dif imgs fij/víd`: lo explica el
-  [capítulo 1](01-configuracion-basica.md)).
+  [capítulo 4](04-configuracion-basica.md)).
 - **Tres ruedas**: la delantera (junto al disparador), la trasera superior y
   la rueda de control del respaldo. En M, de fábrica, la **delantera mueve
   la apertura** y la **trasera la obturación**; este repo las intercambia
   (obturación en la delantera, que es la que tocas en el safari) en dos
-  minutos: [diales y botones](00c-diales-y-botones.md).
+  minutos: [diales y botones](03-diales-y-botones.md).
 - **El ISO**: flecha derecha de la rueda de control. Con ISO Auto no lo tocas.
 - **La compensación de exposición**: flecha **inferior** de la rueda de
   control (su sitio de serie). La usarás a diario — y funciona en todos los
@@ -124,7 +130,7 @@ El móvil enfoca "solo" porque decide por ti. Aquí eliges dos cosas:
    está nítido, la foto vale; si no, no.
 
 Media pulsación del disparador = enfocar; pulsación completa = foto. (En el
-[capítulo 1](01-configuracion-basica.md) separamos el enfoque al botón AF-ON
+[capítulo 4](04-configuracion-basica.md) separamos el enfoque al botón AF-ON
 del pulgar — aún mejor.)
 
 ## Medición: por qué la cámara "se equivoca" y cómo corregirla
@@ -160,14 +166,14 @@ la gráfica, no el ojo:
      **despegada del borde**.
 2. Activa el **Zebra 100+**: lo que va a salir quemado aparece rayado en la
    pantalla **antes de disparar** — es tu aviso de altas luces en vivo
-   ([capítulo 1](01-configuracion-basica.md)).
+   ([capítulo 4](04-configuracion-basica.md)).
 3. Cada vez que cambie la luz (una nube, el atardecer), vistazo al histograma
    antes del momento importante — de día basta el que va en vivo; de noche,
    foto de prueba y el de la revisión (en exposiciones largas el histograma
    en vivo no acumula los segundos y engaña).
 
 Cómo debe verse el histograma en cada escenario del viaje, dibujado:
-[chuleta visual del histograma](../conceptos/histograma.md).
+[chuleta visual del histograma](../conceptos/01-histograma.md).
 
 ## RAW (y cómo pasar fotos al móvil en el viaje)
 
@@ -217,17 +223,17 @@ edición está explicada en la [guía de edición](../retoques/README.md).
    la cámara, como cualquier objetivo), 10 s, ISO 1600. Juega con los
    segundos mirando el histograma. Si puedes escaparte a cielo oscuro,
    sigue la escalera de tres noches de
-   [Estrellas con la tierra dentro](estrellas-con-tierra.md) —
+   [Estrellas con la tierra dentro](07-estrellas-con-tierra.md) —
    empieza de cero y acaba en la postal del viaje.
 6. **La cámara a ciegas**: configura los botones y las memorias MR1/MR2 del
-   [capítulo 1](01-configuracion-basica.md) y practica el cambio sin mirar.
+   [capítulo 4](04-configuracion-basica.md) y practica el cambio sin mirar.
    Después vuelca las fotos y prueba el
    [flujo de edición](../retoques/README.md) con las de la tarde 5.
 7. **Charca nocturna de ensayo**: busca una fuente o estatua **iluminada con
    focos** en tu ciudad, de noche: trípode, M, 1/60 s, f/6.3, ISO 6400, y
    ajusta el balance de blancos en K hasta que la piedra no salga naranja.
    Es, ajuste por ajuste, el mirador de Okaukuejo
-   ([capítulo 4](04-safari-nocturno-charcas.md)) — mejor descubrir los
+   ([capítulo 9](09-safari-nocturno-charcas.md)) — mejor descubrir los
    problemas en tu barrio que con un rinoceronte delante.
 
 Cuando estas siete salgan solas: [Safari a fondo](https://github.com/morandeirachema/a6700-namibia/blob/main/mejora/safari-a-fondo.md)
@@ -242,9 +248,9 @@ punto en [su guía](https://github.com/morandeirachema/a6700-namibia/blob/main/t
 hacia delante y no necesitan el teleobjetivo.
 
 Si la cámara acaba de llegar (o el menú te da miedo), el siguiente paso es
-el [capítulo 0.5](00b-menus-y-primer-dia.md): el día 0 de la caja a la
+el [capítulo 2](02-menus-y-primer-dia.md): el día 0 de la caja a la
 primera foto, el mapa del menú y cómo revisar las fotos como es debido.
-Luego, el [capítulo 1](01-configuracion-basica.md) deja la cámara
+Luego, el [capítulo 4](04-configuracion-basica.md) deja la cámara
 configurada para el viaje.
 
 ## Referencias
@@ -252,3 +258,7 @@ configurada para el viaje.
 - Help Guide oficial de la a6700 (el manual completo, en línea): <https://helpguide.sony.net/ilc/2320/v1/es/>
 - Soporte oficial Sony: <https://www.sony.es/electronics/support>
 - dzoom, tutoriales prácticos de fotografía en español: <https://www.dzoom.org.es/>
+
+<!-- nav -->
+[← Anterior](00-introduccion.md) · [Índice](README.md) · [Siguiente →](02-menus-y-primer-dia.md)
+<!-- /nav -->

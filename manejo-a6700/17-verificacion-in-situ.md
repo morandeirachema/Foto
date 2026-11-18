@@ -1,9 +1,15 @@
-# Verificación in situ — guía de campo (para imprimir)
+<!-- nav -->
+[← Anterior](16-chuleta.md) · [Índice](README.md)
+<!-- /nav -->
+
+*Parte V · Hojas de campo*
+
+# 17. Verificación in situ — guía de campo (para imprimir)
 
 Repasos por momento del día, con el **porqué** de cada comprobación: si
 entiendes qué vigila cada punto, sabrás improvisar cuando algo no cuadre.
 Cada sección acaba en segundos; el orden importa. Imprímela junto a la
-[chuleta](chuleta.md) y la [lista de tomas](https://github.com/morandeirachema/a6700-namibia/blob/main/plan/lista-de-tomas.md).
+[chuleta](16-chuleta.md) y la [lista de tomas](https://github.com/morandeirachema/a6700-namibia/blob/main/plan/lista-de-tomas.md).
 
 ---
 
@@ -23,7 +29,7 @@ Cada sección acaba en segundos; el orden importa. Imprímela junto a la
   tarjeta es la única copia hasta el volcado de cada noche
   ([logística](https://github.com/morandeirachema/a6700-namibia/blob/main/campo/logistica-viaje.md)).
 - [ ] **MR1 y MR2 guardados**: gira el dial a 1 y a 2 y verifica que cargan
-  la receta (safari / astro, [capítulo 1](01-configuracion-basica.md)).
+  la receta (safari / astro, [capítulo 4](04-configuracion-basica.md)).
   *Por qué:* de noche o con un león delante no hay tiempo de menús.
 - [ ] **Zebra 100+ activado**. *Por qué:* es tu aviso de quemados **en
   vivo**, antes de disparar — la alarma de exposición más rápida que tiene
@@ -172,7 +178,7 @@ El repaso que separa "creo que la tengo" de "la tengo":
   molestan, f/2.8) e interruptor del objetivo en **MF**.
 - [ ] WB modo **K**: 3900.
 - [ ] **`Verificac. luminosa`** (el botón que configuraste en el
-  [capítulo 1](01-configuracion-basica.md)): la pantalla se amplifica y ves
+  [capítulo 4](04-configuracion-basica.md)): la pantalla se amplifica y ves
   la Vía Láctea para componer, sin fotos de prueba a ciegas.
 - [ ] **Enfoque a estrella**: lupa (`Amplific. enfoque`) sobre la estrella más
   brillante → anillo despacio hasta el punto **más pequeño** (si engorda, te
@@ -271,3 +277,7 @@ El repaso que separa "creo que la tengo" de "la tengo":
 | Visor borroso pero fotos nítidas | Dioptrías movidas | Ruedecita del visor |
 | El visor no se enciende al acercar el ojo | La pantalla desplegada desactiva el sensor de ojo | Pliega la pantalla contra el cuerpo |
 | La cámara "no responde" tras una ráfaga larga | Buffer volcando a tarjeta | Espera unos segundos; no apagues ni saques la tarjeta |
+
+<!-- nav -->
+[← Anterior](16-chuleta.md) · [Índice](README.md)
+<!-- /nav -->

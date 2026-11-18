@@ -1,6 +1,12 @@
-# Atlas de encuadres — el repertorio, encuadre a encuadre
+<!-- nav -->
+[← Anterior](03-por-que-funciona.md) · [Índice](README.md) · [Siguiente →](05-la-mirada.md)
+<!-- /nav -->
 
-> 🔵 **Básico** · Da por sabido: el [capítulo 3](../manejo-a6700/03-safari-diurno.md) · Te desbloquea: mirar lo que tienes delante y saber **qué foto cabe ahí**, en vez de disparar a ver qué sale.
+*Parte II · La composición y la mirada*
+
+# 4. Atlas de encuadres — el repertorio, encuadre a encuadre
+
+> 🔵 **Básico** · Da por sabido: el [capítulo 8](../manejo-a6700/08-safari-diurno.md) · Te desbloquea: mirar lo que tienes delante y saber **qué foto cabe ahí**, en vez de disparar a ver qué sale.
 
 Las reglas de composición te dicen qué **no** hacer. Esto es lo contrario: un
 **catálogo de fotos posibles**. Veinte encuadres —catorce de fauna, seis de
@@ -22,7 +28,7 @@ que hay delante, y se ejecuta.
 
 > **Antes de nada, enciende la cuadrícula**: `Toma → [Visualizac. toma] →
 > [Vis. lín. cuadrícul.] → Activar`, en **regla de tres**. Es la diferencia
-> entre intuir el encuadre y verlo ([capítulo 0.5](../manejo-a6700/00b-menus-y-primer-dia.md)).
+> entre intuir el encuadre y verlo ([capítulo 2](../manejo-a6700/02-menus-y-primer-dia.md)).
 
 Y la regla que gobierna el atlas entero, del [safari a fondo](https://github.com/morandeirachema/a6700-namibia/blob/main/mejora/safari-a-fondo.md):
 **la distancia media es la muerte**. O muy cerca, o muy lejos. El animal
@@ -494,7 +500,7 @@ más de cuatro metros, que a f/1.8 es "cerca".
   granito de Hoada, la rueda del coche.
 - **Dónde**: Hoada y Spreetshoogte, donde hay roca cerca.
 - **El error que lo mata**: poner el objeto a menos de cuatro metros — sale
-  borroso y no hay arreglo (el porqué, en [por qué funciona](por-que-funciona.md)).
+  borroso y no hay arreglo (el porqué, en [por qué funciona](03-por-que-funciona.md)).
 
 ---
 
@@ -523,12 +529,16 @@ gesto y salida. Son los encuadres 3, 1, 6, 9 y 14 de este atlas.
 
 Los diagramas puestos a prueba, foto a foto, en
 [fotos desmontadas](https://github.com/morandeirachema/a6700-namibia/blob/main/mejora/fotos-desmontadas.md); y el calendario de
-práctica, en el [cuaderno de composición](cuaderno-de-composicion.md).
+práctica, en el [cuaderno de composición](06-cuaderno-de-composicion.md).
 
 ## Referencias
 
 - Las reglas detrás de estos encuadres: [safari a fondo](https://github.com/morandeirachema/a6700-namibia/blob/main/mejora/safari-a-fondo.md) · [paisaje a fondo](https://github.com/morandeirachema/a6700-namibia/blob/main/mejora/paisaje-a-fondo.md)
-- El porqué óptico (profundidad, compresión, aire): [por qué funciona](por-que-funciona.md)
+- El porqué óptico (profundidad, compresión, aire): [por qué funciona](03-por-que-funciona.md)
 - Qué animal hace qué gesto: [la fauna, animal por animal](https://github.com/morandeirachema/a6700-namibia/blob/main/tecnica/fauna-de-namibia.md)
 - Qué hay en el cielo cada noche: [el cielo del viaje](https://github.com/morandeirachema/a6700-namibia/blob/main/plan/cielo-del-viaje.md)
 - Composición de paisaje nocturno (van Oosten, entrevista): <https://www.photocascadia.com/an-interview-with-marsel-van-oosten-from-adrian-klein/>
+
+<!-- nav -->
+[← Anterior](03-por-que-funciona.md) · [Índice](README.md) · [Siguiente →](05-la-mirada.md)
+<!-- /nav -->

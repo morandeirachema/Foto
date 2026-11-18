@@ -1,6 +1,12 @@
-# 2. Astrofotografía en Namibia con la a6700 — paso a paso
+<!-- nav -->
+[← Anterior](05-enfocar-el-11mm.md) · [Índice](README.md) · [Siguiente →](07-estrellas-con-tierra.md)
+<!-- /nav -->
 
-> 🔵 **Básico** · Da por sabido: el capítulo 1 (memoria MR2 guardada) · Te desbloquea: la Vía Láctea, las Nubes de Magallanes y los star trails.
+*Parte II · Recetas por escenario*
+
+# 6. Astrofotografía en Namibia con la a6700 — paso a paso
+
+> 🔵 **Básico** · Da por sabido: el capítulo 4 (memoria MR2 guardada) · Te desbloquea: la Vía Láctea, las Nubes de Magallanes y los star trails.
 
 Namibia tiene algunos de los cielos más oscuros del planeta (NamibRand fue la
 primera Reserva Internacional de Cielo Oscuro de África, certificada en
@@ -13,8 +19,8 @@ visible gran parte de la noche.
 > **Nubes de Magallanes**, Saturno y las Táuridas, y la Cruz del Sur no está
 > al anochecer. Las recetas y el enfoque de este capítulo valen igual; el
 > **plan de tus noches concretas** está en
-> [la mirada](../conceptos/la-mirada.md), el fino en
-> [estrellas con la tierra dentro](estrellas-con-tierra.md), y el catálogo completo de lo
+> [la mirada](../conceptos/05-la-mirada.md), el fino en
+> [estrellas con la tierra dentro](07-estrellas-con-tierra.md), y el catálogo completo de lo
 > fotografiable en tu ventana, objetivo a objetivo, en
 > [el cielo del viaje](https://github.com/morandeirachema/a6700-namibia/blob/main/plan/cielo-del-viaje.md).
 
@@ -25,7 +31,7 @@ visible gran parte de la noche.
 
 | Parámetro | Valor de partida |
 |---|---|
-| Modo | M (o directamente **MR2**, [capítulo 1](01-configuracion-basica.md)) |
+| Modo | M (o directamente **MR2**, [capítulo 4](04-configuracion-basica.md)) |
 | Apertura | **f/1.8** — la máxima del 11 mm, y se pone con la rueda de la cámara como en cualquier objetivo (si las estrellas de las esquinas salen con "alitas", cierra a f/2.8) |
 | Obturación | 20 s con el 11 mm (16,5 mm eq) |
 | ISO | 1600; sube a 3200 si queda oscura |
@@ -38,7 +44,7 @@ visible gran parte de la noche.
 | `RR exposic. larga` | Desactivar |
 
 > Cada ajuste con su **ruta de menú**, en
-> [la referencia de ajustes](ajustes-a6700.md#c2-astro-la-receta-de-mr2).
+> [la referencia de ajustes](13-ajustes-a6700.md#c2-astro-la-receta-de-mr2).
 
 ## Antes de salir (checklist)
 
@@ -49,7 +55,7 @@ visible gran parte de la noche.
   Stellarium (<https://stellarium.org/>).
 - [ ] ¿Timelapse o star trails? Nada que comprar: el **intervalómetro va
   integrado** en la cámara (ver abajo).
-- [ ] **`Verificac. luminosa`** (*Bright Monitoring*) asignada a un botón ([capítulo 1](01-configuracion-basica.md)):
+- [ ] **`Verificac. luminosa`** (*Bright Monitoring*) asignada a un botón ([capítulo 4](04-configuracion-basica.md)):
   es tu linterna para componer a oscuras.
 
 ## En el sitio, paso a paso
@@ -67,7 +73,7 @@ visible gran parte de la noche.
    En luna nueva prueba también el encuadre **vertical**: el núcleo de la Vía
    Láctea es alto y estrecho, y en vertical entra entero con su primer plano.
 4. **Enfoca a una estrella** (la parte más delicada, 2 minutos; el detalle,
-   y qué hacer si no hay estrellas brillantes, en [Enfocar el 11 mm](enfocar-el-11mm.md)):
+   y qué hacer si no hay estrellas brillantes, en [Enfocar el 11 mm](05-enfocar-el-11mm.md)):
    1. Interruptor **AF/MF del objetivo en MF**, SteadyShot OFF.
    2. Activa la **lupa de enfoque** (`Amplific. enfoque`) y lleva el recuadro a
       la estrella más brillante.
@@ -110,7 +116,7 @@ visible gran parte de la noche.
 
 La versión a fondo de las dos fotos con primer plano — la postal (cielo
 fijo con silueta) y los círculos sobre un objeto — está en
-[Estrellas con la tierra dentro](estrellas-con-tierra.md).
+[Estrellas con la tierra dentro](07-estrellas-con-tierra.md).
 
 ## Star trails (circumpolares del sur)
 
@@ -128,7 +134,7 @@ para un novato: círculos de estrellas girando sobre el paisaje.
    cámara nivelada y el horizonte en el tercio bajo, el 11 mm abarca 71° de
    alto: el polo entra seguro. Las cuatro formas de encontrarlo — incluida
    la **prueba de giro** de 4 minutos con `Aj. temporiz. BULB` — están en
-   [Estrellas con la tierra dentro](estrellas-con-tierra.md).
+   [Estrellas con la tierra dentro](07-estrellas-con-tierra.md).
 2. Receta: **30 s, f/2.8, ISO 800–1600**, balance fijo 3900 K,
    reducción de ruido de larga exposición **OFF** (o cada foto irá seguida de
    30 s a oscuras y los arcos saldrán cortados), enfoque a las estrellas como
@@ -205,7 +211,7 @@ planificador sobre mapa.
    inclúyelo asumido como "amanecer falso" naranja en el horizonte; la opción
    `Reduce light pollution` de Sequator ([edición](../retoques/README.md))
    limpia bastante el degradado.
-5. Remata la noche en el mirador de la charca ([capítulo 4](04-safari-nocturno-charcas.md)):
+5. Remata la noche en el mirador de la charca ([capítulo 9](09-safari-nocturno-charcas.md)):
    astro y rinocerontes en la misma salida.
 
 ## Localizaciones destacadas
@@ -254,3 +260,7 @@ enfoque y el manejo a tientas.
 - Review del Sony E 11mm F1.8, con su comportamiento en las esquinas (Dustin Abbott): <https://dustinabbott.net/2022/06/sony-e-11mm-f1-8-review/>
 - Guía práctica de Vía Láctea en español: <https://capturetheatlas.com/es/como-fotografiar-la-via-lactea/>
 - Help Guide oficial de la a6700: <https://helpguide.sony.net/ilc/2320/v1/es/>
+
+<!-- nav -->
+[← Anterior](05-enfocar-el-11mm.md) · [Índice](README.md) · [Siguiente →](07-estrellas-con-tierra.md)
+<!-- /nav -->

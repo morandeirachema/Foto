@@ -1,6 +1,12 @@
-# Balance de blancos por escena — valores de partida
+<!-- nav -->
+[← Anterior](01-histograma.md) · [Índice](README.md) · [Siguiente →](03-por-que-funciona.md)
+<!-- /nav -->
 
-> 🔵 **Básico** · Da por sabido: el capítulo 0 · Te desbloquea: que los colores salgan como los viste, no como los inventa la cámara.
+*Parte I · La luz y la exposición*
+
+# 2. Balance de blancos por escena — valores de partida
+
+> 🔵 **Básico** · Da por sabido: el capítulo 1 · Te desbloquea: que los colores salgan como los viste, no como los inventa la cámara.
 
 Disparando en RAW, el balance de blancos **se puede cambiar después sin
 perder nada** — pero fijarlo bien en cámara tiene dos ventajas: la pantalla y
@@ -23,7 +29,7 @@ práctica: **de día, un preajuste fijo; de noche, Kelvin a mano.**
 | Animal en sombra (bajo un árbol, hide) | **Sombra (7000 K)** | La sombra abierta es muy azul |
 | **Amanecer y atardecer** | **Fijo en Luz de día (5200 K)** — nunca AWB | El AWB "corrige" el dorado y te roba justo lo que viniste a buscar; con 5200 K fijo, la luz cálida se queda en la foto |
 | Contraluz con polvo dorado | Luz de día (5200 K), o Nublado si lo quieres aún más cálido | Mismo motivo: conservar el oro |
-| Charca nocturna con focos | **K a mano: empieza en 3500** y ajusta por prueba entre **2800–4000** | Cada campamento tiene focos distintos (los de sodio piden ~2800–3200; ver la prueba de color del [capítulo 4](../manejo-a6700/04-safari-nocturno-charcas.md)) |
+| Charca nocturna con focos | **K a mano: empieza en 3500** y ajusta por prueba entre **2800–4000** | Cada campamento tiene focos distintos (los de sodio piden ~2800–3200; ver la prueba de color del [capítulo 9](../manejo-a6700/09-safari-nocturno-charcas.md)) |
 | Game drive con foco | **K ≈ 3200–3800** | Focos halógenos, cálidos |
 | Astro / Vía Láctea | **K = 3900** (rango útil 3800–4200) | Cielo neutro sin ponerse naranja ni azul eléctrico |
 | Hide de Olifantsrus (focos rojos) | Da igual el valor: la luz ES roja | No luches contra ella: asume la foto monocroma rojiza o pasa a B/N en edición |
@@ -49,3 +55,7 @@ justo lo que has ido a fotografiar.
 
 - El balance de blancos en la Guía de ayuda oficial de la a6700: <https://helpguide.sony.net/ilc/2320/v1/es/>
 - Tutoriales de balance de blancos en español (dzoom): <https://www.dzoom.org.es/>
+
+<!-- nav -->
+[← Anterior](01-histograma.md) · [Índice](README.md) · [Siguiente →](03-por-que-funciona.md)
+<!-- /nav -->

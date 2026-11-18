@@ -1,8 +1,14 @@
-# El menú completo de la a6700 — pestaña a pestaña, con tu valor
+<!-- nav -->
+[← Anterior](13-ajustes-a6700.md) · [Índice](README.md) · [Siguiente →](15-verificacion-de-menus.md)
+<!-- /nav -->
 
-> 🟢 **Iniciación** · Da por sabido: nada (el [capítulo 0.5](00b-menus-y-primer-dia.md) enseña a moverse; aquí basta con saber que MENU abre y vuelve atrás) · Te desbloquea: saber qué es **cada** línea del menú, cuáles importan en este viaje y cuáles puedes ignorar sin culpa.
+*Parte IV · Referencia*
 
-[La referencia de ajustes](ajustes-a6700.md) recoge los ajustes que **usa**
+# 14. El menú completo de la a6700 — pestaña a pestaña, con tu valor
+
+> 🟢 **Iniciación** · Da por sabido: nada (el [capítulo 2](02-menus-y-primer-dia.md) enseña a moverse; aquí basta con saber que MENU abre y vuelve atrás) · Te desbloquea: saber qué es **cada** línea del menú, cuáles importan en este viaje y cuáles puedes ignorar sin culpa.
+
+[La referencia de ajustes](13-ajustes-a6700.md) recoge los ajustes que **usa**
 este viaje, con su valor de fauna y de noche. Esta página es lo contrario: el
 menú **entero**, pestaña a pestaña y grupo a grupo, tal como aparece en la
 cámara con el selector en **Foto**. Cada línea lleva una frase de qué hace y
@@ -10,7 +16,7 @@ cámara con el selector en **Foto**. Cada línea lleva una frase de qué hace y
 nada en Namibia: puedes pasar de largo.
 
 > ✅ Las rutas de esta página pasaron una auditoría independiente el 3 de
-> noviembre de 2026: [verificación de los menús](verificacion-de-menus.md),
+> noviembre de 2026: [verificación de los menús](15-verificacion-de-menus.md),
 > con el mapa oficial completo y las 11 subopciones que quedan por confirmar con C3.
 
 Todos los nombres están copiados de la **Guía de ayuda oficial de Sony en
@@ -27,7 +33,7 @@ Si solo tienes media hora, cambia esto y olvídate del resto de la página:
 | # | Ruta | Valor | Por qué |
 |---|---|---|---|
 | 1 | `Toma → [Calid. img/grab.] → [Formato archivo]` | **RAW** | Todo el revelado del repo asume RAW |
-| 2 | `Toma → [Calid. img/grab.] → [Tipo archivo RAW]` | **C. sin pérd.** | Máxima calidad (el búfer baja a 23: [equipo](05-equipo-accesorios.md)) |
+| 2 | `Toma → [Calid. img/grab.] → [Tipo archivo RAW]` | **C. sin pérd.** | Máxima calidad (el búfer baja a 23: [equipo](10-equipo-accesorios.md)) |
 | 3 | `Toma → [Calid. img/grab.] → [RR exposic. larga]` | **Desactivar** | Si no, cada foto de 20 s va seguida de 20 s en negro |
 | 4 | `Toma → [Obturad./silenc.] → [Liberar sin tarj. mem.]` | **Inhabilitar** | Si no, la cámara **dispara sin tarjeta y no guarda nada** |
 | 5 | `Toma → [Visualizac. toma] → [Vis. lín. cuadrícul.]` | **Activar** (`Cuadr. regl. terc.`) | Aire de la mirada y horizontes rectos |
@@ -36,7 +42,7 @@ Si solo tienes media hora, cambia esto y olvídate del resto de la página:
 | 8 | `Enfoque → [AF/MF] → [AF c/obturador]` | **Desactivar** | Enfoque con el pulgar (AF-ON) |
 | 9 | `Enfoque → [AF/MF] → [Iluminador AF]` | **Desactivar** | Esa luz naranja en una charca nocturna espanta animales y vecinos |
 | 10 | `Ajustes → [Personal. operac.] → [Ajust dif imgs fij/víd]` | **Las 8 casillas marcadas** | Sin esto, el 1/50 del vídeo aparece en tus fotos |
-| 11 | `Ajustes → [Personal. operac.] → [Ajuste t. pers./dial]` | **Dial frontal = velocidad, dial trasero = abertura** | De fábrica es al revés, y todo el repo dice "rueda delantera = obturación" ([diales y botones](00c-diales-y-botones.md)) |
+| 11 | `Ajustes → [Personal. operac.] → [Ajuste t. pers./dial]` | **Dial frontal = velocidad, dial trasero = abertura** | De fábrica es al revés, y todo el repo dice "rueda delantera = obturación" ([diales y botones](03-diales-y-botones.md)) |
 | 12 | `Ajustes → [Opción de visual.] → [Rev.automática]` | **Desactivar** | Te tapa el visor justo cuando la escena sigue |
 | 13 | `Ajustes → [Opción de visual.] → [Visual. tomas rest.]` | **Mostrar siempre** | Ves cuántas fotos te quedan en el búfer antes de que la ráfaga se atasque |
 | 14 | `Ajustes → [Opción sonido] → [Señales audio]` | **Desactivar** | Silencio en charcas y miradores |
@@ -52,7 +58,7 @@ en "Ajustes").
   así que la ruta completa es "la pestaña del título + el grupo de la tabla".
 - **Tu valor**: lo que se pone para el viaje. **Fauna** = la memoria MR1;
   **noche** = charca o MR2; los detalles por escena, en la
-  [referencia de ajustes](ajustes-a6700.md).
+  [referencia de ajustes](13-ajustes-a6700.md).
 - 🎥 = solo existe en vídeo; ⚠️ = se lleva por delante otra cosa (lo dice la
   columna).
 - El menú **cambia con el selector Foto / Vídeo / S&Q**: si una línea no
@@ -125,7 +131,7 @@ No tiene grupos: es una **lista de lo que tienes puesto ahora mismo**
 modo de manejo, balance, enfoque, área, batería…). Tocar cualquier valor
 abre su ajuste para cambiarlo. Úsala como **repaso de diez segundos** antes
 de la primera foto del día: si algo no cuadra con la
-[chuleta](chuleta.md), se ve aquí de un vistazo.
+[chuleta](16-chuleta.md), se ve aquí de un vistazo.
 
 ---
 
@@ -171,8 +177,8 @@ de la primera foto del día: si algo no cuadra con la
 |---|---|---|
 | `Autom./sel. escena` | Qué hace el dial en AUTO | No lo toques (no usas AUTO) |
 | `Recup. ajust. cám.` | Recupera una memoria (1–3 del dial, M1–M4 de la tarjeta) | Las del dial se recuperan girándolo; esto solo para M1–M4 |
-| `Mem. ajustes cám` | **Guarda** lo que tienes puesto en 1, 2 o 3 | **1 = safari · 2 = astro · 3 = aves** ([capítulo 1](01-configuracion-basica.md)). Cada modo (foto, vídeo, S&Q) tiene sus tres propias |
-| `Reg ajuste toma pers` | Ajustes que solo valen mientras mantienes pulsado un botón | No lo toques (nivel avanzado: [AF a fondo](af-y-exposicion-a-fondo.md)) |
+| `Mem. ajustes cám` | **Guarda** lo que tienes puesto en 1, 2 o 3 | **1 = safari · 2 = astro · 3 = aves** ([capítulo 4](04-configuracion-basica.md)). Cada modo (foto, vídeo, S&Q) tiene sus tres propias |
+| `Reg ajuste toma pers` | Ajustes que solo valen mientras mantienes pulsado un botón | No lo toques (nivel avanzado: [AF a fondo](12-af-y-exposicion-a-fondo.md)) |
 
 ### [Modo de manejo]
 
@@ -183,7 +189,7 @@ de la primera foto del día: si algo no cuadra con la
 | ↳ `Variación expos.` | Horquillado de exposición | Para paisaje con mucho contraste ([paisaje a fondo](https://github.com/morandeirachema/a6700-namibia/blob/main/mejora/paisaje-a-fondo.md)). En M con ISO AUTO varía el ISO |
 | ↳ `Var.exp. enfoque` | Horquillado de enfoque (apilado) | No lo toques |
 | `Ajustes de Variación` | Orden y temporizador del horquillado | No lo toques |
-| `Func. capt. interv.` | **El intervalómetro integrado**: inicio, intervalo (1–60 s, de inicio a inicio), número de tomas (hasta 9.999) | Star trails: 30 s · intervalo **31 s** · 90–180 tomas. Timelapse: 15 s · **17 s** · 300 ([capítulo 2](02-astrofotografia-namibia.md)) |
+| `Func. capt. interv.` | **El intervalómetro integrado**: inicio, intervalo (1–60 s, de inicio a inicio), número de tomas (hasta 9.999) | Star trails: 30 s · intervalo **31 s** · 90–180 tomas. Timelapse: 15 s · **17 s** · 300 ([capítulo 6](06-astrofotografia-namibia.md)) |
 | ↳ `Tipo obturad. interv.` | Obturador de la serie a intervalos (de fábrica, **electrónico**, sea cual sea el de la cámara) | **Obturad. electr.**: silencioso y sin desgaste. Hasta 30 s, de sobra para astro |
 
 ### [Obturad./silenc.]
@@ -245,7 +251,7 @@ de la primera foto del día: si algo no cuadra con la
 
 | Ajuste | Qué hace | Tu valor |
 |---|---|---|
-| `Modo medición` | `Multi` · `Centro` · `Puntual` · `Prom. pant. ent.` · `Iluminación` | **Multi**; **Puntual** vinculada en el nivel avanzado ([AF a fondo](af-y-exposicion-a-fondo.md)) |
+| `Modo medición` | `Multi` · `Centro` · `Puntual` · `Prom. pant. ent.` · `Iluminación` | **Multi**; **Puntual** vinculada en el nivel avanzado ([AF a fondo](12-af-y-exposicion-a-fondo.md)) |
 | `Cara en multimed.` | En Multi, mide según las caras | No lo toques |
 | `Punto med. punt.` | `Centro` o `Vínc. punto enf.` (el círculo sigue al punto de enfoque) | **Vínc. punto enf.** cuando uses Puntual |
 | `AEL con obturad.` | Si medio disparador bloquea la exposición | No lo toques |
@@ -261,7 +267,7 @@ en las charcas el flash está prohibido de todas formas.
 
 | Ajuste | Qué hace | Tu valor |
 |---|---|---|
-| `Balance blanco` | Automático, preajustes, `Tem.col./filtro` (en K) y personalizados | **Fauna**: `Luz diurna` o K fijo. **Charca**: K ≈ 3500. **Astro**: K 3900. En `Tem.col./filtro` el dial trasero cambia los K ([balance de blancos](../conceptos/balance-de-blancos.md)) |
+| `Balance blanco` | Automático, preajustes, `Tem.col./filtro` (en K) y personalizados | **Fauna**: `Luz diurna` o K fijo. **Charca**: K ≈ 3500. **Astro**: K 3900. En `Tem.col./filtro` el dial trasero cambia los K ([balance de blancos](../conceptos/02-balance-de-blancos.md)) |
 | `Ajuste prior AWB` | Qué prioriza el automático con luz cálida | No lo toques |
 | `Bloq.AWB dispar.` | Bloquea el automático al disparar | No lo toques |
 
@@ -327,7 +333,7 @@ en las charcas el flash está prohibido de todas formas.
 | Ajuste | Qué hace | Tu valor |
 |---|---|---|
 | `Amplif. autom. MF` | Amplía solo al girar el anillo en MF | **Activar**: en astro, tocar el anillo ya te pone la lupa (y apaga `Verificac. luminosa`, que para entonces ya no necesitas) |
-| `Amplific. enfoque` | La lupa para comprobar el foco | Se ejecuta, no se ajusta. Mejor en un botón ([diales y botones](00c-diales-y-botones.md)) |
+| `Amplific. enfoque` | La lupa para comprobar el foco | Se ejecuta, no se ajusta. Mejor en un botón ([diales y botones](03-diales-y-botones.md)) |
 | `Tiemp. aum. enf.` | Cuánto dura la lupa | **Sin límite**: enfocar una estrella lleva su tiempo |
 | `Aum. inic. enfoq.` | Aumento inicial (x1,0 o x6,1) | **x6,1** |
 | `AF en ampl. enfoq` | AF con la imagen ampliada | No lo toques |
@@ -399,9 +405,9 @@ desde Creators' App por Bluetooth, si lo activas allí.
 
 | Ajuste | Qué hace | Tu valor |
 |---|---|---|
-| `Ajuste t. pers./dial` (foto) · (vídeo) | Qué hace cada botón y cada dial | La botonera completa está en [diales y botones](00c-diales-y-botones.md) |
+| `Ajuste t. pers./dial` (foto) · (vídeo) | Qué hace cada botón y cada dial | La botonera completa está en [diales y botones](03-diales-y-botones.md) |
 | `Aj. Tecla person.` | Los botones en reproducción | `Valoración` a un botón |
-| `Ajustes del menú Fn` | Las 12 casillas del Fn (foto y vídeo por separado) | Las doce de [diales y botones](00c-diales-y-botones.md) |
+| `Ajustes del menú Fn` | Las 12 casillas del Fn (foto y vídeo por separado) | Las doce de [diales y botones](03-diales-y-botones.md) |
 | `Ajust dif imgs fij/víd` | Qué ajustes van aparte en foto y en vídeo | **Las ocho marcadas**: Abertura, Velocidad obturador, ISO, Compensar exp., Modo medición, Balance blanco, Perfil de imagen, Modo de enfoque |
 | `Aj. DISP (vis. pant.)` | Qué vistas recorre DISP, en `Monitor` y en `Visor` | Solo **Mostrar toda info.**, **Histograma** y **Nivel** |
 | `REC bot. disparad.` 🎥 | Grabar vídeo con el disparador | No lo toques (graba el botón MOVIE) |
@@ -484,7 +490,7 @@ para monitores y grabadores externos. **No lo toques.**
 | `Limpieza del sensor` | Vibra el sensor para soltar polvo (con un 51 % de batería o más) | **El primer remedio** si ves una mancha fija en el cielo: antes que la pera ([limpieza](https://github.com/morandeirachema/a6700-namibia/blob/main/campo/limpieza-en-campo.md)) |
 | `Asign. auto. píxeles` | Mapeo automático de píxeles calientes al apagar | **Activar** |
 | `Asignación píxeles` | El mismo mapeo, ahora | **Ejecútalo antes de volar**, y en el viaje si aparecen puntos de color fijos en las fotos de noche |
-| `Versión` | Firmware del cuerpo y del objetivo montado | Compruébalo con cada objetivo antes de volar ([capítulo 1](01-configuracion-basica.md)) |
+| `Versión` | Firmware del cuerpo y del objetivo montado | Compruébalo con cada objetivo antes de volar ([capítulo 4](04-configuracion-basica.md)) |
 | `Mostr. núm. de serie` | El número de serie | **Fotografíalo** para el seguro |
 
 ---
@@ -513,7 +519,7 @@ Los siete que valen la pena: `Sens. Seguim. AF`, `Dest. reconocim.`,
 | No sé qué hace la línea que tengo delante | — | Pulsa **C3** (el de la papelera) con ella seleccionada: sale la **Guía en la cámara** |
 | Disparé y no se guardó nada | `Liberar sin tarj. mem.` en Habilitar, y la tarjeta en casa | **Inhabilitar** (receta rápida, línea 4) |
 | Mis fotos salen a 1/50 sin haberlo tocado | Grabaste vídeo y `Ajust dif imgs fij/víd` no tiene marcada la velocidad | Las ocho casillas, y vuelve a poner la velocidad de foto |
-| Gira el dial delantero y se mueve la apertura | Es el reparto de fábrica | Cámbialo en `Ajuste t. pers./dial` ([diales y botones](00c-diales-y-botones.md)) |
+| Gira el dial delantero y se mueve la apertura | Es el reparto de fábrica | Cámbialo en `Ajuste t. pers./dial` ([diales y botones](03-diales-y-botones.md)) |
 | Lo he desconfigurado todo | — | `Guard./carg. ajustes → Cargar` si guardaste; si no, `Restablecer ajuste → Reponer ajustes de cámara` y la receta rápida de arriba |
 
 ## Ejercicio: el repaso del menú (una tarde, en casa)
@@ -551,3 +557,7 @@ que te señalen al azar.
 - Guía en la cámara: <https://helpguide.sony.net/ilc/2320/v1/es/contents/0105C_in_camera_guide.html>
 - Ajustes de vídeo (formatos y tasas): <https://helpguide.sony.net/ilc/2320/v1/es/contents/0412B_movie_setting.html>
 - Tarjetas que sirven para cada formato: <https://helpguide.sony.net/ilc/2320/v1/es/contents/0002H_usable_memory_card.html>
+
+<!-- nav -->
+[← Anterior](13-ajustes-a6700.md) · [Índice](README.md) · [Siguiente →](15-verificacion-de-menus.md)
+<!-- /nav -->
