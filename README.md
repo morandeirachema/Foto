@@ -7,7 +7,7 @@
 ![Sony a6700](https://img.shields.io/badge/cámara-Sony%20a6700-1D1D1F)
 ![Luminar for Desktop 1.29.x](https://img.shields.io/badge/retoque-Luminar%201.29.x-B4561C)
 ![Idioma: español](https://img.shields.io/badge/idioma-español-5F6368)
-![42 guías](https://img.shields.io/badge/guías-42-2E7D32)
+![43 guías](https://img.shields.io/badge/guías-43-2E7D32)
 ![PDF para imprimir](https://img.shields.io/badge/PDF-4%20para%20imprimir-5F6368)
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Elephants_rushing_to_water_%28Etosha%2C_2013%29.jpg/1920px-Elephants_rushing_to_water_%28Etosha%2C_2013%29.jpg" alt="Elefantes corriendo hacia una charca en Etosha" width="100%">
@@ -22,7 +22,7 @@
 
 Guía **práctica** de fotografía en español, para quien viene del móvil: **entender** qué pasa dentro de una foto, **manejar** la cámara sin mirarla y **retocar** el resultado sin estropearlo. Escrita alrededor de un equipo real y de un viaje real (safari, paisaje y cielos nocturnos en Namibia), con recetas de valores concretos, pasos numerados y tablas de *"si sale mal, toca esto"*.
 
-> **El equipo:** Sony a6700 (APS-C, factor 1,5) · Sony E 11 mm F1.8 (astro y paisaje, 16,5 mm equivalentes) · Sony E 70-350 mm F4.5-6.3 G OSS (fauna, 105–525 mm equivalentes) · Luminar for Desktop 1.29.x (Luminar Neo) en macOS.
+> **El equipo:** Sony a6700 (APS-C, factor 1,5) · Sony E 11 mm F1.8 (astro y paisaje, 16,5 mm equivalentes) · Viltrox AF 25 mm F1.7 Air (retrato, calle y poca luz, 37,5 mm equivalentes) · Sony E 70-350 mm F4.5-6.3 G OSS (fauna, 105–525 mm equivalentes; **prestado**) · Luminar for Desktop 1.29.x (Luminar Neo) en macOS.
 
 ## 🗺️ Cómo está organizado
 
@@ -35,7 +35,7 @@ flowchart LR
 | Carpeta | Qué hay | Guías |
 |---|---|---|
 | [`conceptos/`](conceptos/) | Lo que vale para cualquier cámara: el modelo técnico, el histograma, el balance de blancos, la composición y la mirada | 7 |
-| [`manejo-a6700/`](manejo-a6700/) | La cámara: del móvil a la a6700, menús, diales, configuración, recetas por escenario, equipo y referencia completa de ajustes | 16 |
+| [`manejo-a6700/`](manejo-a6700/) | La cámara: del móvil a la a6700, menús, diales, configuración, recetas por escenario, equipo y referencia completa de ajustes | 17 |
 | [`retoques/`](retoques/) | La guía de Luminar en 18 capítulos, verificada con la documentación oficial de Skylum | 19 |
 | [`pdf/`](pdf/) | Las hojas imprimibles y la guía de retoques completa, maquetadas en A4 | 4 PDF |
 | [`sources/`](sources/) | Material de origen: la **edición completa en PDF** de a6700-namibia (264 páginas), con la configuración de la cámara y el anexo de verificación de menús | 1 PDF |
@@ -79,6 +79,7 @@ Cada guía de conceptos y de manejo abre con su **nivel**: 🟢 **Iniciación** 
 | 🔵 | [**3 · Safari diurno**](manejo-a6700/03-safari-diurno.md) | El AF con reconocimiento de animales, la rutina de 10 segundos, composición y receta por escena |
 | 🔵 | [**4 · Charcas nocturnas**](manejo-a6700/04-safari-nocturno-charcas.md) | Fauna con foco artificial: obturador silencioso, AF en penumbra, techo de ISO |
 | 🔵 | [**5 · Equipo y accesorios**](manejo-a6700/05-equipo-accesorios.md) | El kit con precios y alternativas, tarjetas (y el búfer), baterías, filtros y polvo |
+| 🔵 | [**El Viltrox 25 mm F1.7**](manejo-a6700/viltrox-25mm.md) | El objetivo "normal": ficha, recetas, cómo enfocar **sin interruptor AF/MF** (MF desde el menú o con un botón), hiperfocal y astro con 25 mm |
 | 🔴 | [**El AF y la exposición a fondo**](manejo-a6700/af-y-exposicion-a-fondo.md) | Los tres mandos del AF, la medición puntual vinculada, la botonera "de francotirador" y el 70-350 al límite |
 
 **Referencia y hojas de campo**
@@ -138,6 +139,7 @@ flowchart LR
 - 🐣 *Nunca he manejado una cámara en serio* → [Del móvil a la a6700](manejo-a6700/00-de-movil-a-la-a6700.md) y el [glosario](conceptos/glosario.md).
 - 📦 *La cámara acaba de llegar* → [Los menús y el primer día](manejo-a6700/00b-menus-y-primer-dia.md), luego [los diales y los botones](manejo-a6700/00c-diales-y-botones.md) y la [configuración básica](manejo-a6700/01-configuracion-basica.md).
 - 🔭 *Quiero fotografiar estrellas con el 11 mm* → [Enfocar el 11 mm](manejo-a6700/enfocar-el-11mm.md) (esta misma noche) y luego [Estrellas con la tierra dentro](manejo-a6700/estrellas-con-tierra.md).
+- 🙂 *Retratos, calle o interiores con poca luz* → [El Viltrox 25 mm](manejo-a6700/viltrox-25mm.md).
 - 🔎 *¿Qué es esta línea del menú?* → [El menú completo](manejo-a6700/menu-completo.md).
 - 📊 *No sé si la foto está bien expuesta* → [El histograma](conceptos/histograma.md).
 - 🦁 *Voy de safari* → [Safari diurno](manejo-a6700/03-safari-diurno.md) para disparar y [Retoques · Safari](retoques/05-safari.md) para editar.

@@ -28,6 +28,12 @@ un 20–40 %.
 > urgencias. Las secciones de abajo explican **por qué** se eligió cada
 > cosa; siguen valiendo como referencia aunque ya no haya que comprarla.
 
+> **Y un tercer objetivo, tuyo:** el **Viltrox AF 25 mm F1.7 Air** (37,5 mm
+> equivalentes, 170 g, filtro de 52 mm). Cubre el hueco entre el 11 mm y el
+> 70-350: retrato, calle, interiores y poca luz. No tiene interruptor
+> AF/MF: el enfoque manual se pone desde el menú. Todo en
+> [su guía](viltrox-25mm.md).
+
 ## El cuerpo: Sony a6700
 
 **~1.000–1.200 € nueva** (salió a 1.700 € en 2023 y hoy se ve bastante por
