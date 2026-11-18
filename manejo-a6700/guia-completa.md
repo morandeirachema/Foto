@@ -1212,6 +1212,8 @@ larga de esto.)
 | **Noche sin estrellas brillantes** | **MF** + lupa sobre una **luz lejana** (una farola a cientos de metros, una antena con luz) o la Luna |
 | **Árbol o roca bajo las estrellas** | El mismo enfoque a la estrella: con el 11 mm a f/1.8, todo lo que esté a **más de ~4 m** sale nítido también. **Nunca reenfoques al objeto** |
 
+> **Cuanto más larga la focal, más lejos tiene que estar el primer plano.** Enfocado a las estrellas y con el diafragma abierto, queda nítido lo que está más allá de **~4 m con el 11 mm** y de **~18 m con el Viltrox 25 mm** ([su guía](11-viltrox-25mm.md)). Por eso la foto de estrellas con un árbol se hace con el 11 mm.
+
 ## El objetivo, en lo que importa para enfocar
 
 - **Interruptor AF/MF en el barrilete.** **Manda** sobre el `Modo de enfoque` del menú: si la cámara "no enfoca" o "no me deja enfocar a mano", mira primero el interruptor ([diales y botones](03-diales-y-botones.md)).
