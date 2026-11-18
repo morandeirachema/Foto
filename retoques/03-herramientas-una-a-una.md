@@ -27,7 +27,7 @@ Si no conoces Luminar, este es el capítulo de consulta. Para cada herramienta q
 
 ## 3.2. Develop (Essentials): la luz y el color de toda la foto
 
-La herramienta principal. Se usa **sin máscara**, para toda la foto ([sección 5.2](05-ajustes-locales.md)).
+La herramienta principal. Se usa **sin máscara**, para toda la foto: si le pones una máscara, **toda** su corrección pasa a esa zona y el resto de la foto se queda sin corregir ([sección 5.2](05-ajustes-locales.md)).
 
 | Deslizador | Qué hace | Empieza en | Límite en JPEG | Te has pasado si… |
 |---|---|---|---|---|

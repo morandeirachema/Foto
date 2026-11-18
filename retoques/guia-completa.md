@@ -344,7 +344,7 @@ Si no conoces Luminar, este es el capítulo de consulta. Para cada herramienta q
 
 ## 3.2. Develop (Essentials): la luz y el color de toda la foto
 
-La herramienta principal. Se usa **sin máscara**, para toda la foto ([sección 5.2](05-ajustes-locales.md)).
+La herramienta principal. Se usa **sin máscara**, para toda la foto: si le pones una máscara, **toda** su corrección pasa a esa zona y el resto de la foto se queda sin corregir ([sección 5.2](05-ajustes-locales.md)).
 
 | Deslizador | Qué hace | Empieza en | Límite en JPEG | Te has pasado si… |
 |---|---|---|---|---|
@@ -687,7 +687,9 @@ En Luminar no hay un panel de ajustes locales aparte: **cada herramienta tiene s
 3. Elige el tipo de máscara y marca la zona.
 4. El ajuste de esa herramienta queda **solo** en la zona marcada.
 
-**Una máscara por herramienta.** Esto es lo importante para empezar: si usas **Develop** para corregir la foto entera y luego le pones una máscara, la corrección pasa a afectar **solo** a la zona de la máscara. Por eso el método de esta guía es:
+**Una máscara por herramienta.** Esto es lo importante para empezar: si usas **Develop** para corregir la foto entera y luego le pones una máscara, la corrección pasa a afectar **solo** a la zona de la máscara.
+
+> **Ejemplo con números.** Pones **Exposure +0,3** en Develop y toda la foto se aclara. Después añades a ese mismo Develop una **máscara sobre el león**. Resultado: el **+0,3 queda solo en el león**, y **el resto de la foto vuelve a como estaba antes** de Develop, sin su corrección. La máscara no añade un segundo ajuste: **limita el que ya tiene esa herramienta**. Por eso el método de esta guía es:
 - **Develop, sin máscara**, para la luz y el color de toda la foto ([sección 4](04-flujo-base.md)).
 - **Dodge & Burn** para aclarar u oscurecer zonas **pintando** (5.4 a 5.6). No necesita máscara: el pincel es la máscara.
 - **Otras herramientas, cada una con su máscara**, para lo demás: textura del sujeto, color del fondo, etc. (5.7).

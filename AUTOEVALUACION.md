@@ -183,6 +183,20 @@ Porque la máscara limita **ese** ajuste: toda tu corrección global pasaría a 
 → [Retoques 5.2](retoques/05-ajustes-locales.md#52-cómo-funcionan-las-máscaras-en-luminar)
 </details>
 
+**5b. Pones Exposure +0,3 en Develop para toda la foto y luego añades a ese Develop una máscara sobre el león. ¿Qué le pasa al resto de la foto?**
+<details><summary>Respuesta</summary>
+
+**Pierde la corrección:** el +0,3 queda solo en el león y el resto vuelve a como estaba antes de Develop. La máscara limita el ajuste que ya tiene la herramienta; no añade otro.
+→ [Retoques 5.2](retoques/05-ajustes-locales.md#52-cómo-funcionan-las-máscaras-en-luminar)
+</details>
+
+**5c. Unas estrellas salen como bolas o donuts y otras fotos con trazos alargados en la misma dirección. ¿Qué causa cada cosa?**
+<details><summary>Respuesta</summary>
+
+**Bolas o donuts: desenfoque** (vuelve a enfocar con la lupa). **Trazos en la misma dirección: movimiento** (la Tierra giró; baja el tiempo, por ejemplo de 20 s a 15 s).
+→ [Manejo 5 · Enfocar el 11 mm](manejo-a6700/05-enfocar-el-11mm.md)
+</details>
+
 **6. Las estrellas salen como rayitas con el 11 mm a 20 s. ¿Es el enfoque? ¿Qué cambias?**
 <details><summary>Respuesta</summary>
 
