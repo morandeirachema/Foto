@@ -180,6 +180,14 @@ Editar en local consiste en que el sujeto gane un poco en esas cosas y el fondo 
 
 **Pocos colores, más armonía.** En safari, la paleta natural es de **ocres, dorados y verdes apagados**. Si un color se sale (un vehículo rojo, una camiseta fosforito), desaturarlo con una máscara limpia la foto sin borrar nada.
 
+## Ejercicio (15 minutos)
+
+1. Abre una foto tuya en Luminar y pulsa **`J`**: ¿qué zonas salen marcadas como quemadas o empastadas?
+2. Busca en la foto las **cinco zonas de brillo** (1.2): señala un negro, una sombra, un medio tono, una luz y un blanco.
+3. Mantén **`\`** sobre una foto ya editada por otra persona (o una tuya antigua) y di qué crees que se tocó.
+
+**Aprobado cuando** sabes explicar, sin mirar, por qué un JPEG aguanta menos que un RAW.
+
 <!-- nav -->
 [← Anterior](00-introduccion.md) · [Índice](README.md) · [Siguiente →](02-luminar-por-dentro.md)
 <!-- /nav -->

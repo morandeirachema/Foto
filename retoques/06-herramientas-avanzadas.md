@@ -63,7 +63,7 @@ La técnica clásica de laboratorio: **aclarar** y **oscurecer** pintando.
 - **Overall Amount:** intensidad global de todo lo pintado.
 
 **Cómo usarlo:**
-- **Lighten** con poca **Strength** sobre lo que debe destacar: el ojo, la cresta de una duna, la luz en una nube.
+- **Lighten** con **Strength** 10–15 sobre lo que debe destacar: el ojo, la cresta de una duna, la luz en una nube.
 - **Darken** sobre lo que distrae: una rama clara, un borde brillante.
 - **Muchas pasadas suaves** mejor que una fuerte. Al final, ajusta **Overall Amount**.
 
@@ -80,7 +80,7 @@ Usa un **mapa de profundidad** calculado por IA para iluminar de forma distinta 
 - **Brightness Near / Warmth Near:** brillo y temperatura del **primer plano**.
 - **Brightness Far / Warmth Far:** brillo y temperatura del **fondo**.
 
-**Perspectiva atmosférica.** Lo cercano parece más claro, contrastado y cálido; lo lejano, más suave y frío. Para reforzarla: **Brightness Near** un poco arriba, **Warmth Near** un poco cálido y **Warmth Far** un poco frío. Con valores pequeños.
+**Perspectiva atmosférica.** Lo cercano parece más claro, contrastado y cálido; lo lejano, más suave y frío. Para reforzarla: **Brightness Near** +10, **Warmth Near** +5 y **Warmth Far** −5. Valores pequeños: si se nota el efecto, es demasiado.
 
 ## 6.6. Black & White (Essentials)
 
@@ -120,15 +120,23 @@ El blanco y negro no es quitar el color, sino **decidir qué gris recibe cada co
 
 | Herramienta | Qué hace | Precaución |
 |---|---|---|
-| **Film Grain** | Grano: **Amount**, **Size**, **Roughness** | **Amount** bajo. Disimula las bandas |
+| **Film Grain** | Grano: **Amount**, **Size**, **Roughness** | **Amount** 5–10. Disimula las bandas |
 | **Matte** | Aspecto suave y envejecido: **Amount**, **Fade** (resta detalle en las zonas oscuras), **Contrast**, **Vividness** y tonalidad de color | Quita profundidad a los negros |
 | **Toning** | Tiñe por separado luces y sombras: **Highlights/Shadows Saturation** y **Hue**, y **Balance** | Sutil; también útil en blanco y negro |
-| **Mood (LUT)** | Aplica una tabla LUT (incluidas o tuyas en formato **.cube**) con **Amount**, **Contrast** y **Saturation** | Baja **Amount** para un efecto suave |
+| **Mood (LUT)** | Aplica una tabla LUT (incluidas o tuyas en formato **.cube**) con **Amount**, **Contrast** y **Saturation** | **Amount** 30–50 para un efecto suave |
 | **Glow** | Brillo suave: tipos **Soft Focus**, **Glow**, **Orton Effect** y **Orton Effect Soft** | Ablanda la imagen; usa una máscara para proteger el sujeto |
 | **Mystical** | Brillo etéreo: suaviza la luminosidad y sube contraste y saturación | Según Skylum, por debajo de 40 da un resultado más realista |
 | **Dramatic** | Aspecto áspero y cinematográfico: reduce saturación y contraste, al estilo del *bleach bypass* | Estético, no correctivo |
 | **Magic Light AI** | Destellos y rayos en fuentes de luz artificiales: **Intensity**, **Size**, **Beam Width**, **Glow**, **Clearness**, **Number of Beams** | Solo bombillas y farolas, muy suave |
 | **Color Transfer** | Aplica la paleta de color de una foto de referencia | No funciona con fotos en blanco y negro |
+
+## Ejercicio (una tarde)
+
+1. **Curvas:** haz una S suave y compárala (con **`\`**) con el mismo contraste hecho con Smart Contrast.
+2. **Dodge & Burn:** en una foto de dunas o de un animal con luz lateral, aclara las caras iluminadas y oscurece las sombras.
+3. **Blanco y negro:** convierte una foto de cielo con nubes y prueba **Blue** a −40 en Luminance.
+
+**Aprobado cuando** sabes decir qué herramienta de este capítulo usarías para: más contraste sin tocar el cielo, una dominante solo en las sombras, más volumen en una duna y un cielo dramático en blanco y negro.
 
 <!-- nav -->
 [← Anterior](05-ajustes-locales.md) · [Índice](README.md) · [Siguiente →](07-safari.md)

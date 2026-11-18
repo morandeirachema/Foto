@@ -132,6 +132,15 @@ Con un JPEG no hay RAW al que volver, pero Luminar tiene herramientas para casi 
 
 **El orden en una foto difícil:** primero el ruido y el movimiento (Noiseless AI, Supersharp AI), luego la luz y el color, luego las herramientas que inventan contenido y, **al final de todo**, Upscale.
 
+## Ejercicio (una tarde)
+
+1. Elige **tres** fotos de Namibia: una de fauna, una de paisaje y una difícil (oscura, con ruido o quemada).
+2. Edita cada una con los **10 pasos**, con este capítulo y la [hoja de bolsillo](03-herramientas-una-a-una.md) abiertos.
+3. La difícil, con la tabla de **Rescatar un JPEG difícil**.
+4. Al día siguiente, míralas de nuevo y **baja un 20–30 %** lo que se te haya ido.
+
+**Aprobado cuando** haces los 10 pasos de memoria y las tres fotos mejoran sin que se note el retoque.
+
 <!-- nav -->
 [← Anterior](03-herramientas-una-a-una.md) · [Índice](README.md) · [Siguiente →](05-ajustes-locales.md)
 <!-- /nav -->

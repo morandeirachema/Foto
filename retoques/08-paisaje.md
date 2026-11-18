@@ -34,7 +34,7 @@
 - **Highlights** −30 a −60 para el cielo; **Shadows** +20 a +40 para el suelo.
 - Después, en local:
   - **Cielo:** **Dodge & Burn → Darken**, pincel grande y suave ([sección 5.6](05-ajustes-locales.md)). Para más contraste solo en el cielo, **Supercontrast** con máscara **Mask AI → cielo** o **Gradient** (**`G`**).
-  - **Suelo:** **Dodge & Burn → Lighten** suave, o **Light Depth → Brightness Near** si el suelo es el primer plano.
+  - **Suelo:** **Dodge & Burn → Lighten** (**Strength** 15), o **Light Depth → Brightness Near** (+10 a +20) si el suelo es el primer plano.
 - **¿Mask AI o Gradient?** **Mask AI** respeta las formas (montañas, árboles). El **Gradient** es más natural con horizontes rectos (mar, sabana plana) y no deja bordes raros alrededor de los árboles.
 - **Luminosity Masking** es otra opción: selecciona solo las zonas más claras (el cielo) por su brillo.
 
@@ -42,7 +42,7 @@
 - **Landscape → Dehaze** +10 a +20 si hay calima. Más oscurece y satura.
 - **Light Depth:** primer plano un poco más claro y cálido; fondo algo más frío (sección 6.5).
 - **Perspectiva atmosférica:** lo cercano es más contrastado, cálido y saturado; lo lejano, más claro, frío y suave. Reforzar esa diferencia da profundidad.
-- **Error frecuente:** un Dehaze fuerte en toda la foto **elimina** esa perspectiva. Mejor un Dehaze suave, o con máscara solo donde haga falta.
+- **Error frecuente:** un Dehaze fuerte en toda la foto **elimina** esa perspectiva. Mejor un Dehaze de **+10**, o con máscara solo donde haga falta.
 
 **5. Color**
 - **Enhance AI:** **Accent AI** 20–30; **Sky Enhancer AI** 25–40.
@@ -64,7 +64,7 @@
 
 **7. Acabado**
 - **Vignette** muy suave (−10).
-- **Film Grain** con **Amount** bajo si el cielo muestra bandas.
+- **Film Grain** con **Amount** 5–10 si el cielo muestra bandas.
 
 ## 8.3. Casos concretos
 
@@ -75,18 +75,18 @@
 - **Color Harmony → Split Color Warmth → Warm** a la derecha: arena más dorada sin tocar el cielo azul.
 
 **Atardecer:**
-- No neutralices el color. Como mucho, Temperature un poco más fría si el naranja es exagerado.
-- **Sky Enhancer AI** bajo, o **Color Harmony → Warmth** suave.
-- **Twilight Enhancer AI** (preset **Golden** o **Blush**) es otra opción, con **Amount** bajo. Revisa que no añada luz que no había.
+- No neutralices el color. Como mucho, Temperature **−5** si el naranja es exagerado.
+- **Sky Enhancer AI** +10 a +20, o **Color Harmony → Warmth** +5 a +10.
+- **Twilight Enhancer AI** (preset **Golden** o **Blush**) es otra opción, con **Amount** 20–30. Revisa que no añada luz que no había.
 - Siluetas de árboles: **Blacks** abajo, para que sean negras de verdad.
 - **El sol** casi siempre estará quemado, y es normal. Lo que importa es que el halo de alrededor tenga degradado y no un borde duro.
 
 **Sabana con cielo de tormenta:**
 - **Cielo:** **Structure AI** +15 con **Mask AI → cielo** (las nubes sí agradecen textura) y **Dodge & Burn → Darken** para oscurecerlo.
-- **Suelo:** **Dodge & Burn → Lighten** suave. El atractivo está en el contraste entre el cielo oscuro y el suelo iluminado.
+- **Suelo:** **Dodge & Burn → Lighten** (**Strength** 15). El atractivo está en el contraste entre el cielo oscuro y el suelo iluminado.
 
 **Montaña:**
-- Las montañas lejanas suelen salir azuladas y planas por la atmósfera. **Dehaze** suave con **Mask AI → montañas** les devuelve el relieve.
+- Las montañas lejanas suelen salir azuladas y planas por la atmósfera. **Dehaze** +10 a +15 con **Mask AI → montañas** les devuelve el relieve.
 - **Supercontrast** con la misma máscara para marcar el relieve sin tocar el cielo.
 - **Nieve:** blanca con textura, no gris ni quemada. Cuidado con **Whites**.
 
@@ -104,9 +104,17 @@
 **Hora azul (justo después de la puesta de sol):**
 - La escena es azulada de verdad. No calientes el balance de blancos.
 - Las luces artificiales (pueblo, lodge) se ven cálidas: el contraste naranja/azul es el atractivo.
-- **Twilight Enhancer AI**, preset **Blue**, con **Amount** bajo, si quieres reforzarlo.
+- **Twilight Enhancer AI**, preset **Blue**, con **Amount** 20–30, si quieres reforzarlo.
 
 **Cambiar el cielo (Sky AI):** técnicamente es fácil, pero en una foto documental o de viaje **convierte la foto en un montaje**. Úsalo solo en fotos creativas y dilo si las compartes.
+
+## Ejercicio (una tarde)
+
+1. Elige un paisaje de Namibia con el cielo más claro que el suelo.
+2. Equilibra cielo y suelo (paso 3) y da profundidad (paso 4).
+3. Haz una **copia virtual** con un tratamiento distinto (por ejemplo, más cálido o en blanco y negro) y compáralas con **`;`**.
+
+**Aprobado cuando** el cielo tiene textura, el suelo tiene luz, y no aparecen bandas ni halos en el horizonte.
 
 <!-- nav -->
 [← Anterior](07-safari.md) · [Índice](README.md) · [Siguiente →](09-noche.md)

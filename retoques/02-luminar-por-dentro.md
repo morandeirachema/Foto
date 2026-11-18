@@ -69,6 +69,14 @@ En Luminar, la mayoría de las herramientas tienen su propia pestaña **Masking*
 
 Para la edición normal de un JPEG de viaje bastan las **herramientas con máscara**. Las capas sirven sobre todo para combinar imágenes, un uso que en fotos documentales conviene evitar (sección 14).
 
+## Ejercicio (15 minutos)
+
+1. Añade una carpeta al catálogo (**`⌥⇧N`**) y marca 5 fotos con **`P`** y 5 con **`X`**.
+2. Crea una **copia virtual** (**`⌘'`**) de una foto y conviértela a blanco y negro; compara las dos con **`;`**.
+3. En cualquier herramienta, abre la pestaña **Masking**, prueba **Mask AI** (**`A`**) y mira la máscara con **`/`**.
+
+**Aprobado cuando** sabes ir del catálogo a la edición y volver, y encontrar la pestaña Masking de una herramienta sin buscar.
+
 <!-- nav -->
 [← Anterior](01-conceptos-basicos.md) · [Índice](README.md) · [Siguiente →](03-herramientas-una-a-una.md)
 <!-- /nav -->

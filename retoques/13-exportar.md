@@ -106,6 +106,15 @@ Una copia en papel enseña cosas que la pantalla del móvil esconde. Antes de ma
 - **Papel mate:** sin reflejos, colores y negros más suaves; muy bonito en paisaje y en blanco y negro. **Papel brillante:** colores y negros más intensos, pero refleja la luz.
 - Si la prueba sale oscura o con otro color, corrige **en la copia virtual** y vuelve a probar.
 
+## Ejercicio (una tarde, y una visita al laboratorio)
+
+1. Elige **una** foto que quieras imprimir y repasa la lista de 13.6.
+2. Haz una **copia virtual** para papel (Exposure +0,1 a +0,2) y expórtala a tamaño original.
+3. Exporta también la versión para compartir (lado largo de unos 2.000 px) y mándala a la familia.
+4. Pide una **prueba de 10 × 15** y compárala con la pantalla.
+
+**Aprobado cuando** la prueba en papel se parece a lo que veías en pantalla, o sabes qué corregir en la copia virtual.
+
 <!-- nav -->
 [← Anterior](12-varias-fotos.md) · [Índice](README.md) · [Siguiente →](14-etica.md)
 <!-- /nav -->

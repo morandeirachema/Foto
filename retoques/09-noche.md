@@ -44,12 +44,12 @@ La fotografía nocturna es la que **más sufre en JPEG**: mucho ruido, sombras m
 **4. La Vía Láctea**
 - **Supercontrast → Highlights** con máscara **Radial** (**`R`**) sobre el núcleo, en modo **Inverted** para que actúe dentro del círculo: realza las nubes de estrellas sin tocar el fondo.
 - **Structure AI** +10/+20 con la misma máscara (**Copy**/**Paste** de la máscara).
-- **Dodge & Burn → Lighten** muy suave sobre el núcleo, si necesita más luz.
-- **Landscape → Dehaze** con la misma máscara, suave: aumenta el contraste de las nubes de estrellas.
+- **Dodge & Burn → Lighten** (**Strength** 10) sobre el núcleo, si necesita más luz.
+- **Landscape → Dehaze** con la misma máscara, **+10**: aumenta el contraste de las nubes de estrellas.
 - **Por qué en local:** si subes el contraste en todo el cielo, sube también el ruido del fondo.
 
 **5. Contaminación lumínica en el horizonte**
-- **Color Harmony** con un **Gradient** desde el horizonte hacia arriba: **Warmth** un poco negativa para neutralizar el naranja; y **Dodge & Burn → Darken** suave sobre el resplandor.
+- **Color Harmony** con un **Gradient** desde el horizonte hacia arriba: **Warmth** −5 a −10 para neutralizar el naranja; y **Dodge & Burn → Darken** (**Strength** 15) sobre el resplandor.
 - Si el resplandor es fuerte, **no intentes eliminarlo**: déjalo como un degradado cálido suave. Si lo quitas del todo, queda una banda gris sucia.
 
 **6. Primer plano**
@@ -58,8 +58,8 @@ La fotografía nocturna es la que **más sufre en JPEG**: mucho ruido, sombras m
 - **De noche, la máscara de cielo puede fallar** porque el límite entre cielo y suelo apenas se ve. Revísala con **`/`** y corrígela con **Brush**, o usa un **Gradient** en el horizonte.
 
 **7. Acabado**
-- **Details** muy bajo y **Details Masking** alto: el enfoque fuerte convierte el ruido en estrellas falsas.
-- **Vignette** suave.
+- **Details:** Sharpen **0 a +5** y **Sharpening Masking** **60–70** (alto: solo enfoca los bordes claros). El enfoque fuerte convierte el ruido en estrellas falsas.
+- **Vignette** −10.
 - Revisa al 100 %: bandas en el cielo, halos en el horizonte, estrellas convertidas en manchas.
 
 **Estrellas alargadas (pequeños trazos):** salen cuando la exposición fue demasiado larga para la focal usada. No tienen arreglo real al editar. Para la próxima vez, consulta la sección 15.3.
@@ -69,15 +69,15 @@ La fotografía nocturna es la que **más sufre en JPEG**: mucho ruido, sombras m
 - **Balance de blancos:** no neutralices del todo las bombillas cálidas. Algo de calidez hace la escena acogedora.
 - **Highlights** −30/−50 para recuperar las luces. Si las bombillas están quemadas, déjalas: es normal.
 - **Noiseless AI** casi siempre.
-- **Magic Light AI** (opcional y muy suave) añade rayos y brillo a bombillas y farolas.
-- **HSL:** baja la saturación del naranja si la luz es demasiado intensa.
+- **Magic Light AI** (opcional, **Intensity** 10–20) añade rayos y brillo a bombillas y farolas.
+- **HSL:** naranja → Saturation **−10** si la luz es demasiado intensa.
 - **Luces de distintos colores:** neutraliza la que más se vea y deja la otra con su color.
 
 ## 9.4. Fuego de campamento y linternas
 
-- **Decide el color.** La luz del fuego es muy naranja. Corrige un poco (Temperature un poco más fría), pero **no la vuelvas blanca**: el fuego tiene que seguir pareciendo fuego.
+- **Decide el color.** La luz del fuego es muy naranja. Corrige un poco (Temperature **−5 a −10**), pero **no la vuelvas blanca**: el fuego tiene que seguir pareciendo fuego.
 - **Shadows** +20 para ver las caras; **Highlights** −40 para que la llama tenga forma.
-- Si hay personas, **Mask AI → personas** con un Develop suave, o **Face AI → Face Light**.
+- Si hay personas, **Face AI → Face Light** (+10 a +20) o **Dodge & Burn → Lighten** (**Strength** 15) sobre las caras.
 - **Vignette** algo más marcada (−20) para concentrar la luz en el fuego.
 - **No enfoques las llamas ni las chispas**: el enfoque convierte su movimiento en ruido.
 
@@ -91,9 +91,18 @@ La fotografía nocturna es la que **más sufre en JPEG**: mucho ruido, sombras m
 
 El mejor momento para la "foto nocturna" con JPEG suele ser **antes** de la noche cerrada, cuando el cielo aún tiene luz azul y el ruido es mucho menor.
 - Balance de blancos: deja el azul.
-- **Highlights** abajo en las luces artificiales; **Shadows** suaves.
-- Ruido: a menudo basta con **Denoise** suave.
-- **Twilight Enhancer AI** (preset **Blue**) puede reforzar el ambiente, con **Amount** bajo.
+- **Highlights** −30 en las luces artificiales; **Shadows** +10 a +20.
+- Ruido: a menudo basta con **Denoise** (Luminosity Denoise +10 a +20, Color Denoise +20 a +30).
+- **Twilight Enhancer AI** (preset **Blue**) puede reforzar el ambiente, con **Amount** 20–30.
+
+## Ejercicio (una tarde)
+
+1. Elige una foto nocturna de Namibia (estrellas, fuego o luces).
+2. Primero **Noiseless AI**, revisando al 100 % que no desaparezcan las estrellas pequeñas.
+3. Corrige el balance de blancos hasta un cielo gris azulado (o un fuego que siga pareciendo fuego).
+4. Compara con **`\`** y revisa al 100 % las esquinas.
+
+**Aprobado cuando** el ruido no se ve a tamaño pantalla y el color de la noche es creíble.
 
 <!-- nav -->
 [← Anterior](08-paisaje.md) · [Índice](README.md) · [Siguiente →](10-recetas.md)

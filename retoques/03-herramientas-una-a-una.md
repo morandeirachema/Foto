@@ -144,7 +144,30 @@ La herramienta de los ajustes locales ([sección 5](05-ajustes-locales.md)).
 | **Remove Dust Spots** | — | Quita automáticamente manchas de polvo del sensor; luego afina con Erase |
 | **Clone** | **`⌘J`** | **`⌥`**-clic para elegir de dónde copiar; pinta con toques cortos |
 
-## 3.12. Hoja de bolsillo: los diez números de partida
+## 3.12. Las demás herramientas, en una tabla
+
+Las usa la guía en casos concretos. ✳️ = **inventa** contenido: perfecta para tu álbum; dilo si presentas la foto como documento ([sección 14](14-etica.md)).
+
+| Herramienta (categoría) | Para qué | Controles clave | Empieza en |
+|---|---|---|---|
+| **Supersharp AI** (Image Quality) | Fotos algo movidas o blandas | Modo **Motion Blur** (movimiento) o **Universal**; nivel **Low / Middle / High** | Motion Blur, **Low** |
+| ✳️ **Upscale** (Extra) | Ampliar una foto muy recortada | El factor, **hasta 6×** | **2×**, al final de todo |
+| **Face AI** (Portrait) | Caras con poca luz | **Face Light** | +10 a +20 |
+| **Twilight Enhancer AI** (Landscape) | Luz de hora dorada o azul | Presets **Blush, Golden, Blue, Emerald, Mauve**; **Amount** | Preset y **Amount** 20–30 |
+| **Water Enhancer AI** (Landscape) | Agua más clara y viva | **Amount**, **Blue**, **Green**, **Brightness**, **Contrast**; pincel **Draw/Erase** | **Amount** 20–30 |
+| ✳️ **Sky AI** (Landscape) | Sustituir un cielo; Skylum lo diseña para cielos **planos o quemados** | Elegir cielo; **Relight Strength**, **Horizon Position**, **Close Gaps** | Elige el cielo y ajusta **Relight Strength** hasta que la luz del suelo encaje |
+| ✳️ **Atmosphere AI** (Landscape) | Añadir niebla o bruma | Modo (**Fog**, **Mist**, **Haze**…), **Amount** | **Amount** 10–20 |
+| **Magic Light AI** (Creative) | Rayos y brillo en bombillas y farolas | **Intensity**, **Size**, **Number of Beams** | **Intensity** 10–20 |
+| **Color Transfer** (Creative) | Igualar la paleta con otra foto | Foto de referencia, **Amount** | **Amount** 30–50 |
+| **Mood (LUT)** (Creative) | Un "look" de color predefinido | LUT, **Amount** | **Amount** 30–50 |
+| **Matte** (Creative) | Aspecto mate, de película | **Amount**, **Fade** | **Amount** 10–20 |
+| **Toning** (Creative) | Teñir luces y sombras (también en blanco y negro) | **Highlights/Shadows Saturation** y **Hue**, **Balance** | Saturation 10–20 |
+| **Glow** (Creative) | Brillo soñador (incluye **Orton Effect**) | Tipo, **Amount** | **Amount** 10–20, con máscara fuera del sujeto |
+| ✳️ **GenErase** (Extra) | Borrar objetos grandes o difíciles | Pinceles **Select/Deselect**, botón **Erase** (pulsa otra vez para otra versión) | Un objeto cada vez; selección generosa |
+| ✳️ **GenExpand** (Extra) | Ampliar el lienzo | Cuánto amplías, **hasta 25 %** | **10 %**, de un lado cada vez |
+| **Remove Powerlines** | Quitar cables del cielo | Automático; luego afina con Erase | — |
+
+## 3.13. Hoja de bolsillo: los diez números de partida
 
 Si solo te quedas con una tabla, que sea esta. Es el punto de partida para un JPEG típico de día; luego ajusta mirando la foto.
 
@@ -160,6 +183,14 @@ Si solo te quedas con una tabla, que sea esta. Es el punto de partida para un JP
 | Structure AI → Amount | **+15** |
 | Details → Sharpen | **+10** (Sharpening Masking **50**) |
 | Vignette → Amount | **−12** |
+
+## Ejercicio (una tarde)
+
+1. Con una foto cualquiera, abre **Develop** y aplica a cada deslizador el método de 3.1: llévalo al extremo, vuelve a cero y súbelo hasta que la foto mejore.
+2. Anota el **número** en el que te paraste en cada uno y compáralo con la columna "empieza en".
+3. Anota también **hasta dónde llega** cada deslizador y apúntalo en [PENDIENTES](../PENDIENTES.md).
+
+**Aprobado cuando** reconoces a simple vista, en una foto ajena, cuándo se ha pasado alguien con Shadows, Structure AI o Saturation.
 
 <!-- nav -->
 [← Anterior](02-luminar-por-dentro.md) · [Índice](README.md) · [Siguiente →](04-flujo-base.md)

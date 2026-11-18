@@ -62,6 +62,14 @@ Edita primero esa selección final, con el [flujo base](04-flujo-base.md) y los 
 
 > **Las fotos de Namibia están en JPEG.** Todo lo de esta guía se aplica tal cual. Elige con más cuidado que con RAW: una foto quemada o muy oscura en JPEG no tiene arreglo.
 
+## Ejercicio (una tarde)
+
+1. Elige **10** fotos de la misma situación (el mismo animal, la misma luz).
+2. Edita bien una y sincroniza el resto (**`⇧⌘S`**); revisa las máscaras y la exposición de cada una.
+3. Guarda los ajustes como **preset** propio.
+
+**Aprobado cuando** las diez, vistas juntas en el catálogo, parecen de la misma familia.
+
 <!-- nav -->
 [← Anterior](10-recetas.md) · [Índice](README.md) · [Siguiente →](12-varias-fotos.md)
 <!-- /nav -->

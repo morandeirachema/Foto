@@ -70,9 +70,9 @@
 | Ajuste | Cómo | Valores |
 |---|---|---|
 | **Textura del pelo** | **Structure AI** → Masking → **Object Select AI** → clic sobre el animal → **Feather** | +15/+25 |
-| **Animal más presente** | **Dodge & Burn → Lighten**, pincel grande y suave sobre el animal | **Strength** baja |
+| **Animal más presente** | **Dodge & Burn → Lighten**, pincel grande y suave sobre el animal | **Strength** 15, **Softness** casi al máximo |
 | **Fondo más discreto** | **Color** con la máscara del animal (**Copy**/**Paste**) invertida (**`⌘I`**); **Dodge & Burn → Darken** suave donde distraiga | Saturation −10 |
-| **Ojo con brillo** | **Dodge & Burn → Lighten**, pincel pequeño, poca **Strength** | Solo el iris |
+| **Ojo con brillo** | **Dodge & Burn → Lighten**, pincel más pequeño que el iris, **Strength** 15 | Solo el iris, 2–3 pasadas |
 
 **El ojo, en detalle:**
 - Aclara **solo el iris**, no todo el ojo.
@@ -118,10 +118,10 @@
 
 **Cebras:**
 - Las rayas blancas se queman y las negras se empastan: Highlights −30 y Blacks un poco arriba.
-- Structure AI bajo: las rayas ya tienen todo el contraste que necesitan.
+- **Structure AI** +5 a +10: las rayas ya tienen todo el contraste que necesitan.
 
 **Leopardo en un árbol (luz moteada):**
-- **Dodge & Burn → Darken** sobre las manchas de luz en las ramas; **Lighten** suave en la cara del leopardo.
+- **Dodge & Burn → Darken** sobre las manchas de luz en las ramas; **Lighten** (**Strength** 10–15) en la cara del leopardo.
 - **Dodge & Burn → Darken** sobre los huecos de cielo entre las ramas, para que no distraigan.
 
 **Elefantes y rinocerontes:**
@@ -134,6 +134,14 @@
 **Foto desde el vehículo con el animal muy lejos:**
 - Recorte fuerte + **Upscale** al final.
 - Expectativas realistas: servirá de recuerdo o para la pantalla del móvil, no para imprimir grande.
+
+## Ejercicio (una tarde)
+
+1. Elige **cinco** fotos de animales de Namibia con problemas distintos (ruido, contraluz, luz dura, fondo que distrae, recorte fuerte).
+2. Edita cada una con el paso a paso de 7.2 y el caso concreto de 7.3 que le toque.
+3. En una de ellas, aplica el **ojo, en detalle** y compara con **`\`**.
+
+**Aprobado cuando** en las cinco el animal es lo primero que mira alguien que no conoce la foto.
 
 <!-- nav -->
 [← Anterior](06-herramientas-avanzadas.md) · [Índice](README.md) · [Siguiente →](08-paisaje.md)

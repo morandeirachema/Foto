@@ -220,6 +220,59 @@ En el **tercio inferior**: el cielo es el protagonista y ocupa dos tercios. Rect
 
 ---
 
+### Práctica extra: Luminar con tus JPEG
+
+**L1. Mueves Shadows hasta +70 y la foto queda gris y plana. ¿Qué ha pasado y qué haces?**
+<details><summary>Respuesta</summary>
+
+Te has pasado: sin sombras no hay volumen. En un JPEG, el límite razonable está en torno a **+50**. Vuelve a **+15 a +40**, y si una zona concreta necesita más luz, aclárala con **Dodge & Burn**.
+→ [Retoques 3 · Las herramientas](retoques/03-herramientas-una-a-una.md)
+</details>
+
+**L2. ¿Cuál es el método para mover cualquier deslizador sin pasarte?**
+<details><summary>Respuesta</summary>
+
+Llévalo **al extremo** para ver qué hace, **vuelve a cero**, súbelo **poco a poco** hasta que la foto mejore y, al final, **baja un 20–30 %**.
+→ [Retoques 3 · Las herramientas](retoques/03-herramientas-una-a-una.md)
+</details>
+
+**L3. El cielo de una foto está completamente blanco (quemado). ¿Lo recupera Highlights?**
+<details><summary>Respuesta</summary>
+
+**No:** en un JPEG, lo quemado no tiene información. Highlights solo suaviza el borde. Para tener cielo en tu álbum, **Sky AI** lo sustituye (es una herramienta que inventa contenido: dilo si presentas la foto como documento).
+→ [Retoques 4 · Rescatar un JPEG](retoques/04-flujo-base.md#rescatar-un-jpeg-difícil)
+</details>
+
+**L4. Una foto de noche tiene mucho ruido. ¿Qué haces y cómo compruebas el resultado?**
+<details><summary>Respuesta</summary>
+
+**Noiseless AI** (empieza por el nivel que propone; si no basta, **High**), con Color Denoise alto y Details en torno a +10. Compruébalo **al 100 %** (**`⌘1`**): a tamaño pantalla no se ve si el pelo o las estrellas se han vuelto de plástico.
+→ [Retoques 4 · Rescatar un JPEG](retoques/04-flujo-base.md#rescatar-un-jpeg-difícil) · [Retoques 3.3](retoques/03-herramientas-una-a-una.md#33-noiseless-ai-y-denoise-image-quality--essentials-el-ruido)
+</details>
+
+**L5. Tu JPEG de la a6700 mide 6192 × 4128 píxeles. ¿Hasta qué tamaño puedes imprimirlo a 300 ppp?**
+<details><summary>Respuesta</summary>
+
+Unos **52 × 35 cm** (píxeles ÷ 300 × 2,54). A 200 ppp, que se ve bien a la distancia de un cuadro, unos **79 × 52 cm**.
+→ [Retoques 13.5](retoques/13-exportar.md#135-tus-fotos-compartir-con-la-familia-e-imprimir)
+</details>
+
+**L6. ¿Tienes que recortar una foto de la a6700 para imprimirla en 20 × 30 cm? ¿Y en A4?**
+<details><summary>Respuesta</summary>
+
+En **20 × 30, no**: las dos son **3:2**. En **A4** (21 × 29,7) sí: recorta antes con **Enter Custom** para decidir tú qué se pierde.
+→ [Retoques 13.6](retoques/13-exportar.md#136-consejos-para-las-fotos-que-vas-a-imprimir)
+</details>
+
+**L7. ¿Por qué conviene hacer una copia virtual algo más clara para imprimir?**
+<details><summary>Respuesta</summary>
+
+Porque el papel **refleja** la luz y no la emite: la copia suele verse **más oscura** que la pantalla. Empieza con Exposure **+0,1 a +0,2**, y pide una prueba pequeña antes.
+→ [Retoques 13.6](retoques/13-exportar.md#136-consejos-para-las-fotos-que-vas-a-imprimir)
+</details>
+
+---
+
 ## Etapa 3 · Avanzado
 
 **1. ¿Por qué cerrar a f/16 no da una foto "más nítida" que f/8?**

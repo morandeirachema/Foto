@@ -149,7 +149,7 @@ En Luminar no hay un panel de ajustes locales aparte: **cada herramienta tiene s
 |---|---|---|
 | Una línea o un "aura" alrededor del sujeto | **Halo**: el borde de la máscara es demasiado duro o no coincide con el sujeto | **Feather** más alto o **Shift Edge**; revisa con **`/`** |
 | Granito de colores en una zona aclarada | **Ruido** que estaba escondido en la sombra | Menos **Strength** o **Overall Amount**; si hace falta, más **Color Denoise** en Noiseless AI ([sección 4](04-flujo-base.md)) |
-| Escalones en un cielo oscurecido | **Bandas**: un JPEG tiene pocos tonos en zonas lisas | Retoque más suave; **Film Grain** bajo para disimularlas |
+| Escalones en un cielo oscurecido | **Bandas**: un JPEG tiene pocos tonos en zonas lisas | Retoque más suave; **Film Grain** (Amount 5–10) para disimularlas |
 | Manchas claras u oscuras con la forma del pincel | Pinceladas con **Softness** baja o **Strength** alta | **Erase**, y repite con más Softness y menos Strength |
 | La foto parece "retocada" | Demasiada diferencia entre zonas | Baja **Overall Amount**; compara con **`\`** |
 

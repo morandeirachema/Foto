@@ -232,6 +232,14 @@ Editar en local consiste en que el sujeto gane un poco en esas cosas y el fondo 
 
 **Pocos colores, más armonía.** En safari, la paleta natural es de **ocres, dorados y verdes apagados**. Si un color se sale (un vehículo rojo, una camiseta fosforito), desaturarlo con una máscara limpia la foto sin borrar nada.
 
+## Ejercicio (15 minutos)
+
+1. Abre una foto tuya en Luminar y pulsa **`J`**: ¿qué zonas salen marcadas como quemadas o empastadas?
+2. Busca en la foto las **cinco zonas de brillo** (1.2): señala un negro, una sombra, un medio tono, una luz y un blanco.
+3. Mantén **`\`** sobre una foto ya editada por otra persona (o una tuya antigua) y di qué crees que se tocó.
+
+**Aprobado cuando** sabes explicar, sin mirar, por qué un JPEG aguanta menos que un RAW.
+
 ---
 
 *Parte I · Fundamentos*
@@ -300,6 +308,14 @@ En Luminar, la mayoría de las herramientas tienen su propia pestaña **Masking*
 - **Quitar u ocultar:** clic derecho → **Remove Layer** o **Hide Layer**.
 
 Para la edición normal de un JPEG de viaje bastan las **herramientas con máscara**. Las capas sirven sobre todo para combinar imágenes, un uso que en fotos documentales conviene evitar (sección 14).
+
+## Ejercicio (15 minutos)
+
+1. Añade una carpeta al catálogo (**`⌥⇧N`**) y marca 5 fotos con **`P`** y 5 con **`X`**.
+2. Crea una **copia virtual** (**`⌘'`**) de una foto y conviértela a blanco y negro; compara las dos con **`;`**.
+3. En cualquier herramienta, abre la pestaña **Masking**, prueba **Mask AI** (**`A`**) y mira la máscara con **`/`**.
+
+**Aprobado cuando** sabes ir del catálogo a la edición y volver, y encontrar la pestaña Masking de una herramienta sin buscar.
 
 ---
 
@@ -445,7 +461,30 @@ La herramienta de los ajustes locales ([sección 5](05-ajustes-locales.md)).
 | **Remove Dust Spots** | — | Quita automáticamente manchas de polvo del sensor; luego afina con Erase |
 | **Clone** | **`⌘J`** | **`⌥`**-clic para elegir de dónde copiar; pinta con toques cortos |
 
-## 3.12. Hoja de bolsillo: los diez números de partida
+## 3.12. Las demás herramientas, en una tabla
+
+Las usa la guía en casos concretos. ✳️ = **inventa** contenido: perfecta para tu álbum; dilo si presentas la foto como documento ([sección 14](14-etica.md)).
+
+| Herramienta (categoría) | Para qué | Controles clave | Empieza en |
+|---|---|---|---|
+| **Supersharp AI** (Image Quality) | Fotos algo movidas o blandas | Modo **Motion Blur** (movimiento) o **Universal**; nivel **Low / Middle / High** | Motion Blur, **Low** |
+| ✳️ **Upscale** (Extra) | Ampliar una foto muy recortada | El factor, **hasta 6×** | **2×**, al final de todo |
+| **Face AI** (Portrait) | Caras con poca luz | **Face Light** | +10 a +20 |
+| **Twilight Enhancer AI** (Landscape) | Luz de hora dorada o azul | Presets **Blush, Golden, Blue, Emerald, Mauve**; **Amount** | Preset y **Amount** 20–30 |
+| **Water Enhancer AI** (Landscape) | Agua más clara y viva | **Amount**, **Blue**, **Green**, **Brightness**, **Contrast**; pincel **Draw/Erase** | **Amount** 20–30 |
+| ✳️ **Sky AI** (Landscape) | Sustituir un cielo; Skylum lo diseña para cielos **planos o quemados** | Elegir cielo; **Relight Strength**, **Horizon Position**, **Close Gaps** | Elige el cielo y ajusta **Relight Strength** hasta que la luz del suelo encaje |
+| ✳️ **Atmosphere AI** (Landscape) | Añadir niebla o bruma | Modo (**Fog**, **Mist**, **Haze**…), **Amount** | **Amount** 10–20 |
+| **Magic Light AI** (Creative) | Rayos y brillo en bombillas y farolas | **Intensity**, **Size**, **Number of Beams** | **Intensity** 10–20 |
+| **Color Transfer** (Creative) | Igualar la paleta con otra foto | Foto de referencia, **Amount** | **Amount** 30–50 |
+| **Mood (LUT)** (Creative) | Un "look" de color predefinido | LUT, **Amount** | **Amount** 30–50 |
+| **Matte** (Creative) | Aspecto mate, de película | **Amount**, **Fade** | **Amount** 10–20 |
+| **Toning** (Creative) | Teñir luces y sombras (también en blanco y negro) | **Highlights/Shadows Saturation** y **Hue**, **Balance** | Saturation 10–20 |
+| **Glow** (Creative) | Brillo soñador (incluye **Orton Effect**) | Tipo, **Amount** | **Amount** 10–20, con máscara fuera del sujeto |
+| ✳️ **GenErase** (Extra) | Borrar objetos grandes o difíciles | Pinceles **Select/Deselect**, botón **Erase** (pulsa otra vez para otra versión) | Un objeto cada vez; selección generosa |
+| ✳️ **GenExpand** (Extra) | Ampliar el lienzo | Cuánto amplías, **hasta 25 %** | **10 %**, de un lado cada vez |
+| **Remove Powerlines** | Quitar cables del cielo | Automático; luego afina con Erase | — |
+
+## 3.13. Hoja de bolsillo: los diez números de partida
 
 Si solo te quedas con una tabla, que sea esta. Es el punto de partida para un JPEG típico de día; luego ajusta mirando la foto.
 
@@ -461,6 +500,14 @@ Si solo te quedas con una tabla, que sea esta. Es el punto de partida para un JP
 | Structure AI → Amount | **+15** |
 | Details → Sharpen | **+10** (Sharpening Masking **50**) |
 | Vignette → Amount | **−12** |
+
+## Ejercicio (una tarde)
+
+1. Con una foto cualquiera, abre **Develop** y aplica a cada deslizador el método de 3.1: llévalo al extremo, vuelve a cero y súbelo hasta que la foto mejore.
+2. Anota el **número** en el que te paraste en cada uno y compáralo con la columna "empieza en".
+3. Anota también **hasta dónde llega** cada deslizador y apúntalo en [PENDIENTES](../PENDIENTES.md).
+
+**Aprobado cuando** reconoces a simple vista, en una foto ajena, cuándo se ha pasado alguien con Shadows, Structure AI o Saturation.
 
 ---
 
@@ -593,6 +640,15 @@ Con un JPEG no hay RAW al que volver, pero Luminar tiene herramientas para casi 
 | **Contraluz con el animal negro** | Shadows **+40**; Dodge & Burn → Lighten sobre el animal ([sección 5.5](05-ajustes-locales.md)) | Vuelve algo de detalle; con mucho ruido, acepta la silueta |
 
 **El orden en una foto difícil:** primero el ruido y el movimiento (Noiseless AI, Supersharp AI), luego la luz y el color, luego las herramientas que inventan contenido y, **al final de todo**, Upscale.
+
+## Ejercicio (una tarde)
+
+1. Elige **tres** fotos de Namibia: una de fauna, una de paisaje y una difícil (oscura, con ruido o quemada).
+2. Edita cada una con los **10 pasos**, con este capítulo y la [hoja de bolsillo](03-herramientas-una-a-una.md) abiertos.
+3. La difícil, con la tabla de **Rescatar un JPEG difícil**.
+4. Al día siguiente, míralas de nuevo y **baja un 20–30 %** lo que se te haya ido.
+
+**Aprobado cuando** haces los 10 pasos de memoria y las tres fotos mejoran sin que se note el retoque.
 
 ---
 
@@ -743,7 +799,7 @@ En Luminar no hay un panel de ajustes locales aparte: **cada herramienta tiene s
 |---|---|---|
 | Una línea o un "aura" alrededor del sujeto | **Halo**: el borde de la máscara es demasiado duro o no coincide con el sujeto | **Feather** más alto o **Shift Edge**; revisa con **`/`** |
 | Granito de colores en una zona aclarada | **Ruido** que estaba escondido en la sombra | Menos **Strength** o **Overall Amount**; si hace falta, más **Color Denoise** en Noiseless AI ([sección 4](04-flujo-base.md)) |
-| Escalones en un cielo oscurecido | **Bandas**: un JPEG tiene pocos tonos en zonas lisas | Retoque más suave; **Film Grain** bajo para disimularlas |
+| Escalones en un cielo oscurecido | **Bandas**: un JPEG tiene pocos tonos en zonas lisas | Retoque más suave; **Film Grain** (Amount 5–10) para disimularlas |
 | Manchas claras u oscuras con la forma del pincel | Pinceladas con **Softness** baja o **Strength** alta | **Erase**, y repite con más Softness y menos Strength |
 | La foto parece "retocada" | Demasiada diferencia entre zonas | Baja **Overall Amount**; compara con **`\`** |
 
@@ -825,7 +881,7 @@ La técnica clásica de laboratorio: **aclarar** y **oscurecer** pintando.
 - **Overall Amount:** intensidad global de todo lo pintado.
 
 **Cómo usarlo:**
-- **Lighten** con poca **Strength** sobre lo que debe destacar: el ojo, la cresta de una duna, la luz en una nube.
+- **Lighten** con **Strength** 10–15 sobre lo que debe destacar: el ojo, la cresta de una duna, la luz en una nube.
 - **Darken** sobre lo que distrae: una rama clara, un borde brillante.
 - **Muchas pasadas suaves** mejor que una fuerte. Al final, ajusta **Overall Amount**.
 
@@ -842,7 +898,7 @@ Usa un **mapa de profundidad** calculado por IA para iluminar de forma distinta 
 - **Brightness Near / Warmth Near:** brillo y temperatura del **primer plano**.
 - **Brightness Far / Warmth Far:** brillo y temperatura del **fondo**.
 
-**Perspectiva atmosférica.** Lo cercano parece más claro, contrastado y cálido; lo lejano, más suave y frío. Para reforzarla: **Brightness Near** un poco arriba, **Warmth Near** un poco cálido y **Warmth Far** un poco frío. Con valores pequeños.
+**Perspectiva atmosférica.** Lo cercano parece más claro, contrastado y cálido; lo lejano, más suave y frío. Para reforzarla: **Brightness Near** +10, **Warmth Near** +5 y **Warmth Far** −5. Valores pequeños: si se nota el efecto, es demasiado.
 
 ## 6.6. Black & White (Essentials)
 
@@ -882,15 +938,23 @@ El blanco y negro no es quitar el color, sino **decidir qué gris recibe cada co
 
 | Herramienta | Qué hace | Precaución |
 |---|---|---|
-| **Film Grain** | Grano: **Amount**, **Size**, **Roughness** | **Amount** bajo. Disimula las bandas |
+| **Film Grain** | Grano: **Amount**, **Size**, **Roughness** | **Amount** 5–10. Disimula las bandas |
 | **Matte** | Aspecto suave y envejecido: **Amount**, **Fade** (resta detalle en las zonas oscuras), **Contrast**, **Vividness** y tonalidad de color | Quita profundidad a los negros |
 | **Toning** | Tiñe por separado luces y sombras: **Highlights/Shadows Saturation** y **Hue**, y **Balance** | Sutil; también útil en blanco y negro |
-| **Mood (LUT)** | Aplica una tabla LUT (incluidas o tuyas en formato **.cube**) con **Amount**, **Contrast** y **Saturation** | Baja **Amount** para un efecto suave |
+| **Mood (LUT)** | Aplica una tabla LUT (incluidas o tuyas en formato **.cube**) con **Amount**, **Contrast** y **Saturation** | **Amount** 30–50 para un efecto suave |
 | **Glow** | Brillo suave: tipos **Soft Focus**, **Glow**, **Orton Effect** y **Orton Effect Soft** | Ablanda la imagen; usa una máscara para proteger el sujeto |
 | **Mystical** | Brillo etéreo: suaviza la luminosidad y sube contraste y saturación | Según Skylum, por debajo de 40 da un resultado más realista |
 | **Dramatic** | Aspecto áspero y cinematográfico: reduce saturación y contraste, al estilo del *bleach bypass* | Estético, no correctivo |
 | **Magic Light AI** | Destellos y rayos en fuentes de luz artificiales: **Intensity**, **Size**, **Beam Width**, **Glow**, **Clearness**, **Number of Beams** | Solo bombillas y farolas, muy suave |
 | **Color Transfer** | Aplica la paleta de color de una foto de referencia | No funciona con fotos en blanco y negro |
+
+## Ejercicio (una tarde)
+
+1. **Curvas:** haz una S suave y compárala (con **`\`**) con el mismo contraste hecho con Smart Contrast.
+2. **Dodge & Burn:** en una foto de dunas o de un animal con luz lateral, aclara las caras iluminadas y oscurece las sombras.
+3. **Blanco y negro:** convierte una foto de cielo con nubes y prueba **Blue** a −40 en Luminance.
+
+**Aprobado cuando** sabes decir qué herramienta de este capítulo usarías para: más contraste sin tocar el cielo, una dominante solo en las sombras, más volumen en una duna y un cielo dramático en blanco y negro.
 
 ---
 
@@ -962,9 +1026,9 @@ El blanco y negro no es quitar el color, sino **decidir qué gris recibe cada co
 | Ajuste | Cómo | Valores |
 |---|---|---|
 | **Textura del pelo** | **Structure AI** → Masking → **Object Select AI** → clic sobre el animal → **Feather** | +15/+25 |
-| **Animal más presente** | **Dodge & Burn → Lighten**, pincel grande y suave sobre el animal | **Strength** baja |
+| **Animal más presente** | **Dodge & Burn → Lighten**, pincel grande y suave sobre el animal | **Strength** 15, **Softness** casi al máximo |
 | **Fondo más discreto** | **Color** con la máscara del animal (**Copy**/**Paste**) invertida (**`⌘I`**); **Dodge & Burn → Darken** suave donde distraiga | Saturation −10 |
-| **Ojo con brillo** | **Dodge & Burn → Lighten**, pincel pequeño, poca **Strength** | Solo el iris |
+| **Ojo con brillo** | **Dodge & Burn → Lighten**, pincel más pequeño que el iris, **Strength** 15 | Solo el iris, 2–3 pasadas |
 
 **El ojo, en detalle:**
 - Aclara **solo el iris**, no todo el ojo.
@@ -1010,10 +1074,10 @@ El blanco y negro no es quitar el color, sino **decidir qué gris recibe cada co
 
 **Cebras:**
 - Las rayas blancas se queman y las negras se empastan: Highlights −30 y Blacks un poco arriba.
-- Structure AI bajo: las rayas ya tienen todo el contraste que necesitan.
+- **Structure AI** +5 a +10: las rayas ya tienen todo el contraste que necesitan.
 
 **Leopardo en un árbol (luz moteada):**
-- **Dodge & Burn → Darken** sobre las manchas de luz en las ramas; **Lighten** suave en la cara del leopardo.
+- **Dodge & Burn → Darken** sobre las manchas de luz en las ramas; **Lighten** (**Strength** 10–15) en la cara del leopardo.
 - **Dodge & Burn → Darken** sobre los huecos de cielo entre las ramas, para que no distraigan.
 
 **Elefantes y rinocerontes:**
@@ -1026,6 +1090,14 @@ El blanco y negro no es quitar el color, sino **decidir qué gris recibe cada co
 **Foto desde el vehículo con el animal muy lejos:**
 - Recorte fuerte + **Upscale** al final.
 - Expectativas realistas: servirá de recuerdo o para la pantalla del móvil, no para imprimir grande.
+
+## Ejercicio (una tarde)
+
+1. Elige **cinco** fotos de animales de Namibia con problemas distintos (ruido, contraluz, luz dura, fondo que distrae, recorte fuerte).
+2. Edita cada una con el paso a paso de 7.2 y el caso concreto de 7.3 que le toque.
+3. En una de ellas, aplica el **ojo, en detalle** y compara con **`\`**.
+
+**Aprobado cuando** en las cinco el animal es lo primero que mira alguien que no conoce la foto.
 
 ---
 
@@ -1061,7 +1133,7 @@ El blanco y negro no es quitar el color, sino **decidir qué gris recibe cada co
 - **Highlights** −30 a −60 para el cielo; **Shadows** +20 a +40 para el suelo.
 - Después, en local:
   - **Cielo:** **Dodge & Burn → Darken**, pincel grande y suave ([sección 5.6](05-ajustes-locales.md)). Para más contraste solo en el cielo, **Supercontrast** con máscara **Mask AI → cielo** o **Gradient** (**`G`**).
-  - **Suelo:** **Dodge & Burn → Lighten** suave, o **Light Depth → Brightness Near** si el suelo es el primer plano.
+  - **Suelo:** **Dodge & Burn → Lighten** (**Strength** 15), o **Light Depth → Brightness Near** (+10 a +20) si el suelo es el primer plano.
 - **¿Mask AI o Gradient?** **Mask AI** respeta las formas (montañas, árboles). El **Gradient** es más natural con horizontes rectos (mar, sabana plana) y no deja bordes raros alrededor de los árboles.
 - **Luminosity Masking** es otra opción: selecciona solo las zonas más claras (el cielo) por su brillo.
 
@@ -1069,7 +1141,7 @@ El blanco y negro no es quitar el color, sino **decidir qué gris recibe cada co
 - **Landscape → Dehaze** +10 a +20 si hay calima. Más oscurece y satura.
 - **Light Depth:** primer plano un poco más claro y cálido; fondo algo más frío (sección 6.5).
 - **Perspectiva atmosférica:** lo cercano es más contrastado, cálido y saturado; lo lejano, más claro, frío y suave. Reforzar esa diferencia da profundidad.
-- **Error frecuente:** un Dehaze fuerte en toda la foto **elimina** esa perspectiva. Mejor un Dehaze suave, o con máscara solo donde haga falta.
+- **Error frecuente:** un Dehaze fuerte en toda la foto **elimina** esa perspectiva. Mejor un Dehaze de **+10**, o con máscara solo donde haga falta.
 
 **5. Color**
 - **Enhance AI:** **Accent AI** 20–30; **Sky Enhancer AI** 25–40.
@@ -1091,7 +1163,7 @@ El blanco y negro no es quitar el color, sino **decidir qué gris recibe cada co
 
 **7. Acabado**
 - **Vignette** muy suave (−10).
-- **Film Grain** con **Amount** bajo si el cielo muestra bandas.
+- **Film Grain** con **Amount** 5–10 si el cielo muestra bandas.
 
 ## 8.3. Casos concretos
 
@@ -1102,18 +1174,18 @@ El blanco y negro no es quitar el color, sino **decidir qué gris recibe cada co
 - **Color Harmony → Split Color Warmth → Warm** a la derecha: arena más dorada sin tocar el cielo azul.
 
 **Atardecer:**
-- No neutralices el color. Como mucho, Temperature un poco más fría si el naranja es exagerado.
-- **Sky Enhancer AI** bajo, o **Color Harmony → Warmth** suave.
-- **Twilight Enhancer AI** (preset **Golden** o **Blush**) es otra opción, con **Amount** bajo. Revisa que no añada luz que no había.
+- No neutralices el color. Como mucho, Temperature **−5** si el naranja es exagerado.
+- **Sky Enhancer AI** +10 a +20, o **Color Harmony → Warmth** +5 a +10.
+- **Twilight Enhancer AI** (preset **Golden** o **Blush**) es otra opción, con **Amount** 20–30. Revisa que no añada luz que no había.
 - Siluetas de árboles: **Blacks** abajo, para que sean negras de verdad.
 - **El sol** casi siempre estará quemado, y es normal. Lo que importa es que el halo de alrededor tenga degradado y no un borde duro.
 
 **Sabana con cielo de tormenta:**
 - **Cielo:** **Structure AI** +15 con **Mask AI → cielo** (las nubes sí agradecen textura) y **Dodge & Burn → Darken** para oscurecerlo.
-- **Suelo:** **Dodge & Burn → Lighten** suave. El atractivo está en el contraste entre el cielo oscuro y el suelo iluminado.
+- **Suelo:** **Dodge & Burn → Lighten** (**Strength** 15). El atractivo está en el contraste entre el cielo oscuro y el suelo iluminado.
 
 **Montaña:**
-- Las montañas lejanas suelen salir azuladas y planas por la atmósfera. **Dehaze** suave con **Mask AI → montañas** les devuelve el relieve.
+- Las montañas lejanas suelen salir azuladas y planas por la atmósfera. **Dehaze** +10 a +15 con **Mask AI → montañas** les devuelve el relieve.
 - **Supercontrast** con la misma máscara para marcar el relieve sin tocar el cielo.
 - **Nieve:** blanca con textura, no gris ni quemada. Cuidado con **Whites**.
 
@@ -1131,9 +1203,17 @@ El blanco y negro no es quitar el color, sino **decidir qué gris recibe cada co
 **Hora azul (justo después de la puesta de sol):**
 - La escena es azulada de verdad. No calientes el balance de blancos.
 - Las luces artificiales (pueblo, lodge) se ven cálidas: el contraste naranja/azul es el atractivo.
-- **Twilight Enhancer AI**, preset **Blue**, con **Amount** bajo, si quieres reforzarlo.
+- **Twilight Enhancer AI**, preset **Blue**, con **Amount** 20–30, si quieres reforzarlo.
 
 **Cambiar el cielo (Sky AI):** técnicamente es fácil, pero en una foto documental o de viaje **convierte la foto en un montaje**. Úsalo solo en fotos creativas y dilo si las compartes.
+
+## Ejercicio (una tarde)
+
+1. Elige un paisaje de Namibia con el cielo más claro que el suelo.
+2. Equilibra cielo y suelo (paso 3) y da profundidad (paso 4).
+3. Haz una **copia virtual** con un tratamiento distinto (por ejemplo, más cálido o en blanco y negro) y compáralas con **`;`**.
+
+**Aprobado cuando** el cielo tiene textura, el suelo tiene luz, y no aparecen bandas ni halos en el horizonte.
 
 ---
 
@@ -1179,12 +1259,12 @@ La fotografía nocturna es la que **más sufre en JPEG**: mucho ruido, sombras m
 **4. La Vía Láctea**
 - **Supercontrast → Highlights** con máscara **Radial** (**`R`**) sobre el núcleo, en modo **Inverted** para que actúe dentro del círculo: realza las nubes de estrellas sin tocar el fondo.
 - **Structure AI** +10/+20 con la misma máscara (**Copy**/**Paste** de la máscara).
-- **Dodge & Burn → Lighten** muy suave sobre el núcleo, si necesita más luz.
-- **Landscape → Dehaze** con la misma máscara, suave: aumenta el contraste de las nubes de estrellas.
+- **Dodge & Burn → Lighten** (**Strength** 10) sobre el núcleo, si necesita más luz.
+- **Landscape → Dehaze** con la misma máscara, **+10**: aumenta el contraste de las nubes de estrellas.
 - **Por qué en local:** si subes el contraste en todo el cielo, sube también el ruido del fondo.
 
 **5. Contaminación lumínica en el horizonte**
-- **Color Harmony** con un **Gradient** desde el horizonte hacia arriba: **Warmth** un poco negativa para neutralizar el naranja; y **Dodge & Burn → Darken** suave sobre el resplandor.
+- **Color Harmony** con un **Gradient** desde el horizonte hacia arriba: **Warmth** −5 a −10 para neutralizar el naranja; y **Dodge & Burn → Darken** (**Strength** 15) sobre el resplandor.
 - Si el resplandor es fuerte, **no intentes eliminarlo**: déjalo como un degradado cálido suave. Si lo quitas del todo, queda una banda gris sucia.
 
 **6. Primer plano**
@@ -1193,8 +1273,8 @@ La fotografía nocturna es la que **más sufre en JPEG**: mucho ruido, sombras m
 - **De noche, la máscara de cielo puede fallar** porque el límite entre cielo y suelo apenas se ve. Revísala con **`/`** y corrígela con **Brush**, o usa un **Gradient** en el horizonte.
 
 **7. Acabado**
-- **Details** muy bajo y **Details Masking** alto: el enfoque fuerte convierte el ruido en estrellas falsas.
-- **Vignette** suave.
+- **Details:** Sharpen **0 a +5** y **Sharpening Masking** **60–70** (alto: solo enfoca los bordes claros). El enfoque fuerte convierte el ruido en estrellas falsas.
+- **Vignette** −10.
 - Revisa al 100 %: bandas en el cielo, halos en el horizonte, estrellas convertidas en manchas.
 
 **Estrellas alargadas (pequeños trazos):** salen cuando la exposición fue demasiado larga para la focal usada. No tienen arreglo real al editar. Para la próxima vez, consulta la sección 15.3.
@@ -1204,15 +1284,15 @@ La fotografía nocturna es la que **más sufre en JPEG**: mucho ruido, sombras m
 - **Balance de blancos:** no neutralices del todo las bombillas cálidas. Algo de calidez hace la escena acogedora.
 - **Highlights** −30/−50 para recuperar las luces. Si las bombillas están quemadas, déjalas: es normal.
 - **Noiseless AI** casi siempre.
-- **Magic Light AI** (opcional y muy suave) añade rayos y brillo a bombillas y farolas.
-- **HSL:** baja la saturación del naranja si la luz es demasiado intensa.
+- **Magic Light AI** (opcional, **Intensity** 10–20) añade rayos y brillo a bombillas y farolas.
+- **HSL:** naranja → Saturation **−10** si la luz es demasiado intensa.
 - **Luces de distintos colores:** neutraliza la que más se vea y deja la otra con su color.
 
 ## 9.4. Fuego de campamento y linternas
 
-- **Decide el color.** La luz del fuego es muy naranja. Corrige un poco (Temperature un poco más fría), pero **no la vuelvas blanca**: el fuego tiene que seguir pareciendo fuego.
+- **Decide el color.** La luz del fuego es muy naranja. Corrige un poco (Temperature **−5 a −10**), pero **no la vuelvas blanca**: el fuego tiene que seguir pareciendo fuego.
 - **Shadows** +20 para ver las caras; **Highlights** −40 para que la llama tenga forma.
-- Si hay personas, **Mask AI → personas** con un Develop suave, o **Face AI → Face Light**.
+- Si hay personas, **Face AI → Face Light** (+10 a +20) o **Dodge & Burn → Lighten** (**Strength** 15) sobre las caras.
 - **Vignette** algo más marcada (−20) para concentrar la luz en el fuego.
 - **No enfoques las llamas ni las chispas**: el enfoque convierte su movimiento en ruido.
 
@@ -1226,9 +1306,18 @@ La fotografía nocturna es la que **más sufre en JPEG**: mucho ruido, sombras m
 
 El mejor momento para la "foto nocturna" con JPEG suele ser **antes** de la noche cerrada, cuando el cielo aún tiene luz azul y el ruido es mucho menor.
 - Balance de blancos: deja el azul.
-- **Highlights** abajo en las luces artificiales; **Shadows** suaves.
-- Ruido: a menudo basta con **Denoise** suave.
-- **Twilight Enhancer AI** (preset **Blue**) puede reforzar el ambiente, con **Amount** bajo.
+- **Highlights** −30 en las luces artificiales; **Shadows** +10 a +20.
+- Ruido: a menudo basta con **Denoise** (Luminosity Denoise +10 a +20, Color Denoise +20 a +30).
+- **Twilight Enhancer AI** (preset **Blue**) puede reforzar el ambiente, con **Amount** 20–30.
+
+## Ejercicio (una tarde)
+
+1. Elige una foto nocturna de Namibia (estrellas, fuego o luces).
+2. Primero **Noiseless AI**, revisando al 100 % que no desaparezcan las estrellas pequeñas.
+3. Corrige el balance de blancos hasta un cielo gris azulado (o un fuego que siga pareciendo fuego).
+4. Compara con **`\`** y revisa al 100 % las esquinas.
+
+**Aprobado cuando** el ruido no se ve a tamaño pantalla y el color de la noche es creíble.
 
 ---
 
@@ -1375,6 +1464,14 @@ Antes de editar la primera foto de un viaje, tres cosas, en este orden.
 Edita primero esa selección final, con el [flujo base](04-flujo-base.md) y los [ajustes locales](05-ajustes-locales.md). Después, el resto **en serie** (10.1).
 
 > **Las fotos de Namibia están en JPEG.** Todo lo de esta guía se aplica tal cual. Elige con más cuidado que con RAW: una foto quemada o muy oscura en JPEG no tiene arreglo.
+
+## Ejercicio (una tarde)
+
+1. Elige **10** fotos de la misma situación (el mismo animal, la misma luz).
+2. Edita bien una y sincroniza el resto (**`⇧⌘S`**); revisa las máscaras y la exposición de cada una.
+3. Guarda los ajustes como **preset** propio.
+
+**Aprobado cuando** las diez, vistas juntas en el catálogo, parecen de la misma familia.
 
 ---
 
@@ -1539,6 +1636,15 @@ Una copia en papel enseña cosas que la pantalla del móvil esconde. Antes de ma
 - Pide primero una **prueba pequeña** (10 × 15) de la misma foto, en el mismo laboratorio y papel.
 - **Papel mate:** sin reflejos, colores y negros más suaves; muy bonito en paisaje y en blanco y negro. **Papel brillante:** colores y negros más intensos, pero refleja la luz.
 - Si la prueba sale oscura o con otro color, corrige **en la copia virtual** y vuelve a probar.
+
+## Ejercicio (una tarde, y una visita al laboratorio)
+
+1. Elige **una** foto que quieras imprimir y repasa la lista de 13.6.
+2. Haz una **copia virtual** para papel (Exposure +0,1 a +0,2) y expórtala a tamaño original.
+3. Exporta también la versión para compartir (lado largo de unos 2.000 px) y mándala a la familia.
+4. Pide una **prueba de 10 × 15** y compárala con la pantalla.
+
+**Aprobado cuando** la prueba en papel se parece a lo que veías en pantalla, o sabes qué corregir en la copia virtual.
 
 ---
 
