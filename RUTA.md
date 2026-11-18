@@ -43,7 +43,7 @@ flowchart LR
 | 🧠 Entender | **La luz**: cuánta, dura o suave, de dónde, de qué color | [Conceptos 1 · La luz](conceptos/01-la-luz.md) |
 | 🧠 Entender | **Los tres números** (velocidad, apertura, ISO) y el **paso** | [Manejo 1 · Del móvil a la a6700](manejo-a6700/01-de-movil-a-la-a6700.md#los-3-números-y-qué-hacen-en-la-práctica) |
 | 🧠 Entender | **El histograma**: juzgar la exposición sin fiarte de la pantalla | [Conceptos 2 · El histograma](conceptos/02-histograma.md) |
-| 🧠 Entender | **La medición**: por qué la cámara "se equivoca" con fondos claros u oscuros | [Manejo 1 · Medición](manejo-a6700/01-de-movil-a-la-a6700.md#medición-por-qué-la-cámara-se-equivoca-y-cómo-corregirla) |
+| 🧠 Entender | **La medición**: por qué la cámara "se equivoca" con fondos claros u oscuros (con el experimento del folio blanco) | [Conceptos 1 · El gris medio](conceptos/01-la-luz.md#por-qué-la-cámara-se-equivoca-el-gris-medio) · [Manejo 1 · Medición](manejo-a6700/01-de-movil-a-la-a6700.md#medición-por-qué-la-cámara-se-equivoca-y-cómo-corregirla) |
 | 🧠 Entender | **JPEG y RAW**: qué guarda cada uno y por qué importa | [Retoques 1.1](retoques/01-conceptos-basicos.md#11-qué-tiene-de-especial-un-jpeg) · [Manejo 1 · RAW](manejo-a6700/01-de-movil-a-la-a6700.md#raw-y-cómo-pasar-fotos-al-móvil-en-el-viaje) |
 | 📷 Hacer | Moverte por los **menús** y los **botones** | [Manejo 2](manejo-a6700/02-menus-y-primer-dia.md) · [Manejo 3](manejo-a6700/03-diales-y-botones.md) |
 | 📷 Hacer | **Enfocar**: autofoco con el pulgar, lupa, *peaking* e hiperfocal | [Manejo 1 · Enfoque](manejo-a6700/01-de-movil-a-la-a6700.md#enfoque-lo-mínimo-que-hay-que-saber) · [Manejo 5 · Enfocar el 11 mm](manejo-a6700/05-enfocar-el-11mm.md) |
@@ -51,7 +51,7 @@ flowchart LR
 
 **Practica:**
 - [Las 7 tardes de deberes](manejo-a6700/01-de-movil-a-la-a6700.md#deberes-antes-del-viaje-7-tardes): el curso de iniciación completo.
-- [La luz junto a una ventana](conceptos/01-la-luz.md#ejercicio-una-tarde-en-casa) · [El histograma](conceptos/02-histograma.md#ejercicio-15-minutos-una-vez) (15 min) · [Enfocar esta noche](manejo-a6700/05-enfocar-el-11mm.md#ejercicio-para-esta-noche-20-minutos-desde-casa) (20 min).
+- [El folio blanco y la tela negra](conceptos/01-la-luz.md#por-qué-la-cámara-se-equivoca-el-gris-medio) (5 min) · [La luz junto a una ventana](conceptos/01-la-luz.md#ejercicio-una-tarde-en-casa) · [El histograma](conceptos/02-histograma.md#ejercicio-15-minutos-una-vez) (15 min) · [Enfocar esta noche](manejo-a6700/05-enfocar-el-11mm.md#ejercicio-para-esta-noche-20-minutos-desde-casa) (20 min).
 
 **Lo dominas cuando…**
 - [ ] Explicas por qué abrir un paso el diafragma, duplicar el tiempo o duplicar el ISO dan la misma claridad, y qué cuesta cada uno.

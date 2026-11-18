@@ -28,6 +28,26 @@ La cámara necesita una **cantidad** concreta de luz para que la foto no salga n
 
 **Lo que conviene retener ya:** **un paso** es el doble (o la mitad) de luz. Abrir un paso el diafragma, duplicar el tiempo o duplicar el ISO dan la misma claridad, cada uno con su precio.
 
+### Por qué la cámara se equivoca: el gris medio
+
+La cámara no sabe qué estás fotografiando. Mide cuánta luz llega y la ajusta para que **la escena, en conjunto, quede gris medio**. Casi siempre acierta, porque casi todas las escenas mezclan claros y oscuros. Falla cuando **una zona muy clara o muy oscura ocupa casi todo el encuadre**:
+
+| Lo que llena el encuadre | Lo que "piensa" la cámara | Lo que hace | Cómo sale | Tu corrección |
+|---|---|---|---|---|
+| **Algo muy claro** (nieve, arena, cielo, agua al sol) | "Sobra luz" | Oscurece | La nieve sale gris, el animal sale negro | **Suma: +0,7 a +1** |
+| **Algo muy oscuro** (noche, agua en sombra, fondo negro) | "Falta luz" | Aclara | Lo iluminado se quema: la garza blanca, el rinoceronte en el foco | **Resta: −0,7 a −1** |
+
+**La regla:** mira **qué ocupa la mayor parte del encuadre**. Si es claro, **+**. Si es oscuro, **−**. Parece al revés porque no estás corrigiendo la escena: estás **deshaciendo lo que la cámara ya hizo**.
+
+**Experimento de 5 minutos** (es la mejor forma de entenderlo):
+1. Pon la cámara en **A** (prioridad a la apertura) con la compensación a **0**.
+2. Fotografía un **folio blanco** que llene todo el encuadre. Míralo: sale **gris**, no blanco.
+3. Repite con **+1** de compensación: ahora sí sale blanco.
+4. Fotografía una **tela o camiseta negra** que llene el encuadre, con compensación 0: también sale **gris**.
+5. Repite con **−1**: ahora sí sale negra.
+
+Después de verlo una vez, no se olvida: **la cámara lo pone todo gris; tú le devuelves el blanco (+) o el negro (−)**. Cómo se pone la compensación en la a6700, en el [capítulo 1 de manejo](../manejo-a6700/01-de-movil-a-la-a6700.md#medición-por-qué-la-cámara-se-equivoca-y-cómo-corregirla).
+
 ## 2 · Cómo es la luz: dura o suave
 
 **La regla:** lo que decide si una luz es dura o suave es el **tamaño aparente** de la fuente vista desde el sujeto.
