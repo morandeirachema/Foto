@@ -1,137 +1,169 @@
 <div align="center">
 
-# 📸 Luminar · Safari, paisaje y noche
+# 📷 Foto
 
-### Guía paso a paso para sacar el máximo partido a tus JPEG con Luminar
+### Conceptos, manejo de la Sony a6700 y retoque con Luminar: todo en un sitio
 
-![Luminar for Desktop 1.29.x](https://img.shields.io/badge/Luminar-1.29.x-B4561C)
-![Idioma: español](https://img.shields.io/badge/idioma-español-1D1D1F)
-![18 capítulos](https://img.shields.io/badge/capítulos-18-5F6368)
-![Herramientas verificadas con la documentación de Skylum](https://img.shields.io/badge/herramientas-verificadas-2E7D32)
-![Formatos: Markdown y PDF](https://img.shields.io/badge/formatos-Markdown%20%2B%20PDF-5F6368)
+![Sony a6700](https://img.shields.io/badge/cámara-Sony%20a6700-1D1D1F)
+![Luminar for Desktop 1.29.x](https://img.shields.io/badge/retoque-Luminar%201.29.x-B4561C)
+![Idioma: español](https://img.shields.io/badge/idioma-español-5F6368)
+![39 guías](https://img.shields.io/badge/guías-39-2E7D32)
+![PDF para imprimir](https://img.shields.io/badge/PDF-4%20para%20imprimir-5F6368)
 
-**[📖 Empezar a leer](docs/00-introduccion.md)** · **[🗂️ Índice](docs/README.md)** · **[📄 PDF (A4)](guia-luminar-jpeg-safari-paisaje-noche.pdf)** · **[✅ Lista de comprobación](docs/14-errores-y-lista.md#142-lista-de-comprobación)**
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Elephants_rushing_to_water_%28Etosha%2C_2013%29.jpg/1920px-Elephants_rushing_to_water_%28Etosha%2C_2013%29.jpg" alt="Elefantes corriendo hacia una charca en Etosha" width="100%">
+
+<sub>Elefantes hacia el agua, Etosha. Foto de [Yathin S. Krishnappa](https://commons.wikimedia.org/wiki/File:Elephants_rushing_to_water_(Etosha,_2013).jpg), CC BY-SA 3.0, vía Wikimedia Commons</sub>
+
+**[🧠 Conceptos](#conceptos)** · **[🎛️ Manejo de la a6700](#manejo-a6700)** · **[🎨 Retoques](#retoques)** · **[🖨️ Para imprimir](#para-imprimir)** · **[🧭 Por dónde empiezo](#por-donde-empiezo)**
 
 </div>
 
 ---
 
-Volviste del viaje con cientos de fotos en **JPEG**: leones a contraluz, dunas al atardecer, la Vía Láctea sobre una acacia. Esta guía, en español, te lleva **paso a paso** por **Luminar** para mejorarlas sin romperlas: sin bandas en el cielo, sin halos y sin colores de cartón piedra.
+Guía **práctica** de fotografía en español, para quien viene del móvil: **entender** qué pasa dentro de una foto, **manejar** la cámara sin mirarla y **retocar** el resultado sin estropearlo. Escrita alrededor de un equipo real y de un viaje real (safari, paisaje y cielos nocturnos en Namibia), con recetas de valores concretos, pasos numerados y tablas de *"si sale mal, toca esto"*.
 
-## ✨ Qué la hace distinta
+> **El equipo:** Sony a6700 (APS-C, factor 1,5) · Sony E 11 mm F1.8 (astro y paisaje, 16,5 mm equivalentes) · Sony E 70-350 mm F4.5-6.3 G OSS (fauna, 105–525 mm equivalentes) · Luminar for Desktop 1.29.x (Luminar Neo) en macOS.
 
-- 🎯 **Pensada para JPEG**, no para RAW: ajustes que respetan un archivo de 8 bits ya procesado por la cámara.
-- 🧠 **Cada paso explica el porqué**, así que aprendes a decidir y no solo a copiar valores.
-- 🔍 **Precisa:** cada herramienta, control, atajo y límite técnico está **comprobado con la documentación oficial de Skylum** ([fuentes](docs/18-fuentes.md)). Los valores numéricos se presentan como puntos de partida, no como verdades.
-- 🦁🏜️🌌 **Tres tipos de foto** con sus problemas y soluciones propias, más decenas de casos concretos: plumas blancas, cebras, leopardos con luz moteada, plumas quemadas, contaminación lumínica, fuego de campamento.
-- 🧭 **Ética incluida:** qué se considera manipulación, normas de concurso y por qué quitar el GPS a las fotos de rinocerontes.
-
-## 🔁 El flujo en un vistazo
+## 🗺️ Cómo está organizado
 
 ```mermaid
 flowchart LR
-    A[1 · Preparar<br/>P · X · ★] --> B[2 · Ruido<br/>Noiseless AI]
-    B --> C[3 · Recorte<br/>Crop AI · C]
-    C --> D[4 · Luz<br/>Develop · J]
-    D --> E[5 · Balance<br/>de blancos · W]
-    E --> F[6 · Enhance AI]
-    F --> G[7 · Color<br/>HSL]
-    G --> H[8 · Textura<br/>Structure AI]
-    H --> I[9 · Máscaras<br/>sujeto · fondo]
-    I --> J[10 · Acabado<br/>y exportar]
+    C["🧠 1 · Conceptos<br/>exposición, luz, color,<br/>composición"] --> M["🎛️ 2 · Manejo de la a6700<br/>menús, botones, memorias,<br/>recetas por escena"]
+    M --> R["🎨 3 · Retoques<br/>Luminar, del JPEG<br/>a la foto terminada"]
 ```
 
-El detalle de cada paso está en el [capítulo 3](docs/03-flujo-base.md).
+| Carpeta | Qué hay | Guías |
+|---|---|---|
+| [`conceptos/`](conceptos/) | Lo que vale para cualquier cámara: el modelo técnico, el histograma, el balance de blancos, la composición y la mirada | 7 |
+| [`manejo-a6700/`](manejo-a6700/) | La cámara: del móvil a la a6700, menús, diales, configuración, recetas por escenario, equipo y referencia completa de ajustes | 13 |
+| [`retoques/`](retoques/) | La guía de Luminar en 18 capítulos, verificada con la documentación oficial de Skylum | 19 |
+| [`pdf/`](pdf/) | Las hojas imprimibles y la guía de retoques completa, maquetadas en A4 | 4 PDF |
 
-## 🧭 Empieza por aquí
+Cada guía de conceptos y de manejo abre con su **nivel**: 🟢 **Iniciación** (nunca has manejado una cámara en serio) · 🔵 **Básico** (las recetas) · 🔴 **Avanzado** (el porqué y la foto que no es correcta, sino buena). En cada una se indica qué da por sabido y qué te desbloquea.
 
-| Si quieres… | Lee |
+<a id="conceptos"></a>
+
+## 🧠 1 · Conceptos
+
+| Nivel | Guía | Qué resuelve |
+|:---:|---|---|
+| 🟢 | [**El histograma por escenario**](conceptos/histograma.md) | Juzgar la exposición sin fiarte de la pantalla, dibujado escena a escena |
+| 🟢 | [**Glosario**](conceptos/glosario.md) | Todas las palabras raras, en una línea cada una |
+| 🔵 | [**Balance de blancos por escena**](conceptos/balance-de-blancos.md) | Valores de partida en Kelvin por luz, y por qué el automático te roba los atardeceres |
+| 🔵 | [**Atlas de encuadres**](conceptos/atlas-de-encuadres.md) | El repertorio: 14 encuadres de fauna y 6 de cielo, cada uno con su diagrama, su focal y **el error que lo mata** |
+| 🔵 | [**Cuaderno de composición**](conceptos/cuaderno-de-composicion.md) | 20 ejercicios en escalera, con criterio de aprobado, para imprimir y tachar ([PDF](pdf/cuaderno-de-composicion.pdf)) |
+| 🔴 | [**Por qué funciona**](conceptos/por-que-funciona.md) | El modelo detrás de las recetas: el paso como moneda, ETTR, profundidad de campo con los números del equipo, difracción, compresión, ruido e invarianza ISO, el AF por dentro |
+| 🔴 | [**La mirada**](conceptos/la-mirada.md) | Cómo piensan los que hacen las fotos que te gustan, el comportamiento que se anticipa y **cómo se mide si estás mejorando** |
+
+<a id="manejo-a6700"></a>
+
+## 🎛️ 2 · Manejo de la a6700
+
+**Empezar de cero**
+
+| Nivel | Guía | Qué resuelve |
+|:---:|---|---|
+| 🟢 | [**0 · Del móvil a la a6700**](manejo-a6700/00-de-movil-a-la-a6700.md) | Los tres números, las ruedas, el visor, RAW, los errores típicos y **7 tardes de deberes** |
+| 🟢 | [**0.5 · Los menús, los botones y el primer día**](manejo-a6700/00b-menus-y-primer-dia.md) | De la caja a la primera foto: el mapa del menú, el Fn, Mi Menú, revisar al 100 % y cómo deshacerlo todo |
+| 🟢 | [**0.7 · Los diales y los botones**](manejo-a6700/00c-diales-y-botones.md) | Qué hace cada mando, la botonera del viaje (y por qué se intercambian los diales), el táctil, el bloqueo y la noche sin luz |
+| 🔵 | [**1 · Configuración básica**](manejo-a6700/01-configuracion-basica.md) | Firmware, enfoque con el pulgar, memorias **MR1** (safari) y **MR2** (astro), los mandos de los objetivos y el glosario de menús español/inglés |
+
+**Recetas por escenario**
+
+| Nivel | Guía | Qué resuelve |
+|:---:|---|---|
+| 🔵 | [**2 · Astrofotografía**](manejo-a6700/02-astrofotografia-namibia.md) | La noche completa paso a paso: Vía Láctea, star trails con el intervalómetro integrado y apilado |
+| 🔵 | [**3 · Safari diurno**](manejo-a6700/03-safari-diurno.md) | El AF con reconocimiento de animales, la rutina de 10 segundos, composición y receta por escena |
+| 🔵 | [**4 · Charcas nocturnas**](manejo-a6700/04-safari-nocturno-charcas.md) | Fauna con foco artificial: obturador silencioso, AF en penumbra, techo de ISO |
+| 🔵 | [**5 · Equipo y accesorios**](manejo-a6700/05-equipo-accesorios.md) | El kit con precios y alternativas, tarjetas (y el búfer), baterías, filtros y polvo |
+| 🔴 | [**El AF y la exposición a fondo**](manejo-a6700/af-y-exposicion-a-fondo.md) | Los tres mandos del AF, la medición puntual vinculada, la botonera "de francotirador" y el 70-350 al límite |
+
+**Referencia y hojas de campo**
+
+| Nivel | Guía | Qué resuelve |
+|:---:|---|---|
+| 🟢 | [**Todos los ajustes, con su ruta de menú**](manejo-a6700/ajustes-a6700.md) | La referencia única: cada ajuste con su ruta exacta y su valor para fauna y para noche, con el mapa del menú dibujado |
+| 🟢 | [**El menú completo**](manejo-a6700/menu-completo.md) | Las pestañas línea a línea: qué hace cada ajuste, tu valor y las líneas que hay que cambiar sí o sí |
+| 📋 | [**Chuleta**](manejo-a6700/chuleta.md) | Todas las recetas y arreglos rápidos en **una cara** ([PDF](pdf/chuleta.pdf)) |
+| ✅ | [**Verificación in situ**](manejo-a6700/verificacion-in-situ.md) | Listas de comprobación por momento del día, con el porqué de cada una, y diagnóstico de averías ([PDF](pdf/verificacion-in-situ.pdf)) |
+
+Las capturas de pantalla de los menús tienen su guion en [`manejo-a6700/img/menus/`](manejo-a6700/img/menus/).
+
+> **Datos de la cámara que conviene saber** (verificados con la Guía de ayuda de Sony): **una sola ranura** SD (UHS-II), sin copia automática; el búfer aguanta unas **23 fotos en RAW comprimido sin pérdida** (unos 2 s de ráfaga); la caja **no trae cargador** (carga por USB-C); la compensación de exposición **funciona en M con ISO Auto** (±5 EV); el intervalómetro va **integrado** (`Func. capt. interv.`).
+
+<a id="retoques"></a>
+
+## 🎨 3 · Retoques con Luminar
+
+Guía paso a paso para mejorar **JPEG** de safari, paisaje y noche en **Luminar**. Cada herramienta, control, atajo y límite técnico está **comprobado con la documentación oficial de Skylum**. Los valores numéricos se presentan como puntos de partida.
+
+```mermaid
+flowchart LR
+    A[Preparar<br/>P · X · ★] --> B[Ruido<br/>Noiseless AI] --> C[Recorte<br/>Crop AI] --> D[Luz<br/>Develop · J]
+    D --> E[Balance<br/>de blancos] --> F[Enhance AI] --> G[Color<br/>HSL]
+    G --> H[Textura<br/>Structure AI] --> I[Máscaras] --> J[Acabado<br/>y exportar]
+```
+
+| Parte | Capítulos |
 |---|---|
-| Entender por qué un JPEG "se rompe" | [1. Conceptos básicos](docs/01-conceptos-basicos.md) |
-| Saber dónde está cada cosa en Luminar | [2. Luminar por dentro](docs/02-luminar-por-dentro.md) |
-| Editar cualquier foto ya | [3. El flujo base: 10 pasos](docs/03-flujo-base.md) |
-| Que el animal "salte" de la foto | [5. Safari](docs/05-safari.md) |
-| Equilibrar cielo y suelo | [6. Paisaje](docs/06-paisaje.md) |
-| Rescatar la Vía Láctea del ruido | [7. Noche](docs/07-noche.md) |
-| Editar 500 fotos sin morir en el intento | [9. Trabajar en serie](docs/09-trabajar-en-serie.md) |
-| Imprimir o publicar | [11. Exportar](docs/11-exportar.md) |
-| Hacer mejores JPEG en el próximo viaje | [13. Disparar mejores JPEG](docs/13-disparar-mejores-jpeg.md) |
+| **I · Fundamentos** | [1. Conceptos básicos](retoques/01-conceptos-basicos.md) · [2. Luminar por dentro](retoques/02-luminar-por-dentro.md) |
+| **II · El método** | [3. El flujo base: 10 pasos](retoques/03-flujo-base.md) · [4. Herramientas avanzadas](retoques/04-herramientas-avanzadas.md) |
+| **III · Por tipo de foto** | [5. Safari 🦁](retoques/05-safari.md) · [6. Paisaje 🏜️](retoques/06-paisaje.md) · [7. Noche 🌌](retoques/07-noche.md) |
+| **IV · Más allá de una foto** | [8. Recetas](retoques/08-recetas.md) ⚠️ *provisional* · [9. Trabajar en serie](retoques/09-trabajar-en-serie.md) · [10. HDR, panorámicas, Upscale](retoques/10-varias-fotos.md) · [11. Exportar](retoques/11-exportar.md) · [12. Ética y GPS](retoques/12-etica.md) · [13. Disparar mejores JPEG](retoques/13-disparar-mejores-jpeg.md) |
+| **V · Referencia** | [14. Errores y lista](retoques/14-errores-y-lista.md) · [15. Atajos](retoques/15-atajos.md) · [16. Glosario](retoques/16-glosario.md) · [17. Preguntas](retoques/17-preguntas-frecuentes.md) · [18. Fuentes](retoques/18-fuentes.md) |
 
-## 📚 Contenido
+Índice detallado: [`retoques/README.md`](retoques/README.md) · Todo en un archivo: [`retoques/guia-completa.md`](retoques/guia-completa.md) · [PDF de 50 páginas](pdf/guia-luminar.pdf)
 
-<details open>
-<summary><b>Parte I · Fundamentos</b></summary>
+**Los atajos de Luminar que más vas a usar:** **`J`** aviso de recorte · **`\`** ver el original · **`⌘1`** zoom 100 % · **`C`** recortar · **`W`** cuentagotas · **`A`** Mask AI · **`/`** ver la máscara · **`⌘I`** invertir la máscara · **`⇧⌘S`** sincronizar ajustes · **`⇧⌘E`** exportar.
 
-1. [Conceptos básicos](docs/01-conceptos-basicos.md): JPEG frente a RAW, bandas, zonas de brillo, histograma, balance de blancos, contraste local, ruido, color.
-2. [Luminar por dentro](docs/02-luminar-por-dentro.md): categorías de herramientas, copias virtuales, los siete tipos de máscara, capas.
-</details>
+<a id="para-imprimir"></a>
 
-<details open>
-<summary><b>Parte II · El método</b></summary>
+## 🖨️ Para imprimir
 
-3. [El flujo base: 10 pasos](docs/03-flujo-base.md)
-4. [Herramientas avanzadas](docs/04-herramientas-avanzadas.md): Curves, Supercontrast, Color Harmony, Dodge & Burn, Light Depth, Black & White, Landscape y herramientas creativas.
-</details>
+| Hoja | Para qué | PDF |
+|---|---|---|
+| 📋 [Chuleta de la a6700](manejo-a6700/chuleta.md) | Todas las recetas de cámara en una cara | [chuleta.pdf](pdf/chuleta.pdf) |
+| ✅ [Verificación in situ](manejo-a6700/verificacion-in-situ.md) | Comprobaciones por momento del día | [verificacion-in-situ.pdf](pdf/verificacion-in-situ.pdf) |
+| ✏️ [Cuaderno de composición](conceptos/cuaderno-de-composicion.md) | 20 ejercicios para tachar | [cuaderno-de-composicion.pdf](pdf/cuaderno-de-composicion.pdf) |
+| 🎨 [Guía de retoques completa](retoques/guia-completa.md) | Los 18 capítulos de Luminar | [guia-luminar.pdf](pdf/guia-luminar.pdf) |
 
-<details open>
-<summary><b>Parte III · Por tipo de foto</b></summary>
+<a id="por-donde-empiezo"></a>
 
-5. [🦁 Safari](docs/05-safari.md)
-6. [🏜️ Paisaje](docs/06-paisaje.md)
-7. [🌌 Noche](docs/07-noche.md)
-</details>
+## 🧭 Por dónde empiezo
 
-<details>
-<summary><b>Parte IV · Más allá de una foto</b></summary>
-
-8. [Recetas completas](docs/08-recetas.md) ⚠️ *provisional, pendiente de probar con fotos reales*
-9. [Trabajar en serie](docs/09-trabajar-en-serie.md)
-10. [Varias fotos en una, ampliar y generar](docs/10-varias-fotos.md)
-11. [Exportar](docs/11-exportar.md)
-12. [Ética, concursos y ubicación](docs/12-etica.md)
-13. [Disparar mejores JPEG la próxima vez](docs/13-disparar-mejores-jpeg.md)
-</details>
-
-<details>
-<summary><b>Parte V · Referencia</b></summary>
-
-14. [Errores típicos y lista de comprobación](docs/14-errores-y-lista.md)
-15. [Atajos de teclado](docs/15-atajos.md)
-16. [Glosario](docs/16-glosario.md)
-17. [Preguntas frecuentes](docs/17-preguntas-frecuentes.md)
-18. [Fuentes](docs/18-fuentes.md)
-</details>
-
-## ⌨️ Los diez atajos que más vas a usar
-
-| | | | |
-|---|---|---|---|
-| **`J`** aviso de recorte | **`\`** ver el original | **`⌘1`** zoom 100 % | **`C`** recortar |
-| **`W`** cuentagotas | **`A`** Mask AI | **`/`** ver la máscara | **`⌘I`** invertir máscara |
-| **`⇧⌘S`** sincronizar ajustes | **`⇧⌘E`** exportar | | |
-
-Todos los atajos: [capítulo 15](docs/15-atajos.md).
+- 🐣 *Nunca he manejado una cámara en serio* → [Del móvil a la a6700](manejo-a6700/00-de-movil-a-la-a6700.md) y el [glosario](conceptos/glosario.md).
+- 📦 *La cámara acaba de llegar* → [Los menús y el primer día](manejo-a6700/00b-menus-y-primer-dia.md), luego [los diales y los botones](manejo-a6700/00c-diales-y-botones.md) y la [configuración básica](manejo-a6700/01-configuracion-basica.md).
+- 🔎 *¿Qué es esta línea del menú?* → [El menú completo](manejo-a6700/menu-completo.md).
+- 📊 *No sé si la foto está bien expuesta* → [El histograma](conceptos/histograma.md).
+- 🦁 *Voy de safari* → [Safari diurno](manejo-a6700/03-safari-diurno.md) para disparar y [Retoques · Safari](retoques/05-safari.md) para editar.
+- 🌌 *Quiero la Vía Láctea* → [Astrofotografía](manejo-a6700/02-astrofotografia-namibia.md) para disparar y [Retoques · Noche](retoques/07-noche.md) para editar.
+- 🎨 *Ya tengo las fotos, ¿y ahora?* → [El flujo base en Luminar](retoques/03-flujo-base.md).
+- 🧠 *Quiero entender por qué funcionan las recetas* → [Por qué funciona](conceptos/por-que-funciona.md) y [La mirada](conceptos/la-mirada.md).
+- ✈️ *Salgo pronto* → imprime la [chuleta](pdf/chuleta.pdf) y la [verificación in situ](pdf/verificacion-in-situ.pdf).
 
 ## 🎯 Sobre la precisión
 
-- **Verificado con la documentación oficial de Skylum** (noviembre de 2026): nombres de herramientas y controles, atajos, opciones de exportación, límites (Upscale hasta 6×, panorámicas de hasta 15.000 px, Focus Stacking de hasta 100 fotos, GenExpand hasta un 25 %…).
-- **Recomendaciones de la guía:** los valores numéricos de los deslizadores. Son puntos de partida para JPEG.
-- **Provisional:** las [recetas completas](docs/08-recetas.md) se revisarán con fotos de muestra reales.
-- Algunas herramientas dependen de la versión o de la licencia (por ejemplo, las versiones *Improved* requieren Luminar for Desktop 1.29.0 o posterior).
+- **Manejo de la a6700:** los nombres de menú, las rutas y los datos técnicos están verificados con la [Guía de ayuda oficial de Sony](https://helpguide.sony.net/ilc/2320/v1/es/). Los menús se escriben **abreviados, como aparecen en pantalla** (`Calid. img/grab.`, `AF c/obturador`, `Rec. motivo en AF`…).
+- **Retoques:** cada herramienta y atajo de Luminar está comprobado con la [documentación de Skylum](https://support.skylum.com/). Lo que la documentación no dice, la guía lo indica en lugar de suponerlo.
+- **Valores:** las cifras de los deslizadores y de las recetas son puntos de partida, no verdades. Las [recetas de Luminar](retoques/08-recetas.md) están marcadas como provisionales hasta probarlas con fotos reales.
 
-¿Has encontrado algo que no coincide con tu versión de Luminar? Abre un *issue* indicando la versión.
-
-## 🛠️ Para editar la guía
-
-Los capítulos de `docs/` son la **fuente**. La guía en un solo archivo y el PDF se **generan**:
+## 🛠️ Mantenimiento
 
 ```sh
-./build.sh            # navegación entre capítulos + guía completa en .md + PDF
-./build.sh --no-pdf   # sin PDF
+./pdf/generar.sh                   # regenera todos los PDF
+./pdf/generar.sh chuleta           # solo una hoja: chuleta · verificacion-in-situ · cuaderno-de-composicion · guia-luminar
+./pdf/generar-guia-luminar.sh      # navegación entre capítulos de retoques/ + guía completa + PDF
 ```
 
-Necesita `pandoc` y Google Chrome (para imprimir el PDF sin ventana). El estilo del PDF está en `pdf.css`.
+Necesita `pandoc` y Google Chrome. Al editar una hoja, regenera su PDF (la chuleta **debe caber en una cara**).
+
+## 🔗 Origen y enlaces
+
+- Las secciones de **conceptos** y **manejo de la a6700** vienen de [a6700-namibia](https://github.com/morandeirachema/a6700-namibia), la guía del viaje completo (planificación, fauna, logística, vídeo y móvil). Los enlaces a esas guías apuntan allí.
+- El dossier del viaje (itinerario, ruta y presupuesto): [namibia](https://github.com/morandeirachema/namibia).
+- Soporte de la Sony a6700: <https://www.sony.es/electronics/support> · Guía de ayuda: <https://helpguide.sony.net/ilc/2320/v1/es/>
+- Documentación de Luminar: <https://support.skylum.com/>
 
 ---
 
-<sub>Guía no oficial. Luminar es una marca de Skylum. Esta guía no tiene relación con Skylum.</sub>
+<sub>Guía no oficial. Sony y a6700 son marcas de Sony Group Corporation; Luminar es una marca de Skylum. Este repositorio no tiene relación con ninguna de las dos empresas.</sub>

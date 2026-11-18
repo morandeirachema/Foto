@@ -1,18 +1,18 @@
 #!/usr/bin/env bash
-# Builds the guide from the chapter files in docs/:
+# Builds the Luminar guide from the chapter files in retoques/:
 #   1. refreshes the prev/index/next navigation block in every chapter,
 #   2. concatenates all chapters (without navigation) into the single-file guide,
 #   3. renders that file to an A4 PDF with pandoc + headless Google Chrome.
-# Usage: ./build.sh            (everything)
-#        ./build.sh --no-pdf   (skip step 3)
+# Usage: ./pdf/generar-guia-luminar.sh            (everything)
+#        ./pdf/generar-guia-luminar.sh --no-pdf   (skip step 3)
 set -euo pipefail
-cd "$(dirname "$0")"
+cd "$(dirname "$0")/.."
 
-GUIDE_MD="guia-luminar-jpeg-safari-paisaje-noche.md"
-GUIDE_PDF="guia-luminar-jpeg-safari-paisaje-noche.pdf"
+GUIDE_MD="retoques/guia-completa.md"
+GUIDE_PDF="pdf/guia-luminar.pdf"
 CHROME="${CHROME:-/Applications/Google Chrome.app/Contents/MacOS/Google Chrome}"
 
-chapters=(docs/[0-9][0-9]-*.md)
+chapters=(retoques/[0-9][0-9]-*.md)
 n=${#chapters[@]}
 
 strip_nav() { sed '/^<!-- nav -->$/,/^<!-- \/nav -->$/d' "$1" | sed -e :a -e '/^\n*$/{$d;N;ba' -e '}' | sed '/./,$!d'; }
@@ -30,7 +30,7 @@ done
 
 # 2. Single-file guide
 {
-  echo "<!-- Archivo generado por build.sh a partir de docs/. No lo edites a mano. -->"
+  echo "<!-- Archivo generado por pdf/generar-guia-luminar.sh a partir de retoques/. No lo edites a mano. -->"
   echo
   for ((i = 0; i < n; i++)); do
     strip_nav "${chapters[$i]}"
@@ -43,7 +43,7 @@ echo "OK  $GUIDE_MD"
 [[ "${1:-}" == "--no-pdf" ]] && exit 0
 tmp=$(mktemp -d)
 trap 'rm -rf "$tmp"' EXIT
-pandoc "$GUIDE_MD" --from gfm --standalone --embed-resources --css pdf.css \
+pandoc "$GUIDE_MD" --from gfm --standalone --embed-resources --css pdf/guia-luminar.css \
   --metadata pagetitle="Mejorar JPEG de safari, paisaje y fotografía nocturna con Luminar" \
   --metadata lang=es -o "$tmp/guia.html"
 "$CHROME" --headless --disable-gpu --no-pdf-header-footer \

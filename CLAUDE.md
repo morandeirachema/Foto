@@ -4,39 +4,59 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ## What this repository is
 
-There is no application code here. The repository holds a Spanish-language guide to editing JPEG photos (safari, landscape, night) in **Luminar for Desktop 1.29.x** (Luminar Neo), on macOS. **The guide covers Luminar only.** The owner explicitly asked for no darktable or Lightroom content, so don't add equivalences to other editors.
+**Foto** (https://github.com/morandeirachema/Foto, formerly `Luminar`) is a Spanish-language photography guide in three sections. It is all Markdown plus generated PDFs; there is no application code.
 
-## Source vs generated files
+| Folder | Section | Origin |
+|---|---|---|
+| `conceptos/` | Concepts: technical model, histogram, white balance, composition, "la mirada" | Copied from `a6700-namibia` (Nov 2026) |
+| `manejo-a6700/` | Handling the Sony a6700: chapters 0–5, AF a fondo, full settings and menu reference, field sheets | Copied from `a6700-namibia` (Nov 2026) |
+| `retoques/` | Editing **in Luminar only** (18 chapters + intro), verified against Skylum's docs | Native to this repo |
+| `pdf/` | Generated PDFs, their CSS and generator scripts | — |
 
-- `docs/NN-*.md`: **the source.** One file per chapter (`00-introduccion.md` … `18-fuentes.md`), plus `docs/README.md`, the hand-written chapter index.
-- `guia-luminar-jpeg-safari-paisaje-noche.md` and `.pdf`: **generated** by `build.sh`. Never edit them by hand.
-- The `<!-- nav -->` … `<!-- /nav -->` blocks at the top and bottom of each chapter are **rewritten by `build.sh`**. Don't edit them.
+The owner's explicit scope decisions:
+- **Retoques is Luminar-only.** No darktable or Lightroom content, and no "equivalences" tables.
+- **No video content.** The video guides were deliberately left out, and the video sections of the copied files were removed. Mentions of the camera's Foto/Vídeo/S&Q selector, the MOVIE button and video-only menu lines stay, because they are needed to operate the camera.
+- From `a6700-namibia`, only concepts, composition and the camera chapters were brought over: no trip planning, no fauna or landscape guides, no Pixel, no logistics. Links in the copied files to guides that were not copied point to absolute URLs at `https://github.com/morandeirachema/a6700-namibia/blob/main/...`. Keep it that way, and don't copy those guides in unless asked. Links that used to go to `campo/edicion-basica.md` now point to `retoques/README.md`.
+- `a6700-namibia` remains its own repo and is not modified from here.
 
 ## Commands
 
 ```sh
-./build.sh            # refresh chapter nav, rebuild single-file .md, render A4 PDF
-./build.sh --no-pdf   # skip the PDF
-pdfinfo guia-luminar-jpeg-safari-paisaje-noche.pdf   # sanity check (A4, page count)
+./pdf/generar.sh                 # all PDFs: chuleta, verificacion-in-situ, cuaderno-de-composicion, guia-luminar
+./pdf/generar.sh <name>          # one of them
+./pdf/generar-guia-luminar.sh [--no-pdf]   # retoques: refresh nav blocks, rebuild retoques/guia-completa.md (+ PDF)
+pdfinfo pdf/<name>.pdf           # check page count
 ```
 
-The PDF is built with pandoc (`--from gfm`, styled by `pdf.css`) and then printed by headless Google Chrome (`CHROME` env var overrides the path). Run `./build.sh` after any change in `docs/` and commit the regenerated files with it. To check the layout, render pages with `pdftoppm -png -r 50 -f N -l N <pdf> <prefix>`. `pdf.css` relies on `p:has(+ h1)` to keep each chapter's "*Parte …*" label on the same page as its heading.
+Both scripts use pandoc and headless Google Chrome. Regenerate after editing a source and commit the results together. `manejo-a6700/chuleta.md` **must fit on one A4 page** (it uses `pdf/compacto.css`). `retoques/guia-completa.md` and the `<!-- nav -->` blocks in `retoques/NN-*.md` are generated: never edit them by hand. To check the layout, render pages with `pdftoppm -png -r 50 -f N -l N`. Check relative links after moving files: a quick Python script over all `](...)` targets works.
 
-## Adding or renaming a chapter
+## Retoques (Luminar) rules
 
-Files are picked up by the glob `docs/[0-9][0-9]-*.md`, in order. Chapter number = file number, and in-text cross-references ("sección 4.3") rely on that. If you add, remove or renumber a chapter, update: the in-text "sección N" references, `docs/00-introduccion.md`, `docs/README.md` and the root `README.md` (contents list, "Empieza por aquí" table).
+- Every Luminar tool, slider, menu path, shortcut and limit must be verifiable in Skylum's docs (index: `https://support.skylum.com/llms.txt`; append `.md` to a page URL). Add the page to `retoques/18-fuentes.md`. Where the docs are silent (HSL channel list, export colour-space options, GPS removal on export, input formats of HDR Merge or Panorama, whether Luminar reads in-camera star ratings), say so instead of guessing.
+- Slider values are the guide's own starting points, labelled as such. `retoques/08-recetas.md` stays **provisional** until it has been checked against the owner's sample photos.
+- Corrections already made from the docs: Dehaze lives in **Landscape Tools → Landscape**; **Twilight Enhancer AI** exists; Sky Enhancer AI is not for night skies; Upscale goes up to 6×; Object Select AI is hover + click with Subtract; there are no adjustment layers; a tool can be added several times, each with its own mask ("instancias").
+- Chapter number = file number (`retoques/NN-*.md`, picked up by glob), and in-text references ("sección 4.3") rely on that. When adding or renumbering a chapter, update `retoques/00-introduccion.md`, `retoques/README.md` and the root `README.md`.
+- Style: Spanish (Spain), addressed as *tú*; Luminar UI names in English and bold; values with a decimal comma and a true minus sign `−`; macOS shortcuts as **`⌘1`**.
 
-## Accuracy rules (the owner asked for "very precise, no fabrications")
+## Conceptos and manejo-a6700 rules (inherited from a6700-namibia)
 
-- Every Luminar tool name, slider name, menu path, shortcut and technical limit must be verifiable in Skylum's official docs. The index is `https://support.skylum.com/llms.txt`; append `.md` to any page URL. Check the docs before adding or changing a claim, and add the page to `docs/18-fuentes.md`.
-- If the docs don't say something (for example, the HSL channel list, the export color-space options, metadata/GPS removal on export, which input formats HDR Merge or Panorama accept), say so in the text rather than guessing.
-- Slider values are the guide's own starting points, and the text says so. `docs/08-recetas.md` is marked **provisional** until it has been checked against the owner's sample photos. Keep that banner until then.
-- Corrections already made from the docs: Dehaze lives in **Landscape Tools → Landscape**; **Twilight Enhancer AI** exists (Landscape Tools); Sky Enhancer AI is not for night skies; Upscale goes up to 6× (no fixed ×2/×4); Object Select AI is hover + click with **Subtract**; there are no "adjustment layers" (Add New Layer offers My Images, Flares, Light Leaks, Stardust Bokeh and Sparklers); tools can be added multiple times with their own masks ("instancias").
+Editorial contract:
+- **Nivel visible**: toda guía abre con `> 🟢/🔵/🔴 **Nivel** · Da por sabido: … · Te desbloquea: …`. Mantenerlo al crear o mover contenido.
+- **Teoría**: el nivel 🔴 avanzado **sí** explica el modelo (`conceptos/por-que-funciona.md`), pero con una regla dura: cada concepto termina en una decisión concreta de campo, con los números del equipo real. Nunca fórmulas sueltas.
+- **Audiencia**: novato que viene sobre todo del móvil — **a todos los niveles**. Nada de teoría: recetas con valores concretos, pasos numerados y tablas de "si la foto sale mal, toca esto". Toda guía (también las avanzadas) debe ser **autocontenida desde lo básico**: la base imprescindible va resumida dentro, y los enlaces a otros capítulos son para ampliar, nunca requisito para empezar.
+- **Equipo**: siempre opciones **budget**, con precio orientativo y mención de segunda mano (mpb.com) cuando compense.
+- **Enlaces externos**: toda referencia (apps, software, localizaciones, fabricantes) lleva su URL. No inventar URLs profundas; ante la duda, enlazar la página raíz del sitio.
 
-## Writing conventions
-
-- Spanish (Spain), addressed to the reader as *tú*, plain and beginner-friendly. Luminar UI names stay **in English** and in bold, exactly as in the app (*Noiseless AI*, *Mask AI*, *Sync Adjustments*).
-- Each step follows the pattern: **what to do in Luminar** (with values) → **why**.
-- Values are ranges with a Spanish decimal comma and a true minus sign `−` (U+2212): `+15 a +40`, `−0,2/−0,4`.
-- Shortcuts are macOS, in bold backticks: **`⌘1`**. Chapter 15 is the full list. Keep it, the checklist (14.2) and the in-text mentions consistent.
-- Documentary ethics stance (chapter 12): correct the photo, don't change the scene. Content-generating tools (GenErase, GenSwap, GenExpand, Sky AI, Atmosphere AI, Twilight Enhancer's Dawn) are always flagged as such.
+Camera facts that were verified against Sony's Guía de ayuda. Do **not** "correct" these:
+  - La a6700 **sí** permite compensación de exposición en M con ISO Auto (±5 EV) — al contrario que la Canon anterior; las recetas se apoyan en ello.
+  - **Una sola ranura** SD (UHS-II): no hay copia automática en segunda tarjeta — el sistema de copias del repo gira alrededor del volcado nocturno.
+  - **Tarjetas** (verificado en agosto de 2026): el búfer de la a6700 son ~1.000 JPEG, 59 RAW comprimido y **solo 23 RAW comprimido sin pérdida** (unos 2 s: en RAW sin pérdida la ráfaga baja a ~10 fps, según las especificaciones de Sony). Vaciarlo tras 30 RAW: 18–22 s con UHS-I V30, 8–9 s con UHS-II V60, 4–6 s con V90.
+  - La caja de la a6700 **no trae cargador**: carga por USB-C (PD) en cámara; el repo recomienda cargador doble USB aparte.
+  - **Nombres de menú verificados** (agosto de 2026, Guía de ayuda en español): las rutas se escriben `MENU → pestaña → [Grupo] → [Ajuste]` y los nombres van **abreviados como en pantalla**: `Calid. img/grab.`, `Obturad./silenc.`, `Modo de manejo`, `Estabiliz. de img`, `Rec. motivo en AF`, `Dest. reconocim.`, `Sens. Seguim. AF`, `Mem. ajustes cám`, `Visualizac. cebra` (nivel `100 IRE o +`), `RR exposic. larga`, `Personal. operac.`, `Rest/guard ajust`. La pestaña de disparo se llama **Toma**, no "Disparo". No "corregir" estos nombres a formas más largas. Añadidos en la auditoría de octubre de 2026, contra la misma Guía: el objetivo de aves de `Dest. reconocim.` es **`Ave`** (no "Pájaro"; también existe `Animal/ave`); la medición va en `Exposición/color → [Medición] → [Modo medición]` (Multi/Centro/Puntual) y su vínculo en `[Punto med. punt.] → Vínc. punto enf.`; la lupa es `Amplific. enfoque`; el horquillado, `Modo manejo` → `Variación expos.`; la ráfaga, `Captura contin.`; el temporizador, `Autodisp.(senc)`; el SteadyShot de foto es `Activar`/`Desactivar` y el de vídeo `Activo`/`Estándar`/`Desactivar`; la pestaña de reproducción es `Reproducc.` y el aumento inicial va en `[Aumento]`; `[Mostrar de Mi Menú]` vale `Activar`; el calor se gobierna en `Ajustes → [Opc. ajuste enrg.] → [Temp. APAGA auto]`. Segunda auditoría (25 de octubre de 2026, las 359 páginas de la Guía): el enfoque al pulgar es **`AF c/obturador`** (no "AF con disparador"); Bright Monitoring es **`Verificac. luminosa`**, solo existe como función de botón y se cancela con AF, con la lupa o al apagar (solo va en MF); el grupo del balance es `Balance blancos` (plural) y el ajuste `Balance blanco`; el peaking es `[Visualiz. resalte] → [Visualizac. resalte]`; la lupa está en `[Asistencia enfoq.]`; `Func. capt. interv.` vive en `Toma → [Modo de manejo]`; `Idioma` en `Ajustes → [Área/fecha]`; el objetivo de personas de `Dest. reconocim.` es `Humano`; existen `Guard./carg. ajustes`, `Bloqueo dial/rueda` (mantener Fn), `Rotación de Av/Tv` y `Ajustes de Mi dial` (en `[Personalizar dial]`), y **no** existen `Bloq. piezas operac.` ni `Configur. Av/Tv`. **Mandos**: en M, de fábrica, el **dial frontal mueve la abertura** y el trasero la velocidad — el repo los intercambia (`Ajuste t. pers./dial`) porque todas las recetas dicen "obturación = rueda delantera"; la rueda trae arriba DISP, abajo `Compensar exp.`, izquierda `Modo manejo`, derecha `ISO`; C2 trae `Área de enfoque`; **C1 está en la esquina trasera derecha**, junto al enganche de la correa; la **Guía en la cámara** es pulsar C3 (papelera) sobre una línea del menú o del Fn, sin asignar nada; la botonera del viaje es C1 = `Verificac. luminosa` y C3 = `Amplific. enfoque` (`manejo-a6700/00c-diales-y-botones.md`). `Liberar sin tarj. mem.` viene en Habilitar: el repo manda Inhabilitar.
+  - **Pantalla y revisión** (verificado en agosto de 2026): la **cuadrícula** (`Toma → [Visualizac. toma] → [Vis. lín. cuadrícul.]`, tipo regla de tres) va **activada**; la **`Rev.automática`** (`Ajustes → [Opción de visual.]`) va **desactivada**; el ciclo de DISP se recorta en `Ajustes → [Personal. operac.] → [Aj. DISP (vis. pant.)]` a tres vistas (toda info., histograma, nivel); y las 3 fotos del día se marcan con **`Valoración`** (`Reproducc. → [Selección/nota]`).
+  - El aviso de quemados en vivo es el **Zebra 100+**. En reproducción, la vista de histograma (DISP) **sí hace parpadear** las zonas sobrexpuestas y subexpuestas ("advertencia de sobrexposición/subexposición", página del botón DISP; corregido en octubre de 2026 — antes el repo decía lo contrario).
+  - El **11mm F1.8** tiene autofoco y contactos: interruptor **AF/MF** y **botón de retención de foco** en el propio objetivo, apertura desde la rueda de la cámara, sin estabilizador óptico (lo pone el IBIS) y rosca de **55 mm**. Para astro se enfoca a mano igualmente (lupa + peaking), pero no hay anillo de diafragma ni F--.
+  - El **70-350 G OSS** lleva interruptor **AF/MF**, interruptor **OSS (solo ON/OFF: no hay modo de barrido)**, **bloqueo de zoom** (solo a 70 mm), **botón de retención de foco** y rosca de **67 mm**. No tiene limitador de enfoque, ni puerto USB, ni macro: su máxima ampliación es 0,23x. La apertura máxima escalona f/4.5 (70–81 mm) · f/5 (82–113) · f/5.6 (114–199) · f/6.3 (200–350) — en la charca nocturna, quedarse por debajo de 200 mm es luz gratis.
+  - El obturador **electrónico** es totalmente silencioso (el arma de las charcas), pero con focos LED parpadeantes puede sacar **franjas**: el plan B documentado es el obturador mecánico.
+  - El intervalómetro va **integrado** y se llama `Func. capt. interv.` en el menú español (*Interval Shoot Func.* en inglés): no recomendar intervalómetros de cable.
+  - Focales siempre con su equivalencia APS-C (1.5x): 11 mm = 16,5 mm eq; 70–350 mm = 105–525 mm eq.

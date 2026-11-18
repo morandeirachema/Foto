@@ -1,4 +1,4 @@
-<!-- Archivo generado por build.sh a partir de docs/. No lo edites a mano. -->
+<!-- Archivo generado por pdf/generar-guia-luminar.sh a partir de retoques/. No lo edites a mano. -->
 
 # Mejorar JPEG de safari, paisaje y fotografía nocturna con Luminar
 ### Guía paso a paso, de lo básico a lo avanzado
