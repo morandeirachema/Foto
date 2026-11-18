@@ -1,10 +1,10 @@
 <!-- nav -->
-[← Anterior](12-etica.md) · [Índice](README.md) · [Siguiente →](14-errores-y-lista.md)
+[← Anterior](13-etica.md) · [Índice](README.md) · [Siguiente →](15-errores-y-lista.md)
 <!-- /nav -->
 
 *Parte IV · Más allá de una foto*
 
-# 13. Disparar mejores JPEG la próxima vez
+# 14. Disparar mejores JPEG la próxima vez
 
 La mejor edición empieza en la cámara. Si disparas en JPEG, estos ajustes amplían el margen para editar en Luminar.
 
@@ -12,7 +12,7 @@ La mejor edición empieza en la cámara. Si disparas en JPEG, estos ajustes ampl
 
 > Los nombres de los menús cambian según la marca. Consulta el manual de tu cámara. Con la **Sony a6700**, la configuración completa, con las rutas de menú verificadas, está en [Manejo de la a6700](../manejo-a6700/README.md).
 
-## 13.1. Ajustes de la cámara
+## 14.1. Ajustes de la cámara
 
 | Ajuste | Recomendación | Por qué |
 |---|---|---|
@@ -24,7 +24,7 @@ La mejor edición empieza en la cámara. Si disparas en JPEG, estos ajustes ampl
 | **Espacio de color** | sRGB, si no tienes un motivo para usar otro | Es el estándar de pantallas y web |
 | **RAW + JPEG** | Si la tarjeta y la cámara lo permiten | El RAW es el seguro para las fotos importantes |
 
-## 13.2. Al disparar
+## 14.2. Al disparar
 
 - **Protege las luces.** En JPEG, las luces quemadas no se recuperan y las sombras sí se pueden abrir un poco. Si dudas, usa algo de compensación de exposición negativa.
 - **Activa el aviso de sobreexposición** en la pantalla de la cámara.
@@ -32,16 +32,16 @@ La mejor edición empieza en la cámara. Si disparas en JPEG, estos ajustes ampl
 - **Desde el vehículo:** apoya el objetivo y pide que apaguen el motor si es posible: la vibración mueve la foto.
 - **Polvo:** cambia de objetivo lo menos posible y con la cámara hacia abajo.
 
-## 13.3. Noche: estrellas nítidas
+## 14.3. Noche: estrellas nítidas
 
 - **Trípode** y disparo retardado o con mando a distancia.
 - **Enfoque manual** sobre una estrella brillante, con la imagen ampliada en la pantalla.
 - **Diafragma** lo más abierto posible.
 - **Tiempo máximo sin trazos, regla del 500 (aproximada):** 500 ÷ (focal × factor de recorte) = segundos. Por ejemplo, con 14 mm en *full frame*: 500 ÷ 14 ≈ 36 s; en APS-C (×1,5): 500 ÷ 21 ≈ 24 s. Con sensores de muchos megapíxeles, conviene un tiempo más corto.
 - **Balance de blancos fijo:** evita que cada foto salga con un color distinto.
-- **Varias tomas iguales seguidas:** te permiten apilarlas después para reducir el ruido (sección 7.2).
+- **Varias tomas iguales seguidas:** te permiten apilarlas después para reducir el ruido (sección 8.2).
 - **Evita la luna llena** para la Vía Láctea: su luz borra las estrellas débiles.
 
 <!-- nav -->
-[← Anterior](12-etica.md) · [Índice](README.md) · [Siguiente →](14-errores-y-lista.md)
+[← Anterior](13-etica.md) · [Índice](README.md) · [Siguiente →](15-errores-y-lista.md)
 <!-- /nav -->

@@ -1,12 +1,12 @@
 <!-- nav -->
-[← Anterior](13-disparar-mejores-jpeg.md) · [Índice](README.md) · [Siguiente →](15-atajos.md)
+[← Anterior](14-disparar-mejores-jpeg.md) · [Índice](README.md) · [Siguiente →](16-atajos.md)
 <!-- /nav -->
 
 *Parte V · Referencia*
 
-# 14. Errores típicos y lista de comprobación
+# 15. Errores típicos y lista de comprobación
 
-## 14.1. Los errores más frecuentes
+## 15.1. Los errores más frecuentes
 
 | Error | Cómo se reconoce | Solución en Luminar |
 |---|---|---|
@@ -24,7 +24,7 @@
 | **Fotos de una serie que no casan** | Una más saturada u oscura que las demás | Sync Adjustments y revisión conjunta |
 | **Editar cansado** | Al día siguiente todo parece exagerado | Descansar y bajar lo que sobre |
 
-## 14.2. Lista de comprobación
+## 15.2. Lista de comprobación
 
 ```
 PREPARAR
@@ -47,10 +47,11 @@ GLOBAL
 [ ] Structure AI / Details con moderación
 
 LOCAL
-[ ] Sujeto: Object Select AI → +luz, +textura
-[ ] Fondo (⌘I): −luz, −saturación
-[ ] Cielo / suelo: Mask AI (A) o Gradient (G)
-[ ] Noche: Vía Láctea con Radial (R); horizonte con Gradient
+[ ] Ojos: Dodge & Burn → Lighten, pincel pequeño, Strength baja
+[ ] Sujeto: Dodge & Burn → Lighten (luz) · Structure AI + Object Select AI (textura)
+[ ] Fondo: Color + máscara del sujeto invertida (⌘I) · Dodge & Burn → Darken
+[ ] Cielo / suelo: Dodge & Burn · Mask AI (A) o Gradient (G) en otras herramientas
+[ ] Noche: Vía Láctea con Supercontrast + Radial (R); horizonte con Gradient
 [ ] Bordes de máscara revisados con /
 
 ACABADO
@@ -68,5 +69,5 @@ REVISIÓN Y SALIDA
 ```
 
 <!-- nav -->
-[← Anterior](13-disparar-mejores-jpeg.md) · [Índice](README.md) · [Siguiente →](15-atajos.md)
+[← Anterior](14-disparar-mejores-jpeg.md) · [Índice](README.md) · [Siguiente →](16-atajos.md)
 <!-- /nav -->

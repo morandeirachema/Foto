@@ -1,12 +1,12 @@
 <!-- nav -->
-[← Anterior](04-herramientas-avanzadas.md) · [Índice](README.md) · [Siguiente →](06-paisaje.md)
+[← Anterior](05-herramientas-avanzadas.md) · [Índice](README.md) · [Siguiente →](07-paisaje.md)
 <!-- /nav -->
 
 *Parte III · Por tipo de foto*
 
-# 5. Safari (fauna)
+# 6. Safari (fauna)
 
-## 5.1. Problemas típicos
+## 6.1. Problemas típicos
 
 | Problema | Por qué ocurre |
 |---|---|
@@ -21,7 +21,7 @@
 | **Manchas oscuras en el cielo** | Polvo en el sensor o en el objetivo |
 | **Imagen que "ondula"** | Aire caliente sobre el suelo: el animal lejano se ve blando y deformado |
 
-## 5.2. Paso a paso
+## 6.2. Paso a paso
 
 **1. Ruido (casi siempre necesario)**
 - **Noiseless AI**, con el nivel propuesto. Sube **Details** con cuidado para no perder pelo, plumas y textura de piel.
@@ -37,7 +37,7 @@
 - Quita del borde lo que distraiga (un trozo de vehículo, una rama cortada).
 - **No cortes por las articulaciones:** evita cortar justo por las rodillas, las patas o la punta de la cola.
 - **Orejas y cuernos dentro:** un cuerno cortado por el borde molesta más que un poco de espacio sobrante.
-- Si recortas mucho, piensa en **Upscale** al final (sección 10.4).
+- Si recortas mucho, piensa en **Upscale** al final (sección 11.4).
 - El ojo del animal es el centro de interés: construye el encuadre a partir de él.
 
 **4. Luz: expón para el animal**
@@ -69,10 +69,9 @@
 
 | Ajuste | Cómo | Valores |
 |---|---|---|
-| **Seleccionar el animal** | Develop (segunda instancia) → Masking → **Object Select AI** → clic sobre el animal → **Feather** | — |
-| **Animal más presente** | Con esa máscara | Exposure +0,2/+0,3; Smart Contrast +10 |
-| **Textura del pelo** | **Structure AI** con la misma máscara (**Copy**/**Paste** de la máscara) | +15/+25 |
-| **Fondo más discreto** | Otra instancia con la máscara invertida (**`⌘I`**) | Exposure −0,2; Saturation −10 |
+| **Textura del pelo** | **Structure AI** → Masking → **Object Select AI** → clic sobre el animal → **Feather** | +15/+25 |
+| **Animal más presente** | **Dodge & Burn → Lighten**, pincel grande y suave sobre el animal | **Strength** baja |
+| **Fondo más discreto** | **Color** con la máscara del animal (**Copy**/**Paste**) invertida (**`⌘I`**); **Dodge & Burn → Darken** suave donde distraiga | Saturation −10 |
 | **Ojo con brillo** | **Dodge & Burn → Lighten**, pincel pequeño, poca **Strength** | Solo el iris |
 
 **El ojo, en detalle:**
@@ -83,29 +82,29 @@
 **8. Limpieza**
 - **Remove Dust Spots** quita automáticamente las manchas de polvo del sensor o del objetivo. Después puedes afinar con **Erase**. El polvo del sensor aparece **en el mismo sitio** en varias fotos: revisa toda la serie.
 - **Erase** para motas, ramitas o insectos pequeños que distraigan.
-- **Importante:** en una foto documental, **no borres elementos de la escena** (otros animales, vehículos, collares de seguimiento) ni uses herramientas generativas (sección 12).
+- **Importante:** en una foto documental, **no borres elementos de la escena** (otros animales, vehículos, collares de seguimiento) ni uses herramientas generativas (sección 13).
 
 **9. Acabado**
 - **Vignette** −10 a −15 si el fondo es claro en los bordes; **Choose Subject** para centrarlo en el animal.
 - **Upscale** solo si has recortado mucho, y siempre al final.
 
-## 5.3. Casos concretos
+## 6.3. Casos concretos
 
 **Animal a contraluz:**
 - Decide: ¿silueta o detalle? Para una **silueta**, baja **Blacks** y deja el animal oscuro; resalta el borde de luz con **Highlights**.
-- Para ver **detalle**, máscara del animal con Exposure +0,4/+0,6, y antes **Noiseless AI** (esa zona tendrá ruido).
+- Para ver **detalle**, **Dodge & Burn → Lighten** sobre el animal ([sección 4.5](04-ajustes-locales.md)), y antes **Noiseless AI** (esa zona tendrá ruido).
 
 **Mediodía con luz dura:**
 - Shadows +30/+40 y Highlights −30.
 - **Structure AI** moderado: la luz dura ya tiene mucho contraste.
-- El **blanco y negro** suele funcionar muy bien (sección 4.6).
+- El **blanco y negro** suele funcionar muy bien (sección 5.6).
 
 **Amanecer y atardecer:**
 - Conserva la calidez. Casi siempre hará falta Noiseless AI.
 - **Light Depth** (opcional) para reforzar la dirección de la luz.
 
 **Pájaros en vuelo contra el cielo:**
-- Exposure para el pájaro. Con **Mask AI → cielo**, Exposure −0,2 para que el cielo no quede blanco.
+- Exposure (Develop) para el pájaro. Si el cielo queda blanco, **Dodge & Burn → Darken** suave sobre el cielo ([sección 4.6](04-ajustes-locales.md)).
 - **Details** con **Details Masking** alto para no enfocar el cielo.
 
 **Plumas blancas (garzas, pelícanos, águilas pescadoras):**
@@ -115,7 +114,7 @@
 
 **Animales oscuros (búfalo, gorila, cuervo):**
 - Un búfalo tiene que ser oscuro: no lo aclares de más.
-- Para ver detalle, máscara del animal con Shadows +20 y Structure AI +15. Vigila el ruido.
+- Para ver detalle, **Dodge & Burn → Lighten** muy suave en las sombras del animal y **Structure AI** +15 con la máscara del animal. Vigila el ruido.
 
 **Cebras:**
 - Las rayas blancas se queman y las negras se empastan: Highlights −30 y Blacks un poco arriba.
@@ -123,7 +122,7 @@
 
 **Leopardo en un árbol (luz moteada):**
 - **Dodge & Burn → Darken** sobre las manchas de luz en las ramas; **Lighten** suave en la cara del leopardo.
-- **Mask AI → cielo** (los huecos entre las ramas) con Exposure −0,3 para que no distraigan.
+- **Dodge & Burn → Darken** sobre los huecos de cielo entre las ramas, para que no distraigan.
 
 **Elefantes y rinocerontes:**
 - **Structure AI** +20/+30 y **Medium Details**: la textura de la piel es su mayor atractivo.
@@ -137,5 +136,5 @@
 - Expectativas realistas: servirá de recuerdo o para la pantalla del móvil, no para imprimir grande.
 
 <!-- nav -->
-[← Anterior](04-herramientas-avanzadas.md) · [Índice](README.md) · [Siguiente →](06-paisaje.md)
+[← Anterior](05-herramientas-avanzadas.md) · [Índice](README.md) · [Siguiente →](07-paisaje.md)
 <!-- /nav -->

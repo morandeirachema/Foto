@@ -1,5 +1,5 @@
 <!-- nav -->
-[← Anterior](02-luminar-por-dentro.md) · [Índice](README.md) · [Siguiente →](04-herramientas-avanzadas.md)
+[← Anterior](02-luminar-por-dentro.md) · [Índice](README.md) · [Siguiente →](04-ajustes-locales.md)
 <!-- /nav -->
 
 *Parte II · El método*
@@ -54,7 +54,7 @@ Este es el esqueleto que usarás en todas las fotos. Las secciones de safari, pa
 - **Whites** y **Blacks:** hasta que el aviso de recorte apenas aparezca.
 - **Smart Contrast:** +10 a +25.
 - **El truco de los extremos:** con **`J`** activo, sube **Whites** hasta que aparezca el primer aviso y retrocede un poco; baja **Blacks** hasta el primer aviso y retrocede. Así usas todo el rango sin perder detalle.
-- **Shadows y Highlights tienen un límite.** Si los llevas muy lejos en un JPEG, la foto se vuelve gris y plana. Si necesitas más, usa una máscara o las Curvas (sección 4.1).
+- **Shadows y Highlights tienen un límite.** Si los llevas muy lejos en un JPEG, la foto se vuelve gris y plana. Si necesitas más, usa una máscara o las Curvas (sección 5.1).
 - **Por qué:** primero colocas cada zona de brillo en su sitio; luego das contraste.
 
 ### Paso 5 · Color: balance de blancos
@@ -89,7 +89,7 @@ Este es el esqueleto que usarás en todas las fotos. Las secciones de safari, pa
 
 ### Paso 9 · Ajustes locales: máscaras
 
-Repite **Develop** (u otra herramienta) y usa su pestaña **Masking** (sección 2.3).
+Aquí se trabaja por zonas: **Dodge & Burn** para aclarar u oscurecer pintando, y la pestaña **Masking** de otras herramientas (Structure AI, Color…) para lo demás. **Todo el paso a paso, desde cero, en la [sección 4](04-ajustes-locales.md).**
 
 **El esquema de tres zonas:**
 1. **Sujeto:** un poco más claro, contrastado y nítido.
@@ -106,10 +106,10 @@ Repite **Develop** (u otra herramienta) y usa su pestaña **Masking** (sección 
 - **Vignette:** −10 a −20, si encaja. **Choose Subject** coloca el centro del viñeteado sobre el sujeto.
 - **Film Grain:** **Amount** 5–10 si ves bandas en el cielo.
 - **`\`** (mantener) para comparar con el original. Revisa al 100 %, descansa 5 minutos y **baja lo que sobre**.
-- **Exportar** (**`⇧⌘E`**): sección 11.
+- **Exportar** (**`⇧⌘E`**): sección 12.
 
 **La regla del descanso.** Tras un rato mirando una foto, el ojo se acostumbra a la saturación y al contraste, y siempre parece que "falta un poco más". Por eso las fotos editadas de un tirón suelen verse exageradas al día siguiente. Descansa, vuelve a mirarlas y baja lo que sobre.
 
 <!-- nav -->
-[← Anterior](02-luminar-por-dentro.md) · [Índice](README.md) · [Siguiente →](04-herramientas-avanzadas.md)
+[← Anterior](02-luminar-por-dentro.md) · [Índice](README.md) · [Siguiente →](04-ajustes-locales.md)
 <!-- /nav -->

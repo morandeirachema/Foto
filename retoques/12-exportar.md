@@ -1,12 +1,12 @@
 <!-- nav -->
-[← Anterior](10-varias-fotos.md) · [Índice](README.md) · [Siguiente →](12-etica.md)
+[← Anterior](11-varias-fotos.md) · [Índice](README.md) · [Siguiente →](13-etica.md)
 <!-- /nav -->
 
 *Parte IV · Más allá de una foto*
 
-# 11. Exportar
+# 12. Exportar
 
-## 11.1. El cuadro de exportación
+## 12.1. El cuadro de exportación
 
 **Export** (**`⇧⌘E`**) ofrece:
 - **Formatos:** JPEG, PNG, TIFF, JPEG 2000, Photoshop (PSD, **sin capas**), PDF y DNG.
@@ -16,7 +16,7 @@
 
 Luminar **recuerda la configuración** de la última exportación. Revísala antes de cada uso.
 
-## 11.2. Ajustes recomendados por uso
+## 12.2. Ajustes recomendados por uso
 
 *Recomendaciones de esta guía, no de Skylum.*
 
@@ -31,7 +31,7 @@ Luminar **recuerda la configuración** de la última exportación. Revísala ant
 - **Redes sociales:** cada red cambia a menudo sus tamaños recomendados. Consulta el actual antes de exportar.
 - **Espacio de color:** para pantallas y web, **sRGB**, que es el estándar. Un espacio más amplio no recupera colores que el JPEG original no tiene, y algunas aplicaciones y webs pueden mostrarlo con los colores apagados. Para imprimir, usa el que te pida el laboratorio.
 
-## 11.3. Imprimir
+## 12.3. Imprimir
 
 **Píxeles necesarios según el tamaño de la copia:**
 
@@ -48,10 +48,10 @@ Luminar **recuerda la configuración** de la última exportación. Revísala ant
 - Una copia en papel suele verse **más oscura** que en la pantalla. Haz una **copia virtual** (**`⌘'`**) para imprimir y ajusta en ella.
 - Pide una **prueba pequeña** antes de una copia grande.
 
-## 11.4. Nombres de archivo
+## 12.4. Nombres de archivo
 
 Una convención sencilla ahorra búsquedas: `AAAA-MM-DD_lugar_tema_numero.jpg`. Por ejemplo, `2026-08-14_masai-mara_leon_01.jpg`. Guarda las exportaciones en una carpeta distinta de la de los originales.
 
 <!-- nav -->
-[← Anterior](10-varias-fotos.md) · [Índice](README.md) · [Siguiente →](12-etica.md)
+[← Anterior](11-varias-fotos.md) · [Índice](README.md) · [Siguiente →](13-etica.md)
 <!-- /nav -->

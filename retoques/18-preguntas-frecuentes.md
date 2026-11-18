@@ -1,10 +1,10 @@
 <!-- nav -->
-[← Anterior](16-glosario.md) · [Índice](README.md) · [Siguiente →](18-fuentes.md)
+[← Anterior](17-glosario.md) · [Índice](README.md) · [Siguiente →](19-fuentes.md)
 <!-- /nav -->
 
 *Parte V · Referencia*
 
-# 17. Preguntas frecuentes
+# 18. Preguntas frecuentes
 
 **¿Merece la pena editar JPEG, o debería pasarme a RAW?**
 Merece la pena: un JPEG se puede mejorar mucho. Pero si tu cámara lo permite, dispara en **RAW + JPEG** en los viajes importantes. El RAW es el seguro para las fotos que de verdad te importan.
@@ -22,11 +22,11 @@ No. Lo completamente blanco en un JPEG no tiene información. Bajar Highlights s
 Bájala, o quítala y hazlo a mano. Las herramientas de IA son atajos, no obligaciones.
 
 **No encuentro una herramienta de la guía.**
-Algunas dependen de tu versión o licencia (por ejemplo, las versiones *Improved* requieren Luminar for Desktop 1.29.0 o posterior y una licencia que las incluya). Consulta la documentación oficial (sección 18).
+Algunas dependen de tu versión o licencia (por ejemplo, las versiones *Improved* requieren Luminar for Desktop 1.29.0 o posterior y una licencia que las incluya). Consulta la documentación oficial (sección 19).
 
 **¿Cómo sé si me he pasado editando?**
 Tres pruebas: compara con **`\`**; mira la miniatura junto a otras fotos sin editar; y vuelve a mirarla al día siguiente. Si "salta" por artificial, baja.
 
 <!-- nav -->
-[← Anterior](16-glosario.md) · [Índice](README.md) · [Siguiente →](18-fuentes.md)
+[← Anterior](17-glosario.md) · [Índice](README.md) · [Siguiente →](19-fuentes.md)
 <!-- /nav -->

@@ -1,10 +1,10 @@
 <!-- nav -->
-[← Anterior](14-errores-y-lista.md) · [Índice](README.md) · [Siguiente →](16-glosario.md)
+[← Anterior](15-errores-y-lista.md) · [Índice](README.md) · [Siguiente →](17-glosario.md)
 <!-- /nav -->
 
 *Parte V · Referencia*
 
-# 15. Atajos de teclado (macOS)
+# 16. Atajos de teclado (macOS)
 
 Atajos según la documentación oficial de Skylum. En Windows, **`⌘`** suele corresponder a **Ctrl** y **`⌥`**, a **Alt**.
 
@@ -56,5 +56,5 @@ Atajos según la documentación oficial de Skylum. En Windows, **`⌘`** suele c
 | **`⇧[`** / **`⇧]`** | Menos / más suavidad del pincel |
 
 <!-- nav -->
-[← Anterior](14-errores-y-lista.md) · [Índice](README.md) · [Siguiente →](16-glosario.md)
+[← Anterior](15-errores-y-lista.md) · [Índice](README.md) · [Siguiente →](17-glosario.md)
 <!-- /nav -->

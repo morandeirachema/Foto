@@ -1,12 +1,12 @@
 <!-- nav -->
-[← Anterior](06-paisaje.md) · [Índice](README.md) · [Siguiente →](08-recetas.md)
+[← Anterior](07-paisaje.md) · [Índice](README.md) · [Siguiente →](09-recetas.md)
 <!-- /nav -->
 
 *Parte III · Por tipo de foto*
 
-# 7. Fotografía nocturna
+# 8. Fotografía nocturna
 
-## 7.1. Antes de empezar
+## 8.1. Antes de empezar
 
 La fotografía nocturna es la que **más sufre en JPEG**: mucho ruido, sombras muy oscuras y una reducción de ruido de la cámara que puede haber borrado estrellas débiles. Se puede mejorar mucho, pero con expectativas realistas.
 
@@ -22,7 +22,7 @@ La fotografía nocturna es la que **más sufre en JPEG**: mucho ruido, sombras m
 - **Dehaze en toda la foto:** dispara el ruido y la dominante.
 - **Structure AI en toda la foto y Details altos:** convierten el ruido en "estrellas falsas".
 
-## 7.2. Cielo estrellado y Vía Láctea
+## 8.2. Cielo estrellado y Vía Láctea
 
 **1. Ruido, con cuidado**
 - **Noiseless AI**, normalmente en *Middle*.
@@ -42,18 +42,18 @@ La fotografía nocturna es la que **más sufre en JPEG**: mucho ruido, sombras m
 - **Shadows** con cuidado: es la zona con más ruido.
 
 **4. La Vía Láctea**
-- Develop (segunda instancia) con máscara **Radial** (**`R`**) o **Brush** (**`B`**) sobre el núcleo: Exposure +0,2 y Smart Contrast +15.
+- **Supercontrast → Highlights** con máscara **Radial** (**`R`**) sobre el núcleo, en modo **Inverted** para que actúe dentro del círculo: realza las nubes de estrellas sin tocar el fondo.
 - **Structure AI** +10/+20 con la misma máscara (**Copy**/**Paste** de la máscara).
-- **Supercontrast → Highlights** con la misma máscara: realza las nubes de estrellas sin tocar el fondo.
+- **Dodge & Burn → Lighten** muy suave sobre el núcleo, si necesita más luz.
 - **Landscape → Dehaze** con la misma máscara, suave: aumenta el contraste de las nubes de estrellas.
 - **Por qué en local:** si subes el contraste en todo el cielo, sube también el ruido del fondo.
 
 **5. Contaminación lumínica en el horizonte**
-- **Gradient** desde el horizonte hacia arriba: Exposure −0,2 y Temperature un poco hacia el azul.
+- **Color Harmony** con un **Gradient** desde el horizonte hacia arriba: **Warmth** un poco negativa para neutralizar el naranja; y **Dodge & Burn → Darken** suave sobre el resplandor.
 - Si el resplandor es fuerte, **no intentes eliminarlo**: déjalo como un degradado cálido suave. Si lo quitas del todo, queda una banda gris sucia.
 
 **6. Primer plano**
-- Suele estar muy oscuro: **Mask AI → cielo**, invertida (**`⌘I`**), con Exposure +0,3/+0,5.
+- Suele estar muy oscuro: **Dodge & Burn → Lighten** suave sobre el suelo ([sección 4.5](04-ajustes-locales.md)), o **Light Depth → Brightness Near**.
 - **No lo aclares demasiado.** Una silueta oscura o un primer plano tenue es más creíble que uno iluminado como de día.
 - **De noche, la máscara de cielo puede fallar** porque el límite entre cielo y suelo apenas se ve. Revísala con **`/`** y corrígela con **Brush**, o usa un **Gradient** en el horizonte.
 
@@ -62,9 +62,9 @@ La fotografía nocturna es la que **más sufre en JPEG**: mucho ruido, sombras m
 - **Vignette** suave.
 - Revisa al 100 %: bandas en el cielo, halos en el horizonte, estrellas convertidas en manchas.
 
-**Estrellas alargadas (pequeños trazos):** salen cuando la exposición fue demasiado larga para la focal usada. No tienen arreglo real al editar. Para la próxima vez, consulta la sección 13.3.
+**Estrellas alargadas (pequeños trazos):** salen cuando la exposición fue demasiado larga para la focal usada. No tienen arreglo real al editar. Para la próxima vez, consulta la sección 14.3.
 
-## 7.3. Luces artificiales (lodge, campamento, ciudad)
+## 8.3. Luces artificiales (lodge, campamento, ciudad)
 
 - **Balance de blancos:** no neutralices del todo las bombillas cálidas. Algo de calidez hace la escena acogedora.
 - **Highlights** −30/−50 para recuperar las luces. Si las bombillas están quemadas, déjalas: es normal.
@@ -73,7 +73,7 @@ La fotografía nocturna es la que **más sufre en JPEG**: mucho ruido, sombras m
 - **HSL:** baja la saturación del naranja si la luz es demasiado intensa.
 - **Luces de distintos colores:** neutraliza la que más se vea y deja la otra con su color.
 
-## 7.4. Fuego de campamento y linternas
+## 8.4. Fuego de campamento y linternas
 
 - **Decide el color.** La luz del fuego es muy naranja. Corrige un poco (Temperature un poco más fría), pero **no la vuelvas blanca**: el fuego tiene que seguir pareciendo fuego.
 - **Shadows** +20 para ver las caras; **Highlights** −40 para que la llama tenga forma.
@@ -81,13 +81,13 @@ La fotografía nocturna es la que **más sufre en JPEG**: mucho ruido, sombras m
 - **Vignette** algo más marcada (−20) para concentrar la luz en el fuego.
 - **No enfoques las llamas ni las chispas**: el enfoque convierte su movimiento en ruido.
 
-## 7.5. Luna
+## 8.5. Luna
 
 - **Luna sola, con teleobjetivo:** baja **Highlights** y **Exposure** hasta ver los cráteres; **Structure AI** +20 y **Details** moderado. Fondo negro (**Blacks** abajo).
 - **Luna en un paisaje:** en un JPEG suele estar quemada, porque es mucho más brillante que el paisaje. Si lo está, **no se puede recuperar**: acepta un punto blanco o hazle una foto aparte.
-- **Añadir una luna de otra foto** (**Layers → + → My Images**) es un montaje: hazlo solo en fotos creativas y dilo al compartirla (sección 12).
+- **Añadir una luna de otra foto** (**Layers → + → My Images**) es un montaje: hazlo solo en fotos creativas y dilo al compartirla (sección 13).
 
-## 7.6. Hora azul y crepúsculo
+## 8.6. Hora azul y crepúsculo
 
 El mejor momento para la "foto nocturna" con JPEG suele ser **antes** de la noche cerrada, cuando el cielo aún tiene luz azul y el ruido es mucho menor.
 - Balance de blancos: deja el azul.
@@ -96,5 +96,5 @@ El mejor momento para la "foto nocturna" con JPEG suele ser **antes** de la noch
 - **Twilight Enhancer AI** (preset **Blue**) puede reforzar el ambiente, con **Amount** bajo.
 
 <!-- nav -->
-[← Anterior](06-paisaje.md) · [Índice](README.md) · [Siguiente →](08-recetas.md)
+[← Anterior](07-paisaje.md) · [Índice](README.md) · [Siguiente →](09-recetas.md)
 <!-- /nav -->

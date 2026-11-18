@@ -16,38 +16,40 @@
 **Parte II · El método**
 
 3. El flujo base: 10 pasos
-4. Herramientas avanzadas
+4. Ajustes locales: aclarar u oscurecer solo una parte
+5. Herramientas avanzadas
 
 **Parte III · Por tipo de foto**
 
-5. Safari (fauna)
-6. Paisaje
-7. Fotografía nocturna
+6. Safari (fauna)
+7. Paisaje
+8. Fotografía nocturna
 
 **Parte IV · Más allá de una foto**
 
-8. Recetas completas *(provisional)*
-9. Trabajar en serie
-10. Varias fotos en una, ampliar y generar
-11. Exportar
-12. Ética, concursos y ubicación
-13. Disparar mejores JPEG la próxima vez
+9. Recetas completas *(provisional)*
+10. Trabajar en serie
+11. Varias fotos en una, ampliar y generar
+12. Exportar
+13. Ética, concursos y ubicación
+14. Disparar mejores JPEG la próxima vez
 
 **Parte V · Referencia**
 
-14. Errores típicos y lista de comprobación
-15. Atajos de teclado
-16. Glosario
-17. Preguntas frecuentes
-18. Fuentes
+15. Errores típicos y lista de comprobación
+16. Atajos de teclado
+17. Glosario
+18. Preguntas frecuentes
+19. Fuentes
 
 ## Cómo leerla
 
 - **Pensada para JPEG, y es justo lo que tienes:** las fotos de Namibia salieron solo en JPEG por un error de configuración de la cámara. Todo lo de esta guía se aplica tal cual a ellas. Para que no se repita, mira la [configuración básica de la a6700](../manejo-a6700/04-configuracion-basica.md).
 
 - Cada paso indica **qué hacer** en Luminar y **por qué**. Si entiendes el porqué, sabrás adaptarlo a cada foto.
-- Cuando el texto dice "sección 4.3", se refiere al apartado 4.3 (el capítulo 4).
-- Los **nombres de herramientas, controles y atajos** están comprobados con la documentación oficial de Skylum (sección 18). Se mantienen en inglés, como aparecen en el programa.
+- Cuando el texto dice "sección 5.3", se refiere al apartado 5.3 (el capítulo 5).
+- **¿Empiezas de cero en edición?** Lee en orden los capítulos 1 a 4. El 4 enseña a aclarar u oscurecer solo una parte de la foto (los ojos, una sombra, el cielo), explicando qué haces, cómo y qué significa para la foto.
+- Los **nombres de herramientas, controles y atajos** están comprobados con la documentación oficial de Skylum (sección 19). Se mantienen en inglés, como aparecen en el programa.
 - Los **valores numéricos** son puntos de partida para JPEG propuestos por esta guía, no valores oficiales. Cada foto es distinta: mueve el deslizador mirando la imagen, no el número.
 - Los atajos son de **macOS**. En Windows, **`⌘`** suele corresponder a **Ctrl** y **`⌥`** a **Alt**.
 

@@ -1,10 +1,10 @@
 <!-- nav -->
-[← Anterior](15-atajos.md) · [Índice](README.md) · [Siguiente →](17-preguntas-frecuentes.md)
+[← Anterior](16-atajos.md) · [Índice](README.md) · [Siguiente →](18-preguntas-frecuentes.md)
 <!-- /nav -->
 
 *Parte V · Referencia*
 
-# 16. Glosario
+# 17. Glosario
 
 | Término | Significado |
 |---|---|
@@ -19,7 +19,7 @@
 | **Hora azul** | Tras la puesta o antes de la salida del sol, cuando el cielo es azul intenso |
 | **Hora dorada** | Primera y última hora de sol, con luz cálida y rasante |
 | **HSL** | Tono (Hue), saturación (Saturation) y luminancia (Luminance) de cada color |
-| **Instancia** | Una herramienta repetida en la misma foto, normalmente con otra máscara |
+| **Máscara** | El mapa de la zona a la que se aplica una herramienta; Luminar la muestra en rojo con **`/`** |
 | **ISO** | Sensibilidad de la cámara; cuanto más alto, más ruido |
 | **No destructivo** | Los ajustes se guardan aparte y el original no cambia |
 | **Perspectiva atmosférica** | Lo lejano se ve más claro, frío y suave por el aire |
@@ -30,5 +30,5 @@
 | **Viñeteado** | Oscurecimiento de las esquinas |
 
 <!-- nav -->
-[← Anterior](15-atajos.md) · [Índice](README.md) · [Siguiente →](17-preguntas-frecuentes.md)
+[← Anterior](16-atajos.md) · [Índice](README.md) · [Siguiente →](18-preguntas-frecuentes.md)
 <!-- /nav -->

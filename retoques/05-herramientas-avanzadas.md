@@ -1,14 +1,14 @@
 <!-- nav -->
-[← Anterior](03-flujo-base.md) · [Índice](README.md) · [Siguiente →](05-safari.md)
+[← Anterior](04-ajustes-locales.md) · [Índice](README.md) · [Siguiente →](06-safari.md)
 <!-- /nav -->
 
 *Parte II · El método*
 
-# 4. Herramientas avanzadas
+# 5. Herramientas avanzadas
 
 No son imprescindibles, pero dan un control que las herramientas básicas no tienen.
 
-## 4.1. Curves (dentro de Develop)
+## 5.1. Curves (dentro de Develop)
 
 - **Eje horizontal:** el brillo **original**, de oscuro (izquierda) a claro (derecha).
 - **Eje vertical:** el brillo **resultante**.
@@ -29,7 +29,7 @@ No son imprescindibles, pero dan un control que las herramientas básicas no tie
 - **Sombras verdosas:** en **Green**, baja un poco la parte izquierda.
 - **Luces demasiado amarillas:** en **Blue**, sube un poco la parte derecha.
 
-## 4.2. Supercontrast (Professional)
+## 5.2. Supercontrast (Professional)
 
 Controla el contraste por separado en tres zonas:
 - **Highlights**, **Midtones** y **Shadows:** cuánto contraste hay en cada zona (a la derecha, más).
@@ -42,7 +42,7 @@ Controla el contraste por separado en tres zonas:
 
 Empieza con **Midtones** +10/+20 y el resto en 0.
 
-## 4.3. Color Harmony (Professional)
+## 5.3. Color Harmony (Professional)
 
 | Control | Qué hace | Uso típico |
 |---|---|---|
@@ -54,7 +54,7 @@ Empieza con **Midtones** +10/+20 y el resto en 0.
 
 **El uso más útil en JPEG:** **Color Balance** para corregir una dominante **solo en una zona de brillo**. Por ejemplo, si el cielo nocturno está bien pero las sombras son verdosas, en **Shadows** mueve Magenta–Green un poco hacia el magenta.
 
-## 4.4. Dodge & Burn (Professional)
+## 5.4. Dodge & Burn (Professional)
 
 La técnica clásica de laboratorio: **aclarar** y **oscurecer** pintando.
 
@@ -69,7 +69,7 @@ La técnica clásica de laboratorio: **aclarar** y **oscurecer** pintando.
 
 **Ejercicio:** en una foto de dunas, aclara las caras iluminadas y oscurece las caras en sombra. Verás aparecer el volumen.
 
-## 4.5. Light Depth (Creative)
+## 5.5. Light Depth (Creative)
 
 Usa un **mapa de profundidad** calculado por IA para iluminar de forma distinta lo cercano y lo lejano, como un foco suave colocado en la escena. Sustituye a la antigua herramienta Relight AI.
 
@@ -82,7 +82,7 @@ Usa un **mapa de profundidad** calculado por IA para iluminar de forma distinta 
 
 **Perspectiva atmosférica.** Lo cercano parece más claro, contrastado y cálido; lo lejano, más suave y frío. Para reforzarla: **Brightness Near** un poco arriba, **Warmth Near** un poco cálido y **Warmth Far** un poco frío. Con valores pequeños.
 
-## 4.6. Black & White (Essentials)
+## 5.6. Black & White (Essentials)
 
 El blanco y negro no es quitar el color, sino **decidir qué gris recibe cada color**.
 
@@ -104,19 +104,19 @@ El blanco y negro no es quitar el color, sino **decidir qué gris recibe cada co
 
 **Después de convertir:** el blanco y negro suele necesitar **más contraste** que el color. Usa una curva en S, Supercontrast y Dodge & Burn.
 
-## 4.7. Herramientas de Landscape
+## 5.7. Herramientas de Landscape
 
 | Herramienta | Qué hace | Cuándo |
 |---|---|---|
 | **Landscape** | **Dehaze** (quita neblina ajustando a la vez contraste, claridad y color), **Golden Hour** (calidez y brillo dorado), **Foliage Enhancer** y **Foliage Hue** (vegetación más viva y su tono) | Calima, vegetación apagada |
 | **Water Enhancer AI** | Agua más clara y viva: **Amount**, **Blue**, **Green**, **Original Color**, **Brightness**, **Contrast**, **Depth** y un pincel (**Draw**, **Erase**, **Restore**) para elegir la zona | Ríos, lagos, mar |
 | **Twilight Enhancer AI** | Luz y color de hora azul u hora dorada. Presets **Blush**, **Golden**, **Blue**, **Emerald** y **Mauve**, con ajustes de **Sky**, **Dawn**, **Scene Enhancements** y **Water Reflection** | Fotos de crepúsculo o con poca luz |
-| **Sky AI** | Sustituye el cielo | Solo fotos creativas (sección 12) |
+| **Sky AI** | Sustituye el cielo | Solo fotos creativas (sección 13) |
 | **Atmosphere AI** | **Añade** niebla, bruma o neblina (Fog, Layered Fog, Mist, Haze o, en la versión Improved, Ground Fog, Wispy Fog y Heavy Fog) | Solo fotos creativas: añade algo que no estaba |
 
 > **Precaución:** **Dawn** (en Twilight Enhancer AI), **Sky AI** y **Atmosphere AI** añaden luz, cielo o niebla que no existían. En fotos documentales, evítalos o úsalos de forma muy sutil y dilo al compartir la foto.
 
-## 4.8. Herramientas creativas
+## 5.8. Herramientas creativas
 
 | Herramienta | Qué hace | Precaución |
 |---|---|---|
@@ -131,5 +131,5 @@ El blanco y negro no es quitar el color, sino **decidir qué gris recibe cada co
 | **Color Transfer** | Aplica la paleta de color de una foto de referencia | No funciona con fotos en blanco y negro |
 
 <!-- nav -->
-[← Anterior](03-flujo-base.md) · [Índice](README.md) · [Siguiente →](05-safari.md)
+[← Anterior](04-ajustes-locales.md) · [Índice](README.md) · [Siguiente →](06-safari.md)
 <!-- /nav -->

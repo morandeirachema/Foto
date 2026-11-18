@@ -1,10 +1,10 @@
 <!-- nav -->
-[← Anterior](17-preguntas-frecuentes.md) · [Índice](README.md)
+[← Anterior](18-preguntas-frecuentes.md) · [Índice](README.md)
 <!-- /nav -->
 
 *Parte V · Referencia*
 
-# 18. Fuentes
+# 19. Fuentes
 
 Los nombres de las herramientas, los controles, los atajos y los límites técnicos de esta guía se han comprobado con la documentación oficial de Skylum (noviembre de 2026). Los valores numéricos de ajuste son **recomendaciones de esta guía**, no de Skylum.
 
@@ -49,6 +49,7 @@ Los nombres de las herramientas, los controles, los atajos y los límites técni
 
 **Máscaras y capas**
 - [Mask AI](https://support.skylum.com/editing-tools/masking-options/mask-ai) · [Object Select AI](https://support.skylum.com/editing-tools/masking-options/object-select-ai)
+- [Masking Options](https://support.skylum.com/editing-tools/masking-options) · [Brush Mask](https://support.skylum.com/editing-tools/masking-options/brush-mask) · [Radial Mask](https://support.skylum.com/editing-tools/masking-options/using-a-radial-mask) · [Linear Gradient Mask](https://support.skylum.com/editing-tools/masking-options/linear-gradient-mask)
 - [Luminosity Masking](https://support.skylum.com/editing-tools/masking-options/luminosity-masking) · [Color Masking](https://support.skylum.com/editing-tools/masking-options/color-masking) · [Mask Actions](https://support.skylum.com/editing-tools/masking-options/mask-actions)
 - [Layers](https://support.skylum.com/editing-tools/layers) · [Layer Properties](https://support.skylum.com/editing-tools/layers/layer-properties) · [Añadir y quitar capas](https://support.skylum.com/editing-tools/layers/adding-and-removing-a-layer)
 
@@ -58,5 +59,5 @@ Los nombres de las herramientas, los controles, los atajos y los límites técni
 - [GenErase](https://support.skylum.com/extra-tools/generative-tools/generase) · [GenSwap](https://support.skylum.com/extra-tools/generative-tools/genswap) · [GenExpand](https://support.skylum.com/extra-tools/generative-tools/genexpand)
 
 <!-- nav -->
-[← Anterior](17-preguntas-frecuentes.md) · [Índice](README.md)
+[← Anterior](18-preguntas-frecuentes.md) · [Índice](README.md)
 <!-- /nav -->

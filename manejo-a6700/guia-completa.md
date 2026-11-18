@@ -1649,7 +1649,7 @@ Nada más.
    tienes. ¿Una rayita? Baja a 15 s. ¿Una bola? Repite el paso 3.
 7. Cuando salga la buena: **haz 10 tomas idénticas seguidas** sin tocar
    nada. En casa se apilan con un programa gratis y el ruido baja
-   muchísimo ([cómo, en retoques · noche](../retoques/07-noche.md)).
+   muchísimo ([cómo, en retoques · noche](../retoques/08-noche.md)).
 
 | Si la foto sale… | Toca… |
 |---|---|
@@ -1874,7 +1874,7 @@ apuntando a otra parte del cielo ([su guía](https://github.com/morandeirachema/
 - **La panorámica de la banda tumbada**: el núcleo horizontal de noviembre
   es el escenario perfecto para tu primera pano nocturna: 3–4 tomas en
   vertical, solapadas un tercio, girando solo el cabezal entre tomas, mismos
-  ajustes clavados; Luminar las une con **Panorama Stitching** ([retoques, 10.2](../retoques/10-varias-fotos.md)).
+  ajustes clavados; Luminar las une con **Panorama Stitching** ([retoques, 11.2](../retoques/11-varias-fotos.md)).
 - **Las Nubes con detalle**: la tentación de meterles el 70-350 **no
   funciona sin montura de seguimiento** (ya a 70 mm y f/4.5 el límite sin
   trazas son ~5 s → ISO absurdo y cien tomas para poco). El camino real: 11 mm
@@ -2643,7 +2643,7 @@ Para un primer plano a menos de ~2 m y el fondo nítido a la vez, el objetivo es
 ## Astro con el 25 mm: cuándo sí y cuándo no
 
 - **Tiempo máximo sin trazos (regla del 500, aproximada):** 500 ÷ 37,5 ≈ **13 s**. Empieza en **10–13 s**, frente a los 20 s del 11 mm. Con la misma apertura, menos segundos dan menos luz: compensa con **ISO 3200**.
-- **Para qué sirve:** un trozo de cielo **más cerrado** (el núcleo de la Vía Láctea, una constelación) o una **panorámica** de varias tomas que luego une Luminar (**Panorama Stitching**, [retoques 10.2](../retoques/10-varias-fotos.md)).
+- **Para qué sirve:** un trozo de cielo **más cerrado** (el núcleo de la Vía Láctea, una constelación) o una **panorámica** de varias tomas que luego une Luminar (**Panorama Stitching**, [retoques 11.2](../retoques/11-varias-fotos.md)).
 - **Para qué no:** la postal con todo el cielo y un árbol cerca. Ahí manda el 11 mm.
 - **Comprueba las esquinas** en tu primera noche: amplía al 100 % una estrella de la esquina. Si sale con "alitas" o alargada, cierra a f/2.8. Las fuentes consultadas para esta guía no evalúan su comportamiento en astro, así que compruébalo tú.
 
