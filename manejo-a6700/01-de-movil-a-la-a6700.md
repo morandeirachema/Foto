@@ -145,6 +145,8 @@ que en la a6700 funciona en todos los modos (también en M con ISO Auto):
 | Fondo muy oscuro (sombra, noche, foco sobre animal) | Aclara la foto → lo iluminado se quema | **−0.7 a −1** |
 | Escena normal | Acierta | 0 |
 
+> ⚠️ **Parece al revés, y es la trampa más común.** Con un fondo muy claro, lo intuitivo es pensar "hay mucha luz, resto". Pero la cámara **ya ha restado**: quiere que todo salga gris medio y ha oscurecido la foto por su cuenta. Tu compensación **deshace** su error, así que **sumas**. Regla corta: **fondo claro → +; fondo oscuro → −**.
+
 No es un fallo de tu cámara ni tuyo: es física del medidor. Fondo claro →
 sube; fondo oscuro → baja.
 
