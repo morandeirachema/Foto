@@ -1507,6 +1507,8 @@ parte baja-media del rango. Y algo más útil todavía: **a partir de ISO ~800
 la a6700 es prácticamente ISO-invariante** — subir el ISO en cámara o
 levantar la exposición después en el revelado dan casi el mismo resultado.
 
+> ⚠️ **Esto vale para RAW, no para JPEG.** La invarianza habla de los datos del sensor, que solo guarda el RAW. Un JPEG ya está procesado por la cámara y guarda 8 bits por color: si lo disparas oscuro y lo aclaras después dos pasos, aparecen **ruido, bandas y colores sucios** ([retoques 1.1](../retoques/01-conceptos-basicos.md#11-qué-tiene-de-especial-un-jpeg)). **Con JPEG, expón bien en la cámara:** sube el ISO lo que haga falta en vez de aclarar después, y solo deja la foto algo oscura cuando sea para no quemar las luces.
+
 **Las decisiones**:
 
 - **Por debajo de ISO 800, expón bien en cámara.** Ahí la cámara **no** es

@@ -299,7 +299,7 @@ Por la **difracción**: con el diafragma muy cerrado, la luz se abre al pasar po
 **2. Con la a6700, ¿da igual subir el ISO en la cámara o aclarar la foto después?**
 <details><summary>Respuesta</summary>
 
-A partir de **ISO ~800** la a6700 es **prácticamente ISO-invariante**: el ruido final es casi el mismo. En la práctica, lo importante es **no quemar las luces**. Si dudas entre quemar y quedarte oscuro a ISO alto, protege las luces y levanta después.
+**Depende del formato.** En **RAW**, a partir de **ISO ~800** la a6700 es **prácticamente ISO-invariante**: el ruido final es casi el mismo, y lo importante es **no quemar las luces**. En **JPEG, no**: el archivo ya está procesado y guarda 8 bits, así que aclarar después saca ruido y bandas. **Con JPEG, expón bien en la cámara** subiendo el ISO, y solo deja la foto algo oscura para no quemar las luces.
 → [Conceptos 9 · §6 Ruido e ISO](conceptos/09-por-que-funciona.md#6--ruido-iso-y-el-punto-en-que-deja-de-importar)
 </details>
 
