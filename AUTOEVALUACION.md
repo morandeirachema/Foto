@@ -8,6 +8,8 @@
 
 ---
 
+> 🎓 **Versión interactiva:** el mismo test con opciones, nota por etapa y tus respuestas guardadas, en [Test de fotografía](https://claude.ai/artifact/1yTeKxkdNnTppF4gxWEkky) (privado: solo lo abres tú).
+
 **Cómo se usa:** responde **en voz alta o por escrito antes** de abrir la respuesta. Una respuesta cuenta como buena si dice lo mismo con tus palabras, no si la reconoces al leerla. Si fallas una, vuelve al capítulo enlazado y repítela otro día.
 
 **Para pasar de etapa:** acierta al menos el 85 % de las preguntas de la etapa, y en la etapa 1 todas las de exposición (1, 2, 2b y 3).

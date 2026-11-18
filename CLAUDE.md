@@ -27,6 +27,8 @@ The owner's explicit scope decisions:
 
 `AUTOEVALUACION.md` (root) has 8–10 questions per RUTA stage (1–3), pass mark 85 %, with collapsible answers that each cite the chapter where the point is taught. Every answer must match the chapter it cites: if a chapter's figures change, update the answer too.
 
+The interactive version is a private claude.ai artifact, **Test de fotografía** (https://claude.ai/artifact/1yTeKxkdNnTppF4gxWEkky): 43 multiple-choice questions mirroring AUTOEVALUACION, with the first option of each question correct (shuffled on screen). Answers are saved in its `db`, collection `respuestas`, doc id = question id (`ok`, `elegida`, `intentos`, `fallos`, `ultima`). Read them with `ArtifactData` `list` to see which questions the owner missed, then reinforce those chapters. Don't ask quiz questions in chat. The source HTML lives in the session scratchpad; when you change questions, republish to the same URL and keep it in sync with AUTOEVALUACION.md.
+
 `PENDIENTES.md` (root) is the owner's checklist of things only they can verify. When the owner reports a result, update the affected guide and tick the item; when you add an unverifiable claim, add it there.
 
 ## Structure (the same in all three sections)

@@ -14,7 +14,7 @@
 
 <sub>Elefantes hacia el agua, Etosha. Foto de [Yathin S. Krishnappa](https://commons.wikimedia.org/wiki/File:Elephants_rushing_to_water_(Etosha,_2013).jpg), CC BY-SA 3.0, vía Wikimedia Commons</sub>
 
-**[🧭 Ruta de aprendizaje](RUTA.md)** · **[🎓 Autoevaluación](AUTOEVALUACION.md)** · **[✅ Pendientes](PENDIENTES.md)** · **[🧠 Conceptos](#conceptos)** · **[🎛️ Manejo de la a6700](#manejo-a6700)** · **[🎨 Retoques](#retoques)** · **[🖨️ Para imprimir](#para-imprimir)** · **[🧭 Por dónde empiezo](#por-donde-empiezo)**
+**[🧭 Ruta de aprendizaje](RUTA.md)** · **[🎓 Autoevaluación](AUTOEVALUACION.md)** ([test interactivo](https://claude.ai/artifact/1yTeKxkdNnTppF4gxWEkky)) · **[✅ Pendientes](PENDIENTES.md)** · **[🧠 Conceptos](#conceptos)** · **[🎛️ Manejo de la a6700](#manejo-a6700)** · **[🎨 Retoques](#retoques)** · **[🖨️ Para imprimir](#para-imprimir)** · **[🧭 Por dónde empiezo](#por-donde-empiezo)**
 
 </div>
 
