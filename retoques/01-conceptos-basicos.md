@@ -6,7 +6,7 @@
 
 # 1. Conceptos básicos
 
-Antes de mover un deslizador, conviene entender **qué estás tocando**. Este capítulo resume lo imprescindible para retocar; la explicación completa, con la cámara, está en [Conceptos](../conceptos/README.md): [la luz](../conceptos/01-la-luz.md), [el histograma](../conceptos/02-histograma.md), [el balance de blancos](../conceptos/03-balance-de-blancos.md) y [por qué funciona](../conceptos/04-por-que-funciona.md). Si entiendes estos conceptos, sabrás qué herramienta de Luminar usar en cada caso.
+Antes de mover un deslizador, conviene entender **qué estás tocando**. Este capítulo resume lo imprescindible para retocar; la explicación completa, con la cámara, está en [Conceptos](../conceptos/README.md): [la luz](../conceptos/01-la-luz.md), [el histograma](../conceptos/03-histograma.md), [el balance de blancos](../conceptos/04-balance-de-blancos.md) y [por qué funciona](../conceptos/09-por-que-funciona.md). Si entiendes estos conceptos, sabrás qué herramienta de Luminar usar en cada caso.
 
 ## 1.1. Qué tiene de especial un JPEG
 

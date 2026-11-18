@@ -1,10 +1,10 @@
 <!-- nav -->
-[← Anterior](06-la-mirada.md) · [Índice](README.md) · [Siguiente →](08-glosario.md)
+[← Anterior](07-atlas-de-encuadres.md) · [Índice](README.md) · [Siguiente →](09-por-que-funciona.md)
 <!-- /nav -->
 
-*Parte II · La composición y la mirada*
+*Parte II · Óptica y composición*
 
-# 7. Cuaderno de composición — 20 ejercicios, para imprimir y tachar
+# 8. Cuaderno de composición — 20 ejercicios, para imprimir y tachar
 
 Veinte ejercicios en escalera, del más tonto al más difícil. Cada uno tiene
 un **criterio de aprobado**: o lo cumples o no, sin opinión. Se hacen con
@@ -13,7 +13,7 @@ puerto— y ninguno necesita Namibia.
 
 **Cómo se usa**: uno o dos por sesión, en orden. No pases al siguiente
 bloque hasta tener el anterior entero. Los encuadres numerados son los del
-[atlas](05-atlas-de-encuadres.md).
+[atlas](07-atlas-de-encuadres.md).
 
 ---
 
@@ -82,11 +82,11 @@ Si vas mal de tiempo, estos tres valen más que los otros diecisiete:
 
 ## Para seguir
 
-- El repertorio: [atlas de encuadres](05-atlas-de-encuadres.md)
+- El repertorio: [atlas de encuadres](07-atlas-de-encuadres.md)
 - El análisis: [fotos desmontadas](https://github.com/morandeirachema/a6700-namibia/blob/main/mejora/fotos-desmontadas.md)
 - A quién mirar: [fotógrafos de referencia](https://github.com/morandeirachema/a6700-namibia/blob/main/mejora/fotografos-de-referencia.md)
-- El método de autocrítica y los cinco escalones: [la mirada](06-la-mirada.md)
+- El método de autocrítica y los cinco escalones: [la mirada](10-la-mirada.md)
 
 <!-- nav -->
-[← Anterior](06-la-mirada.md) · [Índice](README.md) · [Siguiente →](08-glosario.md)
+[← Anterior](07-atlas-de-encuadres.md) · [Índice](README.md) · [Siguiente →](09-por-que-funciona.md)
 <!-- /nav -->

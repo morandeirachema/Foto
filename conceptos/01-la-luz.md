@@ -1,5 +1,5 @@
 <!-- nav -->
-[← Anterior](00-introduccion.md) · [Índice](README.md) · [Siguiente →](02-histograma.md)
+[← Anterior](00-introduccion.md) · [Índice](README.md) · [Siguiente →](02-exposicion.md)
 <!-- /nav -->
 
 *Parte I · La luz y la exposición*
@@ -23,8 +23,8 @@
 
 La cámara necesita una **cantidad** concreta de luz para que la foto no salga ni oscura ni quemada. La reúne con tres controles: **velocidad de obturación** (cuánto tiempo entra), **apertura** (por qué agujero entra) e **ISO** (cuánto se amplifica). Cada uno tiene un precio: movimiento, profundidad de campo o ruido. Lo explican, de menos a más:
 - El [capítulo 1 de manejo](../manejo-a6700/01-de-movil-a-la-a6700.md): los tres números y el **paso**.
-- [El histograma](02-histograma.md): cómo saber si la cantidad es la correcta sin fiarte de la pantalla.
-- [Por qué funciona](04-por-que-funciona.md): el modelo completo.
+- [El histograma](03-histograma.md): cómo saber si la cantidad es la correcta sin fiarte de la pantalla.
+- [Por qué funciona](09-por-que-funciona.md): el modelo completo.
 
 **Lo que conviene retener ya:** **un paso** es el doble (o la mitad) de luz. Abrir un paso el diafragma, duplicar el tiempo o duplicar el ISO dan la misma claridad, cada uno con su precio.
 
@@ -92,7 +92,7 @@ La luz "blanca" no existe en la práctica: cada fuente tiene su color, medido co
 | Sombra con cielo azul | Fría | Azulada |
 | Después de la puesta (hora azul) | Muy fría | Azul intenso |
 
-**Qué significa para la foto:** el **balance de blancos** le dice a la cámara (o a Luminar) qué luz debe tomar como "blanca". No se trata de dejarlo todo neutro, sino de que sea **creíble**: un atardecer tiene que seguir siendo cálido. Los valores por escena, en [Balance de blancos](03-balance-de-blancos.md); cómo corregirlo al retocar, en [retoques 1.4](../retoques/01-conceptos-basicos.md).
+**Qué significa para la foto:** el **balance de blancos** le dice a la cámara (o a Luminar) qué luz debe tomar como "blanca". No se trata de dejarlo todo neutro, sino de que sea **creíble**: un atardecer tiene que seguir siendo cálido. Los valores por escena, en [Balance de blancos](04-balance-de-blancos.md); cómo corregirlo al retocar, en [retoques 1.4](../retoques/01-conceptos-basicos.md).
 
 **Dos luces de distinto color en la misma foto** (un fuego y la luna, una farola y el cielo) nunca quedan neutras a la vez. Elige cuál debe parecer normal y deja la otra con su color.
 
@@ -115,7 +115,7 @@ Con esas cinco respuestas sabes qué foto te da esa luz, qué ajuste tendrás qu
 | Cielo blanco y suelo bien | Dura, con el cielo mucho más claro que el suelo | Expón para lo que importa; al retocar, Highlights abajo |
 | Sujeto negro sobre fondo brillante | Contraluz | Compensa la exposición hacia arriba, o haz una silueta a propósito |
 | Foto plana, sin relieve | Frontal o nublada | Cambia de posición para tener luz lateral; al retocar, más contraste |
-| Todo naranja o todo azul | Muy cálida o muy fría | Balance de blancos ([capítulo 3](03-balance-de-blancos.md)) |
+| Todo naranja o todo azul | Muy cálida o muy fría | Balance de blancos ([Balance de blancos](04-balance-de-blancos.md)) |
 
 ## Ejercicio (una tarde, en casa)
 
@@ -128,9 +128,9 @@ Con esas cinco respuestas sabes qué foto te da esa luz, qué ajuste tendrás qu
 
 ## Referencias
 
-- Glosario de términos de luz y color: [capítulo 8](08-glosario.md)
-- La luz como decisión creativa: [La mirada](06-la-mirada.md)
+- Glosario de términos de luz y color: [el glosario](11-glosario.md)
+- La luz como decisión creativa: [La mirada](10-la-mirada.md)
 
 <!-- nav -->
-[← Anterior](00-introduccion.md) · [Índice](README.md) · [Siguiente →](02-histograma.md)
+[← Anterior](00-introduccion.md) · [Índice](README.md) · [Siguiente →](02-exposicion.md)
 <!-- /nav -->

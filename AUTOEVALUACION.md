@@ -10,7 +10,7 @@
 
 **Cómo se usa:** responde **en voz alta o por escrito antes** de abrir la respuesta. Una respuesta cuenta como buena si dice lo mismo con tus palabras, no si la reconoces al leerla. Si fallas una, vuelve al capítulo enlazado y repítela otro día.
 
-**Para pasar de etapa:** acierta al menos 7 de 8 preguntas, y en la etapa 1 todas las de exposición (las 1, 2 y 3).
+**Para pasar de etapa:** acierta al menos el 85 % de las preguntas de la etapa, y en la etapa 1 todas las de exposición (1, 2, 2b y 3).
 
 ---
 
@@ -20,21 +20,29 @@
 <details><summary>Respuesta</summary>
 
 **Dos pasos** (1/250 → 1/500 → 1/1000: cada paso es la mitad de luz). Para recuperarlos sin que la foto se oscurezca: **abrir el diafragma dos pasos**, si el objetivo lo permite, o **multiplicar el ISO por cuatro** (por ejemplo, 400 → 1600). Cada opción tiene su precio: menos profundidad de campo o más ruido.
-→ [Manejo 1 · Los 3 números y los pasos](manejo-a6700/01-de-movil-a-la-a6700.md#los-3-números-y-qué-hacen-en-la-práctica)
+→ [Conceptos 2 · La exposición](conceptos/02-exposicion.md) · [Manejo 1 · Los 3 números y los pasos](manejo-a6700/01-de-movil-a-la-a6700.md#los-3-números-y-qué-hacen-en-la-práctica)
 </details>
 
 **2. Un animal oscuro sobre arena muy clara sale casi negro. ¿Por qué se ha equivocado la cámara y qué haces?**
 <details><summary>Respuesta</summary>
 
 La medición intenta que la escena quede en un **gris medio**. Ve mucho blanco, cree que hay demasiada luz y **oscurece** la foto. Solución: **compensación de exposición positiva**, entre **+0,7 y +1**.
-→ [Manejo 1 · Medición](manejo-a6700/01-de-movil-a-la-a6700.md#medición-por-qué-la-cámara-se-equivoca-y-cómo-corregirla)
+La regla: mira **qué ocupa la mayor parte del encuadre**: claro → **+**; oscuro → **−**.
+→ [Conceptos 1 · El gris medio](conceptos/01-la-luz.md#por-qué-la-cámara-se-equivoca-el-gris-medio) · [Manejo 1 · Medición](manejo-a6700/01-de-movil-a-la-a6700.md#medición-por-qué-la-cámara-se-equivoca-y-cómo-corregirla)
+</details>
+
+**2b. Una garza blanca sobre agua oscura en sombra sale con las plumas quemadas. ¿Qué compensación?**
+<details><summary>Respuesta</summary>
+
+**Negativa (−0,7 a −1).** Lo que llena el encuadre es **oscuro**: la cámara cree que falta luz, aclara, y lo blanco se quema. Restas para deshacerlo.
+→ [Conceptos 1 · El gris medio](conceptos/01-la-luz.md#por-qué-la-cámara-se-equivoca-el-gris-medio)
 </details>
 
 **3. En un paisaje con nubes, el histograma toca el borde derecho. ¿Es un problema?**
 <details><summary>Respuesta</summary>
 
 **Sí**: lo que toca el borde derecho está **quemado**, sin información, y las nubes pierden su textura sin remedio (en un JPEG, todavía menos margen). Baja la exposición. Solo se acepta quemar lo que no tiene textura que importe: el sol, una farola, un reflejo.
-→ [Conceptos 2 · El histograma](conceptos/02-histograma.md) · [Retoques 1.3](retoques/01-conceptos-basicos.md#13-el-histograma-y-el-aviso-de-recorte)
+→ [Conceptos 3 · El histograma](conceptos/03-histograma.md) · [Retoques 1.3](retoques/01-conceptos-basicos.md#13-el-histograma-y-el-aviso-de-recorte)
 </details>
 
 **4. A mediodía, la sombra de una acacia tiene el borde muy nítido. ¿Qué te dice de la luz y qué problema dará con un animal?**
@@ -80,7 +88,7 @@ Haz una foto de prueba y pásala al ordenador: tiene que haber un archivo **`.AR
 <details><summary>Respuesta</summary>
 
 **Fijo**: en el atardecer, **Luz de día (5200 K)**. El automático "corrige" el dorado y te roba lo que buscabas. Para las estrellas, Kelvin a mano, en torno a **3900 K**. La regla del repo: de día, un preajuste fijo; de noche, Kelvin a mano.
-→ [Conceptos 3 · Balance de blancos](conceptos/03-balance-de-blancos.md) · [Manejo 6 · Astrofotografía](manejo-a6700/06-astrofotografia-namibia.md)
+→ [Conceptos 4 · Balance de blancos](conceptos/04-balance-de-blancos.md) · [Manejo 6 · Astrofotografía](manejo-a6700/06-astrofotografia-namibia.md)
 </details>
 
 **2. En Luminar, ¿por qué la reducción de ruido va antes que aclarar las sombras o subir el contraste?**
@@ -132,6 +140,20 @@ Al **sujeto**, un poco más de **luz**, **contraste** y **nitidez/textura**. Al 
 → [Retoques 1.7](retoques/01-conceptos-basicos.md#17-ajustes-globales-y-locales) · [Retoques 3 · Paso 9](retoques/03-flujo-base.md)
 </details>
 
+**9. Retratas a una persona a f/1.7 y el fondo sale demasiado nítido. Sin cambiar de objetivo ni de apertura, ¿qué haces?**
+<details><summary>Respuesta</summary>
+
+**Alejar a la persona del fondo** (o acercarte tú a la persona). El desenfoque del fondo no depende solo de la apertura: si el fondo está lejos del sujeto, se desenfoca mucho más.
+→ [Conceptos 5 · Óptica](conceptos/05-optica.md#4--la-profundidad-de-campo-qué-sale-nítido)
+</details>
+
+**10. Un paisaje con un cielo espectacular y un suelo sin interés. ¿Dónde pones el horizonte?**
+<details><summary>Respuesta</summary>
+
+En el **tercio inferior**: el cielo es el protagonista y ocupa dos tercios. Recto, siempre. En el centro, solo si buscas simetría (un reflejo).
+→ [Conceptos 6 · Composición](conceptos/06-composicion.md#3--el-horizonte)
+</details>
+
 ---
 
 ## Etapa 3 · Avanzado
@@ -140,56 +162,56 @@ Al **sujeto**, un poco más de **luz**, **contraste** y **nitidez/textura**. Al 
 <details><summary>Respuesta</summary>
 
 Por la **difracción**: con el diafragma muy cerrado, la luz se abre al pasar por el agujero y toda la imagen se ablanda. Ganas profundidad de campo, pero pierdes nitidez general. Para paisaje, **f/8 con la hiperfocal**.
-→ [Conceptos 4 · §4 Difracción](conceptos/04-por-que-funciona.md#4--difracción-por-qué-f16-no-es-más-nítido)
+→ [Conceptos 9 · §4 Difracción](conceptos/09-por-que-funciona.md#4--difracción-por-qué-f16-no-es-más-nítido)
 </details>
 
 **2. Con la a6700, ¿da igual subir el ISO en la cámara o aclarar la foto después?**
 <details><summary>Respuesta</summary>
 
 A partir de **ISO ~800** la a6700 es **prácticamente ISO-invariante**: el ruido final es casi el mismo. En la práctica, lo importante es **no quemar las luces**. Si dudas entre quemar y quedarte oscuro a ISO alto, protege las luces y levanta después.
-→ [Conceptos 4 · §6 Ruido e ISO](conceptos/04-por-que-funciona.md#6--ruido-iso-y-el-punto-en-que-deja-de-importar)
+→ [Conceptos 9 · §6 Ruido e ISO](conceptos/09-por-que-funciona.md#6--ruido-iso-y-el-punto-en-que-deja-de-importar)
 </details>
 
 **3. ¿El "efecto tele" (fondo grande y aplastado detrás del animal) lo hace la focal?**
 <details><summary>Respuesta</summary>
 
 **No: lo hace la distancia.** La compresión depende de dónde te pones. El tele solo recorta. Para un sujeto pequeño en un fondo enorme: **aléjate y haz zoom**.
-→ [Conceptos 4 · §5 La compresión](conceptos/04-por-que-funciona.md#5--la-compresión-no-la-hace-el-tele-la-hace-la-distancia)
+→ [Conceptos 9 · §5 La compresión](conceptos/09-por-que-funciona.md#5--la-compresión-no-la-hace-el-tele-la-hace-la-distancia)
 </details>
 
 **4. Paisaje con el 11 mm a f/8 y una piedra a medio metro. ¿Dónde enfocas para tener todo nítido?**
 <details><summary>Respuesta</summary>
 
 A la **hiperfocal**: a f/8, enfoca a **~0,8 m** y queda nítido desde **~0,40 m** hasta el infinito. Enfoca con AF a algo a esa distancia y pasa a MF.
-→ [Conceptos 4 · §3](conceptos/04-por-que-funciona.md#3--profundidad-de-campo-tres-palancas-y-una-pesa-más) · [Manejo 5](manejo-a6700/05-enfocar-el-11mm.md)
+→ [Conceptos 9 · §3](conceptos/09-por-que-funciona.md#3--profundidad-de-campo-tres-palancas-y-una-pesa-más) · [Manejo 5](manejo-a6700/05-enfocar-el-11mm.md)
 </details>
 
 **5. A 350 mm y f/6.3, ¿cuánta profundidad de campo tienes con un animal a 30 m? ¿Y a 15 m? ¿Qué decides?**
 <details><summary>Respuesta</summary>
 
 A 30 m, **~1,9 m**; a 15 m, **~0,5 m**. Decisión: **el ojo** es lo que tiene que estar nítido, y hay que comprobarlo al 100 %.
-→ [Conceptos 4 · §3](conceptos/04-por-que-funciona.md#3--profundidad-de-campo-tres-palancas-y-una-pesa-más)
+→ [Conceptos 9 · §3](conceptos/09-por-que-funciona.md#3--profundidad-de-campo-tres-palancas-y-una-pesa-más)
 </details>
 
 **6. ¿Por qué el AF de la a6700 "muere" antes de noche con el 70-350 que con el 11 mm?**
 <details><summary>Respuesta</summary>
 
 La ficha de Sony da la sensibilidad del AF (**−3 EV**) **medida a f/2.0**. El 70-350 abre a **f/6.3**: algo más de **tres pasos** menos de luz, así que el AF que "ve" a −3 EV se queda en torno a **+0,3 EV**, la penumbra de una charca. El 11 mm a f/1.8 recibe más luz que la de la medición.
-→ [Conceptos 4 · §7 El autofoco por dentro](conceptos/04-por-que-funciona.md#7--el-autofoco-por-dentro-y-por-qué-muere-en-la-charca)
+→ [Conceptos 9 · §7 El autofoco por dentro](conceptos/09-por-que-funciona.md#7--el-autofoco-por-dentro-y-por-qué-muere-en-la-charca)
 </details>
 
 **7. ¿Qué es exponer a la derecha (ETTR) y por qué funciona?**
 <details><summary>Respuesta</summary>
 
 Exponer lo más a la derecha posible del histograma **sin quemar**, porque el **RAW** guarda mucha más información en las altas luces. Después se oscurece al revelar y queda menos ruido.
-→ [Conceptos 4 · §2](conceptos/04-por-que-funciona.md#2--exponer-a-la-derecha-y-por-qué-el-histograma-manda) · [Glosario](conceptos/08-glosario.md)
+→ [Conceptos 9 · §2](conceptos/09-por-que-funciona.md#2--exponer-a-la-derecha-y-por-qué-el-histograma-manda) · [Glosario](conceptos/11-glosario.md)
 </details>
 
 **8. ¿Cuáles son los cinco escalones para mejorar, en orden, y por qué no conviene saltarse ninguno?**
 <details><summary>Respuesta</summary>
 
 **Nítida → bien expuesta → limpia → con luz → con momento.** Cada escalón se apoya en el anterior: un momento perfecto no sirve si la foto está movida o quemada.
-→ [Conceptos 6 · La mirada](conceptos/06-la-mirada.md#los-cinco-escalones-en-este-orden-no-saltes)
+→ [Conceptos 10 · La mirada](conceptos/10-la-mirada.md#los-cinco-escalones-en-este-orden-no-saltes)
 </details>
 
 ---

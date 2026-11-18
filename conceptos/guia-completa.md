@@ -1,7 +1,7 @@
 <!-- Archivo generado por pdf/generar-guia.sh a partir de conceptos/. No lo edites a mano. -->
 
 # Conceptos de fotografía
-### Lo que pasa dentro de una foto, y cómo se mira
+### De los fundamentos al dominio: lo que pasa dentro de una foto, y cómo se mira
 
 **Versión:** noviembre de 2026 · Ejemplos con la Sony a6700 y sus objetivos, pero válidos para cualquier cámara
 
@@ -9,26 +9,34 @@
 
 **Parte I · La luz y la exposición**
 1. La luz
-2. El histograma por escenario
-3. Balance de blancos por escena
-4. Por qué funciona: el modelo detrás de las recetas
+2. La exposición: los tres controles y el paso
+3. El histograma por escenario
+4. Balance de blancos por escena
 
-**Parte II · La composición y la mirada**
+**Parte II · Óptica y composición**
 
-5. Atlas de encuadres
-6. La mirada
-7. Cuaderno de composición *(para imprimir)*
+5. Óptica: focal, perspectiva y profundidad de campo
+6. Composición: lo básico
+7. Atlas de encuadres
+8. Cuaderno de composición *(para imprimir)*
 
-**Parte III · Referencia**
+**Parte III · A fondo**
 
-8. Glosario
+9. Por qué funciona: el modelo detrás de las recetas
+10. La mirada
+
+**Parte IV · Referencia**
+
+11. Glosario
 
 ## Cómo leerla
 
+- **En orden, de la 1 a la 10:** cada capítulo se apoya en los anteriores. Las partes I y II son los fundamentos (🟢 y 🔵); la parte III, el dominio (🔴).
 - **Cada capítulo abre con su nivel:** 🟢 **Iniciación** (nunca has manejado una cámara en serio) · 🔵 **Básico** (las recetas) · 🔴 **Avanzado** (el porqué, y la foto que no es correcta sino buena). Debajo indica qué da por sabido y qué te desbloquea.
+- **Cada capítulo termina con un ejercicio** de una tarde o menos, con criterio de aprobado.
 - **Los ejemplos son de un viaje real** (safari, paisaje y cielos nocturnos en Namibia), pero los conceptos valen en cualquier sitio.
 - **"Capítulo N"** en un capítulo de conceptos se refiere a [Manejo de la a6700](../manejo-a6700/00-introduccion.md), salvo que el enlace diga otra cosa.
-- **Para empezar desde cero:** sigue la [ruta de aprendizaje](../RUTA.md), que ordena las tres secciones del repo de cero a avanzado. Aquí, empieza por [la luz](01-la-luz.md), el [glosario](08-glosario.md) y el [histograma](02-histograma.md). Para entender por qué funcionan las recetas: [Por qué funciona](04-por-que-funciona.md).
+- **El orden de todo el repo**, combinando conceptos con la cámara y el retoque, está en la [ruta de aprendizaje](../RUTA.md), con una [autoevaluación](../AUTOEVALUACION.md) por etapa.
 
 ---
 
@@ -53,8 +61,8 @@
 
 La cámara necesita una **cantidad** concreta de luz para que la foto no salga ni oscura ni quemada. La reúne con tres controles: **velocidad de obturación** (cuánto tiempo entra), **apertura** (por qué agujero entra) e **ISO** (cuánto se amplifica). Cada uno tiene un precio: movimiento, profundidad de campo o ruido. Lo explican, de menos a más:
 - El [capítulo 1 de manejo](../manejo-a6700/01-de-movil-a-la-a6700.md): los tres números y el **paso**.
-- [El histograma](02-histograma.md): cómo saber si la cantidad es la correcta sin fiarte de la pantalla.
-- [Por qué funciona](04-por-que-funciona.md): el modelo completo.
+- [El histograma](03-histograma.md): cómo saber si la cantidad es la correcta sin fiarte de la pantalla.
+- [Por qué funciona](09-por-que-funciona.md): el modelo completo.
 
 **Lo que conviene retener ya:** **un paso** es el doble (o la mitad) de luz. Abrir un paso el diafragma, duplicar el tiempo o duplicar el ISO dan la misma claridad, cada uno con su precio.
 
@@ -122,7 +130,7 @@ La luz "blanca" no existe en la práctica: cada fuente tiene su color, medido co
 | Sombra con cielo azul | Fría | Azulada |
 | Después de la puesta (hora azul) | Muy fría | Azul intenso |
 
-**Qué significa para la foto:** el **balance de blancos** le dice a la cámara (o a Luminar) qué luz debe tomar como "blanca". No se trata de dejarlo todo neutro, sino de que sea **creíble**: un atardecer tiene que seguir siendo cálido. Los valores por escena, en [Balance de blancos](03-balance-de-blancos.md); cómo corregirlo al retocar, en [retoques 1.4](../retoques/01-conceptos-basicos.md).
+**Qué significa para la foto:** el **balance de blancos** le dice a la cámara (o a Luminar) qué luz debe tomar como "blanca". No se trata de dejarlo todo neutro, sino de que sea **creíble**: un atardecer tiene que seguir siendo cálido. Los valores por escena, en [Balance de blancos](04-balance-de-blancos.md); cómo corregirlo al retocar, en [retoques 1.4](../retoques/01-conceptos-basicos.md).
 
 **Dos luces de distinto color en la misma foto** (un fuego y la luna, una farola y el cielo) nunca quedan neutras a la vez. Elige cuál debe parecer normal y deja la otra con su color.
 
@@ -145,7 +153,7 @@ Con esas cinco respuestas sabes qué foto te da esa luz, qué ajuste tendrás qu
 | Cielo blanco y suelo bien | Dura, con el cielo mucho más claro que el suelo | Expón para lo que importa; al retocar, Highlights abajo |
 | Sujeto negro sobre fondo brillante | Contraluz | Compensa la exposición hacia arriba, o haz una silueta a propósito |
 | Foto plana, sin relieve | Frontal o nublada | Cambia de posición para tener luz lateral; al retocar, más contraste |
-| Todo naranja o todo azul | Muy cálida o muy fría | Balance de blancos ([capítulo 3](03-balance-de-blancos.md)) |
+| Todo naranja o todo azul | Muy cálida o muy fría | Balance de blancos ([Balance de blancos](04-balance-de-blancos.md)) |
 
 ## Ejercicio (una tarde, en casa)
 
@@ -158,14 +166,116 @@ Con esas cinco respuestas sabes qué foto te da esa luz, qué ajuste tendrás qu
 
 ## Referencias
 
-- Glosario de términos de luz y color: [capítulo 8](08-glosario.md)
-- La luz como decisión creativa: [La mirada](06-la-mirada.md)
+- Glosario de términos de luz y color: [el glosario](11-glosario.md)
+- La luz como decisión creativa: [La mirada](10-la-mirada.md)
 
 ---
 
 *Parte I · La luz y la exposición*
 
-# 2. El histograma por escenario — chuleta visual
+# 2. La exposición — los tres controles y el paso
+
+> 🟢 **Iniciación** · Da por sabido: [la luz](01-la-luz.md) · Te desbloquea: entender qué hace cada número de la cámara, elegir cuál tocar y saber qué precio pagas con cada uno.
+
+**Qué resuelve.** "Exponer" es decidir **cuánta luz** llega al sensor. Con poca, la foto sale oscura; con demasiada, se quema. La cámara tiene **tres controles** para regularla, y los tres hacen **algo más** además de cambiar la claridad. Saber qué es ese "algo más" es lo que separa disparar en automático de decidir tú la foto. Este capítulo lo explica sin depender de ninguna cámara; cómo se hace en la a6700 está en el [capítulo 1 de manejo](../manejo-a6700/01-de-movil-a-la-a6700.md).
+
+## Los tres controles, en una tabla
+
+| Control | Qué regula | Más luz si… | El precio |
+|---|---|---|---|
+| **Velocidad de obturación** | **Cuánto tiempo** entra la luz | Más lenta (1/60 en vez de 1/500) | **Movimiento**: lo que se mueve sale borroso, y a pulso, la foto entera |
+| **Apertura** (diafragma) | **Por qué agujero** entra | Más abierta: **número f más pequeño** (f/2 en vez de f/8) | **Profundidad de campo**: menos zona nítida por delante y por detrás del punto enfocado |
+| **ISO** | **Cuánto se amplifica** la señal | Más alto (3200 en vez de 400) | **Ruido**: granito y colores sucios en las sombras |
+
+**La idea clave:** la claridad de la foto se puede conseguir con muchas combinaciones distintas, pero **cada combinación da una foto diferente**. Elegir la exposición es elegir qué precio pagas.
+
+## 1 · El paso: la unidad de la luz
+
+Un **paso** (*stop*) es **el doble o la mitad de luz**. Es la misma unidad en los tres controles:
+
+| Control | Un paso más de luz | Escala habitual, de paso en paso |
+|---|---|---|
+| Velocidad | El **doble de tiempo** | 1/1000 · 1/500 · 1/250 · 1/125 · 1/60 · 1/30 |
+| Apertura | Un número f **más pequeño**, en esta escala | f/16 · f/11 · f/8 · f/5.6 · f/4 · f/2.8 · f/2 · f/1.4 |
+| ISO | El **doble** de ISO | 100 · 200 · 400 · 800 · 1600 · 3200 · 6400 |
+
+**Exposición equivalente:** si quitas un paso con un control y lo devuelves con otro, la foto queda **igual de clara**. Por ejemplo, 1/250 s a f/8 e ISO 400 da la misma claridad que 1/1000 s (dos pasos menos) a f/8 e ISO 1600 (dos pasos más). La segunda congela mejor el movimiento y tiene algo más de ruido.
+
+**Por qué la escala de aperturas es tan rara:** el número f es una proporción entre la focal y el diámetro del agujero. Para dejar pasar el doble de luz, el área del agujero tiene que duplicarse, y eso ocurre cuando el número f se divide por √2 (≈ 1,4). Por eso la escala avanza multiplicando por 1,4: f/2 → f/2.8 → f/4 → f/5.6…
+
+## 2 · Velocidad de obturación: el tiempo y el movimiento
+
+- **Rápida** (1/1000 s o más): **congela** el movimiento. Un ave en vuelo o un animal corriendo salen nítidos.
+- **Media** (1/125 a 1/250 s): suficiente para personas caminando o animales tranquilos.
+- **Lenta** (1/30 s o menos): el agua se vuelve **sedosa**, las luces dejan estelas. A pulso, la foto sale **movida**: hace falta apoyo o trípode.
+- **Muy lenta** (segundos): fotografía nocturna y de estrellas, siempre con trípode.
+
+**Dos borrosidades distintas** que conviene no confundir:
+- **Foto movida:** se movió **la cámara**. Todo está borroso por igual, también lo que estaba quieto.
+- **Sujeto movido:** se movió **el sujeto**. El fondo está nítido y el sujeto, borroso.
+
+**Regla orientativa para disparar a pulso:** una velocidad de al menos **1/(focal equivalente)** de segundo; por ejemplo, 1/500 s con 525 mm equivalentes. El estabilizador permite ir algo más lento, pero **no congela al sujeto**: solo compensa tu pulso.
+
+## 3 · Apertura: el agujero y la profundidad de campo
+
+- **Número f pequeño** (f/1.8, f/2.8): agujero **grande**, mucha luz, **poca profundidad de campo**: el sujeto nítido y el fondo desenfocado. Ideal para retratos y para separar un animal del fondo.
+- **Número f medio** (f/5.6, f/8): el **punto dulce** de casi todos los objetivos, con la máxima nitidez y una profundidad de campo amplia. Ideal para paisaje.
+- **Número f grande** (f/16, f/22): agujero pequeño, poca luz, mucha profundidad de campo, pero la imagen entera se ablanda por **difracción**. Rara vez compensa ([por qué funciona, §4](09-por-que-funciona.md)).
+
+La profundidad de campo no depende solo de la apertura: también de la **distancia** al sujeto y de la **focal**. Lo explica [Óptica](05-optica.md).
+
+## 4 · ISO: la amplificación y el ruido
+
+El ISO **no hace que entre más luz**: amplifica la señal que ya ha llegado. Por eso sube también el **ruido**, sobre todo en las sombras.
+- **ISO base** (100 en muchas cámaras): la máxima calidad y el máximo **rango dinámico**.
+- **Subir el ISO** es la solución cuando no puedes bajar la velocidad (el sujeto se mueve) ni abrir más (el objetivo no da más).
+- **Mejor una foto nítida con ruido que una foto movida sin ruido:** el ruido se reduce al retocar ([retoques, paso 2](../retoques/03-flujo-base.md)); el movimiento, no.
+
+## 5 · Quién decide qué: los modos
+
+| Modo | Tú eliges | La cámara elige | Cuándo |
+|---|---|---|---|
+| **A** (prioridad a la apertura) | Apertura | Velocidad | Paisaje, retrato: te importa la profundidad de campo |
+| **S** (prioridad a la velocidad) | Velocidad | Apertura | Movimiento: congelar o dejar estelas |
+| **M** (manual) | Todo | Nada (o el ISO, con **ISO automático**) | Luz constante, estrellas; M con ISO automático es la receta de fauna de este repo |
+| **P** y automático | Nada o casi nada | Todo | Cuando no hay tiempo de pensar |
+
+En todos los modos salvo M puro, la cámara decide la exposición **midiendo la luz**, y se equivoca de forma predecible con escenas muy claras o muy oscuras: lo explica [el gris medio](01-la-luz.md#por-qué-la-cámara-se-equivoca-el-gris-medio). Para corregirla se usa la **compensación de exposición**.
+
+## Cómo elegir, en tres preguntas
+
+1. **¿Se mueve algo** (el sujeto o tus manos)? → Decide primero la **velocidad**.
+2. **¿Cuánta zona nítida quieres?** → Decide la **apertura**.
+3. **¿Falta luz?** → Sube el **ISO** lo justo.
+
+## Si la foto sale mal…
+
+| Lo que ves | Causa probable | Qué tocar |
+|---|---|---|
+| Todo borroso, también lo quieto | Velocidad lenta a pulso | Más velocidad (y más ISO para compensar) o apoyo |
+| Fondo nítido, sujeto borroso | El sujeto se movió | Más velocidad |
+| El fondo sale nítido y querías desenfocarlo | Apertura demasiado cerrada o sujeto pegado al fondo | Número f más pequeño, o separa al sujeto del fondo ([Óptica](05-optica.md)) |
+| Granito en las sombras | ISO alto o sombras aclaradas | Menos ISO si puedes; si no, reducción de ruido al retocar |
+| Muy oscura o quemada | La medición se equivocó | Compensación de exposición ([el gris medio](01-la-luz.md#por-qué-la-cámara-se-equivoca-el-gris-medio)) |
+
+## Ejercicio (una tarde)
+
+1. Pon algo que se mueva (un grifo abierto, una fuente, alguien caminando) y haz la misma foto a **1/1000, 1/125 y 1/15 s**, ajustando el ISO para mantener la claridad. Observa el movimiento.
+2. Pon tres objetos en fila, a distintas distancias, y enfoca el del medio a **f/2.8, f/8 y f/16**. Observa qué queda nítido.
+3. Haz la misma foto a **ISO 100, 1600 y 6400** y compáralas al 100 % en las sombras.
+
+**Aprobado cuando** sabes decir, mirando una foto ajena, qué control se eligió primero y por qué.
+
+## Referencias
+
+- Cómo se hace todo esto en la a6700: [manejo, capítulo 1](../manejo-a6700/01-de-movil-a-la-a6700.md)
+- El modelo completo, con los números del equipo: [por qué funciona](09-por-que-funciona.md)
+
+---
+
+*Parte I · La luz y la exposición*
+
+# 3. El histograma por escenario — chuleta visual
 
 > 🟢 **Iniciación** · Da por sabido: nada · Te desbloquea: juzgar si una foto está bien expuesta sin fiarte de la pantalla.
 
@@ -349,14 +459,14 @@ cámara intenta hacerla gris, y hay que compensar **en negativo**.
 
 ## Referencias
 
-- El porqué de todo esto (rango dinámico y ETTR): [por qué funciona](04-por-que-funciona.md)
+- El porqué de todo esto (rango dinámico y ETTR): [por qué funciona](09-por-que-funciona.md)
 - Guía de ayuda de la a6700 (histograma y Zebra): <https://helpguide.sony.net/ilc/2320/v1/es/>
 
 ---
 
 *Parte I · La luz y la exposición*
 
-# 3. Balance de blancos por escena — valores de partida
+# 4. Balance de blancos por escena — valores de partida
 
 > 🔵 **Básico** · Da por sabido: el capítulo 1 · Te desbloquea: que los colores salgan como los viste, no como los inventa la cámara.
 
@@ -410,303 +520,191 @@ justo lo que has ido a fotografiar.
 
 ---
 
-*Parte I · La luz y la exposición*
+*Parte II · Óptica y composición*
 
-# 4. Por qué funciona — el modelo que hay detrás de las recetas
+# 5. Óptica — focal, encuadre, perspectiva y profundidad de campo
 
-> 🔴 **Avanzado** · Da por sabido: los capítulos 1 a 10 y haber disparado unas cuantas tardes · Te desbloquea: inventar **tu** receta cuando la escena no está en ninguna tabla.
+> 🟢 **Iniciación** → 🔵 · Da por sabido: [la exposición](02-exposicion.md) · Te desbloquea: elegir objetivo y distancia a propósito, y controlar qué sale nítido y qué desenfocado.
 
-Todo el repo hasta aquí te da recetas: números que funcionan, comprobados,
-para las situaciones que vas a encontrar. Funcionan porque debajo hay un
-modelo — y el día que la escena no encaje en ninguna tabla (y pasará), lo que
-te salva es entender el modelo, no memorizar más tablas.
+**Qué resuelve.** Dos fotos del mismo animal pueden parecer de dos sitios distintos según **el objetivo, la distancia y la apertura**. Este capítulo explica las cuatro ideas ópticas que hay detrás de cualquier encuadre: la **distancia focal**, el **factor de recorte**, la **perspectiva** y la **profundidad de campo**.
 
-**La regla de esta guía**: ningún concepto se queda en teoría. Cada uno
-termina en **la decisión** que te deja tomar, con los números de **tu**
-equipo: una a6700 de 26 Mpx (sensor APS-C de 23,3 × 15,5 mm), un 11 mm f/1.8
-y un 70-350 f/4.5-6.3.
+## 1 · La distancia focal y el ángulo de visión
 
----
+La **distancia focal** (en milímetros) indica cuánto "abarca" un objetivo:
+- **Focal corta** (gran angular: 11 mm en la a6700): mucho ángulo, cabe mucha escena. Para paisaje, cielo e interiores.
+- **Focal media** ("normal": 25 mm en la a6700): un ángulo parecido al de una mirada atenta. Para calle, retrato y escenas de viaje.
+- **Focal larga** (teleobjetivo: 70–350 mm): poco ángulo, acerca lo lejano. Para fauna y detalles.
 
-## 1 · El paso: la única moneda del sistema
+**Lo que la focal no hace:** no cambia la perspectiva. Solo decide **cuánto recortas** de lo que hay delante (punto 3).
 
-Un **paso** (o *stop*) es **el doble o la mitad de luz**. Es la única unidad
-que necesitas, y los tres controles la manejan con escalas distintas:
+## 2 · El factor de recorte y la "focal equivalente"
 
-| Control | Un paso más de luz es… | La escala |
+Las focales se suelen comparar con el formato de 35 mm (*full frame*). El sensor de la a6700 (APS-C) es más pequeño y **recorta** la imagen: ve como si la focal fuera **1,5 veces** mayor.
+
+| Objetivo | Focal real | Encuadra como… (equivalente) |
 |---|---|---|
-| **Obturación** | El doble de tiempo | 1/1000 → 1/500 → 1/250 → 1/125… |
-| **Apertura** | Un número f **dividido entre √2** | f/2 → 2.8 → 4 → 5.6 → 8 → 11 (cada salto ahí es un paso; el f/1.8 del 11 mm es un tercio más que f/2) |
-| **ISO** | El doble de amplificación | 100 → 200 → 400 → 800 → 1600… |
+| Sony E 11 mm | 11 mm | **16,5 mm**: gran angular |
+| Viltrox 25 mm | 25 mm | **37,5 mm**: normal |
+| Sony E 70-350 mm | 70–350 mm | **105–525 mm**: tele |
 
-De ahí sale lo único que hay que interiorizar: **tres exposiciones que dejan
-entrar la misma luz** y dan tres fotos completamente distintas.
+El móvil, como referencia: su cámara principal ronda los 24 mm equivalentes ([manejo, capítulo 1](../manejo-a6700/01-de-movil-a-la-a6700.md#traducción-de-zooms-del-móvil-a-los-objetivos-del-viaje)).
 
-| Ajustes | Misma luz, pero… |
-|---|---|
-| 1/2000 · f/6.3 · ISO 6400 | El animal congelado, ruido alto |
-| 1/500 · f/6.3 · ISO 1600 | Dos pasos menos de ruido, riesgo de movida |
-| 1/500 · f/3.2 · ISO 400 | Aún más limpia — pero tu tele no abre a f/3.2 |
+## 3 · La perspectiva: la hace la distancia
 
-**La decisión**: cuando falte luz, decides **qué pagas**. Movimiento
-(obturación), profundidad (apertura) o ruido (ISO). El orden que usa este
-repo no es capricho: con trípode y animal quieto se paga con **tiempo**
-primero, porque es lo único gratis; a pulso se paga con **ISO**, porque una
-foto ruidosa se arregla y una movida no.
+La **perspectiva** (el tamaño relativo entre lo cercano y lo lejano) depende **solo de dónde estás**:
+- **Cerca del sujeto** (con gran angular, para que quepa): lo cercano sale enorme y lo lejano diminuto. Las líneas parecen alejarse con fuerza. Es la perspectiva "dramática".
+- **Lejos del sujeto** (con tele, para que llene el encuadre): sujeto y fondo parecen **del mismo tamaño y pegados**. Es la famosa **compresión** del tele.
 
-> **Ejercicio (20 minutos, en casa).** Un objeto quieto, luz constante. Haz
-> la misma foto con cuatro combinaciones equivalentes, de 1/60 · f/8 · ISO 400
-> a 1/500 · f/2.8 · ISO 400 compensando. Ábrelas juntas: la exposición es la
-> misma y las cuatro fotos son distintas. Eso es el sistema entero.
+**Comprobación:** si haces la misma foto con el gran angular desde lejos y recortas el centro, obtienes la misma perspectiva que con el tele desde ese sitio. La focal solo encuadra; **la distancia decide la perspectiva**. Lo desarrolla [por qué funciona, §5](09-por-que-funciona.md#5--la-compresión-no-la-hace-el-tele-la-hace-la-distancia).
 
----
+**Qué significa para tus fotos:** para que un animal pequeño parezca rodeado de un paisaje enorme, **aléjate** y usa el tele. Para que un primer plano domine la foto, **acércate** con el gran angular.
 
-## 2 · Exponer a la derecha, y por qué el histograma manda
+## 4 · La profundidad de campo: qué sale nítido
 
-Un RAW **no reparte la información a partes iguales**. La mitad de todos los
-niveles de tu archivo viven en el paso más luminoso; el siguiente paso tiene
-la mitad, el siguiente la mitad de eso… Traducción: **las sombras son pobres
-en datos y las altas luces son ricas**. Por eso una foto subexpuesta que
-levantas en revelado saca ruido y bandas, y una foto expuesta "hacia la
-derecha" (ETTR) tiene margen de sobra.
+Solo **un plano** (la distancia a la que enfocas) queda perfectamente nítido. Por delante y por detrás hay una zona que **parece** nítida: la **profundidad de campo**. Tres palancas la cambian:
 
-Pero hay un límite duro: **lo quemado no vuelve**. No hay dato que
-recuperar donde el sensor saturó.
-
-**La decisión**: empuja el histograma a la derecha **sin que toque el
-borde**. En la práctica de este viaje:
-
-- Fondo de calcreta blanca o cielo → **+0.7 / +1** y vigila el **Zebra 100+**:
-  si parpadea sobre algo que debe tener detalle, baja.
-- Un animal oscuro sobre fondo claro no es un problema de exposición: es un
-  problema de **medición** (medición puntual vinculada al punto de enfoque,
-  [AF y exposición a fondo](../manejo-a6700/12-af-y-exposicion-a-fondo.md)).
-- **Dónde NO se aplica**: en astro no hay derecha a la que exponer — el cielo
-  es oscuro de verdad. Ahí la montaña del histograma va en el **primer
-  tercio**, separada del borde izquierdo, y punto.
-
----
-
-## 3 · Profundidad de campo: tres palancas, y una pesa más
-
-Lo que sale nítido delante y detrás del punto de enfoque depende de tres
-cosas, y conviene saber **cuál manda**:
-
-1. **La distancia al sujeto** — la palanca fuerte. Va al cuadrado: al doble
-   de distancia, cuatro veces más profundidad.
-2. **La focal** — también al cuadrado, en sentido contrario: más milímetros,
-   menos profundidad.
-3. **La apertura** — la palanca suave, lineal.
-
-Con **tu 11 mm** esto se traduce en una tabla que puedes usar tal cual. La
-**hiperfocal** es la distancia a la que enfocar para que todo salga nítido
-desde su mitad hasta el infinito:
-
-| Apertura | Enfoca a… | Y sale nítido desde… |
+| Palanca | Menos profundidad (fondo más desenfocado) | Más profundidad (todo más nítido) |
 |---|---|---|
-| f/2.8 | 2,2 m | ~1,1 m hasta ∞ |
-| f/4 | 1,5 m | ~0,75 m hasta ∞ |
-| f/5.6 | 1,1 m | ~0,55 m hasta ∞ |
-| **f/8** | **0,8 m** | **~0,40 m hasta ∞** |
-| f/11 | 0,6 m | ~0,30 m hasta ∞ |
+| **Apertura** | Número f pequeño (f/1.8) | Número f mayor (f/8) |
+| **Distancia al sujeto** | Más cerca | Más lejos |
+| **Focal** | Más larga (tele) | Más corta (gran angular) |
 
-Por eso la receta de paisaje del repo dice "f/8, enfoca a ~1 m y pasa a MF":
-no es magia, es esa fila. Y por eso puedes poner una piedra a medio metro de
-la lente sin perder las dunas del fondo.
+La **distancia** es la palanca más fuerte: a la mitad de distancia, la profundidad de campo baja mucho más que a la mitad.
 
-Con **el 70-350** la misma cuenta da un susto sano, a 30 m del animal:
+**Cifras reales de tu equipo** (de [por qué funciona, §3](09-por-que-funciona.md#3--profundidad-de-campo-tres-palancas-y-una-pesa-más)):
+- A **350 mm y f/6.3** con un animal a 30 m, la zona nítida mide unos **1,9 m**; a 15 m, solo unos **0,5 m**. Por eso, con el tele, **el ojo** tiene que estar nítido.
+- Con el **Viltrox 25 mm a f/1.7** y una persona a 2 m, unos **40 cm**: el fondo se desenfoca mucho.
 
-| Focal y apertura | Profundidad nítida total |
-|---|---|
-| 70 mm · f/4.5 | ~48 metros |
-| 200 mm · f/6.3 | ~5,7 metros |
-| 350 mm · f/6.3 | **~1,9 metros** |
-| 350 mm · f/6.3, pero a 15 m | **~0,5 metros** |
+**El fondo desenfocado** (*bokeh*) no depende solo de la apertura: si el sujeto está **lejos del fondo**, el fondo se desenfoca mucho más. Separa al sujeto del fondo antes de abrir el diafragma.
 
-**La decisión**: a 350 mm y con el animal cerca **no tienes profundidad para
-fallar**: medio metro es la diferencia entre el ojo y la oreja. De ahí que
-todo el repo insista en el ojo y en verificar al 100 %. Y al revés: a 70 mm
-tienes cuarenta y ocho metros de margen — encuadrar más ancho no solo da luz,
-también perdona.
+## 5 · La hiperfocal: todo nítido de cerca al infinito
 
----
+Si enfocas a una distancia concreta, la **hiperfocal**, todo queda nítido desde **la mitad de esa distancia hasta el infinito**. Depende de la focal y de la apertura:
 
-## 4 · Difracción: por qué f/16 no es "más nítido"
-
-Al cerrar el diafragma, la luz que pasa por un agujero pequeño se **difracta**
-y cada punto de la imagen se emborrona un poco. Es física, no calidad del
-objetivo: le pasa a todos por igual.
-
-Cuándo empieza a notarse depende del tamaño del píxel. El tuyo mide unas
-**3,8 micras** (26 Mpx en 23,3 mm de ancho), así que:
-
-- **f/5.6 – f/8**: el punto dulce. Máxima nitidez real de los objetivos del kit.
-- **f/11**: ya se nota si amplías al 100 %. Aceptable cuando de verdad
-  necesitas la profundidad.
-- **f/16 y más allá**: pérdida clara. Ganas profundidad y pierdes detalle en
-  **toda** la foto.
-
-**La decisión**: el "f/16 de paisaje" que has leído mil veces es herencia del
-formato completo y de cámaras de menos megapíxeles. En tu equipo, paisaje es
-**f/8 con la hiperfocal puesta**, no f/16. Y si aun así no llega la
-profundidad, la solución no es cerrar más: es **alejar el primer plano** —
-que es la palanca fuerte del punto 3.
-
----
-
-## 5 · La compresión no la hace el tele: la hace la distancia
-
-"El teleobjetivo comprime los planos" es una verdad a medias que se repite en
-todas partes. Lo que comprime es **estar lejos**: si haces la foto desde el
-mismo sitio con 70 mm y recortas hasta el encuadre de 350 mm, la relación
-entre el sujeto y el fondo es **exactamente la misma**. El tele no comprime:
-te permite estar lejos y aun así llenar el encuadre.
-
-**Las decisiones que salen de esto**:
-
-- **El órix diminuto en la duna enorme**: eso no es "poner el tele", es
-  **alejarte** todo lo que puedas y luego encuadrar con el zoom. Desde cerca,
-  esa foto no existe con ninguna focal.
-- **El retrato de fauna que no deforma**: no te acerques más — **aléjate y
-  zoomea**. Cerca y con angular, la nariz del animal se hincha.
-- **Las capas azuladas de Spreetshoogte**: la compresión de sierras que hace
-  bonito el mirador es distancia pura; el 70-350 solo la recorta.
-
----
-
-## 6 · Ruido, ISO y el punto en que deja de importar
-
-El ISO **no añade ruido**: amplifica. El ruido ya estaba, y es sobre todo
-falta de fotones — poca luz. Por eso la frase correcta no es "no subas el
-ISO", sino **"recoge toda la luz que puedas, y luego amplifica lo que haga
-falta"**.
-
-Tu cámara tiene ISO base **100** (máxima calidad y rango dinámico) y, como
-casi todos los sensores modernos, un **segundo escalón de ganancia** en la
-parte baja-media del rango. Y algo más útil todavía: **a partir de ISO ~800
-la a6700 es prácticamente ISO-invariante** — subir el ISO en cámara o
-levantar la exposición después en el revelado dan casi el mismo resultado.
-
-**Las decisiones**:
-
-- **Por debajo de ISO 800, expón bien en cámara.** Ahí la cámara **no** es
-  invariante y subexponer "para levantarlo luego" te cuesta calidad real.
-- **Por encima de 800, protege las altas luces.** En la charca, si dudas
-  entre quemar la orilla iluminada o dejar la foto un poco oscura: **déjala
-  oscura y levántala en revelado**. Lo quemado no vuelve; el ruido que añades
-  al levantar es pequeño y la reducción por IA se lo come.
-- Y antes de cruzar ningún techo de ISO, el orden del [capítulo 9](../manejo-a6700/09-safari-nocturno-charcas.md)
-  sigue mandando: con trípode y animal quieto, **baja la obturación primero**.
-  Eso es luz gratis; el ISO nunca lo es.
-
----
-
-## 7 · El autofoco por dentro (y por qué muere en la charca)
-
-La a6700 combina **detección de fase** (rápida, predictiva, la que persigue
-al animal) y **detección de contraste** (fina, la que remata). Ambas
-necesitan lo mismo: **un borde con contraste**. Sobre una panza lisa o un
-cielo uniforme no hay nada que medir, y el objetivo "caza" recorriendo todo
-el rango.
-
-Y hay un número que lo explica casi todo: la ficha de Sony da sensibilidad de
-AF **de −3 EV a +20 EV**, medida **a f/2.0**. El 70-350 abre a **f/6.3**: son
-algo más de **tres pasos** (3,3) menos de luz llegando al sensor. El AF que
-en el papel ve a −3 EV, con el tele puesto se queda alrededor de **+0,3 EV** — que
-es, exactamente, la penumbra de la charca de Okaukuejo.
-
-**Las decisiones**:
-
-- En la charca, no es que el AF "falle": es que está fuera de su rango.
-  **Punto único sobre una zona iluminada y con borde**, o enfoque manual
-  prefijado a la orilla. Las dos cosas que dice el capítulo 9, ahora con el
-  porqué.
-- Con el 11 mm (f/1.8) el AF ve muchísimo mejor, pero en astro tampoco hay
-  contraste: por eso ahí siempre es **manual con lupa y peaking**.
-- La **sensibilidad de seguimiento** no cambia la potencia del AF: solo
-  decide **cuánto tarda en soltar** el sujeto cuando algo se cruza. Por eso 1
-  con hierba delante y 4–5 en una persecución.
-
----
-
-## 8 · Los objetivos, sin marketing
-
-**Sony E 11mm F1.8** — angular luminoso, sin estabilizador propio (lo pone el
-IBIS), rosca de 55 mm.
-
-- A f/1.8 entra toda la luz del mundo, pero **las esquinas son lo primero que
-  sufre** en astro: las estrellas del borde pueden salir con "alitas" (coma).
-  Si te pasa, cierra a **f/2.2–f/2.8** y sube el ISO un paso: pierdes menos
-  que ganas. Compruébalo en casa con la prueba de punto de luz de la
-  [hoja de verificación](../manejo-a6700/17-verificacion-in-situ.md), no en Namibia.
-- Para paisaje, f/8 con la hiperfocal de la tabla del punto 3.
-
-**Sony E 70-350mm F4.5-6.3 G OSS** — 105–525 mm equivalentes, y el objetivo
-que más vas a usar.
-
-- **Su apertura escalona**: f/4.5 (70–81 mm) · f/5 (82–113) · f/5.6 (114–199)
-  · f/6.3 (200–350). Recoger el zoom por debajo de 200 mm **es luz gratis**, y
-  por debajo de 114 mm, más todavía.
-- Como todo superzoom, **su punto más blando es 350 mm a f/6.3**. Cuando el
-  animal lo permita, encuadrar a ~300 mm y recortar los 26 Mpx en edición a
-  menudo da un resultado igual o mejor.
-- **0,23x de ampliación máxima** a 350 mm desde 1,5 m: da para texturas y
-  flores grandes. No es macro, y no lo va a ser.
-
-**Viltrox AF 25 mm F1.7 Air** — 37,5 mm equivalentes, 170 g, rosca de 52 mm,
-sin estabilizador propio y **sin interruptor AF/MF**.
-
-- Es el más luminoso de los tres: a f/1.7 entra más luz que la de la
-  medición de la ficha del AF (f/2.0), justo al revés que con el 70-350.
-- A f/1.7 y a 2 m del retratado, la zona nítida mide **unos 40 cm** (la
-  misma cuenta del punto 3): el fondo se va, pero un paso en falso también.
-- La hiperfocal pide cerrar mucho más que con el 11 mm: a f/8 se enfoca a
-  ~3,9 m y queda nítido desde ~2 m. Tabla completa y receta en
-  [su guía](../manejo-a6700/11-viltrox-25mm.md).
-
----
-
-## Todo el modelo, en una tabla de decisiones
-
-| Cuando… | El modelo dice… | Y tú haces… |
+| Objetivo y apertura | Enfoca a… | Nítido desde… |
 |---|---|---|
-| Falta luz | Solo hay tres monedas y todas cuestan algo | Con apoyo, paga con tiempo; a pulso, con ISO |
-| Fondo blanco o cielo | El medidor busca el gris medio | +0.7/+1 y vigila el Zebra 100+ |
-| Dudas si quemar o subexponer (ISO alto) | Por encima de 800 la cámara es casi invariante | Salva las altas luces, levanta después |
-| A 350 mm y el animal cerca | Menos de un metro de profundidad | El ojo, y verificación al 100 % |
-| Quieres todo nítido en paisaje | La difracción castiga a partir de f/11 | f/8 e hiperfocal; si no llega, aleja el primer plano |
-| Quieres el sujeto pequeño en un fondo enorme | La compresión es distancia, no focal | Aléjate y zoomea |
-| El AF caza y no fija de noche | Con f/6.3 pierdes algo más de 3 pasos de sensibilidad | Punto único a un borde iluminado, o MF prefijado |
+| 11 mm a f/8 | ~0,8 m | ~0,4 m hasta el infinito |
+| 25 mm a f/8 | ~3,9 m | ~2 m hasta el infinito |
 
-## Ejercicios (tres tardes, antes de volar)
+**Con las estrellas** pasa lo mismo al revés: enfocado al infinito, lo nítido empieza en la hiperfocal. Unos **4 m** con el 11 mm a f/1.8 y unos **18 m** con el 25 mm a f/1.7. **Cuanto más larga la focal, más lejos tiene que estar el primer plano** ([enfocar el 11 mm](../manejo-a6700/05-enfocar-el-11mm.md)).
 
-1. **La tarde del paso** (ejercicio del punto 1): cuatro exposiciones
-   equivalentes de la misma escena. Aprendes a pensar en pasos, no en números
-   sueltos.
-2. **La tarde de la profundidad**: pon tres objetos a 2, 4 y 10 metros
-   (a 350 mm el tele no enfoca a menos de 1,5 m). Fotografía la fila a 70 mm
-   y a 350 mm, y luego a f/6.3 (lo más abierto a 350 mm) y a f/11. Cuatro
-   fotos que enseñan la tabla del punto 3 mejor que la tabla.
-3. **La tarde de la difracción**: un cartel con texto pequeño, trípode, misma
-   escena a f/4, f/8, f/11 y f/16. Amplía al 100 %. Verás con tus ojos dónde
-   deja de mejorar y empieza a empeorar — y no volverás a cerrar por inercia.
+## 6 · Tres causas de "foto borrosa"
+
+| Causa | Cómo se reconoce | Solución |
+|---|---|---|
+| **Desenfoque** | Algo está nítido, pero no lo que querías (el foco se fue a la hierba) | Enfoca donde importa, y compruébalo al 100 % |
+| **Movimiento** | Estelas o todo borroso por igual | Más velocidad ([la exposición](02-exposicion.md)) |
+| **Difracción** | Toda la foto blanda a f/16 o más | Vuelve a f/8 |
+
+## Ejercicio (una tarde)
+
+1. **Perspectiva:** fotografía a una persona con un fondo lejano (un edificio, un árbol) desde 2 m con el 11 mm y desde 15 m con el tele, con la persona del mismo tamaño en el encuadre. Compara el tamaño del fondo.
+2. **Profundidad de campo:** con el 25 mm a f/1.7, enfoca a una persona a 1 m y luego a 4 m, sin cambiar la apertura. ¿Cuánto fondo se desenfoca en cada caso?
+3. **Bokeh:** la misma persona pegada a una pared y a 5 m de la pared, a f/1.7. ¿Qué fondo se desenfoca más?
+
+**Aprobado cuando** sabes predecir, antes de disparar, si el fondo saldrá grande o pequeño y nítido o desenfocado.
 
 ## Referencias
 
-- Especificaciones oficiales de la a6700 (sensor, rango de AF): <https://helpguide.sony.net/ilc/2320/v1/es/contents/221h_specifications_ilc2320.html>
-- Guía de ayuda completa de la a6700: <https://helpguide.sony.net/ilc/2320/v1/es/>
-- Difracción y límite del sensor, con calculadora: <https://www.cambridgeincolour.com/tutorials/diffraction-photography.htm>
-- Profundidad de campo e hiperfocal, con calculadora: <https://www.dofmaster.com/dofjs.html>
-- Curvas de ruido de lectura y rango dinámico medidos, cámara a cámara (Photons to Photos): <https://www.photonstophotos.net/>
-- Prueba de invarianza ISO de la a6700 hecha por usuarios (foro DPReview): <https://www.dpreview.com/forums/threads/a6700-iso-invariance-test.4740029/>
-- Review de referencia del Sony E 70-350mm G OSS (Dustin Abbott): <https://dustinabbott.net/2022/05/sony-e-70-350mm-f4-5-6-3-g-oss-review/>
-- Ficha oficial del Sony E 11mm F1.8: <https://www.sony.es/lenses/products/sel11f18>
+- El modelo completo, con las cuentas: [por qué funciona](09-por-que-funciona.md)
+- Calculadora de profundidad de campo e hiperfocal: <https://www.dofmaster.com/dofjs.html>
 
 ---
 
-*Parte II · La composición y la mirada*
+*Parte II · Óptica y composición*
 
-# 5. Atlas de encuadres — el repertorio, encuadre a encuadre
+# 6. Composición — lo básico
+
+> 🟢 **Iniciación** · Da por sabido: nada · Te desbloquea: hacer encuadres pensados en lugar de "apuntar al centro", y entender por qué algunas fotos se leen de un vistazo y otras no.
+
+**Qué resuelve.** Componer es **decidir qué entra en la foto, dónde va y qué se queda fuera**. Una foto técnicamente perfecta puede no decir nada si el encuadre es confuso. Este capítulo da las herramientas básicas. El [atlas de encuadres](07-atlas-de-encuadres.md) las convierte en un repertorio concreto, y [la mirada](10-la-mirada.md) explica cómo se pasa de ahí a la foto buena.
+
+## Lo esencial, en una tabla
+
+| Herramienta | Qué es | Para qué |
+|---|---|---|
+| **Un sujeto claro** | Saber qué es lo importante antes de disparar | Que el espectador sepa dónde mirar |
+| **Simplificar** | Dejar fuera lo que no aporta | Que nada compita con el sujeto |
+| **Regla de los tercios** | Colocar el sujeto o el horizonte en las líneas que dividen el encuadre en tercios | Encuadres equilibrados y con tensión |
+| **Horizonte** | Recto, y casi nunca en el centro | Que la foto no "se caiga" |
+| **Líneas** | Caminos, ríos, crestas, cercas que llevan la vista | Guiar la mirada hacia el sujeto |
+| **Primer plano, plano medio, fondo** | Capas a distintas distancias | Profundidad en una imagen plana |
+| **Espacio** | Aire hacia donde mira o se mueve el sujeto | Que el sujeto "respire" y la foto tenga dirección |
+| **Punto de vista** | La altura y la posición desde la que disparas | Fotos distintas de las que hace todo el mundo |
+| **Los bordes** | Lo que corta el marco | Que no haya cortes torpes ni distracciones en las esquinas |
+
+## 1 · Primero, el sujeto
+
+Antes de levantar la cámara, responde: **¿qué es la foto?** Un animal, su mirada, la relación entre dos animales, la luz sobre una duna. Si no sabes decirlo en una frase, la foto tampoco lo dirá.
+
+**Simplificar** es la consecuencia directa: todo lo que no ayuda al sujeto le quita atención. Acércate, cambia de ángulo, cierra el encuadre o desenfoca el fondo ([óptica](05-optica.md)).
+
+## 2 · Dónde colocarlo: los tercios y el centro
+
+**La regla de los tercios:** divide el encuadre con dos líneas horizontales y dos verticales. Colocar el sujeto (o sus ojos) en una de esas líneas o en un cruce suele dar una foto más dinámica que ponerlo en el centro. La cámara puede mostrar esa cuadrícula en pantalla ([manejo, capítulo 2](../manejo-a6700/02-menus-y-primer-dia.md)).
+
+**El centro también vale** cuando la escena es simétrica (un reflejo perfecto, un animal de frente mirando a cámara) o cuando quieres una foto quieta y rotunda. La regla es una herramienta, no una obligación.
+
+## 3 · El horizonte
+
+- **Recto**, siempre. Un horizonte torcido es lo primero que ve el espectador.
+- **En el tercio superior** si lo interesante es el suelo; **en el inferior** si lo interesante es el cielo.
+- **En el centro**, solo si buscas simetría (un reflejo en el agua).
+
+## 4 · Líneas que guían
+
+La vista sigue las líneas: un camino, un río, la cresta de una duna, una fila de árboles. Encuadra para que **entren por una esquina o un borde y lleven al sujeto**, no para que lo saquen de la foto.
+
+## 5 · Profundidad: las capas
+
+Una foto es plana. Para que parezca tener fondo, usa **capas**: algo en **primer plano**, el sujeto en el **plano medio** y el paisaje al **fondo**. Con el gran angular, acércate mucho al primer plano ([óptica](05-optica.md#3--la-perspectiva-la-hace-la-distancia)).
+
+## 6 · Espacio y dirección
+
+Deja **aire hacia donde mira o se mueve** el sujeto. Un animal que mira hacia el borde más cercano parece "chocar" con el marco. La excepción, que se usa a propósito, es el animal que sale del encuadre: transmite huida o final.
+
+## 7 · El punto de vista
+
+La mayoría de la gente fotografía a la altura de los ojos de pie. **Bájate** a la altura del animal o del suelo, o sube a un punto alto, y la foto cambia por completo. Con fauna, ponerse a la altura de los ojos del animal suele ser la diferencia entre una foto de documentación y una foto con presencia.
+
+## 8 · Revisa los bordes antes de disparar
+
+Antes de pulsar, recorre los **cuatro bordes** con la mirada:
+- ¿Hay algo cortado a medias (una oreja, una pata, una rama)?
+- ¿Hay una zona clara o de color fuerte en una esquina que tire de la vista?
+- ¿Sobra algo que podrías dejar fuera dando un paso?
+
+Es el hábito que más mejora las fotos y el que menos cuesta.
+
+## Si la foto no funciona…
+
+| Lo que ves | Causa | Qué cambiar |
+|---|---|---|
+| No sabes qué mirar | No hay un sujeto claro, o compite con otros elementos | Decide el sujeto; acércate o simplifica |
+| Todo correcto pero soso | Sujeto en el centro, punto de vista de siempre | Tercios, otro punto de vista, otra luz |
+| La foto "se cae" | Horizonte torcido | Endereza al disparar o al recortar |
+| Algo distrae en una esquina | No revisaste los bordes | Reencuadra, o recorta y retoca ([retoques 4.6](../retoques/04-ajustes-locales.md)) |
+| El animal "choca" con el borde | Sin espacio hacia donde mira | Deja aire delante |
+| Foto plana, sin fondo | Sin capas | Busca un primer plano |
+
+## Ejercicio (una tarde)
+
+1. Elige **un solo sujeto** cerca de casa (un árbol, un banco, una farola).
+2. Haz **diez fotos distintas** de él: en el centro y en los tercios, con el horizonte arriba y abajo, desde el suelo y desde arriba, con y sin primer plano, con espacio a un lado y al otro.
+3. Elige **la mejor** y explica en una frase por qué.
+
+**Aprobado cuando** puedes decir qué herramienta de este capítulo hace funcionar tu mejor foto. Después, sigue con el [cuaderno de composición](08-cuaderno-de-composicion.md): 20 ejercicios en escalera.
+
+## Referencias
+
+- El repertorio de encuadres concretos: [atlas de encuadres](07-atlas-de-encuadres.md)
+- De la foto correcta a la foto buena: [la mirada](10-la-mirada.md)
+
+---
+
+*Parte II · Óptica y composición*
+
+# 7. Atlas de encuadres — el repertorio, encuadre a encuadre
 
 > 🔵 **Básico** · Da por sabido: el [capítulo 8](../manejo-a6700/08-safari-diurno.md) · Te desbloquea: mirar lo que tienes delante y saber **qué foto cabe ahí**, en vez de disparar a ver qué sale.
 
@@ -1202,7 +1200,7 @@ más de cuatro metros, que a f/1.8 es "cerca".
   granito de Hoada, la rueda del coche.
 - **Dónde**: Hoada y Spreetshoogte, donde hay roca cerca.
 - **El error que lo mata**: poner el objeto a menos de cuatro metros — sale
-  borroso y no hay arreglo (el porqué, en [por qué funciona](04-por-que-funciona.md)).
+  borroso y no hay arreglo (el porqué, en [por qué funciona](09-por-que-funciona.md)).
 
 ---
 
@@ -1231,21 +1229,402 @@ gesto y salida. Son los encuadres 3, 1, 6, 9 y 14 de este atlas.
 
 Los diagramas puestos a prueba, foto a foto, en
 [fotos desmontadas](https://github.com/morandeirachema/a6700-namibia/blob/main/mejora/fotos-desmontadas.md); y el calendario de
-práctica, en el [cuaderno de composición](07-cuaderno-de-composicion.md).
+práctica, en el [cuaderno de composición](08-cuaderno-de-composicion.md).
 
 ## Referencias
 
 - Las reglas detrás de estos encuadres: [safari a fondo](https://github.com/morandeirachema/a6700-namibia/blob/main/mejora/safari-a-fondo.md) · [paisaje a fondo](https://github.com/morandeirachema/a6700-namibia/blob/main/mejora/paisaje-a-fondo.md)
-- El porqué óptico (profundidad, compresión, aire): [por qué funciona](04-por-que-funciona.md)
+- El porqué óptico (profundidad, compresión, aire): [por qué funciona](09-por-que-funciona.md)
 - Qué animal hace qué gesto: [la fauna, animal por animal](https://github.com/morandeirachema/a6700-namibia/blob/main/tecnica/fauna-de-namibia.md)
 - Qué hay en el cielo cada noche: [el cielo del viaje](https://github.com/morandeirachema/a6700-namibia/blob/main/plan/cielo-del-viaje.md)
 - Composición de paisaje nocturno (van Oosten, entrevista): <https://www.photocascadia.com/an-interview-with-marsel-van-oosten-from-adrian-klein/>
 
 ---
 
-*Parte II · La composición y la mirada*
+*Parte II · Óptica y composición*
 
-# 6. La mirada — cómo piensan los que hacen las fotos que te gustan
+# 8. Cuaderno de composición — 20 ejercicios, para imprimir y tachar
+
+Veinte ejercicios en escalera, del más tonto al más difícil. Cada uno tiene
+un **criterio de aprobado**: o lo cumples o no, sin opinión. Se hacen con
+cualquier bicho —un pato del parque, el perro de un amigo, las gaviotas del
+puerto— y ninguno necesita Namibia.
+
+**Cómo se usa**: uno o dos por sesión, en orden. No pases al siguiente
+bloque hasta tener el anterior entero. Los encuadres numerados son los del
+[atlas](07-atlas-de-encuadres.md).
+
+---
+
+## Bloque 1 · VER (antes de tocar la cámara)
+
+| ☐ | Ejercicio | Aprobado cuando… |
+|---|---|---|
+| ☐ 1 | **La foto de las 3 horas.** Un sitio a 10 min de casa, tres visitas: mediodía, hora dorada y hora azul. Mismo encuadre. | Tienes las tres y sabes decir en una frase qué cambia la luz, no "que es más bonita" |
+| ☐ 2 | **Dónde está el sol.** Diez fotos ajenas que te gusten; deduce de las sombras de dónde venía la luz. | Aciertas la dirección en 8 de 10 |
+| ☐ 3 | **Lo que no está.** Cinco fotos de [fotos desmontadas](https://github.com/morandeirachema/a6700-namibia/blob/main/mejora/fotos-desmontadas.md): escribe qué dejaron **fuera** del encuadre. | Cinco frases escritas, una por foto |
+| ☐ 4 | **Tapa el sujeto.** Con el dedo sobre el animal, ¿sigue habiendo foto? Pruébalo con 10 tuyas. | Sabes cuántas de tus 10 se caen enteras (y no te engañas) |
+| ☐ 5 | **El fondo primero.** Una sesión entera eligiendo **el fondo** antes que el sujeto: te colocas y esperas a que algo entre. | Vuelves con 3 fotos hechas así, aunque el sujeto sea un gorrión |
+
+## Bloque 2 · ENCUADRAR
+
+| ☐ | Ejercicio | Aprobado cuando… |
+|---|---|---|
+| ☐ 6 | **Veinte del mismo bicho.** Un solo sujeto, 20 fotos **distintas**: cerca, lejos, alto, bajo, detalle, contexto. | Las 20 son reconociblemente distintas entre sí |
+| ☐ 7 | **Ocho encuadres del atlas** con ese mismo animal (1, 2, 3, 6, 8, 9, 12, 13). | Tienes los ocho, identificables sin explicártelos |
+| ☐ 8 | **El aire.** Diez fotos con el sujeto descentrado y **dos tercios de aire** hacia donde mira. | Ninguna tiene el aire detrás. Ninguna |
+| ☐ 9 | **Ni una a tu altura.** Una sesión entera sin disparar de pie: todo agachado o apoyado en el suelo. | 20 fotos y ni una desde la altura de tus ojos |
+| ☐ 10 | **Déjalo pequeño.** Cinco fotos donde el sujeto ocupe **menos de un décimo** del encuadre y la foto siga funcionando. | Las cinco, y resististe el impulso de zoomear |
+| ☐ 11 | **Vertical obligatorio.** De cada escena, la horizontal **y** la vertical. Diez parejas. | Diez parejas completas, y en 3 de ellas prefieres la vertical |
+| ☐ 12 | **Corta por dentro.** Cinco retratos apretados cortando frente y orejas, con el ojo nítido al 100 %. | Ninguna es un "casi apretado": o cortas de verdad o no cuenta |
+
+## Bloque 3 · ESPERAR
+
+| ☐ | Ejercicio | Aprobado cuando… |
+|---|---|---|
+| ☐ 13 | **Media hora sin disparar.** Elige un animal y obsérvalo 30 min sin cámara. Aprende su ciclo. Luego, 5 fotos. | Puedes predecir lo que va a hacer 5 segundos antes de que lo haga |
+| ☐ 14 | **El gesto anunciado.** Caza tres gestos que **veías venir** (un estiramiento, un bostezo, un salto, un despegue). | Tres, y en las tres estabas ya encuadrado |
+| ☐ 15 | **Treinta segundos más.** Cinco veces: cuando pienses "ya está", quédate medio minuto más y dispara. | Al menos una de esas cinco es mejor que la que ya tenías |
+| ☐ 16 | **El ave en vuelo.** Reconocimiento **Ave**, 1/2500, preenfoque a un punto de paso. | 3 de cada 10 salen nítidas y con el pájaro entero dentro |
+
+## Bloque 4 · CONTAR
+
+| ☐ | Ejercicio | Aprobado cuando… |
+|---|---|---|
+| ☐ 17 | **La secuencia de cinco.** De una escena: escenario, retrato, detalle, gesto y salida. | Las cinco, de la misma escena, en la misma sesión |
+| ☐ 18 | **La criba de tres.** De una salida entera, quédate con 3 y escribe una palabra por descarte. | Solo 3, y las causas contadas al final de la semana |
+| ☐ 19 | **La serie de diez.** Diez fotos que se vean como un conjunto: mismo tratamiento, ordenadas, sin dos parecidas seguidas. | Se la enseñas a alguien y no pregunta "¿y esta por qué?" |
+| ☐ 20 | **El ensayo general.** Un día completo en Cabárceno con MR1, la rutina de 10 s y esta lista al lado. | Vuelves con la secuencia de cinco de **tres** escenas distintas |
+
+---
+
+## El calendario
+
+Encaja en las once semanas del [plan de entrenamiento](https://github.com/morandeirachema/a6700-namibia/blob/main/plan/plan-de-entrenamiento.md):
+
+| Semanas | Bloque | Con qué se junta |
+|---|---|---|
+| 1–3 | **Ver** (1–5) | Las primeras tardes de deberes del capítulo 1 |
+| 4–7 | **Encuadrar** (6–12) | Las monográficas de [safari a fondo](https://github.com/morandeirachema/a6700-namibia/blob/main/mejora/safari-a-fondo.md) |
+| 8–9 | **Esperar** (13–16) | La tarde del gesto de la [fauna](https://github.com/morandeirachema/a6700-namibia/blob/main/tecnica/fauna-de-namibia.md) |
+| 9–10 | **Contar** (17–20) | El ensayo general de Cabárceno (el 20) y la criba de su vuelta (18 y 19) |
+
+## Los tres que no se recortan
+
+Si vas mal de tiempo, estos tres valen más que los otros diecisiete:
+
+- **Nº 9** (ni una a tu altura) — es el cambio más grande por el menor
+  esfuerzo.
+- **Nº 13** (media hora sin disparar) — es la habilidad que menos se entrena
+  y la que más separa.
+- **Nº 18** (la criba de tres) — sin esto no sabes si estás mejorando.
+
+## Para seguir
+
+- El repertorio: [atlas de encuadres](07-atlas-de-encuadres.md)
+- El análisis: [fotos desmontadas](https://github.com/morandeirachema/a6700-namibia/blob/main/mejora/fotos-desmontadas.md)
+- A quién mirar: [fotógrafos de referencia](https://github.com/morandeirachema/a6700-namibia/blob/main/mejora/fotografos-de-referencia.md)
+- El método de autocrítica y los cinco escalones: [la mirada](10-la-mirada.md)
+
+---
+
+*Parte III · A fondo*
+
+# 9. Por qué funciona — el modelo que hay detrás de las recetas
+
+> 🔴 **Avanzado** · Da por sabido: los capítulos 1 a 10 y haber disparado unas cuantas tardes · Te desbloquea: inventar **tu** receta cuando la escena no está en ninguna tabla.
+
+Todo el repo hasta aquí te da recetas: números que funcionan, comprobados,
+para las situaciones que vas a encontrar. Funcionan porque debajo hay un
+modelo — y el día que la escena no encaje en ninguna tabla (y pasará), lo que
+te salva es entender el modelo, no memorizar más tablas.
+
+**La regla de esta guía**: ningún concepto se queda en teoría. Cada uno
+termina en **la decisión** que te deja tomar, con los números de **tu**
+equipo: una a6700 de 26 Mpx (sensor APS-C de 23,3 × 15,5 mm), un 11 mm f/1.8
+y un 70-350 f/4.5-6.3.
+
+---
+
+## 1 · El paso: la única moneda del sistema
+
+Un **paso** (o *stop*) es **el doble o la mitad de luz**. Es la única unidad
+que necesitas, y los tres controles la manejan con escalas distintas:
+
+| Control | Un paso más de luz es… | La escala |
+|---|---|---|
+| **Obturación** | El doble de tiempo | 1/1000 → 1/500 → 1/250 → 1/125… |
+| **Apertura** | Un número f **dividido entre √2** | f/2 → 2.8 → 4 → 5.6 → 8 → 11 (cada salto ahí es un paso; el f/1.8 del 11 mm es un tercio más que f/2) |
+| **ISO** | El doble de amplificación | 100 → 200 → 400 → 800 → 1600… |
+
+De ahí sale lo único que hay que interiorizar: **tres exposiciones que dejan
+entrar la misma luz** y dan tres fotos completamente distintas.
+
+| Ajustes | Misma luz, pero… |
+|---|---|
+| 1/2000 · f/6.3 · ISO 6400 | El animal congelado, ruido alto |
+| 1/500 · f/6.3 · ISO 1600 | Dos pasos menos de ruido, riesgo de movida |
+| 1/500 · f/3.2 · ISO 400 | Aún más limpia — pero tu tele no abre a f/3.2 |
+
+**La decisión**: cuando falte luz, decides **qué pagas**. Movimiento
+(obturación), profundidad (apertura) o ruido (ISO). El orden que usa este
+repo no es capricho: con trípode y animal quieto se paga con **tiempo**
+primero, porque es lo único gratis; a pulso se paga con **ISO**, porque una
+foto ruidosa se arregla y una movida no.
+
+> **Ejercicio (20 minutos, en casa).** Un objeto quieto, luz constante. Haz
+> la misma foto con cuatro combinaciones equivalentes, de 1/60 · f/8 · ISO 400
+> a 1/500 · f/2.8 · ISO 400 compensando. Ábrelas juntas: la exposición es la
+> misma y las cuatro fotos son distintas. Eso es el sistema entero.
+
+---
+
+## 2 · Exponer a la derecha, y por qué el histograma manda
+
+Un RAW **no reparte la información a partes iguales**. La mitad de todos los
+niveles de tu archivo viven en el paso más luminoso; el siguiente paso tiene
+la mitad, el siguiente la mitad de eso… Traducción: **las sombras son pobres
+en datos y las altas luces son ricas**. Por eso una foto subexpuesta que
+levantas en revelado saca ruido y bandas, y una foto expuesta "hacia la
+derecha" (ETTR) tiene margen de sobra.
+
+Pero hay un límite duro: **lo quemado no vuelve**. No hay dato que
+recuperar donde el sensor saturó.
+
+**La decisión**: empuja el histograma a la derecha **sin que toque el
+borde**. En la práctica de este viaje:
+
+- Fondo de calcreta blanca o cielo → **+0.7 / +1** y vigila el **Zebra 100+**:
+  si parpadea sobre algo que debe tener detalle, baja.
+- Un animal oscuro sobre fondo claro no es un problema de exposición: es un
+  problema de **medición** (medición puntual vinculada al punto de enfoque,
+  [AF y exposición a fondo](../manejo-a6700/12-af-y-exposicion-a-fondo.md)).
+- **Dónde NO se aplica**: en astro no hay derecha a la que exponer — el cielo
+  es oscuro de verdad. Ahí la montaña del histograma va en el **primer
+  tercio**, separada del borde izquierdo, y punto.
+
+---
+
+## 3 · Profundidad de campo: tres palancas, y una pesa más
+
+Lo que sale nítido delante y detrás del punto de enfoque depende de tres
+cosas, y conviene saber **cuál manda**:
+
+1. **La distancia al sujeto** — la palanca fuerte. Va al cuadrado: al doble
+   de distancia, cuatro veces más profundidad.
+2. **La focal** — también al cuadrado, en sentido contrario: más milímetros,
+   menos profundidad.
+3. **La apertura** — la palanca suave, lineal.
+
+Con **tu 11 mm** esto se traduce en una tabla que puedes usar tal cual. La
+**hiperfocal** es la distancia a la que enfocar para que todo salga nítido
+desde su mitad hasta el infinito:
+
+| Apertura | Enfoca a… | Y sale nítido desde… |
+|---|---|---|
+| f/2.8 | 2,2 m | ~1,1 m hasta ∞ |
+| f/4 | 1,5 m | ~0,75 m hasta ∞ |
+| f/5.6 | 1,1 m | ~0,55 m hasta ∞ |
+| **f/8** | **0,8 m** | **~0,40 m hasta ∞** |
+| f/11 | 0,6 m | ~0,30 m hasta ∞ |
+
+Por eso la receta de paisaje del repo dice "f/8, enfoca a ~1 m y pasa a MF":
+no es magia, es esa fila. Y por eso puedes poner una piedra a medio metro de
+la lente sin perder las dunas del fondo.
+
+Con **el 70-350** la misma cuenta da un susto sano, a 30 m del animal:
+
+| Focal y apertura | Profundidad nítida total |
+|---|---|
+| 70 mm · f/4.5 | ~48 metros |
+| 200 mm · f/6.3 | ~5,7 metros |
+| 350 mm · f/6.3 | **~1,9 metros** |
+| 350 mm · f/6.3, pero a 15 m | **~0,5 metros** |
+
+**La decisión**: a 350 mm y con el animal cerca **no tienes profundidad para
+fallar**: medio metro es la diferencia entre el ojo y la oreja. De ahí que
+todo el repo insista en el ojo y en verificar al 100 %. Y al revés: a 70 mm
+tienes cuarenta y ocho metros de margen — encuadrar más ancho no solo da luz,
+también perdona.
+
+---
+
+## 4 · Difracción: por qué f/16 no es "más nítido"
+
+Al cerrar el diafragma, la luz que pasa por un agujero pequeño se **difracta**
+y cada punto de la imagen se emborrona un poco. Es física, no calidad del
+objetivo: le pasa a todos por igual.
+
+Cuándo empieza a notarse depende del tamaño del píxel. El tuyo mide unas
+**3,8 micras** (26 Mpx en 23,3 mm de ancho), así que:
+
+- **f/5.6 – f/8**: el punto dulce. Máxima nitidez real de los objetivos del kit.
+- **f/11**: ya se nota si amplías al 100 %. Aceptable cuando de verdad
+  necesitas la profundidad.
+- **f/16 y más allá**: pérdida clara. Ganas profundidad y pierdes detalle en
+  **toda** la foto.
+
+**La decisión**: el "f/16 de paisaje" que has leído mil veces es herencia del
+formato completo y de cámaras de menos megapíxeles. En tu equipo, paisaje es
+**f/8 con la hiperfocal puesta**, no f/16. Y si aun así no llega la
+profundidad, la solución no es cerrar más: es **alejar el primer plano** —
+que es la palanca fuerte del punto 3.
+
+---
+
+## 5 · La compresión no la hace el tele: la hace la distancia
+
+"El teleobjetivo comprime los planos" es una verdad a medias que se repite en
+todas partes. Lo que comprime es **estar lejos**: si haces la foto desde el
+mismo sitio con 70 mm y recortas hasta el encuadre de 350 mm, la relación
+entre el sujeto y el fondo es **exactamente la misma**. El tele no comprime:
+te permite estar lejos y aun así llenar el encuadre.
+
+**Las decisiones que salen de esto**:
+
+- **El órix diminuto en la duna enorme**: eso no es "poner el tele", es
+  **alejarte** todo lo que puedas y luego encuadrar con el zoom. Desde cerca,
+  esa foto no existe con ninguna focal.
+- **El retrato de fauna que no deforma**: no te acerques más — **aléjate y
+  zoomea**. Cerca y con angular, la nariz del animal se hincha.
+- **Las capas azuladas de Spreetshoogte**: la compresión de sierras que hace
+  bonito el mirador es distancia pura; el 70-350 solo la recorta.
+
+---
+
+## 6 · Ruido, ISO y el punto en que deja de importar
+
+El ISO **no añade ruido**: amplifica. El ruido ya estaba, y es sobre todo
+falta de fotones — poca luz. Por eso la frase correcta no es "no subas el
+ISO", sino **"recoge toda la luz que puedas, y luego amplifica lo que haga
+falta"**.
+
+Tu cámara tiene ISO base **100** (máxima calidad y rango dinámico) y, como
+casi todos los sensores modernos, un **segundo escalón de ganancia** en la
+parte baja-media del rango. Y algo más útil todavía: **a partir de ISO ~800
+la a6700 es prácticamente ISO-invariante** — subir el ISO en cámara o
+levantar la exposición después en el revelado dan casi el mismo resultado.
+
+**Las decisiones**:
+
+- **Por debajo de ISO 800, expón bien en cámara.** Ahí la cámara **no** es
+  invariante y subexponer "para levantarlo luego" te cuesta calidad real.
+- **Por encima de 800, protege las altas luces.** En la charca, si dudas
+  entre quemar la orilla iluminada o dejar la foto un poco oscura: **déjala
+  oscura y levántala en revelado**. Lo quemado no vuelve; el ruido que añades
+  al levantar es pequeño y la reducción por IA se lo come.
+- Y antes de cruzar ningún techo de ISO, el orden del [capítulo 9](../manejo-a6700/09-safari-nocturno-charcas.md)
+  sigue mandando: con trípode y animal quieto, **baja la obturación primero**.
+  Eso es luz gratis; el ISO nunca lo es.
+
+---
+
+## 7 · El autofoco por dentro (y por qué muere en la charca)
+
+La a6700 combina **detección de fase** (rápida, predictiva, la que persigue
+al animal) y **detección de contraste** (fina, la que remata). Ambas
+necesitan lo mismo: **un borde con contraste**. Sobre una panza lisa o un
+cielo uniforme no hay nada que medir, y el objetivo "caza" recorriendo todo
+el rango.
+
+Y hay un número que lo explica casi todo: la ficha de Sony da sensibilidad de
+AF **de −3 EV a +20 EV**, medida **a f/2.0**. El 70-350 abre a **f/6.3**: son
+algo más de **tres pasos** (3,3) menos de luz llegando al sensor. El AF que
+en el papel ve a −3 EV, con el tele puesto se queda alrededor de **+0,3 EV** — que
+es, exactamente, la penumbra de la charca de Okaukuejo.
+
+**Las decisiones**:
+
+- En la charca, no es que el AF "falle": es que está fuera de su rango.
+  **Punto único sobre una zona iluminada y con borde**, o enfoque manual
+  prefijado a la orilla. Las dos cosas que dice el capítulo 9, ahora con el
+  porqué.
+- Con el 11 mm (f/1.8) el AF ve muchísimo mejor, pero en astro tampoco hay
+  contraste: por eso ahí siempre es **manual con lupa y peaking**.
+- La **sensibilidad de seguimiento** no cambia la potencia del AF: solo
+  decide **cuánto tarda en soltar** el sujeto cuando algo se cruza. Por eso 1
+  con hierba delante y 4–5 en una persecución.
+
+---
+
+## 8 · Los objetivos, sin marketing
+
+**Sony E 11mm F1.8** — angular luminoso, sin estabilizador propio (lo pone el
+IBIS), rosca de 55 mm.
+
+- A f/1.8 entra toda la luz del mundo, pero **las esquinas son lo primero que
+  sufre** en astro: las estrellas del borde pueden salir con "alitas" (coma).
+  Si te pasa, cierra a **f/2.2–f/2.8** y sube el ISO un paso: pierdes menos
+  que ganas. Compruébalo en casa con la prueba de punto de luz de la
+  [hoja de verificación](../manejo-a6700/17-verificacion-in-situ.md), no en Namibia.
+- Para paisaje, f/8 con la hiperfocal de la tabla del punto 3.
+
+**Sony E 70-350mm F4.5-6.3 G OSS** — 105–525 mm equivalentes, y el objetivo
+que más vas a usar.
+
+- **Su apertura escalona**: f/4.5 (70–81 mm) · f/5 (82–113) · f/5.6 (114–199)
+  · f/6.3 (200–350). Recoger el zoom por debajo de 200 mm **es luz gratis**, y
+  por debajo de 114 mm, más todavía.
+- Como todo superzoom, **su punto más blando es 350 mm a f/6.3**. Cuando el
+  animal lo permita, encuadrar a ~300 mm y recortar los 26 Mpx en edición a
+  menudo da un resultado igual o mejor.
+- **0,23x de ampliación máxima** a 350 mm desde 1,5 m: da para texturas y
+  flores grandes. No es macro, y no lo va a ser.
+
+**Viltrox AF 25 mm F1.7 Air** — 37,5 mm equivalentes, 170 g, rosca de 52 mm,
+sin estabilizador propio y **sin interruptor AF/MF**.
+
+- Es el más luminoso de los tres: a f/1.7 entra más luz que la de la
+  medición de la ficha del AF (f/2.0), justo al revés que con el 70-350.
+- A f/1.7 y a 2 m del retratado, la zona nítida mide **unos 40 cm** (la
+  misma cuenta del punto 3): el fondo se va, pero un paso en falso también.
+- La hiperfocal pide cerrar mucho más que con el 11 mm: a f/8 se enfoca a
+  ~3,9 m y queda nítido desde ~2 m. Tabla completa y receta en
+  [su guía](../manejo-a6700/11-viltrox-25mm.md).
+
+---
+
+## Todo el modelo, en una tabla de decisiones
+
+| Cuando… | El modelo dice… | Y tú haces… |
+|---|---|---|
+| Falta luz | Solo hay tres monedas y todas cuestan algo | Con apoyo, paga con tiempo; a pulso, con ISO |
+| Fondo blanco o cielo | El medidor busca el gris medio | +0.7/+1 y vigila el Zebra 100+ |
+| Dudas si quemar o subexponer (ISO alto) | Por encima de 800 la cámara es casi invariante | Salva las altas luces, levanta después |
+| A 350 mm y el animal cerca | Menos de un metro de profundidad | El ojo, y verificación al 100 % |
+| Quieres todo nítido en paisaje | La difracción castiga a partir de f/11 | f/8 e hiperfocal; si no llega, aleja el primer plano |
+| Quieres el sujeto pequeño en un fondo enorme | La compresión es distancia, no focal | Aléjate y zoomea |
+| El AF caza y no fija de noche | Con f/6.3 pierdes algo más de 3 pasos de sensibilidad | Punto único a un borde iluminado, o MF prefijado |
+
+## Ejercicios (tres tardes, antes de volar)
+
+1. **La tarde del paso** (ejercicio del punto 1): cuatro exposiciones
+   equivalentes de la misma escena. Aprendes a pensar en pasos, no en números
+   sueltos.
+2. **La tarde de la profundidad**: pon tres objetos a 2, 4 y 10 metros
+   (a 350 mm el tele no enfoca a menos de 1,5 m). Fotografía la fila a 70 mm
+   y a 350 mm, y luego a f/6.3 (lo más abierto a 350 mm) y a f/11. Cuatro
+   fotos que enseñan la tabla del punto 3 mejor que la tabla.
+3. **La tarde de la difracción**: un cartel con texto pequeño, trípode, misma
+   escena a f/4, f/8, f/11 y f/16. Amplía al 100 %. Verás con tus ojos dónde
+   deja de mejorar y empieza a empeorar — y no volverás a cerrar por inercia.
+
+## Referencias
+
+- Especificaciones oficiales de la a6700 (sensor, rango de AF): <https://helpguide.sony.net/ilc/2320/v1/es/contents/221h_specifications_ilc2320.html>
+- Guía de ayuda completa de la a6700: <https://helpguide.sony.net/ilc/2320/v1/es/>
+- Difracción y límite del sensor, con calculadora: <https://www.cambridgeincolour.com/tutorials/diffraction-photography.htm>
+- Profundidad de campo e hiperfocal, con calculadora: <https://www.dofmaster.com/dofjs.html>
+- Curvas de ruido de lectura y rango dinámico medidos, cámara a cámara (Photons to Photos): <https://www.photonstophotos.net/>
+- Prueba de invarianza ISO de la a6700 hecha por usuarios (foro DPReview): <https://www.dpreview.com/forums/threads/a6700-iso-invariance-test.4740029/>
+- Review de referencia del Sony E 70-350mm G OSS (Dustin Abbott): <https://dustinabbott.net/2022/05/sony-e-70-350mm-f4-5-6-3-g-oss-review/>
+- Ficha oficial del Sony E 11mm F1.8: <https://www.sony.es/lenses/products/sel11f18>
+
+---
+
+*Parte III · A fondo*
+
+# 10. La mirada — cómo piensan los que hacen las fotos que te gustan
 
 > 🔴 **Avanzado** · Da por sabido: los capítulos 1 a 10 · Te desbloquea: decidir tú dónde ponerte y qué esperar, en vez de reaccionar a lo que aparezca.
 
@@ -1388,7 +1767,7 @@ Sin esto, "practicar" es hacer más fotos iguales. El método es de una noche:
 | Escalón | Lo tienes cuando… | Dónde se entrena |
 |---|---|---|
 | **1 · Nítida** | El ojo del animal aguanta el 100 % en la mayoría de tus ráfagas | [Capítulo 8](../manejo-a6700/08-safari-diurno.md) y los deberes del [capítulo 1](../manejo-a6700/01-de-movil-a-la-a6700.md) |
-| **2 · Bien expuesta** | Miras el histograma antes de que te lo pida nadie y compensas sin pensar | [El histograma](02-histograma.md) |
+| **2 · Bien expuesta** | Miras el histograma antes de que te lo pida nadie y compensas sin pensar | [El histograma](03-histograma.md) |
 | **3 · Limpia** | Antes de disparar ya has mirado el fondo y has movido el coche medio metro | [Safari a fondo §5](https://github.com/morandeirachema/a6700-namibia/blob/main/mejora/safari-a-fondo.md) |
 | **4 · Con luz** | Dejas de disparar a mediodía sin remordimiento y madrugas sin discutirlo | [Mejores horas](https://github.com/morandeirachema/a6700-namibia/blob/main/plan/mejores-horas.md) |
 | **5 · Con momento** | Esperas el gesto que sabes que va a llegar, con el encuadre ya montado | [La fauna, animal por animal](https://github.com/morandeirachema/a6700-namibia/blob/main/tecnica/fauna-de-namibia.md) |
@@ -1421,96 +1800,9 @@ está calendarizado en el [plan de entrenamiento](https://github.com/morandeirac
 
 ---
 
-*Parte II · La composición y la mirada*
+*Parte IV · Referencia*
 
-# 7. Cuaderno de composición — 20 ejercicios, para imprimir y tachar
-
-Veinte ejercicios en escalera, del más tonto al más difícil. Cada uno tiene
-un **criterio de aprobado**: o lo cumples o no, sin opinión. Se hacen con
-cualquier bicho —un pato del parque, el perro de un amigo, las gaviotas del
-puerto— y ninguno necesita Namibia.
-
-**Cómo se usa**: uno o dos por sesión, en orden. No pases al siguiente
-bloque hasta tener el anterior entero. Los encuadres numerados son los del
-[atlas](05-atlas-de-encuadres.md).
-
----
-
-## Bloque 1 · VER (antes de tocar la cámara)
-
-| ☐ | Ejercicio | Aprobado cuando… |
-|---|---|---|
-| ☐ 1 | **La foto de las 3 horas.** Un sitio a 10 min de casa, tres visitas: mediodía, hora dorada y hora azul. Mismo encuadre. | Tienes las tres y sabes decir en una frase qué cambia la luz, no "que es más bonita" |
-| ☐ 2 | **Dónde está el sol.** Diez fotos ajenas que te gusten; deduce de las sombras de dónde venía la luz. | Aciertas la dirección en 8 de 10 |
-| ☐ 3 | **Lo que no está.** Cinco fotos de [fotos desmontadas](https://github.com/morandeirachema/a6700-namibia/blob/main/mejora/fotos-desmontadas.md): escribe qué dejaron **fuera** del encuadre. | Cinco frases escritas, una por foto |
-| ☐ 4 | **Tapa el sujeto.** Con el dedo sobre el animal, ¿sigue habiendo foto? Pruébalo con 10 tuyas. | Sabes cuántas de tus 10 se caen enteras (y no te engañas) |
-| ☐ 5 | **El fondo primero.** Una sesión entera eligiendo **el fondo** antes que el sujeto: te colocas y esperas a que algo entre. | Vuelves con 3 fotos hechas así, aunque el sujeto sea un gorrión |
-
-## Bloque 2 · ENCUADRAR
-
-| ☐ | Ejercicio | Aprobado cuando… |
-|---|---|---|
-| ☐ 6 | **Veinte del mismo bicho.** Un solo sujeto, 20 fotos **distintas**: cerca, lejos, alto, bajo, detalle, contexto. | Las 20 son reconociblemente distintas entre sí |
-| ☐ 7 | **Ocho encuadres del atlas** con ese mismo animal (1, 2, 3, 6, 8, 9, 12, 13). | Tienes los ocho, identificables sin explicártelos |
-| ☐ 8 | **El aire.** Diez fotos con el sujeto descentrado y **dos tercios de aire** hacia donde mira. | Ninguna tiene el aire detrás. Ninguna |
-| ☐ 9 | **Ni una a tu altura.** Una sesión entera sin disparar de pie: todo agachado o apoyado en el suelo. | 20 fotos y ni una desde la altura de tus ojos |
-| ☐ 10 | **Déjalo pequeño.** Cinco fotos donde el sujeto ocupe **menos de un décimo** del encuadre y la foto siga funcionando. | Las cinco, y resististe el impulso de zoomear |
-| ☐ 11 | **Vertical obligatorio.** De cada escena, la horizontal **y** la vertical. Diez parejas. | Diez parejas completas, y en 3 de ellas prefieres la vertical |
-| ☐ 12 | **Corta por dentro.** Cinco retratos apretados cortando frente y orejas, con el ojo nítido al 100 %. | Ninguna es un "casi apretado": o cortas de verdad o no cuenta |
-
-## Bloque 3 · ESPERAR
-
-| ☐ | Ejercicio | Aprobado cuando… |
-|---|---|---|
-| ☐ 13 | **Media hora sin disparar.** Elige un animal y obsérvalo 30 min sin cámara. Aprende su ciclo. Luego, 5 fotos. | Puedes predecir lo que va a hacer 5 segundos antes de que lo haga |
-| ☐ 14 | **El gesto anunciado.** Caza tres gestos que **veías venir** (un estiramiento, un bostezo, un salto, un despegue). | Tres, y en las tres estabas ya encuadrado |
-| ☐ 15 | **Treinta segundos más.** Cinco veces: cuando pienses "ya está", quédate medio minuto más y dispara. | Al menos una de esas cinco es mejor que la que ya tenías |
-| ☐ 16 | **El ave en vuelo.** Reconocimiento **Ave**, 1/2500, preenfoque a un punto de paso. | 3 de cada 10 salen nítidas y con el pájaro entero dentro |
-
-## Bloque 4 · CONTAR
-
-| ☐ | Ejercicio | Aprobado cuando… |
-|---|---|---|
-| ☐ 17 | **La secuencia de cinco.** De una escena: escenario, retrato, detalle, gesto y salida. | Las cinco, de la misma escena, en la misma sesión |
-| ☐ 18 | **La criba de tres.** De una salida entera, quédate con 3 y escribe una palabra por descarte. | Solo 3, y las causas contadas al final de la semana |
-| ☐ 19 | **La serie de diez.** Diez fotos que se vean como un conjunto: mismo tratamiento, ordenadas, sin dos parecidas seguidas. | Se la enseñas a alguien y no pregunta "¿y esta por qué?" |
-| ☐ 20 | **El ensayo general.** Un día completo en Cabárceno con MR1, la rutina de 10 s y esta lista al lado. | Vuelves con la secuencia de cinco de **tres** escenas distintas |
-
----
-
-## El calendario
-
-Encaja en las once semanas del [plan de entrenamiento](https://github.com/morandeirachema/a6700-namibia/blob/main/plan/plan-de-entrenamiento.md):
-
-| Semanas | Bloque | Con qué se junta |
-|---|---|---|
-| 1–3 | **Ver** (1–5) | Las primeras tardes de deberes del capítulo 1 |
-| 4–7 | **Encuadrar** (6–12) | Las monográficas de [safari a fondo](https://github.com/morandeirachema/a6700-namibia/blob/main/mejora/safari-a-fondo.md) |
-| 8–9 | **Esperar** (13–16) | La tarde del gesto de la [fauna](https://github.com/morandeirachema/a6700-namibia/blob/main/tecnica/fauna-de-namibia.md) |
-| 9–10 | **Contar** (17–20) | El ensayo general de Cabárceno (el 20) y la criba de su vuelta (18 y 19) |
-
-## Los tres que no se recortan
-
-Si vas mal de tiempo, estos tres valen más que los otros diecisiete:
-
-- **Nº 9** (ni una a tu altura) — es el cambio más grande por el menor
-  esfuerzo.
-- **Nº 13** (media hora sin disparar) — es la habilidad que menos se entrena
-  y la que más separa.
-- **Nº 18** (la criba de tres) — sin esto no sabes si estás mejorando.
-
-## Para seguir
-
-- El repertorio: [atlas de encuadres](05-atlas-de-encuadres.md)
-- El análisis: [fotos desmontadas](https://github.com/morandeirachema/a6700-namibia/blob/main/mejora/fotos-desmontadas.md)
-- A quién mirar: [fotógrafos de referencia](https://github.com/morandeirachema/a6700-namibia/blob/main/mejora/fotografos-de-referencia.md)
-- El método de autocrítica y los cinco escalones: [la mirada](06-la-mirada.md)
-
----
-
-*Parte III · Referencia*
-
-# 8. Glosario — todas las palabras raras de este repo, en una línea
+# 11. Glosario — todas las palabras raras de este repo, en una línea
 
 > 🟢 **Iniciación** · Da por sabido: nada · Te desbloquea: leer cualquier guía del repo (y cualquier foro de fotografía) sin perderte.
 
@@ -1518,7 +1810,7 @@ Los términos de retoque y de Luminar (máscara, Feather, HSL, bandas…) están
 
 Aquí no se enseña nada nuevo: se **traduce**. Cada término, una frase, y dónde
 te lo vas a encontrar. El porqué de casi todos está en
-[por qué funciona](04-por-que-funciona.md); los nombres de los menús en
+[por qué funciona](09-por-que-funciona.md); los nombres de los menús en
 español e inglés, en el [capítulo 4](../manejo-a6700/04-configuracion-basica.md).
 
 ## Exposición
@@ -1532,7 +1824,7 @@ español e inglés, en el [capítulo 4](../manejo-a6700/04-configuracion-basica.
 | **Compensación de exposición** | Decirle a la cámara "más claro / más oscuro" que lo que ella cree. En la a6700 funciona **también en M con ISO Auto** (±5 EV) |
 | **Medición** | Cómo mide la cámara la luz: **Multi** (toda la escena; la *matricial* de otras marcas), **puntual** (solo un punto), **puntual vinculada** (ese punto es el de enfoque) |
 | **ETTR** (*expose to the right*) | Exponer lo más a la derecha posible del histograma sin quemar, porque el RAW guarda mucha más información en las altas luces |
-| **Histograma** | El gráfico de cuánta foto hay en cada nivel de brillo: izquierda sombras, derecha luces. La única forma honesta de juzgar la exposición ([chuleta](02-histograma.md)) |
+| **Histograma** | El gráfico de cuánta foto hay en cada nivel de brillo: izquierda sombras, derecha luces. La única forma honesta de juzgar la exposición ([chuleta](03-histograma.md)) |
 | **Quemado** (*clipping*) | Zona tan clara que el sensor saturó: ahí ya no hay información, y no se recupera |
 | **Zebra** | El rayado que la a6700 dibuja **en vivo** sobre lo que va a salir quemado. En este repo, siempre a **100+** |
 | **Rango dinámico** | Cuánta diferencia entre lo más claro y lo más oscuro cabe en una sola foto. Máximo en ISO base |
@@ -1589,7 +1881,7 @@ español e inglés, en el [capítulo 4](../manejo-a6700/04-configuracion-basica.
 | **Dirección de la luz** | De dónde llega respecto al sujeto: frontal (plana), lateral (volumen), rasante (textura), contraluz (siluetas), cenital (sombras bajo los ojos) ([la luz](01-la-luz.md)) |
 | **Sombra abierta** | Un sitio a la sombra que ve mucho cielo: luz suave en un día de sol, ideal para retratos |
 | **Balance de blancos (WB)** | Decirle a la cámara de qué color es la luz para que el blanco salga blanco |
-| **Kelvin (K)** | La escala de la temperatura de la luz: 3200 K naranja, 5500 K día, 7500 K sombra azulada. En este repo, **siempre fijo** — en K o en un preajuste (Luz de día, Nublado, Sombra) —; el automático, como mucho a mediodía ([balance de blancos](03-balance-de-blancos.md)) |
+| **Kelvin (K)** | La escala de la temperatura de la luz: 3200 K naranja, 5500 K día, 7500 K sombra azulada. En este repo, **siempre fijo** — en K o en un preajuste (Luz de día, Nublado, Sombra) —; el automático, como mucho a mediodía ([balance de blancos](04-balance-de-blancos.md)) |
 | **Hora dorada / hora azul** | La hora de luz cálida y rasante tras el amanecer o antes del ocaso; y el rato azulado posterior al ocaso |
 | **Contraluz** | El sol detrás del sujeto: siluetas, bordes encendidos y polvo dorado |
 | **Clave alta** | Foto deliberadamente muy clara, casi sin sombras. La estrategia del mediodía en la calcreta blanca |
@@ -1631,7 +1923,7 @@ español e inglés, en el [capítulo 4](../manejo-a6700/04-configuracion-basica.
 
 ## Referencias
 
-- El porqué de la mitad de estos términos: [por qué funciona](04-por-que-funciona.md)
+- El porqué de la mitad de estos términos: [por qué funciona](09-por-que-funciona.md)
 - Nombres de menú en español e inglés: [capítulo 4](../manejo-a6700/04-configuracion-basica.md)
 - Guía de ayuda oficial de la a6700: <https://helpguide.sony.net/ilc/2320/v1/es/>
 - Escala Bortle y mapa de contaminación lumínica: <https://www.lightpollutionmap.info/>

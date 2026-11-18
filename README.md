@@ -7,7 +7,7 @@
 ![Sony a6700](https://img.shields.io/badge/cámara-Sony%20a6700-1D1D1F)
 ![Luminar for Desktop 1.29.x](https://img.shields.io/badge/retoque-Luminar%201.29.x-B4561C)
 ![Idioma: español](https://img.shields.io/badge/idioma-español-5F6368)
-![44 guías](https://img.shields.io/badge/guías-44-2E7D32)
+![47 capítulos](https://img.shields.io/badge/capítulos-47-2E7D32)
 ![PDF para imprimir](https://img.shields.io/badge/PDF-6%20para%20imprimir-5F6368)
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Elephants_rushing_to_water_%28Etosha%2C_2013%29.jpg/1920px-Elephants_rushing_to_water_%28Etosha%2C_2013%29.jpg" alt="Elefantes corriendo hacia una charca en Etosha" width="100%">
@@ -34,7 +34,7 @@ flowchart LR
 
 | Carpeta | Qué hay | Guías |
 |---|---|---|
-| [`conceptos/`](conceptos/) | Lo que vale para cualquier cámara: la luz, el modelo técnico, el histograma, el balance de blancos, la composición y la mirada | 8 |
+| [`conceptos/`](conceptos/) | Lo que vale para cualquier cámara: la luz, el modelo técnico, el histograma, el balance de blancos, la composición y la mirada | 11 |
 | [`manejo-a6700/`](manejo-a6700/) | La cámara: del móvil a la a6700, menús, diales, configuración, recetas por escenario, equipo y referencia completa de ajustes | 17 |
 | [`retoques/`](retoques/) | La guía de Luminar en 19 capítulos, desde cero, verificada con la documentación oficial de Skylum | 19 |
 | [`pdf/`](pdf/) | Las tres hojas imprimibles y cada sección completa (conceptos, manejo, retoques), maquetadas en A4 | 6 PDF |
@@ -48,16 +48,21 @@ Cada guía de conceptos y de manejo abre con su **nivel**: 🟢 **Iniciación** 
 
 ## 🧠 1 · Conceptos
 
-| Nivel | Guía | Qué resuelve |
-|:---:|---|---|
-| 🟢 | [**1 · La luz**](conceptos/01-la-luz.md) 🆕 | Cuánta hay, dura o suave, de dónde viene y de qué color: leer la luz antes de disparar |
-| 🟢 | [**2 · El histograma por escenario**](conceptos/02-histograma.md) | Juzgar la exposición sin fiarte de la pantalla, dibujado escena a escena |
-| 🟢 | [**Glosario**](conceptos/08-glosario.md) | Todas las palabras raras, en una línea cada una |
-| 🔵 | [**Balance de blancos por escena**](conceptos/03-balance-de-blancos.md) | Valores de partida en Kelvin por luz, y por qué el automático te roba los atardeceres |
-| 🔵 | [**Atlas de encuadres**](conceptos/05-atlas-de-encuadres.md) | El repertorio: 14 encuadres de fauna y 6 de cielo, cada uno con su diagrama, su focal y **el error que lo mata** |
-| 🔵 | [**Cuaderno de composición**](conceptos/07-cuaderno-de-composicion.md) | 20 ejercicios en escalera, con criterio de aprobado, para imprimir y tachar ([PDF](pdf/cuaderno-de-composicion.pdf)) |
-| 🔴 | [**Por qué funciona**](conceptos/04-por-que-funciona.md) | El modelo detrás de las recetas: el paso como moneda, ETTR, profundidad de campo con los números del equipo, difracción, compresión, ruido e invarianza ISO, el AF por dentro |
-| 🔴 | [**La mirada**](conceptos/06-la-mirada.md) | Cómo piensan los que hacen las fotos que te gustan, el comportamiento que se anticipa y **cómo se mide si estás mejorando** |
+De los fundamentos al dominio, en cuatro partes. Vale para cualquier cámara.
+
+| Parte | Nivel | Capítulo | Qué resuelve |
+|---|:---:|---|---|
+| **I · La luz y la exposición** | 🟢 | [**1 · La luz**](conceptos/01-la-luz.md) | Cuánta hay, dura o suave, de dónde viene, de qué color, y por qué la cámara se equivoca (el gris medio) |
+| | 🟢 | [**2 · La exposición**](conceptos/02-exposicion.md) 🆕 | Velocidad, apertura e ISO, el paso, la exposición equivalente y los modos |
+| | 🟢 | [**3 · El histograma por escenario**](conceptos/03-histograma.md) | Juzgar la exposición sin fiarte de la pantalla |
+| | 🔵 | [**4 · Balance de blancos**](conceptos/04-balance-de-blancos.md) | Valores de partida en Kelvin, y por qué el automático te roba los atardeceres |
+| **II · Óptica y composición** | 🟢 | [**5 · Óptica**](conceptos/05-optica.md) 🆕 | Focal, factor de recorte, perspectiva, profundidad de campo e hiperfocal |
+| | 🟢 | [**6 · Composición: lo básico**](conceptos/06-composicion.md) 🆕 | Sujeto, simplificar, tercios, horizonte, líneas, capas, espacio, punto de vista, bordes |
+| | 🔵 | [**7 · Atlas de encuadres**](conceptos/07-atlas-de-encuadres.md) | 14 encuadres de fauna y 6 de cielo, con su diagrama y **el error que lo mata** |
+| | 🔵 | [**8 · Cuaderno de composición**](conceptos/08-cuaderno-de-composicion.md) | 20 ejercicios en escalera ([PDF](pdf/cuaderno-de-composicion.pdf)) |
+| **III · A fondo** | 🔴 | [**9 · Por qué funciona**](conceptos/09-por-que-funciona.md) | El modelo: ETTR, profundidad de campo con los números del equipo, difracción, compresión, invarianza ISO, el AF por dentro |
+| | 🔴 | [**10 · La mirada**](conceptos/10-la-mirada.md) | Cómo piensan los que hacen las fotos que te gustan, y **cómo se mide si estás mejorando** |
+| **IV · Referencia** | 🟢 | [**11 · Glosario**](conceptos/11-glosario.md) | Todas las palabras raras, en una línea cada una |
 
 Índice: [`conceptos/README.md`](conceptos/README.md) · Todo en un archivo: [`guia-completa.md`](conceptos/guia-completa.md) · [PDF](pdf/guia-conceptos.pdf)
 
@@ -134,7 +139,7 @@ flowchart LR
 |---|---|---|
 | 📋 [Chuleta de la a6700](manejo-a6700/16-chuleta.md) | Todas las recetas de cámara en una cara | [chuleta.pdf](pdf/chuleta.pdf) |
 | ✅ [Verificación in situ](manejo-a6700/17-verificacion-in-situ.md) | Comprobaciones por momento del día | [verificacion-in-situ.pdf](pdf/verificacion-in-situ.pdf) |
-| ✏️ [Cuaderno de composición](conceptos/07-cuaderno-de-composicion.md) | 20 ejercicios para tachar | [cuaderno-de-composicion.pdf](pdf/cuaderno-de-composicion.pdf) |
+| ✏️ [Cuaderno de composición](conceptos/08-cuaderno-de-composicion.md) | 20 ejercicios para tachar | [cuaderno-de-composicion.pdf](pdf/cuaderno-de-composicion.pdf) |
 | 🧠 [Conceptos completo](conceptos/guia-completa.md) | Los 7 capítulos de conceptos | [guia-conceptos.pdf](pdf/guia-conceptos.pdf) |
 | 🎛️ [Manejo de la a6700 completo](manejo-a6700/guia-completa.md) | Los 17 capítulos de la cámara | [guia-manejo-a6700.pdf](pdf/guia-manejo-a6700.pdf) |
 | 🎨 [Retoques completo](retoques/guia-completa.md) | Los 19 capítulos de Luminar | [guia-retoques.pdf](pdf/guia-retoques.pdf) |
@@ -145,17 +150,17 @@ flowchart LR
 
 > **¿Empiezas de cero?** Sigue la **[ruta de aprendizaje](RUTA.md)**: ordena todo el repo en cinco etapas, de las palabras básicas al nivel avanzado, con ejercicios y una lista de "lo dominas cuando…" en cada una.
 
-- 🐣 *Nunca he manejado una cámara en serio* → [Del móvil a la a6700](manejo-a6700/01-de-movil-a-la-a6700.md) y el [glosario](conceptos/08-glosario.md).
+- 🐣 *Nunca he manejado una cámara en serio* → [Del móvil a la a6700](manejo-a6700/01-de-movil-a-la-a6700.md) y el [glosario](conceptos/11-glosario.md).
 - 📦 *La cámara acaba de llegar* → [Los menús y el primer día](manejo-a6700/02-menus-y-primer-dia.md), luego [los diales y los botones](manejo-a6700/03-diales-y-botones.md) y la [configuración básica](manejo-a6700/04-configuracion-basica.md).
 - 🔭 *Quiero fotografiar estrellas con el 11 mm* → [Enfocar el 11 mm](manejo-a6700/05-enfocar-el-11mm.md) (esta misma noche) y luego [Estrellas con la tierra dentro](manejo-a6700/07-estrellas-con-tierra.md).
 - 🙂 *Retratos, calle o interiores con poca luz* → [El Viltrox 25 mm](manejo-a6700/11-viltrox-25mm.md).
 - 🔎 *¿Qué es esta línea del menú?* → [El menú completo](manejo-a6700/14-menu-completo.md).
-- 📊 *No sé si la foto está bien expuesta* → [El histograma](conceptos/02-histograma.md).
+- 📊 *No sé si la foto está bien expuesta* → [El histograma](conceptos/03-histograma.md).
 - 🦁 *Voy de safari* → [Safari diurno](manejo-a6700/08-safari-diurno.md) para disparar y [Retoques · Safari](retoques/06-safari.md) para editar.
 - 🌌 *Quiero la Vía Láctea* → [Astrofotografía](manejo-a6700/06-astrofotografia-namibia.md) para disparar y [Retoques · Noche](retoques/08-noche.md) para editar.
 - 🎨 *Ya tengo las fotos, ¿y ahora?* → [El flujo base en Luminar](retoques/03-flujo-base.md).
 - 👁️ *Quiero aclarar los ojos, abrir una sombra u oscurecer el cielo* → [Ajustes locales](retoques/04-ajustes-locales.md), desde cero: qué, cómo y qué significa para la foto.
-- 🧠 *Quiero entender por qué funcionan las recetas* → [Por qué funciona](conceptos/04-por-que-funciona.md) y [La mirada](conceptos/06-la-mirada.md).
+- 🧠 *Quiero entender por qué funcionan las recetas* → [Por qué funciona](conceptos/09-por-que-funciona.md) y [La mirada](conceptos/10-la-mirada.md).
 - ✈️ *Salgo pronto* → imprime la [chuleta](pdf/chuleta.pdf) y la [verificación in situ](pdf/verificacion-in-situ.pdf).
 
 ## 🎯 Sobre la precisión

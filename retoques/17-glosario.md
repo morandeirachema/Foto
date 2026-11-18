@@ -6,7 +6,7 @@
 
 # 17. Glosario
 
-Los términos de Luminar y del retoque. Los de cámara, luz y exposición (ISO, apertura, ETTR, hiperfocal…) están en el [glosario de conceptos](../conceptos/08-glosario.md).
+Los términos de Luminar y del retoque. Los de cámara, luz y exposición (ISO, apertura, ETTR, hiperfocal…) están en el [glosario de conceptos](../conceptos/11-glosario.md).
 
 | Término | Significado |
 |---|---|

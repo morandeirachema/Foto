@@ -52,7 +52,7 @@ Todos estos ajustes, en contexto: [el menú completo](14-menu-completo.md) y [di
 2. Apunta, pulsa **AF-ON** con el pulgar hasta que el recuadro se ponga verde, suelta y dispara.
 3. ¿El sujeto no se mueve y vas a hacer varias fotos? Enfoca una vez y **no vuelvas a pulsar AF-ON**: con `AF c/obturador` desactivado, el foco se queda donde está.
 
-**Paisaje con algo cerca (hiperfocal).** Con un objetivo tan angular, una sola distancia de enfoque deja nítido casi todo. Cifras del 11 mm en la a6700 ([por qué funciona](../conceptos/04-por-que-funciona.md)):
+**Paisaje con algo cerca (hiperfocal).** Con un objetivo tan angular, una sola distancia de enfoque deja nítido casi todo. Cifras del 11 mm en la a6700 ([por qué funciona](../conceptos/09-por-que-funciona.md)):
 
 | Apertura | Enfoca a… | Nítido desde… |
 |---|---|---|

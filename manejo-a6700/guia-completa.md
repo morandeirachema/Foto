@@ -237,7 +237,7 @@ la gráfica, no el ojo:
    en vivo no acumula los segundos y engaña).
 
 Cómo debe verse el histograma en cada escenario del viaje, dibujado:
-[chuleta visual del histograma](../conceptos/02-histograma.md).
+[chuleta visual del histograma](../conceptos/03-histograma.md).
 
 ## RAW (y cómo pasar fotos al móvil en el viaje)
 
@@ -564,7 +564,7 @@ MENU → Toma → [Visualizac. toma] → [Tipo lín. cuadríc.]
 Con la **regla de tres** dibujada encima, dos cosas dejan de fallar:
 
 - **El aire de la mirada**: ves de un vistazo si el animal está en un tercio
-  o centrado como una foto de carnet ([atlas de encuadres](../conceptos/05-atlas-de-encuadres.md)).
+  o centrado como una foto de carnet ([atlas de encuadres](../conceptos/07-atlas-de-encuadres.md)).
 - **El horizonte torcido**: en el pan de Etosha, en las dunas y en la costa,
   medio grado canta. La cuadrícula lo caza antes de disparar; el **Nivel**
   del DISP lo remata.
@@ -605,7 +605,7 @@ Aquí está el gesto que este repo te pide una y otra vez ("verifica al
 6. **DISP** cambia la información sobre la foto hasta enseñarte el
    **histograma** — la única forma honesta de saber si la exposición está
    bien, porque la pantalla en la oscuridad siempre parece más clara de lo
-   que la foto es ([el histograma por escenario](../conceptos/02-histograma.md)).
+   que la foto es ([el histograma por escenario](../conceptos/03-histograma.md)).
 
 Si quieres que empiece más ampliada, `MENU → Reproducc. → [Aumento]`
 tiene el aumento y la posición iniciales (`Aum. aumento inic` y
@@ -627,7 +627,7 @@ pulsación va subiendo estrellas mientras revisas
 reproducción).
 
 **Para qué sirve de verdad**: el repaso de cada noche te pide elegir **las
-tres mejores del día** ([la mirada](../conceptos/06-la-mirada.md)). Si además les
+tres mejores del día** ([la mirada](../conceptos/10-la-mirada.md)). Si además les
 pones tres estrellas ahí mismo, las localizas enseguida al revisar en la
 cámara. Que el programa de edición lea esa valoración al importar no está
 garantizado (la documentación de Luminar no lo menciona): compruébalo con
@@ -1244,7 +1244,7 @@ Todos estos ajustes, en contexto: [el menú completo](14-menu-completo.md) y [di
 2. Apunta, pulsa **AF-ON** con el pulgar hasta que el recuadro se ponga verde, suelta y dispara.
 3. ¿El sujeto no se mueve y vas a hacer varias fotos? Enfoca una vez y **no vuelvas a pulsar AF-ON**: con `AF c/obturador` desactivado, el foco se queda donde está.
 
-**Paisaje con algo cerca (hiperfocal).** Con un objetivo tan angular, una sola distancia de enfoque deja nítido casi todo. Cifras del 11 mm en la a6700 ([por qué funciona](../conceptos/04-por-que-funciona.md)):
+**Paisaje con algo cerca (hiperfocal).** Con un objetivo tan angular, una sola distancia de enfoque deja nítido casi todo. Cifras del 11 mm en la a6700 ([por qué funciona](../conceptos/09-por-que-funciona.md)):
 
 | Apertura | Enfoca a… | Nítido desde… |
 |---|---|---|
@@ -1323,7 +1323,7 @@ visible gran parte de la noche.
 > **Nubes de Magallanes**, Saturno y las Táuridas, y la Cruz del Sur no está
 > al anochecer. Las recetas y el enfoque de este capítulo valen igual; el
 > **plan de tus noches concretas** está en
-> [la mirada](../conceptos/06-la-mirada.md), el fino en
+> [la mirada](../conceptos/10-la-mirada.md), el fino en
 > [estrellas con la tierra dentro](07-estrellas-con-tierra.md), y el catálogo completo de lo
 > fotografiable en tu ventana, objetivo a objetivo, en
 > [el cielo del viaje](https://github.com/morandeirachema/a6700-namibia/blob/main/plan/cielo-del-viaje.md).
@@ -1706,7 +1706,7 @@ atrás o asume el tamaño.
   mucha foto horizontal ([el cielo del viaje](https://github.com/morandeirachema/a6700-namibia/blob/main/plan/cielo-del-viaje.md)).
 - El truco de composición que usan los maestros: la franja de estrellas
   como **diagonal que entra por una esquina y no corta tu objeto**
-  ([la mirada](../conceptos/06-la-mirada.md)).
+  ([la mirada](../conceptos/10-la-mirada.md)).
 
 ### 4 · Expón igual — y deja la silueta negra
 
@@ -2692,7 +2692,7 @@ Help Guide oficial de la a6700 y la práctica de especialistas de safari y
 aves.
 
 **El resto del nivel avanzado**: el porqué de todo esto está en
-[por qué funciona](../conceptos/04-por-que-funciona.md); lo creativo, en
+[por qué funciona](../conceptos/09-por-que-funciona.md); lo creativo, en
 [safari a fondo](https://github.com/morandeirachema/a6700-namibia/blob/main/mejora/safari-a-fondo.md); el astro avanzado se mudó a
 [estrellas con la tierra dentro](07-estrellas-con-tierra.md) y el paisaje de
 los maestros, a [paisaje a fondo](https://github.com/morandeirachema/a6700-namibia/blob/main/mejora/paisaje-a-fondo.md).
@@ -2779,7 +2779,7 @@ El metaconsejo: no memorices combinaciones — mete estos tres ajustes en
 
 - **Punto dulce**: es un objetivo de la serie G y a 350 mm es usable a plena
   apertura (f/6.3), aunque ahí está su punto más blando: si el animal lo
-  permite, encuadra a ~300 mm y recorta ([por qué funciona](../conceptos/04-por-que-funciona.md)).
+  permite, encuadra a ~300 mm y recorta ([por qué funciona](../conceptos/09-por-que-funciona.md)).
   Con el sol alto y el ISO sobrado, cerrar a **f/7.1–f/8** afina un poco los
   bordes. Regla: nunca compres f/8 pagándolo con
   obturación insuficiente o ISO ruidoso.
@@ -3419,7 +3419,7 @@ en las charcas el flash está prohibido de todas formas.
 
 | Ajuste | Qué hace | Tu valor |
 |---|---|---|
-| `Balance blanco` | Automático, preajustes, `Tem.col./filtro` (en K) y personalizados | **Fauna**: `Luz diurna` o K fijo. **Charca**: K ≈ 3500. **Astro**: K 3900. En `Tem.col./filtro` el dial trasero cambia los K ([balance de blancos](../conceptos/03-balance-de-blancos.md)) |
+| `Balance blanco` | Automático, preajustes, `Tem.col./filtro` (en K) y personalizados | **Fauna**: `Luz diurna` o K fijo. **Charca**: K ≈ 3500. **Astro**: K 3900. En `Tem.col./filtro` el dial trasero cambia los K ([balance de blancos](../conceptos/04-balance-de-blancos.md)) |
 | `Ajuste prior AWB` | Qué prioriza el automático con luz cálida | No lo toques |
 | `Bloq.AWB dispar.` | Bloquea el automático al disparar | No lo toques |
 
@@ -3763,7 +3763,7 @@ que te señalen al azar.
 
 Estos nombres no salen en la lista principal de Sony y no se pudo abrir su ficha durante la auditoría. Lo más probable es que estén bien, pero **no están confirmados**:
 
-- [ ] `Tem.col./filtro`: valor de `Balance blanco` para fijar los grados Kelvin ([balance de blancos](../conceptos/03-balance-de-blancos.md), [diales y botones](03-diales-y-botones.md))
+- [ ] `Tem.col./filtro`: valor de `Balance blanco` para fijar los grados Kelvin ([balance de blancos](../conceptos/04-balance-de-blancos.md), [diales y botones](03-diales-y-botones.md))
 - [ ] `Cuadr. regl. terc.`: tipo de cuadrícula
 - [ ] `C. sin pérd.`: RAW comprimido sin pérdida
 - [ ] `Compens. variación`

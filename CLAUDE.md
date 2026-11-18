@@ -8,7 +8,7 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 | Folder | Section | Origin |
 |---|---|---|
-| `conceptos/` | Concepts: technical model, histogram, white balance, composition, "la mirada" | Copied from `a6700-namibia` (Nov 2026) |
+| `conceptos/` | Concepts, foundations to mastery, in 11 chapters: I light and exposure (01 light, 02 exposure, 03 histogram, 04 white balance) · II optics and composition (05 optics, 06 composition basics, 07 atlas, 08 notebook) · III in depth (09 por qué funciona, 10 la mirada) · IV glossary (11). Native: 01, 02, 05, 06 | Rest copied from `a6700-namibia` (Nov 2026) |
 | `manejo-a6700/` | Handling the Sony a6700 in 17 chapters: getting started, scenario recipes, gear and lenses, settings and menu reference, field sheets. Native additions: `05-enfocar-el-11mm.md`, `11-viltrox-25mm.md`, `15-verificacion-de-menus.md` | Mostly copied from `a6700-namibia` (Nov 2026) |
 | `retoques/` | Editing **in Luminar only** (18 chapters + intro), verified against Skylum's docs | Native to this repo |
 | `pdf/` | Generated PDFs, their CSS and generator scripts | — |
@@ -25,7 +25,7 @@ The owner's explicit scope decisions:
 
 `RUTA.md` (root) is the learning path from zero to advanced, the owner's stated goal (18 Nov 2026). It orders the chapters of all three sections into stages 0–4, each with practice and a "Lo dominas cuando…" self-check, plus a concept map (concept → 🟢/🔵/🔴 chapter). Update it whenever chapters are added, renamed or renumbered; `tools/comprobar.py` validates its links and anchors.
 
-`AUTOEVALUACION.md` (root) has 8 questions per RUTA stage (1–3), with collapsible answers that each cite the chapter where the point is taught. Every answer must match the chapter it cites: if a chapter's figures change, update the answer too.
+`AUTOEVALUACION.md` (root) has 8–10 questions per RUTA stage (1–3), pass mark 85 %, with collapsible answers that each cite the chapter where the point is taught. Every answer must match the chapter it cites: if a chapter's figures change, update the answer too.
 
 `PENDIENTES.md` (root) is the owner's checklist of things only they can verify. When the owner reports a result, update the affected guide and tick the item; when you add an unverifiable claim, add it there.
 
@@ -62,7 +62,7 @@ Both scripts use pandoc and headless Google Chrome. Regenerate after editing a s
 
 Editorial contract:
 - **Nivel visible**: toda guía abre con `> 🟢/🔵/🔴 **Nivel** · Da por sabido: … · Te desbloquea: …`. Mantenerlo al crear o mover contenido.
-- **Teoría**: el nivel 🔴 avanzado **sí** explica el modelo (`conceptos/04-por-que-funciona.md`), pero con una regla dura: cada concepto termina en una decisión concreta de campo, con los números del equipo real. Nunca fórmulas sueltas.
+- **Teoría**: el nivel 🔴 avanzado **sí** explica el modelo (`conceptos/09-por-que-funciona.md`), pero con una regla dura: cada concepto termina en una decisión concreta de campo, con los números del equipo real. Nunca fórmulas sueltas.
 - **Audiencia**: novato que viene sobre todo del móvil — **a todos los niveles**. Nada de teoría: recetas con valores concretos, pasos numerados y tablas de "si la foto sale mal, toca esto". Toda guía (también las avanzadas) debe ser **autocontenida desde lo básico**: la base imprescindible va resumida dentro, y los enlaces a otros capítulos son para ampliar, nunca requisito para empezar.
 - **Equipo**: siempre opciones **budget**, con precio orientativo y mención de segunda mano (mpb.com) cuando compense.
 - **Enlaces externos**: toda referencia (apps, software, localizaciones, fabricantes) lleva su URL. No inventar URLs profundas; ante la duda, enlazar la página raíz del sitio.

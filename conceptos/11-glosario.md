@@ -1,10 +1,10 @@
 <!-- nav -->
-[← Anterior](07-cuaderno-de-composicion.md) · [Índice](README.md)
+[← Anterior](10-la-mirada.md) · [Índice](README.md)
 <!-- /nav -->
 
-*Parte III · Referencia*
+*Parte IV · Referencia*
 
-# 8. Glosario — todas las palabras raras de este repo, en una línea
+# 11. Glosario — todas las palabras raras de este repo, en una línea
 
 > 🟢 **Iniciación** · Da por sabido: nada · Te desbloquea: leer cualquier guía del repo (y cualquier foro de fotografía) sin perderte.
 
@@ -12,7 +12,7 @@ Los términos de retoque y de Luminar (máscara, Feather, HSL, bandas…) están
 
 Aquí no se enseña nada nuevo: se **traduce**. Cada término, una frase, y dónde
 te lo vas a encontrar. El porqué de casi todos está en
-[por qué funciona](04-por-que-funciona.md); los nombres de los menús en
+[por qué funciona](09-por-que-funciona.md); los nombres de los menús en
 español e inglés, en el [capítulo 4](../manejo-a6700/04-configuracion-basica.md).
 
 ## Exposición
@@ -26,7 +26,7 @@ español e inglés, en el [capítulo 4](../manejo-a6700/04-configuracion-basica.
 | **Compensación de exposición** | Decirle a la cámara "más claro / más oscuro" que lo que ella cree. En la a6700 funciona **también en M con ISO Auto** (±5 EV) |
 | **Medición** | Cómo mide la cámara la luz: **Multi** (toda la escena; la *matricial* de otras marcas), **puntual** (solo un punto), **puntual vinculada** (ese punto es el de enfoque) |
 | **ETTR** (*expose to the right*) | Exponer lo más a la derecha posible del histograma sin quemar, porque el RAW guarda mucha más información en las altas luces |
-| **Histograma** | El gráfico de cuánta foto hay en cada nivel de brillo: izquierda sombras, derecha luces. La única forma honesta de juzgar la exposición ([chuleta](02-histograma.md)) |
+| **Histograma** | El gráfico de cuánta foto hay en cada nivel de brillo: izquierda sombras, derecha luces. La única forma honesta de juzgar la exposición ([chuleta](03-histograma.md)) |
 | **Quemado** (*clipping*) | Zona tan clara que el sensor saturó: ahí ya no hay información, y no se recupera |
 | **Zebra** | El rayado que la a6700 dibuja **en vivo** sobre lo que va a salir quemado. En este repo, siempre a **100+** |
 | **Rango dinámico** | Cuánta diferencia entre lo más claro y lo más oscuro cabe en una sola foto. Máximo en ISO base |
@@ -83,7 +83,7 @@ español e inglés, en el [capítulo 4](../manejo-a6700/04-configuracion-basica.
 | **Dirección de la luz** | De dónde llega respecto al sujeto: frontal (plana), lateral (volumen), rasante (textura), contraluz (siluetas), cenital (sombras bajo los ojos) ([la luz](01-la-luz.md)) |
 | **Sombra abierta** | Un sitio a la sombra que ve mucho cielo: luz suave en un día de sol, ideal para retratos |
 | **Balance de blancos (WB)** | Decirle a la cámara de qué color es la luz para que el blanco salga blanco |
-| **Kelvin (K)** | La escala de la temperatura de la luz: 3200 K naranja, 5500 K día, 7500 K sombra azulada. En este repo, **siempre fijo** — en K o en un preajuste (Luz de día, Nublado, Sombra) —; el automático, como mucho a mediodía ([balance de blancos](03-balance-de-blancos.md)) |
+| **Kelvin (K)** | La escala de la temperatura de la luz: 3200 K naranja, 5500 K día, 7500 K sombra azulada. En este repo, **siempre fijo** — en K o en un preajuste (Luz de día, Nublado, Sombra) —; el automático, como mucho a mediodía ([balance de blancos](04-balance-de-blancos.md)) |
 | **Hora dorada / hora azul** | La hora de luz cálida y rasante tras el amanecer o antes del ocaso; y el rato azulado posterior al ocaso |
 | **Contraluz** | El sol detrás del sujeto: siluetas, bordes encendidos y polvo dorado |
 | **Clave alta** | Foto deliberadamente muy clara, casi sin sombras. La estrategia del mediodía en la calcreta blanca |
@@ -125,11 +125,11 @@ español e inglés, en el [capítulo 4](../manejo-a6700/04-configuracion-basica.
 
 ## Referencias
 
-- El porqué de la mitad de estos términos: [por qué funciona](04-por-que-funciona.md)
+- El porqué de la mitad de estos términos: [por qué funciona](09-por-que-funciona.md)
 - Nombres de menú en español e inglés: [capítulo 4](../manejo-a6700/04-configuracion-basica.md)
 - Guía de ayuda oficial de la a6700: <https://helpguide.sony.net/ilc/2320/v1/es/>
 - Escala Bortle y mapa de contaminación lumínica: <https://www.lightpollutionmap.info/>
 
 <!-- nav -->
-[← Anterior](07-cuaderno-de-composicion.md) · [Índice](README.md)
+[← Anterior](10-la-mirada.md) · [Índice](README.md)
 <!-- /nav -->

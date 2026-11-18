@@ -25,7 +25,7 @@ fuente() {
   case "$1" in
     chuleta)                 echo "manejo-a6700/16-chuleta.md" ;;
     verificacion-in-situ)    echo "manejo-a6700/17-verificacion-in-situ.md" ;;
-    cuaderno-de-composicion) echo "conceptos/07-cuaderno-de-composicion.md" ;;
+    cuaderno-de-composicion) echo "conceptos/08-cuaderno-de-composicion.md" ;;
     *) echo "Hoja desconocida: $1 (son: $NOMBRES)" >&2; exit 1 ;;
   esac
 }

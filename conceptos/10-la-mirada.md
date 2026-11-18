@@ -1,10 +1,10 @@
 <!-- nav -->
-[← Anterior](05-atlas-de-encuadres.md) · [Índice](README.md) · [Siguiente →](07-cuaderno-de-composicion.md)
+[← Anterior](09-por-que-funciona.md) · [Índice](README.md) · [Siguiente →](11-glosario.md)
 <!-- /nav -->
 
-*Parte II · La composición y la mirada*
+*Parte III · A fondo*
 
-# 6. La mirada — cómo piensan los que hacen las fotos que te gustan
+# 10. La mirada — cómo piensan los que hacen las fotos que te gustan
 
 > 🔴 **Avanzado** · Da por sabido: los capítulos 1 a 10 · Te desbloquea: decidir tú dónde ponerte y qué esperar, en vez de reaccionar a lo que aparezca.
 
@@ -147,7 +147,7 @@ Sin esto, "practicar" es hacer más fotos iguales. El método es de una noche:
 | Escalón | Lo tienes cuando… | Dónde se entrena |
 |---|---|---|
 | **1 · Nítida** | El ojo del animal aguanta el 100 % en la mayoría de tus ráfagas | [Capítulo 8](../manejo-a6700/08-safari-diurno.md) y los deberes del [capítulo 1](../manejo-a6700/01-de-movil-a-la-a6700.md) |
-| **2 · Bien expuesta** | Miras el histograma antes de que te lo pida nadie y compensas sin pensar | [El histograma](02-histograma.md) |
+| **2 · Bien expuesta** | Miras el histograma antes de que te lo pida nadie y compensas sin pensar | [El histograma](03-histograma.md) |
 | **3 · Limpia** | Antes de disparar ya has mirado el fondo y has movido el coche medio metro | [Safari a fondo §5](https://github.com/morandeirachema/a6700-namibia/blob/main/mejora/safari-a-fondo.md) |
 | **4 · Con luz** | Dejas de disparar a mediodía sin remordimiento y madrugas sin discutirlo | [Mejores horas](https://github.com/morandeirachema/a6700-namibia/blob/main/plan/mejores-horas.md) |
 | **5 · Con momento** | Esperas el gesto que sabes que va a llegar, con el encuadre ya montado | [La fauna, animal por animal](https://github.com/morandeirachema/a6700-namibia/blob/main/tecnica/fauna-de-namibia.md) |
@@ -179,5 +179,5 @@ está calendarizado en el [plan de entrenamiento](https://github.com/morandeirac
 - Stellarium, para ensayar tu cielo desde casa: <https://stellarium.org/>
 
 <!-- nav -->
-[← Anterior](05-atlas-de-encuadres.md) · [Índice](README.md) · [Siguiente →](07-cuaderno-de-composicion.md)
+[← Anterior](09-por-que-funciona.md) · [Índice](README.md) · [Siguiente →](11-glosario.md)
 <!-- /nav -->
