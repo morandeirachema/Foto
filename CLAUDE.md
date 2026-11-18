@@ -25,6 +25,8 @@ The owner's explicit scope decisions:
 
 `RUTA.md` (root) is the learning path from zero to advanced, the owner's stated goal (18 Nov 2026). It orders the chapters of all three sections into stages 0–4, each with practice and a "Lo dominas cuando…" self-check, plus a concept map (concept → 🟢/🔵/🔴 chapter). Update it whenever chapters are added, renamed or renumbered; `tools/comprobar.py` validates its links and anchors.
 
+`AUTOEVALUACION.md` (root) has 8 questions per RUTA stage (1–3), with collapsible answers that each cite the chapter where the point is taught. Every answer must match the chapter it cites: if a chapter's figures change, update the answer too.
+
 `PENDIENTES.md` (root) is the owner's checklist of things only they can verify. When the owner reports a result, update the affected guide and tick the item; when you add an unverifiable claim, add it there.
 
 ## Structure (the same in all three sections)

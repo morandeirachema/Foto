@@ -1505,6 +1505,7 @@ español e inglés, en el [capítulo 4](../manejo-a6700/04-configuracion-basica.
 
 | Término | Qué es |
 |---|---|
+| **Velocidad de obturación** | Cuánto tiempo entra la luz en el sensor (1/1000 s, 1/60 s, 20 s…). Rápida congela el movimiento; lenta deja entrar más luz pero mueve la foto ([capítulo 1](../manejo-a6700/01-de-movil-a-la-a6700.md)) |
 | **Paso** (*stop*) | El doble o la mitad de luz. La unidad de todo el sistema: un paso más de obturación, de apertura o de ISO son lo mismo en luz |
 | **EV** | *Exposure Value*. En la práctica, un sinónimo de "paso": "+1 EV" es "un paso más claro" |
 | **Exposición equivalente** | Combinaciones distintas de los tres números que dejan entrar la misma luz — y dan fotos distintas |
@@ -1564,6 +1565,9 @@ español e inglés, en el [capítulo 4](../manejo-a6700/04-configuracion-basica.
 
 | Término | Qué es |
 |---|---|
+| **Luz dura / luz suave** | Dura: fuente pequeña o lejana (el sol despejado), sombras de borde nítido y mucho contraste. Suave: fuente grande (nublado, ventana, sombra abierta), sombras graduales ([la luz](01-la-luz.md)) |
+| **Dirección de la luz** | De dónde llega respecto al sujeto: frontal (plana), lateral (volumen), rasante (textura), contraluz (siluetas), cenital (sombras bajo los ojos) ([la luz](01-la-luz.md)) |
+| **Sombra abierta** | Un sitio a la sombra que ve mucho cielo: luz suave en un día de sol, ideal para retratos |
 | **Balance de blancos (WB)** | Decirle a la cámara de qué color es la luz para que el blanco salga blanco |
 | **Kelvin (K)** | La escala de la temperatura de la luz: 3200 K naranja, 5500 K día, 7500 K sombra azulada. En este repo, **siempre fijo** — en K o en un preajuste (Luz de día, Nublado, Sombra) —; el automático, como mucho a mediodía ([balance de blancos](03-balance-de-blancos.md)) |
 | **Hora dorada / hora azul** | La hora de luz cálida y rasante tras el amanecer o antes del ocaso; y el rato azulado posterior al ocaso |

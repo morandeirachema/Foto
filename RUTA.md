@@ -18,6 +18,8 @@ flowchart LR
     E3 --> E4["4 · Seguir mejorando"]
 ```
 
+**Cómo se comprueba:** al final de cada etapa, la [autoevaluación](AUTOEVALUACION.md) tiene 8 preguntas con su respuesta y el capítulo donde se explica. Pasa de etapa cuando aciertes al menos 7.
+
 **Cómo se usa:** cada etapa tiene tres columnas que conviene recorrer juntas: **entender** (conceptos), **hacer con la cámara** (manejo) y **hacer al retocar** (retoques). Los ejercicios son cortos, de una tarde o menos, y se hacen en casa o en la calle.
 
 ---
@@ -59,6 +61,8 @@ flowchart LR
 - [ ] Enfocas una estrella hasta que sea un punto, y lo repites sin mirar la guía.
 - [ ] Sabes qué formato graba tu cámara y lo has comprobado (un archivo `.ARW`).
 
+➡️ **Compruébalo:** [autoevaluación de la etapa 1](AUTOEVALUACION.md#etapa-1--iniciación).
+
 ---
 
 ## Etapa 2 · Básico: el color, las escenas y el retoque completo
@@ -87,9 +91,11 @@ flowchart LR
 **Lo dominas cuando…**
 - [ ] Pones el balance de blancos en Kelvin según la luz, y sabes cuándo **no** neutralizarla.
 - [ ] Configuras la cámara para safari o para estrellas en menos de un minuto (memorias MR1 y MR2).
-- [ ] Haces el flujo base completo en Luminar sin mirar la guía, en unos 5 minutos por foto.
+- [ ] Haces el flujo base completo en Luminar sin mirar la guía.
 - [ ] Aclaras los ojos de un animal y oscureces un fondo que distrae sin que se note el retoque.
 - [ ] Ante una escena, eliges entre al menos tres encuadres del atlas y sabes por qué.
+
+➡️ **Compruébalo:** [autoevaluación de la etapa 2](AUTOEVALUACION.md#etapa-2--básico).
 
 ---
 
@@ -119,6 +125,8 @@ flowchart LR
 - [ ] Ves la diferencia entre "acercarse con el tele" y "alejarse con el tele" en una foto de un animal en su paisaje.
 - [ ] Usas curvas y Dodge & Burn para dirigir la mirada, no solo para corregir.
 - [ ] Sabes decir por qué una foto tuya es correcta pero no buena, y qué cambiarías la próxima vez.
+
+➡️ **Compruébalo:** [autoevaluación de la etapa 3](AUTOEVALUACION.md#etapa-3--avanzado).
 
 ---
 
