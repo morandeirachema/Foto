@@ -1,16 +1,16 @@
 <!-- nav -->
-[← Anterior](03-flujo-base.md) · [Índice](README.md) · [Siguiente →](05-herramientas-avanzadas.md)
+[← Anterior](04-flujo-base.md) · [Índice](README.md) · [Siguiente →](06-herramientas-avanzadas.md)
 <!-- /nav -->
 
 *Parte II · El método*
 
-# 4. Ajustes locales: aclarar u oscurecer solo una parte
+# 5. Ajustes locales: aclarar u oscurecer solo una parte
 
 Hasta ahora, cada ajuste cambiaba **toda** la foto. Este capítulo enseña a cambiar **solo una zona**: aclarar los ojos de un animal, abrir una sombra bajo su cabeza u oscurecer un cielo que distrae. Está pensado para quien empieza de cero. Cada caso explica **qué** quieres conseguir, **cómo** se hace en Luminar clic a clic y **qué significa técnicamente** para la foto.
 
-> **Antes de empezar:** haz primero el flujo base completo ([sección 3](03-flujo-base.md)). Los ajustes locales son el **último retoque** sobre una foto que ya está bien en conjunto. Si la foto entera está oscura, se arregla con **Develop**, no zona a zona.
+> **Antes de empezar:** haz primero el flujo base completo ([sección 4](04-flujo-base.md)). Los ajustes locales son el **último retoque** sobre una foto que ya está bien en conjunto. Si la foto entera está oscura, se arregla con **Develop**, no zona a zona.
 
-## 4.1. Qué es un ajuste local (y qué le pasa a la foto)
+## 5.1. Qué es un ajuste local (y qué le pasa a la foto)
 
 **La idea.** Una foto son millones de píxeles, y cada uno tiene un brillo y un color. Un ajuste global cambia todos los píxeles por igual. Un ajuste local cambia solo los píxeles de una zona y deja el resto como estaba.
 
@@ -28,7 +28,7 @@ Luminar enseña la máscara como una **capa roja translúcida** sobre la foto: r
 
 **La regla de oro:** cambios **pequeños**. Si al comparar con el original (**`\`**) el retoque "salta a la vista", es demasiado.
 
-## 4.2. Cómo funcionan las máscaras en Luminar
+## 5.2. Cómo funcionan las máscaras en Luminar
 
 En Luminar no hay un panel de ajustes locales aparte: **cada herramienta tiene su propia pestaña Masking**. El camino es siempre el mismo:
 
@@ -38,9 +38,9 @@ En Luminar no hay un panel de ajustes locales aparte: **cada herramienta tiene s
 4. El ajuste de esa herramienta queda **solo** en la zona marcada.
 
 **Una máscara por herramienta.** Esto es lo importante para empezar: si usas **Develop** para corregir la foto entera y luego le pones una máscara, la corrección pasa a afectar **solo** a la zona de la máscara. Por eso el método de esta guía es:
-- **Develop, sin máscara**, para la luz y el color de toda la foto ([sección 3](03-flujo-base.md)).
-- **Dodge & Burn** para aclarar u oscurecer zonas **pintando** (4.4 a 4.6). No necesita máscara: el pincel es la máscara.
-- **Otras herramientas, cada una con su máscara**, para lo demás: textura del sujeto, color del fondo, etc. (4.7).
+- **Develop, sin máscara**, para la luz y el color de toda la foto ([sección 4](04-flujo-base.md)).
+- **Dodge & Burn** para aclarar u oscurecer zonas **pintando** (5.4 a 5.6). No necesita máscara: el pincel es la máscara.
+- **Otras herramientas, cada una con su máscara**, para lo demás: textura del sujeto, color del fondo, etc. (5.7).
 
 > **¿Se puede añadir Develop dos veces, cada una con su máscara?** La documentación de Skylum dice, al hablar de capas, que las herramientas se pueden aplicar "varias veces y con máscaras distintas", pero **no explica cómo** hacerlo con la misma herramienta en una foto. Compruébalo en tu versión ([PENDIENTES](../PENDIENTES.md)). Si se puede, es la forma más precisa de aclarar u oscurecer una zona seleccionada con Mask AI u Object Select AI. Si no, usa los métodos de este capítulo.
 
@@ -58,20 +58,20 @@ En Luminar no hay un panel de ajustes locales aparte: **cada herramienta tiene s
 
 **Acciones de la máscara:** **Feather** (suaviza el borde) · **Shift Edge** (amplía o encoge el borde) · **Invert** (**`⌘I`**, invierte: el sujeto pasa a ser "todo menos el sujeto") · **Copy** y **Paste** (copian la máscara a otra herramienta) · **Fill** y **Clear** (cubrir toda la foto o borrar la máscara) · **Show** (**`/`**).
 
-## 4.3. Qué herramienta para cada cosa
+## 5.3. Qué herramienta para cada cosa
 
 | Quieres… | Herramienta | Cómo |
 |---|---|---|
-| Aclarar los ojos | **Dodge & Burn → Lighten** | Pincel pequeño sobre el iris (4.4) |
-| Abrir una sombra (bajo la cabeza, una ladera) | **Dodge & Burn → Lighten** | Pincel grande y muy suave (4.5) |
-| Oscurecer un cielo, un borde o un fondo que distrae | **Dodge & Burn → Darken** | Pincel grande y suave (4.6) |
-| Más textura solo en el animal | **Structure AI** + máscara **Object Select AI** | 4.7 |
-| Menos color en el fondo | **Color** (Saturation) + la misma máscara, **invertida** | 4.7 |
-| Que el sujeto destaque con luz | **Vignette** con **Choose Subject** | 4.7 |
-| Primer plano más claro y fondo más frío, o al revés | **Light Depth** (Brightness Near/Far, Warmth Near/Far) | [sección 5.5](05-herramientas-avanzadas.md) |
-| Más contraste solo en el cielo o solo en el suelo | **Supercontrast** + **Mask AI** o **Linear Gradient** | [sección 5.2](05-herramientas-avanzadas.md) |
+| Aclarar los ojos | **Dodge & Burn → Lighten** | Pincel pequeño sobre el iris (5.4) |
+| Abrir una sombra (bajo la cabeza, una ladera) | **Dodge & Burn → Lighten** | Pincel grande y muy suave (5.5) |
+| Oscurecer un cielo, un borde o un fondo que distrae | **Dodge & Burn → Darken** | Pincel grande y suave (5.6) |
+| Más textura solo en el animal | **Structure AI** + máscara **Object Select AI** | 5.7 |
+| Menos color en el fondo | **Color** (Saturation) + la misma máscara, **invertida** | 5.7 |
+| Que el sujeto destaque con luz | **Vignette** con **Choose Subject** | 5.7 |
+| Primer plano más claro y fondo más frío, o al revés | **Light Depth** (Brightness Near/Far, Warmth Near/Far) | [sección 6.5](06-herramientas-avanzadas.md) |
+| Más contraste solo en el cielo o solo en el suelo | **Supercontrast** + **Mask AI** o **Linear Gradient** | [sección 6.2](06-herramientas-avanzadas.md) |
 
-## 4.4. Paso a paso: aclarar los ojos de un animal
+## 5.4. Paso a paso: aclarar los ojos de un animal
 
 **Qué:** que el ojo tenga un poco más de luz que la cara que lo rodea, para que la mirada del espectador vaya ahí.
 
@@ -90,10 +90,10 @@ En Luminar no hay un panel de ajustes locales aparte: **cada herramienta tiene s
 **Qué significa técnicamente:** subes el brillo de unas decenas de píxeles. El ojo gana **contraste local** con su entorno, y por eso atrae la mirada. Cada pasada **suma**: tres pasadas suaves equivalen a una más fuerte, pero con más control.
 
 **Cuidado:**
-- **No pintes un brillo** donde no lo hay: en fotografía de naturaleza se considera manipulación ([sección 13](13-etica.md)).
+- **No pintes un brillo** donde no lo hay: en fotografía de naturaleza se considera manipulación ([sección 14](14-etica.md)).
 - En un ojo muy oscuro, aclarar mucho saca **ruido** (granito de colores). Si aparece, para.
 
-## 4.5. Paso a paso: abrir una zona de sombra
+## 5.5. Paso a paso: abrir una zona de sombra
 
 **Qué:** recuperar algo de detalle en una sombra concreta (la tripa y el cuello de un animal con luz de mediodía, una ladera en sombra) sin aclarar el resto de la foto.
 
@@ -109,7 +109,7 @@ En Luminar no hay un panel de ajustes locales aparte: **cada herramienta tiene s
 
 **Cuidado:** una sombra aclarada de más deja la foto **plana**: sin sombras no hay volumen. La luz dura de mediodía se nota y está bien que se note.
 
-## 4.6. Paso a paso: oscurecer un cielo o un fondo que distrae
+## 5.6. Paso a paso: oscurecer un cielo o un fondo que distrae
 
 **Qué:** que una zona clara que no es el sujeto (un cielo blanquecino, una rama iluminada, un borde brillante) pese menos en la foto.
 
@@ -121,14 +121,14 @@ En Luminar no hay un panel de ajustes locales aparte: **cada herramienta tiene s
 5. Compara con **`\`**: el fondo debe "retirarse", no ennegrecerse.
 
 **Alternativas:**
-- **Bordes claros de la foto:** **Vignette** con **Amount** negativo oscurece los bordes de forma uniforme ([sección 3](03-flujo-base.md), paso 10).
-- **Un cielo entero, con precisión en el horizonte:** si tu versión permite añadir **Develop** otra vez (4.2), usa Develop + **Mask AI → cielo** + **Exposure** negativa.
+- **Bordes claros de la foto:** **Vignette** con **Amount** negativo oscurece los bordes de forma uniforme ([sección 4](04-flujo-base.md), paso 10).
+- **Un cielo entero, con precisión en el horizonte:** si tu versión permite añadir **Develop** otra vez (5.2), usa Develop + **Mask AI → cielo** + **Exposure** negativa.
 
 **Qué significa técnicamente:** bajas el brillo de esos píxeles. El sujeto no cambia, pero **en comparación** parece más claro. Es contraste entre zonas: el ojo mide la luz de forma relativa.
 
 **Cuidado:** si el cielo ya está **quemado** (blanco puro), oscurecerlo lo vuelve **gris**, no azul: no hay color que recuperar.
 
-## 4.7. Paso a paso: el sujeto más presente, el fondo más discreto
+## 5.7. Paso a paso: el sujeto más presente, el fondo más discreto
 
 **Qué:** el clásico de la fotografía de fauna. El animal, con un poco más de textura; el fondo, con un poco menos de color.
 
@@ -143,22 +143,22 @@ En Luminar no hay un panel de ajustes locales aparte: **cada herramienta tiene s
 
 **Qué significa técnicamente:** **Structure AI** aumenta el **contraste local** (la diferencia entre píxeles vecinos), que es lo que el ojo percibe como textura y nitidez. **Saturation** baja la intensidad del color de los píxeles del fondo, que deja de competir con el sujeto. La máscara compartida (Copy/Paste) garantiza que las dos cosas usan **exactamente el mismo borde**.
 
-## 4.8. Comprobar y corregir
+## 5.8. Comprobar y corregir
 
 | Lo que ves | Qué es | Cómo se arregla |
 |---|---|---|
 | Una línea o un "aura" alrededor del sujeto | **Halo**: el borde de la máscara es demasiado duro o no coincide con el sujeto | **Feather** más alto o **Shift Edge**; revisa con **`/`** |
-| Granito de colores en una zona aclarada | **Ruido** que estaba escondido en la sombra | Menos **Strength** o **Overall Amount**; si hace falta, más **Color Denoise** en Noiseless AI ([sección 3](03-flujo-base.md)) |
+| Granito de colores en una zona aclarada | **Ruido** que estaba escondido en la sombra | Menos **Strength** o **Overall Amount**; si hace falta, más **Color Denoise** en Noiseless AI ([sección 4](04-flujo-base.md)) |
 | Escalones en un cielo oscurecido | **Bandas**: un JPEG tiene pocos tonos en zonas lisas | Retoque más suave; **Film Grain** bajo para disimularlas |
 | Manchas claras u oscuras con la forma del pincel | Pinceladas con **Softness** baja o **Strength** alta | **Erase**, y repite con más Softness y menos Strength |
 | La foto parece "retocada" | Demasiada diferencia entre zonas | Baja **Overall Amount**; compara con **`\`** |
 
-## 4.9. Ejercicio (una tarde)
+## 5.9. Ejercicio (una tarde)
 
 1. Elige una foto de un animal con el ojo visible y una zona de sombra.
-2. Haz el flujo base completo ([sección 3](03-flujo-base.md)).
+2. Haz el flujo base completo ([sección 4](04-flujo-base.md)).
 3. Haz una **copia virtual** (**`⌘'`**) para poder comparar.
-4. En la copia: aclara el ojo (4.4), abre la sombra (4.5) y oscurece lo que distraiga (4.6).
+4. En la copia: aclara el ojo (5.4), abre la sombra (5.5) y oscurece lo que distraiga (5.6).
 5. Ponlas lado a lado con **Compare** (**`;`**).
 6. Pregúntale a alguien cuál prefiere **sin decirle qué has hecho**.
 
@@ -169,5 +169,5 @@ En Luminar no hay un panel de ajustes locales aparte: **cada herramienta tiene s
 - [Dodge & Burn](https://support.skylum.com/editing-tools/professional-tools/dodge-and-burn) · [Masking Options](https://support.skylum.com/editing-tools/masking-options) · [Brush Mask](https://support.skylum.com/editing-tools/masking-options/brush-mask) · [Radial Mask](https://support.skylum.com/editing-tools/masking-options/using-a-radial-mask) · [Linear Gradient Mask](https://support.skylum.com/editing-tools/masking-options/linear-gradient-mask) · [Mask Actions](https://support.skylum.com/editing-tools/masking-options/mask-actions) · [Layers](https://support.skylum.com/editing-tools/layers)
 
 <!-- nav -->
-[← Anterior](03-flujo-base.md) · [Índice](README.md) · [Siguiente →](05-herramientas-avanzadas.md)
+[← Anterior](04-flujo-base.md) · [Índice](README.md) · [Siguiente →](06-herramientas-avanzadas.md)
 <!-- /nav -->

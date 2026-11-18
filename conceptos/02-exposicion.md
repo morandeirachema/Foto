@@ -60,7 +60,7 @@ La profundidad de campo no depende solo de la apertura: también de la **distanc
 El ISO **no hace que entre más luz**: amplifica la señal que ya ha llegado. Por eso sube también el **ruido**, sobre todo en las sombras.
 - **ISO base** (100 en muchas cámaras): la máxima calidad y el máximo **rango dinámico**.
 - **Subir el ISO** es la solución cuando no puedes bajar la velocidad (el sujeto se mueve) ni abrir más (el objetivo no da más).
-- **Mejor una foto nítida con ruido que una foto movida sin ruido:** el ruido se reduce al retocar ([retoques, paso 2](../retoques/03-flujo-base.md)); el movimiento, no.
+- **Mejor una foto nítida con ruido que una foto movida sin ruido:** el ruido se reduce al retocar ([retoques, paso 2](../retoques/04-flujo-base.md)); el movimiento, no.
 
 ## 5 · Quién decide qué: los modos
 

@@ -91,7 +91,7 @@ Toda foto se puede dividir por brillo. En **Develop**, Luminar tiene un control 
 | La carrocería blanca o gris de un vehículo | La piel o el pelaje de un animal |
 | Nieve en sombra | Hierba seca |
 
-**En JPEG, corrige poco.** La cámara ya ha aplicado un balance de blancos a los colores. Mover mucho la temperatura suele dar colores sucios. Si la dominante es fuerte, corrige un poco con Temperature y termina con **HSL** (sección 3, paso 7) o con **Color Harmony → Color Balance** (sección 5.3).
+**En JPEG, corrige poco.** La cámara ya ha aplicado un balance de blancos a los colores. Mover mucho la temperatura suele dar colores sucios. Si la dominante es fuerte, corrige un poco con Temperature y termina con **HSL** (sección 4, paso 7) o con **Color Harmony → Color Balance** (sección 6.3).
 
 **Una foto con dos luces distintas** (sol y sombra, fuego y luna) **nunca** quedará neutra en todas partes. Decide qué zona debe ser neutra y corrige las demás con máscaras.
 

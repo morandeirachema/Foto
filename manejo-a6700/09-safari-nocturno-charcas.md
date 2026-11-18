@@ -95,7 +95,7 @@ Tres números que multiplicados dan tu techo real:
    queda castigado (ruido de color en las sombras). Los ISO expandidos por
    encima **ni tocarlos**: son un empujón digital — mismo ruido, peor color.
 3. **Lo que devuelve la IA**: la reducción de ruido por IA (en Luminar,
-   **Noiseless AI**: [retoques, paso 2](../retoques/03-flujo-base.md)) recupera mucho
+   **Noiseless AI**: [retoques, paso 2](../retoques/04-flujo-base.md)) recupera mucho
    detalle a ISO alto. Cuánto, depende de la foto: compruébalo al 100 % con
    tus propios archivos antes del viaje.
 
@@ -115,7 +115,7 @@ obturación** (1/60 → 1/40 → 1/30) — es luz gratis sin ruido.
 | El animal movido, el fondo nítido | Es el animal moviéndose: espera el momento quieto o sube a 1/125 s (y el ISO con ello) |
 | Todo movido | Tocaste la cámara o vibra el trípode: temporizador 2 s y no la toques durante la toma |
 | El AF caza y suelta sin fijar | Poca luz para el AF: punto único a una zona con contraste, o enfoque manual prefijado a la orilla (paso 4) |
-| Ruido brutal a ISO 6400+ | Normal con tan poca luz. Se recupera mucho con reducción de ruido por IA: en Luminar, **Noiseless AI** ([retoques, paso 2](../retoques/03-flujo-base.md)) |
+| Ruido brutal a ISO 6400+ | Normal con tan poca luz. Se recupera mucho con reducción de ruido por IA: en Luminar, **Noiseless AI** ([retoques, paso 2](../retoques/04-flujo-base.md)) |
 
 ## Variante: game drive nocturno con foco
 

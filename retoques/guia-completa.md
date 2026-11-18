@@ -10,44 +10,45 @@
 **Parte I · Fundamentos**
 1. Conceptos básicos
 2. Luminar por dentro
+3. Las herramientas, una a una: dónde están, qué hacen y cuánto mover
 
 **Parte II · El método**
 
-3. El flujo base: 10 pasos
-4. Ajustes locales: aclarar u oscurecer solo una parte
-5. Herramientas avanzadas
+4. El flujo base: 10 pasos
+5. Ajustes locales: aclarar u oscurecer solo una parte
+6. Herramientas avanzadas
 
 **Parte III · Por tipo de foto**
 
-6. Safari (fauna)
-7. Paisaje
-8. Fotografía nocturna
+7. Safari (fauna)
+8. Paisaje
+9. Fotografía nocturna
 
 **Parte IV · Más allá de una foto**
 
-9. Recetas completas *(provisional)*
-10. Trabajar en serie
-11. Varias fotos en una, ampliar y generar
-12. Exportar
-13. Ética, concursos y ubicación
-14. Disparar mejores JPEG la próxima vez
+10. Recetas completas *(provisional)*
+11. Trabajar en serie
+12. Varias fotos en una, ampliar y generar
+13. Exportar
+14. Ética, concursos y ubicación
+15. Disparar mejores JPEG la próxima vez
 
 **Parte V · Referencia**
 
-15. Errores típicos y lista de comprobación
-16. Atajos de teclado
-17. Glosario
-18. Preguntas frecuentes
-19. Fuentes
+16. Errores típicos y lista de comprobación
+17. Atajos de teclado
+18. Glosario
+19. Preguntas frecuentes
+20. Fuentes
 
 ## Cómo leerla
 
 - **Pensada para JPEG, y es justo lo que tienes:** las fotos de Namibia salieron solo en JPEG por un error de configuración de la cámara. Todo lo de esta guía se aplica tal cual a ellas. Para que no se repita, mira la [configuración básica de la a6700](../manejo-a6700/04-configuracion-basica.md).
 
 - Cada paso indica **qué hacer** en Luminar y **por qué**. Si entiendes el porqué, sabrás adaptarlo a cada foto.
-- Cuando el texto dice "sección 5.3", se refiere al apartado 5.3 (el capítulo 5).
-- **¿Empiezas de cero en edición?** Lee en orden los capítulos 1 a 4. El 4 enseña a aclarar u oscurecer solo una parte de la foto (los ojos, una sombra, el cielo), explicando qué haces, cómo y qué significa para la foto.
-- Los **nombres de herramientas, controles y atajos** están comprobados con la documentación oficial de Skylum (sección 19). Se mantienen en inglés, como aparecen en el programa.
+- Cuando el texto dice "sección 6.3", se refiere al apartado 5.3 (el capítulo 5).
+- **¿Empiezas de cero en edición?** Lee en orden los capítulos 1 a 5. El 3 es la ficha de cada herramienta, con los números de partida: tenlo abierto mientras editas. El 4 enseña a aclarar u oscurecer solo una parte de la foto (los ojos, una sombra, el cielo), explicando qué haces, cómo y qué significa para la foto.
+- Los **nombres de herramientas, controles y atajos** están comprobados con la documentación oficial de Skylum (sección 20). Se mantienen en inglés, como aparecen en el programa.
 - Los **valores numéricos** son puntos de partida para JPEG propuestos por esta guía, no valores oficiales. Cada foto es distinta: mueve el deslizador mirando la imagen, no el número.
 - Los atajos son de **macOS**. En Windows, **`⌘`** suele corresponder a **Ctrl** y **`⌥`** a **Alt**.
 
@@ -142,7 +143,7 @@ Toda foto se puede dividir por brillo. En **Develop**, Luminar tiene un control 
 | La carrocería blanca o gris de un vehículo | La piel o el pelaje de un animal |
 | Nieve en sombra | Hierba seca |
 
-**En JPEG, corrige poco.** La cámara ya ha aplicado un balance de blancos a los colores. Mover mucho la temperatura suele dar colores sucios. Si la dominante es fuerte, corrige un poco con Temperature y termina con **HSL** (sección 3, paso 7) o con **Color Harmony → Color Balance** (sección 5.3).
+**En JPEG, corrige poco.** La cámara ya ha aplicado un balance de blancos a los colores. Mover mucho la temperatura suele dar colores sucios. Si la dominante es fuerte, corrige un poco con Temperature y termina con **HSL** (sección 4, paso 7) o con **Color Harmony → Color Balance** (sección 6.3).
 
 **Una foto con dos luces distintas** (sol y sombra, fuego y luna) **nunca** quedará neutra en todas partes. Decide qué zona debe ser neutra y corrige las demás con máscaras.
 
@@ -253,9 +254,9 @@ Editar en local consiste en que el sujeto gane un poco en esas cosas y el fondo 
 | **Professional** | Supercontrast, Color Harmony, Dodge & Burn, Clone | Control fino de tono y color |
 | **Image Quality** | Noiseless AI, Supersharp AI | Ruido y desenfoque |
 
-**Pestaña Extra:** **HDR Merge**, **Panorama Stitching** y **Focus Stacking** (en *Merge Tools*), **Upscale** (en *Enhancement tools*) y las herramientas generativas **GenErase**, **GenSwap** y **GenExpand** (sección 11).
+**Pestaña Extra:** **HDR Merge**, **Panorama Stitching** y **Focus Stacking** (en *Merge Tools*), **Upscale** (en *Enhancement tools*) y las herramientas generativas **GenErase**, **GenSwap** y **GenExpand** (sección 12).
 
-> **Versiones y licencias.** Algunas herramientas tienen una versión *Improved*, que requiere Luminar for Desktop 1.29.0 o posterior y una licencia que la incluya; otras dependen de la suscripción. Si no encuentras una herramienta, consulta la documentación oficial (sección 19).
+> **Versiones y licencias.** Algunas herramientas tienen una versión *Improved*, que requiere Luminar for Desktop 1.29.0 o posterior y una licencia que la incluya; otras dependen de la suscripción. Si no encuentras una herramienta, consulta la documentación oficial (sección 20).
 
 ## 2.2. Edición no destructiva y copias virtuales
 
@@ -289,7 +290,7 @@ En Luminar, la mayoría de las herramientas tienen su propia pestaña **Masking*
 
 **Revisa siempre los bordes con `/`.** Las máscaras IA suelen fallar en cuernos, orejas, bigotes y ramas finas: corrígelas con **Brush**.
 
-**Una máscara por herramienta.** La máscara limita el efecto de **esa** herramienta a una zona. Por eso **Develop** se usa sin máscara, para toda la foto, y las zonas se trabajan con **Dodge & Burn** (pintando luz y sombra) y con **otras herramientas, cada una con su máscara**. Todo el método, paso a paso, en la [sección 4](04-ajustes-locales.md). La documentación de Skylum dice, al hablar de capas, que las herramientas se pueden aplicar "varias veces y con máscaras distintas", pero no explica cómo hacerlo con la misma herramienta en una foto: compruébalo en tu versión ([PENDIENTES](../PENDIENTES.md)).
+**Una máscara por herramienta.** La máscara limita el efecto de **esa** herramienta a una zona. Por eso **Develop** se usa sin máscara, para toda la foto, y las zonas se trabajan con **Dodge & Burn** (pintando luz y sombra) y con **otras herramientas, cada una con su máscara**. Todo el método, paso a paso, en la [sección 5](05-ajustes-locales.md). La documentación de Skylum dice, al hablar de capas, que las herramientas se pueden aplicar "varias veces y con máscaras distintas", pero no explica cómo hacerlo con la misma herramienta en una foto: compruébalo en tu versión ([PENDIENTES](../PENDIENTES.md)).
 
 ## 2.4. Capas
 
@@ -298,13 +299,174 @@ En Luminar, la mayoría de las herramientas tienen su propia pestaña **Masking*
 - **Background Removal AI:** separa el sujeto del fondo dentro de una capa.
 - **Quitar u ocultar:** clic derecho → **Remove Layer** o **Hide Layer**.
 
-Para la edición normal de un JPEG de viaje bastan las **herramientas con máscara**. Las capas sirven sobre todo para combinar imágenes, un uso que en fotos documentales conviene evitar (sección 13).
+Para la edición normal de un JPEG de viaje bastan las **herramientas con máscara**. Las capas sirven sobre todo para combinar imágenes, un uso que en fotos documentales conviene evitar (sección 14).
+
+---
+
+*Parte I · Fundamentos*
+
+# 3. Las herramientas, una a una: dónde están, qué hacen y cuánto mover
+
+Si no conoces Luminar, este es el capítulo de consulta. Para cada herramienta que usa la guía encontrarás **dónde está**, **qué hace en palabras sencillas**, **con qué valor empezar**, **hasta dónde llegar con un JPEG** y **cómo saber que te has pasado**. Tenlo abierto al lado mientras editas.
+
+## 3.1. Antes de empezar: cómo se usa una herramienta
+
+1. Abre la foto y pulsa **`E`** (pestaña **Tools**). A la derecha aparecen las herramientas, agrupadas por categorías (**Essentials**, **Landscape**, **Creative**, **Portrait**, **Professional**, **Image Quality**; [sección 2.1](02-luminar-por-dentro.md)).
+2. **Haz clic en el nombre** de una herramienta para abrirla y ver sus deslizadores.
+3. **Arrastra un deslizador** y mira la foto, no el número. El número que ves junto al deslizador es el que usa esta guía.
+4. **Mantén pulsada `\`** para ver la foto original y suéltala para volver a la editada. Hazlo a menudo.
+5. Para revisar detalles (ruido, enfoque, bordes), **`⌘1`** amplía al 100 %; **`⌘0`** vuelve a encajar la foto.
+6. Para deshacer, **`⌘Z`**. En Dodge & Burn, la **flecha curva junto al nombre** de la herramienta la devuelve a cero (está documentado para esa herramienta; en las demás, búscalo junto al nombre o usa **`⌘Z`**).
+
+> **Sobre los números de esta guía.** Son **puntos de partida para JPEG**, no valores oficiales: Skylum no publica la escala de cada deslizador. La primera vez que abras una herramienta, mira hasta dónde llega cada deslizador (por ejemplo, de −100 a +100) y anótalo en [PENDIENTES](../PENDIENTES.md). Si un valor de la guía no encaja con tu escala, guíate por la columna "te has pasado si…": esa no depende del número.
+
+**Cómo mover un deslizador sin pasarte (método para cualquier herramienta):**
+1. Llévalo **muy lejos** a propósito, hasta que el efecto se vea exagerado. Así ves qué hace.
+2. **Vuelve a cero.**
+3. Súbelo **poco a poco** hasta que la foto mejore, y para ahí.
+4. Al final del todo, **baja un 20–30 %** lo que hayas subido. El ojo se acostumbra a los efectos fuertes mientras edita.
+
+## 3.2. Develop (Essentials): la luz y el color de toda la foto
+
+La herramienta principal. Se usa **sin máscara**, para toda la foto ([sección 5.2](05-ajustes-locales.md)).
+
+| Deslizador | Qué hace | Empieza en | Límite en JPEG | Te has pasado si… |
+|---|---|---|---|---|
+| **Exposure** | Aclara u oscurece **toda** la foto | ±0,3 (hasta ±0,7) | ±1 | La foto entera se ve gris y plana, o el cielo se quema |
+| **Smart Contrast** | Separa claros y oscuros | +10 a +25 | +40 | Los colores se vuelven pesados y las sombras, negras |
+| **Highlights** | Baja **solo las zonas claras**: recupera cielo y nubes | −20 a −50 | −60 | Las nubes se ven grises y sucias o aparece un halo en el horizonte |
+| **Shadows** | Sube **solo las zonas oscuras** | +15 a +40 | +50 | La foto pierde volumen (todo parece igual de claro) o aparece ruido |
+| **Whites** | Mueve el punto más claro | Con **`J`**: sube hasta el primer aviso rojo y baja un poco | — | Aparecen zonas rojas grandes con **`J`** |
+| **Blacks** | Mueve el punto más oscuro | Con **`J`**: baja hasta el primer aviso azul y sube un poco | — | Aparecen zonas azules grandes con **`J`** |
+| **Temperature** | Más azul (−) o más amarillo (+) | ±5 a ±15 | ±25 | Los blancos dejan de parecer blancos, o un atardecer se vuelve gris |
+| **Tint** | Más verde (−) o más magenta (+) | ±5 | ±15 | Las sombras o la piel se tiñen de verde o rosa |
+| **Saturation** | Más color en **todos** los colores | 0 a +10 | +20 | Pieles naranjas, verdes fosforito |
+| **Vibrance** | Más color sobre todo en los **apagados** | +5 a +20 | +30 | Colores "de cartel" |
+| **Curves** | Contraste por zonas con puntos ([sección 6.1](06-herramientas-avanzadas.md)) | Una S muy suave | — | Negros o blancos sin detalle |
+
+**El cuentagotas** (**`W`**, dentro de Develop → Color): haz clic en algo que deba ser gris o blanco neutro (una nube en sombra, una roca gris) y Luminar ajusta Temperature y Tint por ti.
+
+## 3.3. Noiseless AI y Denoise (Image Quality / Essentials): el ruido
+
+| Control | Qué hace | Empieza en | Te has pasado si… |
+|---|---|---|---|
+| **Nivel** de Noiseless AI (Low, Middle, High) | La intensidad general; Luminar propone uno al abrirla | **El que proponga** | — |
+| **Luminosity Denoise** | Quita el granito gris | El del nivel propuesto; si el pelo parece de cera, baja de 10 en 10 | El pelaje, la piel o las estrellas parecen de plástico |
+| **Color Denoise** | Quita las manchas de colores | El del nivel propuesto; puede subir sin miedo | Rara vez: los colores finos se apagan |
+| **Details** | Recupera el detalle que la reducción de ruido se lleva | +10 | Vuelve el ruido o aparecen artefactos |
+| **Sharpness** | Recupera la nitidez | 0 a +10 | Aparece un halo en los bordes |
+
+**Denoise** (Essentials) tiene **Luminosity Denoise**, **Color Denoise** y **Boost**. Para ruido ligero: Luminosity +10 a +20, Color +20 a +30, Boost 0.
+
+**Comprueba siempre al 100 %** (**`⌘1`**): a tamaño pantalla, el ruido y el exceso de reducción no se ven.
+
+## 3.4. Enhance AI (Essentials): mejora general en un deslizador
+
+| Deslizador | Qué hace | Empieza en | Límite | Te has pasado si… |
+|---|---|---|---|---|
+| **Accent AI** | Ajusta a la vez sombras, luces, contraste, color y detalle | +15 a +35 | +50 | La foto parece "procesada" o chillona |
+| **Sky Enhancer AI** | Mejora un cielo **de día** (no funciona de noche; en gris si no detecta cielo) | +20 a +40 | +60 | El cielo se ve demasiado azul o aparecen bandas |
+
+Si usas Accent AI alto, **baja Smart Contrast y Shadows** en Develop: suman efectos parecidos.
+
+## 3.5. Color (Essentials): el color fino
+
+| Control | Qué hace | Empieza en | Te has pasado si… |
+|---|---|---|---|
+| **Vibrance** | Como en Develop | +5 a +15 | Colores de cartel |
+| **Remove Color Cast** | Quita una dominante automáticamente | Pruébalo; quédate con el resultado solo si convence | La foto pierde su ambiente (un atardecer neutro) |
+| **HSL → Hue** | Cambia el tono de un color concreto | ±5 a ±10 | Colores imposibles (hierba azulada) |
+| **HSL → Saturation** | Más o menos intensidad de un color concreto | −20 a +10 | Un color "salta" del resto |
+| **HSL → Luminance** | Aclara u oscurece un color concreto | −20 a +10 | Bandas en el cielo al oscurecer el azul |
+
+**Las tres correcciones de HSL que más usarás:**
+- **Cielo más profundo:** Azul → Luminance **−15**.
+- **Verdes menos artificiales:** Verde → Saturation **−15**.
+- **Hierba seca dorada y no amarilla chillona:** Amarillo → Saturation **−10**.
+
+## 3.6. Structure AI y Details (Essentials): textura y nitidez
+
+| Control | Qué hace | Empieza en | Límite | Te has pasado si… |
+|---|---|---|---|---|
+| **Structure AI → Amount** | Detalle y claridad: textura del pelo, la roca, las dunas. Según Skylum, "reconoce a las personas" para no sobreprocesar caras y piel. En negativo, suaviza (efecto de desenfoque) | +10 a +25 | +35 | Halos alrededor del sujeto, aspecto "HDR" sucio, ruido en el cielo |
+| **Structure AI → Boost** | Realza sobre todo los detalles pequeños; más agresivo que Amount | 0 a +10 | +20 | Grano y textura áspera |
+| **Details → Small Details** | Nitidez de lo muy fino (pelo, plumas) | +10 a +20 | +30 | Grano áspero |
+| **Details → Medium Details** | Nitidez de texturas medias | +5 a +15 | +25 | Aspecto "crujiente" |
+| **Details → Large Details** | Contornos grandes | 0 a +10 | +15 | Halo claro alrededor del sujeto |
+| **Details → Sharpen** | Enfoque general | +10 a +20 | +30 | Bordes con línea blanca |
+| **Sharpening Masking** | Limita el enfoque a los bordes | **30–70** (valor que recomienda Skylum) | — | Si lo bajas mucho, se enfoca también el cielo |
+
+**Regla:** en un JPEG, la cámara **ya enfocó**. Quédate en la parte baja de estos rangos.
+
+## 3.7. Landscape (Landscape): neblina, dorado y vegetación
+
+| Control | Qué hace | Empieza en | Límite | Te has pasado si… |
+|---|---|---|---|---|
+| **Dehaze** | Quita calima y neblina | +10 a +20 | +30 | Colores pesados, cielo demasiado oscuro, la foto pierde profundidad |
+| **Golden Hour** | Calidez y brillo dorado | +10 a +20 | +30 | Todo naranja |
+| **Foliage Enhancer** | Vegetación más viva | +10 a +20 | +30 | Verdes fosforito |
+
+## 3.8. Dodge & Burn (Professional): aclarar u oscurecer pintando
+
+La herramienta de los ajustes locales ([sección 5](05-ajustes-locales.md)).
+
+| Control | Qué hace | Empieza en | Te has pasado si… |
+|---|---|---|---|
+| **Lighten / Darken** | Pincel que aclara u oscurece | — | — |
+| **Brush Size** | Tamaño del pincel (**`[`** **`]`**) | Ojos: más pequeño que el iris. Sombras y cielo: más grande que la zona | — |
+| **Softness** | Lo suave del borde del pincel (**`⇧[`** **`⇧]`**) | **Casi al máximo** | Si es baja, se ven las pinceladas |
+| **Strength** | Cuánto cambia cada pasada | **Empieza en 15** y sube de 5 en 5 si no ves efecto | Manchas con la forma del pincel |
+| **Overall Amount** | La intensidad de todo lo pintado | Al final, baja si se nota | La foto "parece retocada" |
+
+## 3.9. Acabado: Vignette y Film Grain
+
+| Control | Qué hace | Empieza en | Límite | Te has pasado si… |
+|---|---|---|---|---|
+| **Vignette → Amount** | A la izquierda (−) oscurece los bordes; a la derecha (+) los aclara | −10 a −20 | −30 | Esquinas negras "de filtro" |
+| **Vignette → Inner Light** | Aclara la zona central, la que no oscurece el viñeteado | 0 a +10 | +20 | El centro parece iluminado con un foco |
+| **Vignette → Choose Subject** | Centra el viñeteado sobre el sujeto (clic en la foto) | Sobre el animal | — | — |
+| **Film Grain → Amount** | Añade grano fino; disimula las bandas del cielo | 5 a 10 | 15 | Grano visible a tamaño pantalla |
+
+## 3.10. Herramientas avanzadas, en resumen
+
+| Herramienta | Para qué | Empieza en | Detalle |
+|---|---|---|---|
+| **Supercontrast** (Professional) | Contraste por zonas | **Midtones** +10 a +20; el resto en 0 | [Sección 6.2](06-herramientas-avanzadas.md) |
+| **Color Harmony** (Professional) | Ambiente y dominantes por zonas | **Warmth** ±5 a ±15; **Split Color Warmth → Warm** +10 a +15 | [Sección 6.3](06-herramientas-avanzadas.md) |
+| **Light Depth** (Creative) | Luz distinta en primer plano y fondo | **Amount** +20 a +30 | [Sección 6.5](06-herramientas-avanzadas.md) |
+| **Black & White** (Essentials) | Blanco y negro | **Blue** −30 a −50 en Luminance para oscurecer el cielo | [Sección 6.6](06-herramientas-avanzadas.md) |
+
+## 3.11. Recorte y limpieza
+
+| Herramienta | Atajo | Cómo |
+|---|---|---|
+| **Crop AI** | **`C`** | **Auto Straighten** para nivelar; elige proporción; **`X`** cambia vertical/horizontal; sal de la herramienta para aplicar |
+| **Erase** | **`⌘E`** | Pinta sobre lo que quieres quitar (pincel algo mayor que el objeto) y pulsa **Erase** |
+| **Remove Dust Spots** | — | Quita automáticamente manchas de polvo del sensor; luego afina con Erase |
+| **Clone** | **`⌘J`** | **`⌥`**-clic para elegir de dónde copiar; pinta con toques cortos |
+
+## 3.12. Hoja de bolsillo: los diez números de partida
+
+Si solo te quedas con una tabla, que sea esta. Es el punto de partida para un JPEG típico de día; luego ajusta mirando la foto.
+
+| Herramienta → control | Valor |
+|---|---|
+| Develop → Exposure | **+0,3** si está oscura / **−0,3** si está clara |
+| Develop → Highlights | **−30** |
+| Develop → Shadows | **+25** |
+| Develop → Whites / Blacks | Con **`J`**, hasta el primer aviso |
+| Develop → Smart Contrast | **+15** |
+| Enhance AI → Accent AI | **+20** |
+| Color → Vibrance | **+10** |
+| Structure AI → Amount | **+15** |
+| Details → Sharpen | **+10** (Sharpening Masking **50**) |
+| Vignette → Amount | **−12** |
 
 ---
 
 *Parte II · El método*
 
-# 3. El flujo base: 10 pasos
+# 4. El flujo base: 10 pasos
 
 Este es el esqueleto que usarás en todas las fotos. Las secciones de safari, paisaje y noche explican **qué cambia** en cada caso.
 
@@ -354,7 +516,7 @@ Este es el esqueleto que usarás en todas las fotos. Las secciones de safari, pa
 - **Whites** y **Blacks:** hasta que el aviso de recorte apenas aparezca.
 - **Smart Contrast:** +10 a +25.
 - **El truco de los extremos:** con **`J`** activo, sube **Whites** hasta que aparezca el primer aviso y retrocede un poco; baja **Blacks** hasta el primer aviso y retrocede. Así usas todo el rango sin perder detalle.
-- **Shadows y Highlights tienen un límite.** Si los llevas muy lejos en un JPEG, la foto se vuelve gris y plana. Si necesitas más, usa una máscara o las Curvas (sección 5.1).
+- **Shadows y Highlights tienen un límite.** Si los llevas muy lejos en un JPEG, la foto se vuelve gris y plana. Si necesitas más, usa una máscara o las Curvas (sección 6.1).
 - **Por qué:** primero colocas cada zona de brillo en su sitio; luego das contraste.
 
 ### Paso 5 · Color: balance de blancos
@@ -389,7 +551,7 @@ Este es el esqueleto que usarás en todas las fotos. Las secciones de safari, pa
 
 ### Paso 9 · Ajustes locales: máscaras
 
-Aquí se trabaja por zonas: **Dodge & Burn** para aclarar u oscurecer pintando, y la pestaña **Masking** de otras herramientas (Structure AI, Color…) para lo demás. **Todo el paso a paso, desde cero, en la [sección 4](04-ajustes-locales.md).**
+Aquí se trabaja por zonas: **Dodge & Burn** para aclarar u oscurecer pintando, y la pestaña **Masking** de otras herramientas (Structure AI, Color…) para lo demás. **Todo el paso a paso, desde cero, en la [sección 5](05-ajustes-locales.md).**
 
 **El esquema de tres zonas:**
 1. **Sujeto:** un poco más claro, contrastado y nítido.
@@ -406,21 +568,43 @@ Aquí se trabaja por zonas: **Dodge & Burn** para aclarar u oscurecer pintando, 
 - **Vignette:** −10 a −20, si encaja. **Choose Subject** coloca el centro del viñeteado sobre el sujeto.
 - **Film Grain:** **Amount** 5–10 si ves bandas en el cielo.
 - **`\`** (mantener) para comparar con el original. Revisa al 100 %, descansa 5 minutos y **baja lo que sobre**.
-- **Exportar** (**`⇧⌘E`**): sección 12.
+- **Exportar** (**`⇧⌘E`**): sección 13.
 
 **La regla del descanso.** Tras un rato mirando una foto, el ojo se acostumbra a la saturación y al contraste, y siempre parece que "falta un poco más". Por eso las fotos editadas de un tirón suelen verse exageradas al día siguiente. Descansa, vuelve a mirarlas y baja lo que sobre.
+
+## Rescatar un JPEG difícil
+
+Con un JPEG no hay RAW al que volver, pero Luminar tiene herramientas para casi cada problema. Lo importante es saber **qué se puede arreglar, qué solo se puede disimular y qué no tiene arreglo**. Las herramientas marcadas con ✳️ **inventan** contenido: úsalas sin problema en tu álbum, y dilo si presentas la foto como documento ([sección 14](14-etica.md)).
+
+| Problema | Qué hacer en Luminar | Qué esperar |
+|---|---|---|
+| **Muy oscura** | Develop: Exposure **+0,5 a +1**, Shadows **+30 a +50**; antes, **Noiseless AI** (nivel propuesto o uno más) | Se arregla bastante; el límite lo pone el ruido que aparece en las sombras |
+| **Cielo quemado (blanco puro)** | Highlights **−50 a −60** suaviza el borde. Para tener cielo: ✳️ **Sky AI** (sustituye el cielo) | Sin Sky AI **no se recupera**: no hay información. Con Sky AI, cielo nuevo |
+| **Mucho ruido** (ISO alto, noche) | **Noiseless AI** en **High**; Color Denoise alto; Details **+10** para no perder pelo | Muy buen resultado; revisa al 100 % que el pelo o las estrellas no parezcan de plástico |
+| **Algo movida o blanda** | **Supersharp AI**, modo **Motion Blur**, nivel **Low** (sube a Middle si no basta) | Mejora un movimiento ligero; una foto muy movida no se salva |
+| **Desenfocada** (el foco se fue al fondo) | Supersharp AI, modo **Universal**, nivel **Low** | Mejora poco: el desenfoque real no se puede reconstruir |
+| **Animal muy pequeño** (recorte fuerte) | Recorta y, **al final**, ✳️ **Upscale** (hasta 6×; empieza por 2×) | Válida para pantalla o una copia pequeña; revisa al 100 % que no invente textura |
+| **Color raro** (dominante) | **Remove Color Cast**; si no basta, Temperature y Tint **±10**; dominante solo en las sombras: Color Harmony → Color Balance | Se corrige bien si no es extrema |
+| **Plana, sin contraste** (calima, nublado) | **Dehaze +15**, Smart Contrast **+20**, Supercontrast → Midtones **+15** | Mejora mucho |
+| **Bandas en el cielo** | Retoques más suaves en el cielo; **Film Grain** Amount **8** | Se disimulan, no desaparecen |
+| **Manchas de polvo del sensor** | **Remove Dust Spots**; luego Erase en las que queden | Se arregla del todo |
+| **Un cable, una rama, un vehículo que estorba** | **Erase** (pequeño); ✳️ **GenErase** (grande o difícil); cables en el cielo: **Remove Powerlines** | Se arregla del todo |
+| **Encuadre demasiado justo** | ✳️ **GenExpand**: amplía hasta un 25 %, mejor de un lado cada vez | Útil para ganar aire o cambiar la proporción |
+| **Contraluz con el animal negro** | Shadows **+40**; Dodge & Burn → Lighten sobre el animal ([sección 5.5](05-ajustes-locales.md)) | Vuelve algo de detalle; con mucho ruido, acepta la silueta |
+
+**El orden en una foto difícil:** primero el ruido y el movimiento (Noiseless AI, Supersharp AI), luego la luz y el color, luego las herramientas que inventan contenido y, **al final de todo**, Upscale.
 
 ---
 
 *Parte II · El método*
 
-# 4. Ajustes locales: aclarar u oscurecer solo una parte
+# 5. Ajustes locales: aclarar u oscurecer solo una parte
 
 Hasta ahora, cada ajuste cambiaba **toda** la foto. Este capítulo enseña a cambiar **solo una zona**: aclarar los ojos de un animal, abrir una sombra bajo su cabeza u oscurecer un cielo que distrae. Está pensado para quien empieza de cero. Cada caso explica **qué** quieres conseguir, **cómo** se hace en Luminar clic a clic y **qué significa técnicamente** para la foto.
 
-> **Antes de empezar:** haz primero el flujo base completo ([sección 3](03-flujo-base.md)). Los ajustes locales son el **último retoque** sobre una foto que ya está bien en conjunto. Si la foto entera está oscura, se arregla con **Develop**, no zona a zona.
+> **Antes de empezar:** haz primero el flujo base completo ([sección 4](04-flujo-base.md)). Los ajustes locales son el **último retoque** sobre una foto que ya está bien en conjunto. Si la foto entera está oscura, se arregla con **Develop**, no zona a zona.
 
-## 4.1. Qué es un ajuste local (y qué le pasa a la foto)
+## 5.1. Qué es un ajuste local (y qué le pasa a la foto)
 
 **La idea.** Una foto son millones de píxeles, y cada uno tiene un brillo y un color. Un ajuste global cambia todos los píxeles por igual. Un ajuste local cambia solo los píxeles de una zona y deja el resto como estaba.
 
@@ -438,7 +622,7 @@ Luminar enseña la máscara como una **capa roja translúcida** sobre la foto: r
 
 **La regla de oro:** cambios **pequeños**. Si al comparar con el original (**`\`**) el retoque "salta a la vista", es demasiado.
 
-## 4.2. Cómo funcionan las máscaras en Luminar
+## 5.2. Cómo funcionan las máscaras en Luminar
 
 En Luminar no hay un panel de ajustes locales aparte: **cada herramienta tiene su propia pestaña Masking**. El camino es siempre el mismo:
 
@@ -448,9 +632,9 @@ En Luminar no hay un panel de ajustes locales aparte: **cada herramienta tiene s
 4. El ajuste de esa herramienta queda **solo** en la zona marcada.
 
 **Una máscara por herramienta.** Esto es lo importante para empezar: si usas **Develop** para corregir la foto entera y luego le pones una máscara, la corrección pasa a afectar **solo** a la zona de la máscara. Por eso el método de esta guía es:
-- **Develop, sin máscara**, para la luz y el color de toda la foto ([sección 3](03-flujo-base.md)).
-- **Dodge & Burn** para aclarar u oscurecer zonas **pintando** (4.4 a 4.6). No necesita máscara: el pincel es la máscara.
-- **Otras herramientas, cada una con su máscara**, para lo demás: textura del sujeto, color del fondo, etc. (4.7).
+- **Develop, sin máscara**, para la luz y el color de toda la foto ([sección 4](04-flujo-base.md)).
+- **Dodge & Burn** para aclarar u oscurecer zonas **pintando** (5.4 a 5.6). No necesita máscara: el pincel es la máscara.
+- **Otras herramientas, cada una con su máscara**, para lo demás: textura del sujeto, color del fondo, etc. (5.7).
 
 > **¿Se puede añadir Develop dos veces, cada una con su máscara?** La documentación de Skylum dice, al hablar de capas, que las herramientas se pueden aplicar "varias veces y con máscaras distintas", pero **no explica cómo** hacerlo con la misma herramienta en una foto. Compruébalo en tu versión ([PENDIENTES](../PENDIENTES.md)). Si se puede, es la forma más precisa de aclarar u oscurecer una zona seleccionada con Mask AI u Object Select AI. Si no, usa los métodos de este capítulo.
 
@@ -468,20 +652,20 @@ En Luminar no hay un panel de ajustes locales aparte: **cada herramienta tiene s
 
 **Acciones de la máscara:** **Feather** (suaviza el borde) · **Shift Edge** (amplía o encoge el borde) · **Invert** (**`⌘I`**, invierte: el sujeto pasa a ser "todo menos el sujeto") · **Copy** y **Paste** (copian la máscara a otra herramienta) · **Fill** y **Clear** (cubrir toda la foto o borrar la máscara) · **Show** (**`/`**).
 
-## 4.3. Qué herramienta para cada cosa
+## 5.3. Qué herramienta para cada cosa
 
 | Quieres… | Herramienta | Cómo |
 |---|---|---|
-| Aclarar los ojos | **Dodge & Burn → Lighten** | Pincel pequeño sobre el iris (4.4) |
-| Abrir una sombra (bajo la cabeza, una ladera) | **Dodge & Burn → Lighten** | Pincel grande y muy suave (4.5) |
-| Oscurecer un cielo, un borde o un fondo que distrae | **Dodge & Burn → Darken** | Pincel grande y suave (4.6) |
-| Más textura solo en el animal | **Structure AI** + máscara **Object Select AI** | 4.7 |
-| Menos color en el fondo | **Color** (Saturation) + la misma máscara, **invertida** | 4.7 |
-| Que el sujeto destaque con luz | **Vignette** con **Choose Subject** | 4.7 |
-| Primer plano más claro y fondo más frío, o al revés | **Light Depth** (Brightness Near/Far, Warmth Near/Far) | [sección 5.5](05-herramientas-avanzadas.md) |
-| Más contraste solo en el cielo o solo en el suelo | **Supercontrast** + **Mask AI** o **Linear Gradient** | [sección 5.2](05-herramientas-avanzadas.md) |
+| Aclarar los ojos | **Dodge & Burn → Lighten** | Pincel pequeño sobre el iris (5.4) |
+| Abrir una sombra (bajo la cabeza, una ladera) | **Dodge & Burn → Lighten** | Pincel grande y muy suave (5.5) |
+| Oscurecer un cielo, un borde o un fondo que distrae | **Dodge & Burn → Darken** | Pincel grande y suave (5.6) |
+| Más textura solo en el animal | **Structure AI** + máscara **Object Select AI** | 5.7 |
+| Menos color en el fondo | **Color** (Saturation) + la misma máscara, **invertida** | 5.7 |
+| Que el sujeto destaque con luz | **Vignette** con **Choose Subject** | 5.7 |
+| Primer plano más claro y fondo más frío, o al revés | **Light Depth** (Brightness Near/Far, Warmth Near/Far) | [sección 6.5](06-herramientas-avanzadas.md) |
+| Más contraste solo en el cielo o solo en el suelo | **Supercontrast** + **Mask AI** o **Linear Gradient** | [sección 6.2](06-herramientas-avanzadas.md) |
 
-## 4.4. Paso a paso: aclarar los ojos de un animal
+## 5.4. Paso a paso: aclarar los ojos de un animal
 
 **Qué:** que el ojo tenga un poco más de luz que la cara que lo rodea, para que la mirada del espectador vaya ahí.
 
@@ -500,10 +684,10 @@ En Luminar no hay un panel de ajustes locales aparte: **cada herramienta tiene s
 **Qué significa técnicamente:** subes el brillo de unas decenas de píxeles. El ojo gana **contraste local** con su entorno, y por eso atrae la mirada. Cada pasada **suma**: tres pasadas suaves equivalen a una más fuerte, pero con más control.
 
 **Cuidado:**
-- **No pintes un brillo** donde no lo hay: en fotografía de naturaleza se considera manipulación ([sección 13](13-etica.md)).
+- **No pintes un brillo** donde no lo hay: en fotografía de naturaleza se considera manipulación ([sección 14](14-etica.md)).
 - En un ojo muy oscuro, aclarar mucho saca **ruido** (granito de colores). Si aparece, para.
 
-## 4.5. Paso a paso: abrir una zona de sombra
+## 5.5. Paso a paso: abrir una zona de sombra
 
 **Qué:** recuperar algo de detalle en una sombra concreta (la tripa y el cuello de un animal con luz de mediodía, una ladera en sombra) sin aclarar el resto de la foto.
 
@@ -519,7 +703,7 @@ En Luminar no hay un panel de ajustes locales aparte: **cada herramienta tiene s
 
 **Cuidado:** una sombra aclarada de más deja la foto **plana**: sin sombras no hay volumen. La luz dura de mediodía se nota y está bien que se note.
 
-## 4.6. Paso a paso: oscurecer un cielo o un fondo que distrae
+## 5.6. Paso a paso: oscurecer un cielo o un fondo que distrae
 
 **Qué:** que una zona clara que no es el sujeto (un cielo blanquecino, una rama iluminada, un borde brillante) pese menos en la foto.
 
@@ -531,14 +715,14 @@ En Luminar no hay un panel de ajustes locales aparte: **cada herramienta tiene s
 5. Compara con **`\`**: el fondo debe "retirarse", no ennegrecerse.
 
 **Alternativas:**
-- **Bordes claros de la foto:** **Vignette** con **Amount** negativo oscurece los bordes de forma uniforme ([sección 3](03-flujo-base.md), paso 10).
-- **Un cielo entero, con precisión en el horizonte:** si tu versión permite añadir **Develop** otra vez (4.2), usa Develop + **Mask AI → cielo** + **Exposure** negativa.
+- **Bordes claros de la foto:** **Vignette** con **Amount** negativo oscurece los bordes de forma uniforme ([sección 4](04-flujo-base.md), paso 10).
+- **Un cielo entero, con precisión en el horizonte:** si tu versión permite añadir **Develop** otra vez (5.2), usa Develop + **Mask AI → cielo** + **Exposure** negativa.
 
 **Qué significa técnicamente:** bajas el brillo de esos píxeles. El sujeto no cambia, pero **en comparación** parece más claro. Es contraste entre zonas: el ojo mide la luz de forma relativa.
 
 **Cuidado:** si el cielo ya está **quemado** (blanco puro), oscurecerlo lo vuelve **gris**, no azul: no hay color que recuperar.
 
-## 4.7. Paso a paso: el sujeto más presente, el fondo más discreto
+## 5.7. Paso a paso: el sujeto más presente, el fondo más discreto
 
 **Qué:** el clásico de la fotografía de fauna. El animal, con un poco más de textura; el fondo, con un poco menos de color.
 
@@ -553,22 +737,22 @@ En Luminar no hay un panel de ajustes locales aparte: **cada herramienta tiene s
 
 **Qué significa técnicamente:** **Structure AI** aumenta el **contraste local** (la diferencia entre píxeles vecinos), que es lo que el ojo percibe como textura y nitidez. **Saturation** baja la intensidad del color de los píxeles del fondo, que deja de competir con el sujeto. La máscara compartida (Copy/Paste) garantiza que las dos cosas usan **exactamente el mismo borde**.
 
-## 4.8. Comprobar y corregir
+## 5.8. Comprobar y corregir
 
 | Lo que ves | Qué es | Cómo se arregla |
 |---|---|---|
 | Una línea o un "aura" alrededor del sujeto | **Halo**: el borde de la máscara es demasiado duro o no coincide con el sujeto | **Feather** más alto o **Shift Edge**; revisa con **`/`** |
-| Granito de colores en una zona aclarada | **Ruido** que estaba escondido en la sombra | Menos **Strength** o **Overall Amount**; si hace falta, más **Color Denoise** en Noiseless AI ([sección 3](03-flujo-base.md)) |
+| Granito de colores en una zona aclarada | **Ruido** que estaba escondido en la sombra | Menos **Strength** o **Overall Amount**; si hace falta, más **Color Denoise** en Noiseless AI ([sección 4](04-flujo-base.md)) |
 | Escalones en un cielo oscurecido | **Bandas**: un JPEG tiene pocos tonos en zonas lisas | Retoque más suave; **Film Grain** bajo para disimularlas |
 | Manchas claras u oscuras con la forma del pincel | Pinceladas con **Softness** baja o **Strength** alta | **Erase**, y repite con más Softness y menos Strength |
 | La foto parece "retocada" | Demasiada diferencia entre zonas | Baja **Overall Amount**; compara con **`\`** |
 
-## 4.9. Ejercicio (una tarde)
+## 5.9. Ejercicio (una tarde)
 
 1. Elige una foto de un animal con el ojo visible y una zona de sombra.
-2. Haz el flujo base completo ([sección 3](03-flujo-base.md)).
+2. Haz el flujo base completo ([sección 4](04-flujo-base.md)).
 3. Haz una **copia virtual** (**`⌘'`**) para poder comparar.
-4. En la copia: aclara el ojo (4.4), abre la sombra (4.5) y oscurece lo que distraiga (4.6).
+4. En la copia: aclara el ojo (5.4), abre la sombra (5.5) y oscurece lo que distraiga (5.6).
 5. Ponlas lado a lado con **Compare** (**`;`**).
 6. Pregúntale a alguien cuál prefiere **sin decirle qué has hecho**.
 
@@ -582,11 +766,11 @@ En Luminar no hay un panel de ajustes locales aparte: **cada herramienta tiene s
 
 *Parte II · El método*
 
-# 5. Herramientas avanzadas
+# 6. Herramientas avanzadas
 
 No son imprescindibles, pero dan un control que las herramientas básicas no tienen.
 
-## 5.1. Curves (dentro de Develop)
+## 6.1. Curves (dentro de Develop)
 
 - **Eje horizontal:** el brillo **original**, de oscuro (izquierda) a claro (derecha).
 - **Eje vertical:** el brillo **resultante**.
@@ -607,7 +791,7 @@ No son imprescindibles, pero dan un control que las herramientas básicas no tie
 - **Sombras verdosas:** en **Green**, baja un poco la parte izquierda.
 - **Luces demasiado amarillas:** en **Blue**, sube un poco la parte derecha.
 
-## 5.2. Supercontrast (Professional)
+## 6.2. Supercontrast (Professional)
 
 Controla el contraste por separado en tres zonas:
 - **Highlights**, **Midtones** y **Shadows:** cuánto contraste hay en cada zona (a la derecha, más).
@@ -620,7 +804,7 @@ Controla el contraste por separado en tres zonas:
 
 Empieza con **Midtones** +10/+20 y el resto en 0.
 
-## 5.3. Color Harmony (Professional)
+## 6.3. Color Harmony (Professional)
 
 | Control | Qué hace | Uso típico |
 |---|---|---|
@@ -632,7 +816,7 @@ Empieza con **Midtones** +10/+20 y el resto en 0.
 
 **El uso más útil en JPEG:** **Color Balance** para corregir una dominante **solo en una zona de brillo**. Por ejemplo, si el cielo nocturno está bien pero las sombras son verdosas, en **Shadows** mueve Magenta–Green un poco hacia el magenta.
 
-## 5.4. Dodge & Burn (Professional)
+## 6.4. Dodge & Burn (Professional)
 
 La técnica clásica de laboratorio: **aclarar** y **oscurecer** pintando.
 
@@ -647,7 +831,7 @@ La técnica clásica de laboratorio: **aclarar** y **oscurecer** pintando.
 
 **Ejercicio:** en una foto de dunas, aclara las caras iluminadas y oscurece las caras en sombra. Verás aparecer el volumen.
 
-## 5.5. Light Depth (Creative)
+## 6.5. Light Depth (Creative)
 
 Usa un **mapa de profundidad** calculado por IA para iluminar de forma distinta lo cercano y lo lejano, como un foco suave colocado en la escena. Sustituye a la antigua herramienta Relight AI.
 
@@ -660,7 +844,7 @@ Usa un **mapa de profundidad** calculado por IA para iluminar de forma distinta 
 
 **Perspectiva atmosférica.** Lo cercano parece más claro, contrastado y cálido; lo lejano, más suave y frío. Para reforzarla: **Brightness Near** un poco arriba, **Warmth Near** un poco cálido y **Warmth Far** un poco frío. Con valores pequeños.
 
-## 5.6. Black & White (Essentials)
+## 6.6. Black & White (Essentials)
 
 El blanco y negro no es quitar el color, sino **decidir qué gris recibe cada color**.
 
@@ -682,19 +866,19 @@ El blanco y negro no es quitar el color, sino **decidir qué gris recibe cada co
 
 **Después de convertir:** el blanco y negro suele necesitar **más contraste** que el color. Usa una curva en S, Supercontrast y Dodge & Burn.
 
-## 5.7. Herramientas de Landscape
+## 6.7. Herramientas de Landscape
 
 | Herramienta | Qué hace | Cuándo |
 |---|---|---|
 | **Landscape** | **Dehaze** (quita neblina ajustando a la vez contraste, claridad y color), **Golden Hour** (calidez y brillo dorado), **Foliage Enhancer** y **Foliage Hue** (vegetación más viva y su tono) | Calima, vegetación apagada |
 | **Water Enhancer AI** | Agua más clara y viva: **Amount**, **Blue**, **Green**, **Original Color**, **Brightness**, **Contrast**, **Depth** y un pincel (**Draw**, **Erase**, **Restore**) para elegir la zona | Ríos, lagos, mar |
 | **Twilight Enhancer AI** | Luz y color de hora azul u hora dorada. Presets **Blush**, **Golden**, **Blue**, **Emerald** y **Mauve**, con ajustes de **Sky**, **Dawn**, **Scene Enhancements** y **Water Reflection** | Fotos de crepúsculo o con poca luz |
-| **Sky AI** | Sustituye el cielo | Solo fotos creativas (sección 13) |
+| **Sky AI** | Sustituye el cielo | Solo fotos creativas (sección 14) |
 | **Atmosphere AI** | **Añade** niebla, bruma o neblina (Fog, Layered Fog, Mist, Haze o, en la versión Improved, Ground Fog, Wispy Fog y Heavy Fog) | Solo fotos creativas: añade algo que no estaba |
 
 > **Precaución:** **Dawn** (en Twilight Enhancer AI), **Sky AI** y **Atmosphere AI** añaden luz, cielo o niebla que no existían. En fotos documentales, evítalos o úsalos de forma muy sutil y dilo al compartir la foto.
 
-## 5.8. Herramientas creativas
+## 6.8. Herramientas creativas
 
 | Herramienta | Qué hace | Precaución |
 |---|---|---|
@@ -712,9 +896,9 @@ El blanco y negro no es quitar el color, sino **decidir qué gris recibe cada co
 
 *Parte III · Por tipo de foto*
 
-# 6. Safari (fauna)
+# 7. Safari (fauna)
 
-## 6.1. Problemas típicos
+## 7.1. Problemas típicos
 
 | Problema | Por qué ocurre |
 |---|---|
@@ -729,7 +913,7 @@ El blanco y negro no es quitar el color, sino **decidir qué gris recibe cada co
 | **Manchas oscuras en el cielo** | Polvo en el sensor o en el objetivo |
 | **Imagen que "ondula"** | Aire caliente sobre el suelo: el animal lejano se ve blando y deformado |
 
-## 6.2. Paso a paso
+## 7.2. Paso a paso
 
 **1. Ruido (casi siempre necesario)**
 - **Noiseless AI**, con el nivel propuesto. Sube **Details** con cuidado para no perder pelo, plumas y textura de piel.
@@ -745,7 +929,7 @@ El blanco y negro no es quitar el color, sino **decidir qué gris recibe cada co
 - Quita del borde lo que distraiga (un trozo de vehículo, una rama cortada).
 - **No cortes por las articulaciones:** evita cortar justo por las rodillas, las patas o la punta de la cola.
 - **Orejas y cuernos dentro:** un cuerno cortado por el borde molesta más que un poco de espacio sobrante.
-- Si recortas mucho, piensa en **Upscale** al final (sección 11.4).
+- Si recortas mucho, piensa en **Upscale** al final (sección 12.4).
 - El ojo del animal es el centro de interés: construye el encuadre a partir de él.
 
 **4. Luz: expón para el animal**
@@ -790,29 +974,29 @@ El blanco y negro no es quitar el color, sino **decidir qué gris recibe cada co
 **8. Limpieza**
 - **Remove Dust Spots** quita automáticamente las manchas de polvo del sensor o del objetivo. Después puedes afinar con **Erase**. El polvo del sensor aparece **en el mismo sitio** en varias fotos: revisa toda la serie.
 - **Erase** para motas, ramitas o insectos pequeños que distraigan.
-- **Importante:** en una foto documental, **no borres elementos de la escena** (otros animales, vehículos, collares de seguimiento) ni uses herramientas generativas (sección 13).
+- **Importante:** en una foto documental, **no borres elementos de la escena** (otros animales, vehículos, collares de seguimiento) ni uses herramientas generativas (sección 14).
 
 **9. Acabado**
 - **Vignette** −10 a −15 si el fondo es claro en los bordes; **Choose Subject** para centrarlo en el animal.
 - **Upscale** solo si has recortado mucho, y siempre al final.
 
-## 6.3. Casos concretos
+## 7.3. Casos concretos
 
 **Animal a contraluz:**
 - Decide: ¿silueta o detalle? Para una **silueta**, baja **Blacks** y deja el animal oscuro; resalta el borde de luz con **Highlights**.
-- Para ver **detalle**, **Dodge & Burn → Lighten** sobre el animal ([sección 4.5](04-ajustes-locales.md)), y antes **Noiseless AI** (esa zona tendrá ruido).
+- Para ver **detalle**, **Dodge & Burn → Lighten** sobre el animal ([sección 5.5](05-ajustes-locales.md)), y antes **Noiseless AI** (esa zona tendrá ruido).
 
 **Mediodía con luz dura:**
 - Shadows +30/+40 y Highlights −30.
 - **Structure AI** moderado: la luz dura ya tiene mucho contraste.
-- El **blanco y negro** suele funcionar muy bien (sección 5.6).
+- El **blanco y negro** suele funcionar muy bien (sección 6.6).
 
 **Amanecer y atardecer:**
 - Conserva la calidez. Casi siempre hará falta Noiseless AI.
 - **Light Depth** (opcional) para reforzar la dirección de la luz.
 
 **Pájaros en vuelo contra el cielo:**
-- Exposure (Develop) para el pájaro. Si el cielo queda blanco, **Dodge & Burn → Darken** suave sobre el cielo ([sección 4.6](04-ajustes-locales.md)).
+- Exposure (Develop) para el pájaro. Si el cielo queda blanco, **Dodge & Burn → Darken** suave sobre el cielo ([sección 5.6](05-ajustes-locales.md)).
 - **Details** con **Details Masking** alto para no enfocar el cielo.
 
 **Plumas blancas (garzas, pelícanos, águilas pescadoras):**
@@ -847,9 +1031,9 @@ El blanco y negro no es quitar el color, sino **decidir qué gris recibe cada co
 
 *Parte III · Por tipo de foto*
 
-# 7. Paisaje
+# 8. Paisaje
 
-## 7.1. Problemas típicos
+## 8.1. Problemas típicos
 
 | Problema | Por qué ocurre |
 |---|---|
@@ -860,7 +1044,7 @@ El blanco y negro no es quitar el color, sino **decidir qué gris recibe cada co
 | **Bandas en el cielo** | Degradados suaves en un JPEG de 8 bits |
 | **Distorsión y esquinas oscuras** | Gran angular, sobre todo en móviles |
 
-## 7.2. Paso a paso
+## 8.2. Paso a paso
 
 **1. Horizonte y encuadre**
 - **`C`** → **Auto Straighten**.
@@ -876,14 +1060,14 @@ El blanco y negro no es quitar el color, sino **decidir qué gris recibe cada co
 **3. Equilibrar cielo y suelo (el paso más importante)**
 - **Highlights** −30 a −60 para el cielo; **Shadows** +20 a +40 para el suelo.
 - Después, en local:
-  - **Cielo:** **Dodge & Burn → Darken**, pincel grande y suave ([sección 4.6](04-ajustes-locales.md)). Para más contraste solo en el cielo, **Supercontrast** con máscara **Mask AI → cielo** o **Gradient** (**`G`**).
+  - **Cielo:** **Dodge & Burn → Darken**, pincel grande y suave ([sección 5.6](05-ajustes-locales.md)). Para más contraste solo en el cielo, **Supercontrast** con máscara **Mask AI → cielo** o **Gradient** (**`G`**).
   - **Suelo:** **Dodge & Burn → Lighten** suave, o **Light Depth → Brightness Near** si el suelo es el primer plano.
 - **¿Mask AI o Gradient?** **Mask AI** respeta las formas (montañas, árboles). El **Gradient** es más natural con horizontes rectos (mar, sabana plana) y no deja bordes raros alrededor de los árboles.
 - **Luminosity Masking** es otra opción: selecciona solo las zonas más claras (el cielo) por su brillo.
 
 **4. Profundidad**
 - **Landscape → Dehaze** +10 a +20 si hay calima. Más oscurece y satura.
-- **Light Depth:** primer plano un poco más claro y cálido; fondo algo más frío (sección 5.5).
+- **Light Depth:** primer plano un poco más claro y cálido; fondo algo más frío (sección 6.5).
 - **Perspectiva atmosférica:** lo cercano es más contrastado, cálido y saturado; lo lejano, más claro, frío y suave. Reforzar esa diferencia da profundidad.
 - **Error frecuente:** un Dehaze fuerte en toda la foto **elimina** esa perspectiva. Mejor un Dehaze suave, o con máscara solo donde haga falta.
 
@@ -902,14 +1086,14 @@ El blanco y negro no es quitar el color, sino **decidir qué gris recibe cada co
 
 **6. Textura**
 - **Structure AI** +15 a +25 con la **máscara del cielo invertida**. El cielo no necesita textura: si se la das, aparecen ruido y bandas.
-- **Supercontrast → Midtones** +10/+20 como alternativa más limpia (sección 5.2).
+- **Supercontrast → Midtones** +10/+20 como alternativa más limpia (sección 6.2).
 - **Dunas y roca:** algo más de Structure AI, y Light Depth para marcar las crestas.
 
 **7. Acabado**
 - **Vignette** muy suave (−10).
 - **Film Grain** con **Amount** bajo si el cielo muestra bandas.
 
-## 7.3. Casos concretos
+## 8.3. Casos concretos
 
 **Desierto y dunas:**
 - La cámara suele **subexponer** la arena clara: Exposure +0,3/+0,5.
@@ -955,9 +1139,9 @@ El blanco y negro no es quitar el color, sino **decidir qué gris recibe cada co
 
 *Parte III · Por tipo de foto*
 
-# 8. Fotografía nocturna
+# 9. Fotografía nocturna
 
-## 8.1. Antes de empezar
+## 9.1. Antes de empezar
 
 La fotografía nocturna es la que **más sufre en JPEG**: mucho ruido, sombras muy oscuras y una reducción de ruido de la cámara que puede haber borrado estrellas débiles. Se puede mejorar mucho, pero con expectativas realistas.
 
@@ -973,7 +1157,7 @@ La fotografía nocturna es la que **más sufre en JPEG**: mucho ruido, sombras m
 - **Dehaze en toda la foto:** dispara el ruido y la dominante.
 - **Structure AI en toda la foto y Details altos:** convierten el ruido en "estrellas falsas".
 
-## 8.2. Cielo estrellado y Vía Láctea
+## 9.2. Cielo estrellado y Vía Láctea
 
 **1. Ruido, con cuidado**
 - **Noiseless AI**, normalmente en *Middle*.
@@ -1004,7 +1188,7 @@ La fotografía nocturna es la que **más sufre en JPEG**: mucho ruido, sombras m
 - Si el resplandor es fuerte, **no intentes eliminarlo**: déjalo como un degradado cálido suave. Si lo quitas del todo, queda una banda gris sucia.
 
 **6. Primer plano**
-- Suele estar muy oscuro: **Dodge & Burn → Lighten** suave sobre el suelo ([sección 4.5](04-ajustes-locales.md)), o **Light Depth → Brightness Near**.
+- Suele estar muy oscuro: **Dodge & Burn → Lighten** suave sobre el suelo ([sección 5.5](05-ajustes-locales.md)), o **Light Depth → Brightness Near**.
 - **No lo aclares demasiado.** Una silueta oscura o un primer plano tenue es más creíble que uno iluminado como de día.
 - **De noche, la máscara de cielo puede fallar** porque el límite entre cielo y suelo apenas se ve. Revísala con **`/`** y corrígela con **Brush**, o usa un **Gradient** en el horizonte.
 
@@ -1013,9 +1197,9 @@ La fotografía nocturna es la que **más sufre en JPEG**: mucho ruido, sombras m
 - **Vignette** suave.
 - Revisa al 100 %: bandas en el cielo, halos en el horizonte, estrellas convertidas en manchas.
 
-**Estrellas alargadas (pequeños trazos):** salen cuando la exposición fue demasiado larga para la focal usada. No tienen arreglo real al editar. Para la próxima vez, consulta la sección 14.3.
+**Estrellas alargadas (pequeños trazos):** salen cuando la exposición fue demasiado larga para la focal usada. No tienen arreglo real al editar. Para la próxima vez, consulta la sección 15.3.
 
-## 8.3. Luces artificiales (lodge, campamento, ciudad)
+## 9.3. Luces artificiales (lodge, campamento, ciudad)
 
 - **Balance de blancos:** no neutralices del todo las bombillas cálidas. Algo de calidez hace la escena acogedora.
 - **Highlights** −30/−50 para recuperar las luces. Si las bombillas están quemadas, déjalas: es normal.
@@ -1024,7 +1208,7 @@ La fotografía nocturna es la que **más sufre en JPEG**: mucho ruido, sombras m
 - **HSL:** baja la saturación del naranja si la luz es demasiado intensa.
 - **Luces de distintos colores:** neutraliza la que más se vea y deja la otra con su color.
 
-## 8.4. Fuego de campamento y linternas
+## 9.4. Fuego de campamento y linternas
 
 - **Decide el color.** La luz del fuego es muy naranja. Corrige un poco (Temperature un poco más fría), pero **no la vuelvas blanca**: el fuego tiene que seguir pareciendo fuego.
 - **Shadows** +20 para ver las caras; **Highlights** −40 para que la llama tenga forma.
@@ -1032,13 +1216,13 @@ La fotografía nocturna es la que **más sufre en JPEG**: mucho ruido, sombras m
 - **Vignette** algo más marcada (−20) para concentrar la luz en el fuego.
 - **No enfoques las llamas ni las chispas**: el enfoque convierte su movimiento en ruido.
 
-## 8.5. Luna
+## 9.5. Luna
 
 - **Luna sola, con teleobjetivo:** baja **Highlights** y **Exposure** hasta ver los cráteres; **Structure AI** +20 y **Details** moderado. Fondo negro (**Blacks** abajo).
 - **Luna en un paisaje:** en un JPEG suele estar quemada, porque es mucho más brillante que el paisaje. Si lo está, **no se puede recuperar**: acepta un punto blanco o hazle una foto aparte.
-- **Añadir una luna de otra foto** (**Layers → + → My Images**) es un montaje: hazlo solo en fotos creativas y dilo al compartirla (sección 13).
+- **Añadir una luna de otra foto** (**Layers → + → My Images**) es un montaje: hazlo solo en fotos creativas y dilo al compartirla (sección 14).
 
-## 8.6. Hora azul y crepúsculo
+## 9.6. Hora azul y crepúsculo
 
 El mejor momento para la "foto nocturna" con JPEG suele ser **antes** de la noche cerrada, cuando el cielo aún tiene luz azul y el ruido es mucho menor.
 - Balance de blancos: deja el azul.
@@ -1050,11 +1234,11 @@ El mejor momento para la "foto nocturna" con JPEG suele ser **antes** de la noch
 
 *Parte IV · Más allá de una foto*
 
-# 9. Recetas completas
+# 10. Recetas completas
 
 > ⚠️ **Provisional.** Estas recetas combinan los pasos de la guía para cinco situaciones típicas, pero **todavía no se han probado con fotos reales**. Los valores son puntos de partida. Se revisarán con fotos de muestra. Mira siempre la imagen, no el número.
 
-## 9.1. León al amanecer, con luz cálida y algo de ruido
+## 10.1. León al amanecer, con luz cálida y algo de ruido
 
 *Situación: ISO alto, teleobjetivo, el león mira a la izquierda, fondo de hierba seca desenfocada.*
 
@@ -1072,7 +1256,7 @@ El mejor momento para la "foto nocturna" con JPEG suele ser **antes** de la noch
 | 10 | Dodge & Burn → Lighten | Iris, con poca Strength |
 | 11 | Vignette + Choose Subject | Amount −12 |
 
-## 9.2. Elefante a mediodía, en blanco y negro
+## 10.2. Elefante a mediodía, en blanco y negro
 
 *Situación: luz cenital, sombras negras bajo la cabeza, cielo blanquecino.*
 
@@ -1086,7 +1270,7 @@ El mejor momento para la "foto nocturna" con JPEG suele ser **antes** de la noch
 | 6 | Dodge & Burn | Lighten en las arrugas iluminadas; Darken en el suelo y, si sigue demasiado claro, en el cielo |
 | 7 | Vignette | Amount −15 |
 
-## 9.3. Dunas al atardecer
+## 10.3. Dunas al atardecer
 
 *Situación: JPEG de móvil, luz rasante, cielo naranja, algunas bandas en el cielo.*
 
@@ -1100,7 +1284,7 @@ El mejor momento para la "foto nocturna" con JPEG suele ser **antes** de la noch
 | 6 | Dodge & Burn | Lighten en las caras iluminadas; Darken en las caras en sombra |
 | 7 | Film Grain | Amount bajo, para disimular las bandas |
 
-## 9.4. Vía Láctea sobre una acacia
+## 10.4. Vía Láctea sobre una acacia
 
 *Situación: ISO 6400, 20 s, gran angular, cielo anaranjado por un pueblo lejano.*
 
@@ -1117,7 +1301,7 @@ El mejor momento para la "foto nocturna" con JPEG suele ser **antes** de la noch
 | 9 | Details | Muy bajo; Details Masking alto |
 | 10 | Vignette | Amount −10 |
 
-## 9.5. Cena alrededor del fuego
+## 10.5. Cena alrededor del fuego
 
 *Situación: ISO alto, caras naranjas, fondo negro, llamas quemadas.*
 
@@ -1134,11 +1318,11 @@ El mejor momento para la "foto nocturna" con JPEG suele ser **antes** de la noch
 
 *Parte IV · Más allá de una foto*
 
-# 10. Trabajar en serie
+# 11. Trabajar en serie
 
 Tras un safari puedes volver con miles de fotos. Editarlas una a una es inviable.
 
-## 10.1. Sincronizar ajustes (Sync Adjustments)
+## 11.1. Sincronizar ajustes (Sync Adjustments)
 
 1. Edita bien **una foto representativa** de una situación (misma luz, mismo animal).
 2. Con ella seleccionada (borde naranja), selecciona las demás en el catálogo o en la tira de fotos (**Filmstrip**): **`⇧`**-clic para un rango, **`⌘`**-clic para fotos sueltas. Las demás aparecen con borde blanco.
@@ -1153,7 +1337,7 @@ Tras un safari puedes volver con miles de fotos. Editarlas una a una es inviable
 - **Revisa las máscaras** en cada foto sincronizada: el animal no estará en el mismo sitio en todas.
 - Las miniaturas del catálogo son previsualizaciones: revisa el resultado en la vista de una sola foto.
 
-## 10.2. Presets propios
+## 11.2. Presets propios
 
 1. Ajusta una foto (o modifica un preset existente).
 2. En el desplegable **Actions**, abajo, elige **Save as Preset**.
@@ -1164,7 +1348,7 @@ Tras un safari puedes volver con miles de fotos. Editarlas una a una es inviable
 - Un preset es un **punto de partida**: aplícalo y ajusta.
 - **Crop AI** no se guarda en los presets.
 
-## 10.3. Coherencia en una serie
+## 11.3. Coherencia en una serie
 
 Una serie de fotos de viaje se ve profesional cuando las fotos **parecen de la misma familia**:
 - **Mismo balance de blancos** para la misma situación de luz.
@@ -1175,7 +1359,7 @@ Una serie de fotos de viaje se ve profesional cuando las fotos **parecen de la m
 
 **Truco:** mira todas las fotos del álbum juntas en el catálogo. La que "salta" por más saturada, más oscura o de otro color es la que hay que corregir.
 
-## 10.4. Tus fotos del viaje: de la tarjeta a la selección
+## 11.4. Tus fotos del viaje: de la tarjeta a la selección
 
 Antes de editar la primera foto de un viaje, tres cosas, en este orden.
 
@@ -1188,7 +1372,7 @@ Antes de editar la primera foto de un viaje, tres cosas, en este orden.
 2. **Segunda pasada:** de cada ráfaga o situación, marca (**`P`**) la mejor, comparándolas con **`;`** y al 100 %.
 3. **Tercera pasada:** estrellas (**`1`–`5`**) a las favoritas. Las de **5** son tu selección final: crea un álbum con ellas (**`⌘N`**).
 
-Edita primero esa selección final, con el [flujo base](03-flujo-base.md) y los [ajustes locales](04-ajustes-locales.md). Después, el resto **en serie** (10.1).
+Edita primero esa selección final, con el [flujo base](04-flujo-base.md) y los [ajustes locales](05-ajustes-locales.md). Después, el resto **en serie** (10.1).
 
 > **Las fotos de Namibia están en JPEG.** Todo lo de esta guía se aplica tal cual. Elige con más cuidado que con RAW: una foto quemada o muy oscura en JPEG no tiene arreglo.
 
@@ -1196,11 +1380,11 @@ Edita primero esa selección final, con el [flujo base](03-flujo-base.md) y los 
 
 *Parte IV · Más allá de una foto*
 
-# 11. Varias fotos en una, ampliar y generar
+# 12. Varias fotos en una, ampliar y generar
 
 Estas herramientas están en la pestaña **Extra**. La documentación de Skylum no detalla qué formatos de entrada admite cada una. Con RAW hay más margen, pero puedes probar con tus JPEG.
 
-## 11.1. HDR Merge
+## 12.1. HDR Merge
 
 **Qué es:** combina varias fotos de la misma escena con exposiciones distintas (una oscura para el cielo, una clara para el suelo) en una sola imagen con todo el rango.
 
@@ -1213,7 +1397,7 @@ Estas herramientas están en la pestaña **Extra**. La documentación de Skylum 
 - **Resultado:** un **TIFF** en la carpeta HDR, que luego editas como cualquier foto. El aspecto "HDR" exagerado viene de la edición posterior, no de la fusión: edita con suavidad.
 - **Con fauna, casi nunca:** los animales se mueven entre una toma y otra.
 
-## 11.2. Panorama Stitching
+## 12.2. Panorama Stitching
 
 **Qué es:** une varias fotos de la misma escena tomadas girando la cámara.
 
@@ -1223,7 +1407,7 @@ Estas herramientas están en la pestaña **Extra**. La documentación de Skylum 
 - **Después:** recorta a mano los bordes irregulares.
 - **Consejos de toma de Skylum:** mantén constantes la luz y la exposición (exposición y balance de blancos en manual), bloquea el enfoque, gira con suavidad y, si puedes, usa trípode.
 
-## 11.3. Focus Stacking
+## 12.3. Focus Stacking
 
 **Qué es:** une **hasta 100 fotos** con distinto punto de enfoque para que toda la escena salga nítida (por ejemplo, un paisaje con una flor muy cerca).
 
@@ -1232,7 +1416,7 @@ Estas herramientas están en la pestaña **Extra**. La documentación de Skylum 
 - **Resultado:** un **TIFF** en la carpeta Focus Stacking.
 - Lo ideal es disparar con trípode.
 
-## 11.4. Upscale
+## 12.4. Upscale
 
 **Qué es:** aumenta la resolución con IA, **hasta 6×**.
 
@@ -1241,22 +1425,22 @@ Estas herramientas están en la pestaña **Extra**. La documentación de Skylum 
 - **Cuándo usarlo:** **al final**, después de todos los ajustes, y solo si lo necesitas (un recorte fuerte que quieres imprimir o ver en grande).
 - **Revisa al 100 %:** en pelo y plumas puede inventar textura.
 
-## 11.5. Herramientas generativas: GenErase, GenSwap y GenExpand
+## 12.5. Herramientas generativas: GenErase, GenSwap y GenExpand
 
 Generan con IA contenido que **no estaba** en la foto.
 
 - **GenExpand** amplía el lienzo **hasta un 25 %** y rellena el espacio nuevo. Skylum recomienda ampliaciones pequeñas (en torno al 10 %), de un lado cada vez. El resultado se guarda como **TIF**. La versión *Regular* admite una descripción en texto (en inglés funciona mejor) y necesita conexión a internet; la versión *Improved* no necesita texto.
 - **GenErase** y **GenSwap** borran o sustituyen elementos generando contenido nuevo.
 
-> En fotos documentales, de naturaleza o de concurso, estas herramientas **convierten la foto en una ilustración** (sección 13).
+> En fotos documentales, de naturaleza o de concurso, estas herramientas **convierten la foto en una ilustración** (sección 14).
 
 ---
 
 *Parte IV · Más allá de una foto*
 
-# 12. Exportar
+# 13. Exportar
 
-## 12.1. El cuadro de exportación
+## 13.1. El cuadro de exportación
 
 **Export** (**`⇧⌘E`**) ofrece:
 - **Formatos:** JPEG, PNG, TIFF, JPEG 2000, Photoshop (PSD, **sin capas**), PDF y DNG.
@@ -1266,7 +1450,7 @@ Generan con IA contenido que **no estaba** en la foto.
 
 Luminar **recuerda la configuración** de la última exportación. Revísala antes de cada uso.
 
-## 12.2. Ajustes recomendados por uso
+## 13.2. Ajustes recomendados por uso
 
 *Recomendaciones de esta guía, no de Skylum.*
 
@@ -1281,7 +1465,7 @@ Luminar **recuerda la configuración** de la última exportación. Revísala ant
 - **Redes sociales:** cada red cambia a menudo sus tamaños recomendados. Consulta el actual antes de exportar.
 - **Espacio de color:** para pantallas y web, **sRGB**, que es el estándar. Un espacio más amplio no recupera colores que el JPEG original no tiene, y algunas aplicaciones y webs pueden mostrarlo con los colores apagados. Para imprimir, usa el que te pida el laboratorio.
 
-## 12.3. Imprimir
+## 13.3. Imprimir
 
 **Píxeles necesarios según el tamaño de la copia:**
 
@@ -1298,17 +1482,73 @@ Luminar **recuerda la configuración** de la última exportación. Revísala ant
 - Una copia en papel suele verse **más oscura** que en la pantalla. Haz una **copia virtual** (**`⌘'`**) para imprimir y ajusta en ella.
 - Pide una **prueba pequeña** antes de una copia grande.
 
-## 12.4. Nombres de archivo
+## 13.4. Nombres de archivo
 
 Una convención sencilla ahorra búsquedas: `AAAA-MM-DD_lugar_tema_numero.jpg`. Por ejemplo, `2026-08-14_masai-mara_leon_01.jpg`. Guarda las exportaciones en una carpeta distinta de la de los originales.
+
+## 13.5. Tus fotos: compartir con la familia e imprimir
+
+**Paso 1 · Mira cuántos píxeles tiene la foto.** En Luminar, pestaña **Info** (**`I`**). Con la a6700 en tamaño **L (26M)** y proporción 3:2, un JPEG tiene **6192 × 4128 píxeles** (según la Guía de ayuda de Sony). Si la cámara estaba en un tamaño menor (M o S), o si has recortado, tendrás menos.
+
+**Paso 2 · Exporta dos versiones de cada foto buena.**
+
+| Para qué | Resize | Calidad | Por qué |
+|---|---|---|---|
+| **Compartir** (WhatsApp, álbum compartido, correo) | **Long Edge** de unos 2.000 px | Alta | Se ve bien en móviles y pantallas, y las aplicaciones la comprimen menos |
+| **Imprimir** | **Tamaño original** | Máxima | El laboratorio necesita todos los píxeles |
+
+**Paso 3 · Calcula hasta qué tamaño puedes imprimir.** La cuenta: **píxeles ÷ ppp × 2,54 = centímetros**. A **300 ppp** la copia aguanta mirarla de cerca; a **200 ppp**, sigue viéndose bien a la distancia normal de un cuadro ([13.3](13-exportar.md#133-imprimir)).
+
+| Tu foto | Píxeles | A 300 ppp | A 200 ppp |
+|---|---|---|---|
+| **Entera** (L 26M, sin recortar) | 6192 × 4128 | **52 × 35 cm** | **79 × 52 cm** |
+| **Recortada a la mitad del ancho** | 3096 × 2064 | **26 × 17 cm** | **39 × 26 cm** |
+| **Recortada a un tercio del ancho** | 2064 × 1376 | **17 × 12 cm** | **26 × 17 cm** |
+
+*Cuentas redondeadas al centímetro.*
+
+**Si te quedas corto:** **Upscale** al final de la edición (empieza por 2×; [sección 12.4](12-varias-fotos.md)), y revisa al 100 % que no invente textura en el pelo o las plumas. Pide una **prueba pequeña** antes de la copia grande.
+
+**Para la familia:** elige pocas y buenas. Una selección de 20–30 fotos editadas con el mismo estilo ([sección 11](11-trabajar-en-serie.md)) se disfruta más que 300 sin elegir.
+
+## 13.6. Consejos para las fotos que vas a imprimir
+
+Una copia en papel enseña cosas que la pantalla del móvil esconde. Antes de mandar una foto a imprimir, repasa esta lista.
+
+**Elegir la foto**
+- **Nítida al 100 %** (**`⌘1`**) en lo que importa: el ojo del animal, el primer plano del paisaje. Lo que en el móvil parece nítido puede no serlo en 30 cm de papel.
+- **Sin manchas de polvo:** en grande se ven. Pasa **Remove Dust Spots** y revisa el cielo de esquina a esquina.
+- **Sin bandas ni ruido exagerado:** míralo al 100 % en el cielo y en las sombras.
+
+**El tamaño y la proporción**
+- Las fotos de la a6700 son **3:2**, igual que las copias de **10 × 15**, **20 × 30** y **30 × 45 cm**: entran **sin recortar**.
+- Para otros formatos hay que recortar antes, para decidir tú qué se pierde: **13 × 18** se parece a **5:7**, que está en la lista de proporciones del recorte; para **A4** (21 × 29,7 cm), usa **Enter Custom** e introduce esa proporción.
+- Comprueba los píxeles con la tabla de la [sección 13.5](13-exportar.md#135-tus-fotos-compartir-con-la-familia-e-imprimir) antes de elegir el tamaño.
+
+**Ajustar para el papel** (hazlo en una **copia virtual**, **`⌘'`**, para no tocar la versión de pantalla)
+- **Un poco más clara:** el papel refleja la luz y no la emite, así que la copia suele verse **más oscura** que la pantalla. Empieza con **Exposure +0,1 a +0,2**.
+- **No empastes las sombras:** el papel no llega a un negro tan profundo como una pantalla. Si al editar dejaste sombras casi negras, ábrelas un poco (**Shadows +5 a +10**).
+- **Edita con la pantalla a brillo moderado** ([sección 1.9](01-conceptos-basicos.md)). Con el brillo al máximo, todas las copias salen oscuras.
+
+**Exportar**
+- **Tamaño original**, **calidad máxima** y **sRGB**, salvo que el laboratorio pida otra cosa.
+- **Sharpen** del cuadro de exportación: **moderado**. La copia pierde algo de nitidez al imprimirse; no lo subas tanto que aparezcan bordes blancos.
+- Si te quedas corto de píxeles, **Upscale** al final (empieza por 2×) y revisa al 100 %.
+
+**Imprimir**
+- Pide primero una **prueba pequeña** (10 × 15) de la misma foto, en el mismo laboratorio y papel.
+- **Papel mate:** sin reflejos, colores y negros más suaves; muy bonito en paisaje y en blanco y negro. **Papel brillante:** colores y negros más intensos, pero refleja la luz.
+- Si la prueba sale oscura o con otro color, corrige **en la copia virtual** y vuelve a probar.
 
 ---
 
 *Parte IV · Más allá de una foto*
 
-# 13. Ética, concursos y ubicación
+# 14. Ética, concursos y ubicación
 
-## 13.1. Corregir no es cambiar la escena
+> **Tus fotos, tu decisión.** Estas normas son para **concursos** y para fotos que publiques **como documento** ("esto pasó así"). En tu álbum personal puedes usar **todas** las herramientas, también las generativas: borrar un cable, cambiar un cielo quemado o ampliar el lienzo. Lo único que pide la honestidad es **no presentar como real lo que has inventado**. Cómo sacar el máximo partido a un JPEG difícil, en [Rescatar un JPEG difícil](04-flujo-base.md#rescatar-un-jpeg-difícil).
+
+## 14.1. Corregir no es cambiar la escena
 
 En fotografía documental, de naturaleza y de viaje, la línea general es: **puedes corregir la foto, pero no cambiar la escena**.
 
@@ -1323,21 +1563,21 @@ En fotografía documental, de naturaleza y de viaje, la línea general es: **pue
 
 **Las reglas exactas cambian de un concurso a otro.** Algunos concursos de naturaleza piden a los finalistas el archivo original para comprobar que no se ha alterado la escena. Lee siempre las bases antes de editar. Si dudas, guarda una **copia virtual** sin los retoques dudosos.
 
-## 13.2. Herramientas que crean contenido
+## 14.2. Herramientas que crean contenido
 
 **GenErase**, **GenSwap**, **GenExpand**, **Sky AI**, **Atmosphere AI** y la luz **Dawn** de **Twilight Enhancer AI** añaden o inventan elementos. Son útiles en fotos creativas, pero:
 - Convierten una foto documental en una ilustración.
 - Suelen estar prohibidas en concursos de naturaleza y en fotoperiodismo.
 - Si compartes una foto con contenido generado o sustituido, **dilo**.
 
-## 13.3. Ubicación GPS y fauna amenazada
+## 14.3. Ubicación GPS y fauna amenazada
 
 Muchas cámaras y todos los móviles guardan la **ubicación GPS** en el archivo. Para especies amenazadas (rinocerontes, pangolines, grandes felinos, aves en el nido), publicar la ubicación exacta puede ayudar a los cazadores furtivos.
 
 - **Antes de publicar** fotos de especies amenazadas, **quita la ubicación** del archivo exportado. La documentación de exportación de Skylum no menciona una opción para quitar metadatos. En macOS, puedes hacerlo en **Vista Previa**: menú Herramientas → Mostrar inspector → pestaña de ubicación → Eliminar información de ubicación.
 - **No des la ubicación exacta en el texto** ("cerca del lodge X, junto al río Y").
 
-## 13.4. Personas
+## 14.4. Personas
 
 - Pide permiso para fotografiar a personas, sobre todo a niños y en comunidades locales.
 - No alteres el tono de piel de nadie más allá de corregir la luz.
@@ -1346,7 +1586,7 @@ Muchas cámaras y todos los móviles guardan la **ubicación GPS** en el archivo
 
 *Parte IV · Más allá de una foto*
 
-# 14. Disparar mejores JPEG la próxima vez
+# 15. Disparar mejores JPEG la próxima vez
 
 La mejor edición empieza en la cámara. Si disparas en JPEG, estos ajustes amplían el margen para editar en Luminar.
 
@@ -1354,7 +1594,7 @@ La mejor edición empieza en la cámara. Si disparas en JPEG, estos ajustes ampl
 
 > Los nombres de los menús cambian según la marca. Consulta el manual de tu cámara. Con la **Sony a6700**, la configuración completa, con las rutas de menú verificadas, está en [Manejo de la a6700](../manejo-a6700/README.md).
 
-## 14.1. Ajustes de la cámara
+## 15.1. Ajustes de la cámara
 
 | Ajuste | Recomendación | Por qué |
 |---|---|---|
@@ -1366,7 +1606,7 @@ La mejor edición empieza en la cámara. Si disparas en JPEG, estos ajustes ampl
 | **Espacio de color** | sRGB, si no tienes un motivo para usar otro | Es el estándar de pantallas y web |
 | **RAW + JPEG** | Si la tarjeta y la cámara lo permiten | El RAW es el seguro para las fotos importantes |
 
-## 14.2. Al disparar
+## 15.2. Al disparar
 
 - **Protege las luces.** En JPEG, las luces quemadas no se recuperan y las sombras sí se pueden abrir un poco. Si dudas, usa algo de compensación de exposición negativa.
 - **Activa el aviso de sobreexposición** en la pantalla de la cámara.
@@ -1374,23 +1614,23 @@ La mejor edición empieza en la cámara. Si disparas en JPEG, estos ajustes ampl
 - **Desde el vehículo:** apoya el objetivo y pide que apaguen el motor si es posible: la vibración mueve la foto.
 - **Polvo:** cambia de objetivo lo menos posible y con la cámara hacia abajo.
 
-## 14.3. Noche: estrellas nítidas
+## 15.3. Noche: estrellas nítidas
 
 - **Trípode** y disparo retardado o con mando a distancia.
 - **Enfoque manual** sobre una estrella brillante, con la imagen ampliada en la pantalla.
 - **Diafragma** lo más abierto posible.
 - **Tiempo máximo sin trazos, regla del 500 (aproximada):** 500 ÷ (focal × factor de recorte) = segundos. Por ejemplo, con 14 mm en *full frame*: 500 ÷ 14 ≈ 36 s; en APS-C (×1,5): 500 ÷ 21 ≈ 24 s. Con sensores de muchos megapíxeles, conviene un tiempo más corto.
 - **Balance de blancos fijo:** evita que cada foto salga con un color distinto.
-- **Varias tomas iguales seguidas:** te permiten apilarlas después para reducir el ruido (sección 8.2).
+- **Varias tomas iguales seguidas:** te permiten apilarlas después para reducir el ruido (sección 9.2).
 - **Evita la luna llena** para la Vía Láctea: su luz borra las estrellas débiles.
 
 ---
 
 *Parte V · Referencia*
 
-# 15. Errores típicos y lista de comprobación
+# 16. Errores típicos y lista de comprobación
 
-## 15.1. Los errores más frecuentes
+## 16.1. Los errores más frecuentes
 
 | Error | Cómo se reconoce | Solución en Luminar |
 |---|---|---|
@@ -1408,7 +1648,7 @@ La mejor edición empieza en la cámara. Si disparas en JPEG, estos ajustes ampl
 | **Fotos de una serie que no casan** | Una más saturada u oscura que las demás | Sync Adjustments y revisión conjunta |
 | **Editar cansado** | Al día siguiente todo parece exagerado | Descansar y bajar lo que sobre |
 
-## 15.2. Lista de comprobación
+## 16.2. Lista de comprobación
 
 ```
 PREPARAR
@@ -1456,7 +1696,7 @@ REVISIÓN Y SALIDA
 
 *Parte V · Referencia*
 
-# 16. Atajos de teclado (macOS)
+# 17. Atajos de teclado (macOS)
 
 Atajos según la documentación oficial de Skylum. En Windows, **`⌘`** suele corresponder a **Ctrl** y **`⌥`**, a **Alt**.
 
@@ -1511,7 +1751,7 @@ Atajos según la documentación oficial de Skylum. En Windows, **`⌘`** suele c
 
 *Parte V · Referencia*
 
-# 17. Glosario
+# 18. Glosario
 
 Los términos de Luminar y del retoque. Los de cámara, luz y exposición (ISO, apertura, ETTR, hiperfocal…) están en el [glosario de conceptos](../conceptos/11-glosario.md).
 
@@ -1542,7 +1782,7 @@ Los términos de Luminar y del retoque. Los de cámara, luz y exposición (ISO, 
 
 *Parte V · Referencia*
 
-# 18. Preguntas frecuentes
+# 19. Preguntas frecuentes
 
 **¿Merece la pena editar JPEG, o debería pasarme a RAW?**
 Merece la pena: un JPEG se puede mejorar mucho. Pero si tu cámara lo permite, dispara en **RAW + JPEG** en los viajes importantes. El RAW es el seguro para las fotos que de verdad te importan.
@@ -1560,7 +1800,7 @@ No. Lo completamente blanco en un JPEG no tiene información. Bajar Highlights s
 Bájala, o quítala y hazlo a mano. Las herramientas de IA son atajos, no obligaciones.
 
 **No encuentro una herramienta de la guía.**
-Algunas dependen de tu versión o licencia (por ejemplo, las versiones *Improved* requieren Luminar for Desktop 1.29.0 o posterior y una licencia que las incluya). Consulta la documentación oficial (sección 19).
+Algunas dependen de tu versión o licencia (por ejemplo, las versiones *Improved* requieren Luminar for Desktop 1.29.0 o posterior y una licencia que las incluya). Consulta la documentación oficial (sección 20).
 
 **¿Cómo sé si me he pasado editando?**
 Tres pruebas: compara con **`\`**; mira la miniatura junto a otras fotos sin editar; y vuelve a mirarla al día siguiente. Si "salta" por artificial, baja.
@@ -1569,7 +1809,7 @@ Tres pruebas: compara con **`\`**; mira la miniatura junto a otras fotos sin edi
 
 *Parte V · Referencia*
 
-# 19. Fuentes
+# 20. Fuentes
 
 Los nombres de las herramientas, los controles, los atajos y los límites técnicos de esta guía se han comprobado con la documentación oficial de Skylum (noviembre de 2026). Los valores numéricos de ajuste son **recomendaciones de esta guía**, no de Skylum.
 

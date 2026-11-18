@@ -1,14 +1,14 @@
 <!-- nav -->
-[← Anterior](08-noche.md) · [Índice](README.md) · [Siguiente →](10-trabajar-en-serie.md)
+[← Anterior](09-noche.md) · [Índice](README.md) · [Siguiente →](11-trabajar-en-serie.md)
 <!-- /nav -->
 
 *Parte IV · Más allá de una foto*
 
-# 9. Recetas completas
+# 10. Recetas completas
 
 > ⚠️ **Provisional.** Estas recetas combinan los pasos de la guía para cinco situaciones típicas, pero **todavía no se han probado con fotos reales**. Los valores son puntos de partida. Se revisarán con fotos de muestra. Mira siempre la imagen, no el número.
 
-## 9.1. León al amanecer, con luz cálida y algo de ruido
+## 10.1. León al amanecer, con luz cálida y algo de ruido
 
 *Situación: ISO alto, teleobjetivo, el león mira a la izquierda, fondo de hierba seca desenfocada.*
 
@@ -26,7 +26,7 @@
 | 10 | Dodge & Burn → Lighten | Iris, con poca Strength |
 | 11 | Vignette + Choose Subject | Amount −12 |
 
-## 9.2. Elefante a mediodía, en blanco y negro
+## 10.2. Elefante a mediodía, en blanco y negro
 
 *Situación: luz cenital, sombras negras bajo la cabeza, cielo blanquecino.*
 
@@ -40,7 +40,7 @@
 | 6 | Dodge & Burn | Lighten en las arrugas iluminadas; Darken en el suelo y, si sigue demasiado claro, en el cielo |
 | 7 | Vignette | Amount −15 |
 
-## 9.3. Dunas al atardecer
+## 10.3. Dunas al atardecer
 
 *Situación: JPEG de móvil, luz rasante, cielo naranja, algunas bandas en el cielo.*
 
@@ -54,7 +54,7 @@
 | 6 | Dodge & Burn | Lighten en las caras iluminadas; Darken en las caras en sombra |
 | 7 | Film Grain | Amount bajo, para disimular las bandas |
 
-## 9.4. Vía Láctea sobre una acacia
+## 10.4. Vía Láctea sobre una acacia
 
 *Situación: ISO 6400, 20 s, gran angular, cielo anaranjado por un pueblo lejano.*
 
@@ -71,7 +71,7 @@
 | 9 | Details | Muy bajo; Details Masking alto |
 | 10 | Vignette | Amount −10 |
 
-## 9.5. Cena alrededor del fuego
+## 10.5. Cena alrededor del fuego
 
 *Situación: ISO alto, caras naranjas, fondo negro, llamas quemadas.*
 
@@ -85,5 +85,5 @@
 | 6 | Vignette | Amount −20 |
 
 <!-- nav -->
-[← Anterior](08-noche.md) · [Índice](README.md) · [Siguiente →](10-trabajar-en-serie.md)
+[← Anterior](09-noche.md) · [Índice](README.md) · [Siguiente →](11-trabajar-en-serie.md)
 <!-- /nav -->

@@ -62,7 +62,7 @@ flowchart LR
 | | [8. Cuaderno de composición](08-cuaderno-de-composicion.md) | 🔵 | 20 ejercicios en escalera ([PDF](../pdf/cuaderno-de-composicion.pdf)) |
 | **III · A fondo** | [9. Por qué funciona](09-por-que-funciona.md) | 🔴 | ETTR, profundidad de campo con números reales, difracción, compresión, invarianza ISO, el AF por dentro, los objetivos |
 | | [10. La mirada](10-la-mirada.md) | 🔴 | Cómo piensan los que hacen las fotos que te gustan, y cómo medir si mejoras |
-| **IV · Referencia** | [11. Glosario](11-glosario.md) | 🟢 | Todas las palabras raras (las de Luminar, en el [glosario de retoques](../retoques/17-glosario.md)) |
+| **IV · Referencia** | [11. Glosario](11-glosario.md) | 🟢 | Todas las palabras raras (las de Luminar, en el [glosario de retoques](../retoques/18-glosario.md)) |
 
 **Niveles:** 🟢 iniciación (nunca has manejado una cámara en serio) · 🔵 básico (las recetas) · 🔴 avanzado (el porqué, y la foto que no es correcta sino buena).
 

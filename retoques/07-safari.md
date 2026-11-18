@@ -1,12 +1,12 @@
 <!-- nav -->
-[← Anterior](05-herramientas-avanzadas.md) · [Índice](README.md) · [Siguiente →](07-paisaje.md)
+[← Anterior](06-herramientas-avanzadas.md) · [Índice](README.md) · [Siguiente →](08-paisaje.md)
 <!-- /nav -->
 
 *Parte III · Por tipo de foto*
 
-# 6. Safari (fauna)
+# 7. Safari (fauna)
 
-## 6.1. Problemas típicos
+## 7.1. Problemas típicos
 
 | Problema | Por qué ocurre |
 |---|---|
@@ -21,7 +21,7 @@
 | **Manchas oscuras en el cielo** | Polvo en el sensor o en el objetivo |
 | **Imagen que "ondula"** | Aire caliente sobre el suelo: el animal lejano se ve blando y deformado |
 
-## 6.2. Paso a paso
+## 7.2. Paso a paso
 
 **1. Ruido (casi siempre necesario)**
 - **Noiseless AI**, con el nivel propuesto. Sube **Details** con cuidado para no perder pelo, plumas y textura de piel.
@@ -37,7 +37,7 @@
 - Quita del borde lo que distraiga (un trozo de vehículo, una rama cortada).
 - **No cortes por las articulaciones:** evita cortar justo por las rodillas, las patas o la punta de la cola.
 - **Orejas y cuernos dentro:** un cuerno cortado por el borde molesta más que un poco de espacio sobrante.
-- Si recortas mucho, piensa en **Upscale** al final (sección 11.4).
+- Si recortas mucho, piensa en **Upscale** al final (sección 12.4).
 - El ojo del animal es el centro de interés: construye el encuadre a partir de él.
 
 **4. Luz: expón para el animal**
@@ -82,29 +82,29 @@
 **8. Limpieza**
 - **Remove Dust Spots** quita automáticamente las manchas de polvo del sensor o del objetivo. Después puedes afinar con **Erase**. El polvo del sensor aparece **en el mismo sitio** en varias fotos: revisa toda la serie.
 - **Erase** para motas, ramitas o insectos pequeños que distraigan.
-- **Importante:** en una foto documental, **no borres elementos de la escena** (otros animales, vehículos, collares de seguimiento) ni uses herramientas generativas (sección 13).
+- **Importante:** en una foto documental, **no borres elementos de la escena** (otros animales, vehículos, collares de seguimiento) ni uses herramientas generativas (sección 14).
 
 **9. Acabado**
 - **Vignette** −10 a −15 si el fondo es claro en los bordes; **Choose Subject** para centrarlo en el animal.
 - **Upscale** solo si has recortado mucho, y siempre al final.
 
-## 6.3. Casos concretos
+## 7.3. Casos concretos
 
 **Animal a contraluz:**
 - Decide: ¿silueta o detalle? Para una **silueta**, baja **Blacks** y deja el animal oscuro; resalta el borde de luz con **Highlights**.
-- Para ver **detalle**, **Dodge & Burn → Lighten** sobre el animal ([sección 4.5](04-ajustes-locales.md)), y antes **Noiseless AI** (esa zona tendrá ruido).
+- Para ver **detalle**, **Dodge & Burn → Lighten** sobre el animal ([sección 5.5](05-ajustes-locales.md)), y antes **Noiseless AI** (esa zona tendrá ruido).
 
 **Mediodía con luz dura:**
 - Shadows +30/+40 y Highlights −30.
 - **Structure AI** moderado: la luz dura ya tiene mucho contraste.
-- El **blanco y negro** suele funcionar muy bien (sección 5.6).
+- El **blanco y negro** suele funcionar muy bien (sección 6.6).
 
 **Amanecer y atardecer:**
 - Conserva la calidez. Casi siempre hará falta Noiseless AI.
 - **Light Depth** (opcional) para reforzar la dirección de la luz.
 
 **Pájaros en vuelo contra el cielo:**
-- Exposure (Develop) para el pájaro. Si el cielo queda blanco, **Dodge & Burn → Darken** suave sobre el cielo ([sección 4.6](04-ajustes-locales.md)).
+- Exposure (Develop) para el pájaro. Si el cielo queda blanco, **Dodge & Burn → Darken** suave sobre el cielo ([sección 5.6](05-ajustes-locales.md)).
 - **Details** con **Details Masking** alto para no enfocar el cielo.
 
 **Plumas blancas (garzas, pelícanos, águilas pescadoras):**
@@ -136,5 +136,5 @@
 - Expectativas realistas: servirá de recuerdo o para la pantalla del móvil, no para imprimir grande.
 
 <!-- nav -->
-[← Anterior](05-herramientas-avanzadas.md) · [Índice](README.md) · [Siguiente →](07-paisaje.md)
+[← Anterior](06-herramientas-avanzadas.md) · [Índice](README.md) · [Siguiente →](08-paisaje.md)
 <!-- /nav -->

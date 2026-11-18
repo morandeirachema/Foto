@@ -1,5 +1,5 @@
 <!-- nav -->
-[← Anterior](01-conceptos-basicos.md) · [Índice](README.md) · [Siguiente →](03-flujo-base.md)
+[← Anterior](01-conceptos-basicos.md) · [Índice](README.md) · [Siguiente →](03-herramientas-una-a-una.md)
 <!-- /nav -->
 
 *Parte I · Fundamentos*
@@ -22,9 +22,9 @@
 | **Professional** | Supercontrast, Color Harmony, Dodge & Burn, Clone | Control fino de tono y color |
 | **Image Quality** | Noiseless AI, Supersharp AI | Ruido y desenfoque |
 
-**Pestaña Extra:** **HDR Merge**, **Panorama Stitching** y **Focus Stacking** (en *Merge Tools*), **Upscale** (en *Enhancement tools*) y las herramientas generativas **GenErase**, **GenSwap** y **GenExpand** (sección 11).
+**Pestaña Extra:** **HDR Merge**, **Panorama Stitching** y **Focus Stacking** (en *Merge Tools*), **Upscale** (en *Enhancement tools*) y las herramientas generativas **GenErase**, **GenSwap** y **GenExpand** (sección 12).
 
-> **Versiones y licencias.** Algunas herramientas tienen una versión *Improved*, que requiere Luminar for Desktop 1.29.0 o posterior y una licencia que la incluya; otras dependen de la suscripción. Si no encuentras una herramienta, consulta la documentación oficial (sección 19).
+> **Versiones y licencias.** Algunas herramientas tienen una versión *Improved*, que requiere Luminar for Desktop 1.29.0 o posterior y una licencia que la incluya; otras dependen de la suscripción. Si no encuentras una herramienta, consulta la documentación oficial (sección 20).
 
 ## 2.2. Edición no destructiva y copias virtuales
 
@@ -58,7 +58,7 @@ En Luminar, la mayoría de las herramientas tienen su propia pestaña **Masking*
 
 **Revisa siempre los bordes con `/`.** Las máscaras IA suelen fallar en cuernos, orejas, bigotes y ramas finas: corrígelas con **Brush**.
 
-**Una máscara por herramienta.** La máscara limita el efecto de **esa** herramienta a una zona. Por eso **Develop** se usa sin máscara, para toda la foto, y las zonas se trabajan con **Dodge & Burn** (pintando luz y sombra) y con **otras herramientas, cada una con su máscara**. Todo el método, paso a paso, en la [sección 4](04-ajustes-locales.md). La documentación de Skylum dice, al hablar de capas, que las herramientas se pueden aplicar "varias veces y con máscaras distintas", pero no explica cómo hacerlo con la misma herramienta en una foto: compruébalo en tu versión ([PENDIENTES](../PENDIENTES.md)).
+**Una máscara por herramienta.** La máscara limita el efecto de **esa** herramienta a una zona. Por eso **Develop** se usa sin máscara, para toda la foto, y las zonas se trabajan con **Dodge & Burn** (pintando luz y sombra) y con **otras herramientas, cada una con su máscara**. Todo el método, paso a paso, en la [sección 5](05-ajustes-locales.md). La documentación de Skylum dice, al hablar de capas, que las herramientas se pueden aplicar "varias veces y con máscaras distintas", pero no explica cómo hacerlo con la misma herramienta en una foto: compruébalo en tu versión ([PENDIENTES](../PENDIENTES.md)).
 
 ## 2.4. Capas
 
@@ -67,8 +67,8 @@ En Luminar, la mayoría de las herramientas tienen su propia pestaña **Masking*
 - **Background Removal AI:** separa el sujeto del fondo dentro de una capa.
 - **Quitar u ocultar:** clic derecho → **Remove Layer** o **Hide Layer**.
 
-Para la edición normal de un JPEG de viaje bastan las **herramientas con máscara**. Las capas sirven sobre todo para combinar imágenes, un uso que en fotos documentales conviene evitar (sección 13).
+Para la edición normal de un JPEG de viaje bastan las **herramientas con máscara**. Las capas sirven sobre todo para combinar imágenes, un uso que en fotos documentales conviene evitar (sección 14).
 
 <!-- nav -->
-[← Anterior](01-conceptos-basicos.md) · [Índice](README.md) · [Siguiente →](03-flujo-base.md)
+[← Anterior](01-conceptos-basicos.md) · [Índice](README.md) · [Siguiente →](03-herramientas-una-a-una.md)
 <!-- /nav -->

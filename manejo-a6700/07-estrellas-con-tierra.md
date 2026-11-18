@@ -88,7 +88,7 @@ Nada más.
    tienes. ¿Una rayita? Baja a 15 s. ¿Una bola? Repite el paso 3.
 7. Cuando salga la buena: **haz 10 tomas idénticas seguidas** sin tocar
    nada. En casa se apilan con un programa gratis y el ruido baja
-   muchísimo ([cómo, en retoques · noche](../retoques/08-noche.md)).
+   muchísimo ([cómo, en retoques · noche](../retoques/09-noche.md)).
 
 | Si la foto sale… | Toca… |
 |---|---|
@@ -313,7 +313,7 @@ apuntando a otra parte del cielo ([su guía](https://github.com/morandeirachema/
 - **La panorámica de la banda tumbada**: el núcleo horizontal de noviembre
   es el escenario perfecto para tu primera pano nocturna: 3–4 tomas en
   vertical, solapadas un tercio, girando solo el cabezal entre tomas, mismos
-  ajustes clavados; Luminar las une con **Panorama Stitching** ([retoques, 11.2](../retoques/11-varias-fotos.md)).
+  ajustes clavados; Luminar las une con **Panorama Stitching** ([retoques, 12.2](../retoques/12-varias-fotos.md)).
 - **Las Nubes con detalle**: la tentación de meterles el 70-350 **no
   funciona sin montura de seguimiento** (ya a 70 mm y f/4.5 el límite sin
   trazas son ~5 s → ISO absurdo y cien tomas para poco). El camino real: 11 mm

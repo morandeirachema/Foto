@@ -113,7 +113,7 @@ Con esas cinco respuestas sabes qué foto te da esa luz, qué ajuste tendrás qu
 
 | Lo que ves | La luz era… | Qué hacer |
 |---|---|---|
-| Sombras negras bajo los ojos o la tripa | Cenital y dura | Busca sombra abierta o espera a que baje el sol; al retocar, aclara solo esa zona ([retoques 4.5](../retoques/04-ajustes-locales.md)) |
+| Sombras negras bajo los ojos o la tripa | Cenital y dura | Busca sombra abierta o espera a que baje el sol; al retocar, aclara solo esa zona ([retoques 5.5](../retoques/05-ajustes-locales.md)) |
 | Cielo blanco y suelo bien | Dura, con el cielo mucho más claro que el suelo | Expón para lo que importa; al retocar, Highlights abajo |
 | Sujeto negro sobre fondo brillante | Contraluz | Compensa la exposición hacia arriba, o haz una silueta a propósito |
 | Foto plana, sin relieve | Frontal o nublada | Cambia de posición para tener luz lateral; al retocar, más contraste |

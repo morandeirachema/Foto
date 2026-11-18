@@ -151,7 +151,7 @@ Con esas cinco respuestas sabes qué foto te da esa luz, qué ajuste tendrás qu
 
 | Lo que ves | La luz era… | Qué hacer |
 |---|---|---|
-| Sombras negras bajo los ojos o la tripa | Cenital y dura | Busca sombra abierta o espera a que baje el sol; al retocar, aclara solo esa zona ([retoques 4.5](../retoques/04-ajustes-locales.md)) |
+| Sombras negras bajo los ojos o la tripa | Cenital y dura | Busca sombra abierta o espera a que baje el sol; al retocar, aclara solo esa zona ([retoques 5.5](../retoques/05-ajustes-locales.md)) |
 | Cielo blanco y suelo bien | Dura, con el cielo mucho más claro que el suelo | Expón para lo que importa; al retocar, Highlights abajo |
 | Sujeto negro sobre fondo brillante | Contraluz | Compensa la exposición hacia arriba, o haz una silueta a propósito |
 | Foto plana, sin relieve | Frontal o nublada | Cambia de posición para tener luz lateral; al retocar, más contraste |
@@ -231,7 +231,7 @@ La profundidad de campo no depende solo de la apertura: también de la **distanc
 El ISO **no hace que entre más luz**: amplifica la señal que ya ha llegado. Por eso sube también el **ruido**, sobre todo en las sombras.
 - **ISO base** (100 en muchas cámaras): la máxima calidad y el máximo **rango dinámico**.
 - **Subir el ISO** es la solución cuando no puedes bajar la velocidad (el sujeto se mueve) ni abrir más (el objetivo no da más).
-- **Mejor una foto nítida con ruido que una foto movida sin ruido:** el ruido se reduce al retocar ([retoques, paso 2](../retoques/03-flujo-base.md)); el movimiento, no.
+- **Mejor una foto nítida con ruido que una foto movida sin ruido:** el ruido se reduce al retocar ([retoques, paso 2](../retoques/04-flujo-base.md)); el movimiento, no.
 
 ## 5 · Quién decide qué: los modos
 
@@ -685,7 +685,7 @@ Es el hábito que más mejora las fotos y el que menos cuesta.
 | No sabes qué mirar | No hay un sujeto claro, o compite con otros elementos | Decide el sujeto; acércate o simplifica |
 | Todo correcto pero soso | Sujeto en el centro, punto de vista de siempre | Tercios, otro punto de vista, otra luz |
 | La foto "se cae" | Horizonte torcido | Endereza al disparar o al recortar |
-| Algo distrae en una esquina | No revisaste los bordes | Reencuadra, o recorta y retoca ([retoques 4.6](../retoques/04-ajustes-locales.md)) |
+| Algo distrae en una esquina | No revisaste los bordes | Reencuadra, o recorta y retoca ([retoques 5.6](../retoques/05-ajustes-locales.md)) |
 | El animal "choca" con el borde | Sin espacio hacia donde mira | Deja aire delante |
 | Foto plana, sin fondo | Sin capas | Busca un primer plano |
 
@@ -1808,7 +1808,7 @@ está calendarizado en el [plan de entrenamiento](https://github.com/morandeirac
 
 > 🟢 **Iniciación** · Da por sabido: nada · Te desbloquea: leer cualquier guía del repo (y cualquier foro de fotografía) sin perderte.
 
-Los términos de retoque y de Luminar (máscara, Feather, HSL, bandas…) están en el [glosario de retoques](../retoques/17-glosario.md).
+Los términos de retoque y de Luminar (máscara, Feather, HSL, bandas…) están en el [glosario de retoques](../retoques/18-glosario.md).
 
 Aquí no se enseña nada nuevo: se **traduce**. Cada término, una frase, y dónde
 te lo vas a encontrar. El porqué de casi todos está en

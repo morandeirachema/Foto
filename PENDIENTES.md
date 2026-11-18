@@ -40,15 +40,17 @@ La auditoría confirmó las 79 rutas, pero estos nombres no se pudieron localiza
 ## 4 · Luminar
 
 - [ ] **Versión exacta** (menú Luminar → Acerca de) y **tipo de licencia**. Las herramientas *Improved* (Crop AI, Atmosphere AI, GenExpand) requieren 1.29.0 o posterior y una licencia que las incluya.
-- [ ] Herramienta **Color → HSL**: ¿qué colores aparecen? La documentación de Skylum no los enumera ([retoques, paso 7](retoques/03-flujo-base.md)).
-- [ ] **Exportar**: ¿qué opciones salen en *Color Space*? ¿Hay alguna opción para quitar metadatos o la ubicación GPS? ([retoques, 12](retoques/12-exportar.md))
+- [ ] Herramienta **Color → HSL**: ¿qué colores aparecen? La documentación de Skylum no los enumera ([retoques, paso 7](retoques/04-flujo-base.md)).
+- [ ] **Exportar**: ¿qué opciones salen en *Color Space*? ¿Hay alguna opción para quitar metadatos o la ubicación GPS? ([retoques, 13](retoques/13-exportar.md))
 - [ ] Para el futuro con RAW: ¿abre Luminar los **`.ARW` comprimidos sin pérdida** de la a6700? Prueba con la foto de la sección 1.
-- [ ] ¿Se puede añadir **la misma herramienta dos veces** (por ejemplo, Develop) con máscaras distintas? Prueba a añadir Develop de nuevo después de usarlo. Si se puede, las guías pueden usar Develop + Mask AI para aclarar u oscurecer zonas con precisión ([retoques, 4.2](retoques/04-ajustes-locales.md)).
+- [ ] ¿Se puede añadir **la misma herramienta dos veces** (por ejemplo, Develop) con máscaras distintas? Prueba a añadir Develop de nuevo después de usarlo. Si se puede, las guías pueden usar Develop + Mask AI para aclarar u oscurecer zonas con precisión ([retoques, 5.2](retoques/05-ajustes-locales.md)).
+- [ ] **La escala de cada deslizador:** Skylum no publica los rangos. La primera vez que abras Develop, Structure AI, Dodge & Burn, Vignette y Film Grain, anota hasta dónde llega cada deslizador (por ejemplo, de −100 a +100) y ajusto los números de [Las herramientas, una a una](retoques/03-herramientas-una-a-una.md) si hace falta.
+- [ ] **El tamaño de tus JPEG de Namibia:** en Luminar, pestaña **Info** (**`I`**). Si es **6192 × 4128**, la cámara estaba en **L (26M)** y valen las cuentas de impresión de [retoques 13.5](retoques/13-exportar.md#135-tus-fotos-compartir-con-la-familia-e-imprimir).
 - [ ] ¿Lee Luminar las **estrellas** que pones en la cámara (`Valoración`)? Marca una foto con 3 estrellas y ábrela en el catálogo.
 
 ## 5 · Fotos de muestra para las recetas
 
-Las [recetas completas](retoques/09-recetas.md) están marcadas como provisionales hasta probarlas con fotos reales.
+Las [recetas completas](retoques/10-recetas.md) están marcadas como provisionales hasta probarlas con fotos reales.
 
 - [ ] Elige JPEG del viaje: un animal (ideal, león o similar al amanecer), unas dunas o un atardecer, un cielo nocturno y una escena con fuego o luces.
 - [ ] Ponlas en una carpeta, por ejemplo `~/code/Foto/samples/`.
@@ -59,7 +61,7 @@ Las [recetas completas](retoques/09-recetas.md) están marcadas como provisional
 - [x] **El 70-350 prestado**: sigue contigo una temporada (18 de noviembre de 2026). Las guías siguen contando con él; si lo devuelves, avisa y las ajusto.
 - [ ] El estado del equipo de [equipo y accesorios](manejo-a6700/10-equipo-accesorios.md) es del **25 de octubre**. ¿Ha cambiado algo?
 - [ ] **Capturas de los menús:** el [guion](manejo-a6700/img/menus/) tiene 14 imprescindibles (marcadas ★). Hazlas con el móvil y ejecuta `python3 manejo-a6700/img/menus/insertar.py`.
-- [ ] En **macOS Vista Previa**: comprueba que la ruta para quitar la ubicación de una foto es la de [retoques, 13.3](retoques/13-etica.md) (Herramientas → Mostrar inspector → ubicación).
+- [ ] En **macOS Vista Previa**: comprueba que la ruta para quitar la ubicación de una foto es la de [retoques, 14.3](retoques/14-etica.md) (Herramientas → Mostrar inspector → ubicación).
 
 ## 7 · Decisiones
 

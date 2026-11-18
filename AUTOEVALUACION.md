@@ -159,28 +159,28 @@ La regla directa: **¿el sujeto sale quemado (demasiado blanco)? → −. ¿Sale
 <details><summary>Respuesta</summary>
 
 Porque **aclarar y contrastar amplifican el ruido**. Si lo quitas al principio, los pasos siguientes trabajan sobre una base limpia.
-→ [Retoques 3 · Paso 2](retoques/03-flujo-base.md)
+→ [Retoques 4 · Paso 2](retoques/04-flujo-base.md)
 </details>
 
 **3. ¿Qué diferencia hay entre Vibrance y Saturation, y cuál usas con pelaje, piel o arena?**
 <details><summary>Respuesta</summary>
 
 **Saturation** sube todos los colores por igual. **Vibrance** sube sobre todo los apagados y protege los que ya son intensos. Con pelaje, piel o arena, casi siempre **Vibrance**.
-→ [Retoques 3 · Paso 7](retoques/03-flujo-base.md)
+→ [Retoques 4 · Paso 7](retoques/04-flujo-base.md)
 </details>
 
 **4. Quieres aclarar solo los ojos de un león. ¿Qué herramienta, con qué pincel, y qué le pasa técnicamente a la foto?**
 <details><summary>Respuesta</summary>
 
 **Dodge & Burn → Lighten**: pincel **más pequeño que el iris**, **Softness alta** y **Strength baja**, en varias pasadas, solo sobre el iris. Técnicamente subes el brillo de esos píxeles: el ojo gana **contraste local** con su entorno y atrae la mirada. Si aparece ruido de color, te has pasado.
-→ [Retoques 4.4](retoques/04-ajustes-locales.md#44-paso-a-paso-aclarar-los-ojos-de-un-animal)
+→ [Retoques 5.4](retoques/05-ajustes-locales.md#54-paso-a-paso-aclarar-los-ojos-de-un-animal)
 </details>
 
 **5. ¿Por qué en Luminar no basta con poner una máscara a Develop para aclarar el animal, si ya usaste Develop para toda la foto?**
 <details><summary>Respuesta</summary>
 
 Porque la máscara limita **ese** ajuste: toda tu corrección global pasaría a afectar solo al animal. El método es Develop sin máscara para toda la foto, y la zona con **Dodge & Burn** u otra herramienta con su propia máscara.
-→ [Retoques 4.2](retoques/04-ajustes-locales.md#42-cómo-funcionan-las-máscaras-en-luminar)
+→ [Retoques 5.2](retoques/05-ajustes-locales.md#52-cómo-funcionan-las-máscaras-en-luminar)
 </details>
 
 **6. Las estrellas salen como rayitas con el 11 mm a 20 s. ¿Es el enfoque? ¿Qué cambias?**
@@ -201,7 +201,7 @@ La receta de **astro**: M, 20 s, **f/1.8**, ISO 1600, balance de blancos **3900 
 <details><summary>Respuesta</summary>
 
 Al **sujeto**, un poco más de **luz**, **contraste** y **nitidez/textura**. Al **fondo**, un poco **menos** de luz, saturación y textura. La mirada va a lo más claro, contrastado y nítido. Los cambios tienen que ser pequeños.
-→ [Retoques 1.7](retoques/01-conceptos-basicos.md#17-ajustes-globales-y-locales) · [Retoques 3 · Paso 9](retoques/03-flujo-base.md)
+→ [Retoques 1.7](retoques/01-conceptos-basicos.md#17-ajustes-globales-y-locales) · [Retoques 4 · Paso 9](retoques/04-flujo-base.md)
 </details>
 
 **9. Retratas a una persona a f/1.7 y el fondo sale demasiado nítido. Sin cambiar de objetivo ni de apertura, ¿qué haces?**

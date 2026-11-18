@@ -74,7 +74,7 @@ Es el hábito que más mejora las fotos y el que menos cuesta.
 | No sabes qué mirar | No hay un sujeto claro, o compite con otros elementos | Decide el sujeto; acércate o simplifica |
 | Todo correcto pero soso | Sujeto en el centro, punto de vista de siempre | Tercios, otro punto de vista, otra luz |
 | La foto "se cae" | Horizonte torcido | Endereza al disparar o al recortar |
-| Algo distrae en una esquina | No revisaste los bordes | Reencuadra, o recorta y retoca ([retoques 4.6](../retoques/04-ajustes-locales.md)) |
+| Algo distrae en una esquina | No revisaste los bordes | Reencuadra, o recorta y retoca ([retoques 5.6](../retoques/05-ajustes-locales.md)) |
 | El animal "choca" con el borde | Sin espacio hacia donde mira | Deja aire delante |
 | Foto plana, sin fondo | Sin capas | Busca un primer plano |
 

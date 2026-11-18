@@ -71,7 +71,7 @@ Para un primer plano a menos de ~2 m y el fondo nítido a la vez, el objetivo es
 ## Astro con el 25 mm: cuándo sí y cuándo no
 
 - **Tiempo máximo sin trazos (regla del 500, aproximada):** 500 ÷ 37,5 ≈ **13 s**. Empieza en **10–13 s**, frente a los 20 s del 11 mm. Con la misma apertura, menos segundos dan menos luz: compensa con **ISO 3200**.
-- **Para qué sirve:** un trozo de cielo **más cerrado** (el núcleo de la Vía Láctea, una constelación) o una **panorámica** de varias tomas que luego une Luminar (**Panorama Stitching**, [retoques 11.2](../retoques/11-varias-fotos.md)).
+- **Para qué sirve:** un trozo de cielo **más cerrado** (el núcleo de la Vía Láctea, una constelación) o una **panorámica** de varias tomas que luego une Luminar (**Panorama Stitching**, [retoques 12.2](../retoques/12-varias-fotos.md)).
 - **Para qué no:** la postal con todo el cielo y un árbol cerca. Ahí manda el 11 mm.
 - **Comprueba las esquinas** en tu primera noche: amplía al 100 % una estrella de la esquina. Si sale con "alitas" o alargada, cierra a f/2.8. Las fuentes consultadas para esta guía no evalúan su comportamiento en astro, así que compruébalo tú.
 

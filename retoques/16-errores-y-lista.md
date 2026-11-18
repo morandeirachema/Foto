@@ -1,12 +1,12 @@
 <!-- nav -->
-[← Anterior](14-disparar-mejores-jpeg.md) · [Índice](README.md) · [Siguiente →](16-atajos.md)
+[← Anterior](15-disparar-mejores-jpeg.md) · [Índice](README.md) · [Siguiente →](17-atajos.md)
 <!-- /nav -->
 
 *Parte V · Referencia*
 
-# 15. Errores típicos y lista de comprobación
+# 16. Errores típicos y lista de comprobación
 
-## 15.1. Los errores más frecuentes
+## 16.1. Los errores más frecuentes
 
 | Error | Cómo se reconoce | Solución en Luminar |
 |---|---|---|
@@ -24,7 +24,7 @@
 | **Fotos de una serie que no casan** | Una más saturada u oscura que las demás | Sync Adjustments y revisión conjunta |
 | **Editar cansado** | Al día siguiente todo parece exagerado | Descansar y bajar lo que sobre |
 
-## 15.2. Lista de comprobación
+## 16.2. Lista de comprobación
 
 ```
 PREPARAR
@@ -69,5 +69,5 @@ REVISIÓN Y SALIDA
 ```
 
 <!-- nav -->
-[← Anterior](14-disparar-mejores-jpeg.md) · [Índice](README.md) · [Siguiente →](16-atajos.md)
+[← Anterior](15-disparar-mejores-jpeg.md) · [Índice](README.md) · [Siguiente →](17-atajos.md)
 <!-- /nav -->

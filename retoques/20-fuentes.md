@@ -1,10 +1,10 @@
 <!-- nav -->
-[← Anterior](18-preguntas-frecuentes.md) · [Índice](README.md)
+[← Anterior](19-preguntas-frecuentes.md) · [Índice](README.md)
 <!-- /nav -->
 
 *Parte V · Referencia*
 
-# 19. Fuentes
+# 20. Fuentes
 
 Los nombres de las herramientas, los controles, los atajos y los límites técnicos de esta guía se han comprobado con la documentación oficial de Skylum (noviembre de 2026). Los valores numéricos de ajuste son **recomendaciones de esta guía**, no de Skylum.
 
@@ -59,5 +59,5 @@ Los nombres de las herramientas, los controles, los atajos y los límites técni
 - [GenErase](https://support.skylum.com/extra-tools/generative-tools/generase) · [GenSwap](https://support.skylum.com/extra-tools/generative-tools/genswap) · [GenExpand](https://support.skylum.com/extra-tools/generative-tools/genexpand)
 
 <!-- nav -->
-[← Anterior](18-preguntas-frecuentes.md) · [Índice](README.md)
+[← Anterior](19-preguntas-frecuentes.md) · [Índice](README.md)
 <!-- /nav -->

@@ -8,7 +8,7 @@
 
 > 🟢 **Iniciación** · Da por sabido: nada · Te desbloquea: leer cualquier guía del repo (y cualquier foro de fotografía) sin perderte.
 
-Los términos de retoque y de Luminar (máscara, Feather, HSL, bandas…) están en el [glosario de retoques](../retoques/17-glosario.md).
+Los términos de retoque y de Luminar (máscara, Feather, HSL, bandas…) están en el [glosario de retoques](../retoques/18-glosario.md).
 
 Aquí no se enseña nada nuevo: se **traduce**. Cada término, una frase, y dónde
 te lo vas a encontrar. El porqué de casi todos está en

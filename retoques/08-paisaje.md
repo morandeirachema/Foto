@@ -1,12 +1,12 @@
 <!-- nav -->
-[← Anterior](06-safari.md) · [Índice](README.md) · [Siguiente →](08-noche.md)
+[← Anterior](07-safari.md) · [Índice](README.md) · [Siguiente →](09-noche.md)
 <!-- /nav -->
 
 *Parte III · Por tipo de foto*
 
-# 7. Paisaje
+# 8. Paisaje
 
-## 7.1. Problemas típicos
+## 8.1. Problemas típicos
 
 | Problema | Por qué ocurre |
 |---|---|
@@ -17,7 +17,7 @@
 | **Bandas en el cielo** | Degradados suaves en un JPEG de 8 bits |
 | **Distorsión y esquinas oscuras** | Gran angular, sobre todo en móviles |
 
-## 7.2. Paso a paso
+## 8.2. Paso a paso
 
 **1. Horizonte y encuadre**
 - **`C`** → **Auto Straighten**.
@@ -33,14 +33,14 @@
 **3. Equilibrar cielo y suelo (el paso más importante)**
 - **Highlights** −30 a −60 para el cielo; **Shadows** +20 a +40 para el suelo.
 - Después, en local:
-  - **Cielo:** **Dodge & Burn → Darken**, pincel grande y suave ([sección 4.6](04-ajustes-locales.md)). Para más contraste solo en el cielo, **Supercontrast** con máscara **Mask AI → cielo** o **Gradient** (**`G`**).
+  - **Cielo:** **Dodge & Burn → Darken**, pincel grande y suave ([sección 5.6](05-ajustes-locales.md)). Para más contraste solo en el cielo, **Supercontrast** con máscara **Mask AI → cielo** o **Gradient** (**`G`**).
   - **Suelo:** **Dodge & Burn → Lighten** suave, o **Light Depth → Brightness Near** si el suelo es el primer plano.
 - **¿Mask AI o Gradient?** **Mask AI** respeta las formas (montañas, árboles). El **Gradient** es más natural con horizontes rectos (mar, sabana plana) y no deja bordes raros alrededor de los árboles.
 - **Luminosity Masking** es otra opción: selecciona solo las zonas más claras (el cielo) por su brillo.
 
 **4. Profundidad**
 - **Landscape → Dehaze** +10 a +20 si hay calima. Más oscurece y satura.
-- **Light Depth:** primer plano un poco más claro y cálido; fondo algo más frío (sección 5.5).
+- **Light Depth:** primer plano un poco más claro y cálido; fondo algo más frío (sección 6.5).
 - **Perspectiva atmosférica:** lo cercano es más contrastado, cálido y saturado; lo lejano, más claro, frío y suave. Reforzar esa diferencia da profundidad.
 - **Error frecuente:** un Dehaze fuerte en toda la foto **elimina** esa perspectiva. Mejor un Dehaze suave, o con máscara solo donde haga falta.
 
@@ -59,14 +59,14 @@
 
 **6. Textura**
 - **Structure AI** +15 a +25 con la **máscara del cielo invertida**. El cielo no necesita textura: si se la das, aparecen ruido y bandas.
-- **Supercontrast → Midtones** +10/+20 como alternativa más limpia (sección 5.2).
+- **Supercontrast → Midtones** +10/+20 como alternativa más limpia (sección 6.2).
 - **Dunas y roca:** algo más de Structure AI, y Light Depth para marcar las crestas.
 
 **7. Acabado**
 - **Vignette** muy suave (−10).
 - **Film Grain** con **Amount** bajo si el cielo muestra bandas.
 
-## 7.3. Casos concretos
+## 8.3. Casos concretos
 
 **Desierto y dunas:**
 - La cámara suele **subexponer** la arena clara: Exposure +0,3/+0,5.
@@ -109,5 +109,5 @@
 **Cambiar el cielo (Sky AI):** técnicamente es fácil, pero en una foto documental o de viaje **convierte la foto en un montaje**. Úsalo solo en fotos creativas y dilo si las compartes.
 
 <!-- nav -->
-[← Anterior](06-safari.md) · [Índice](README.md) · [Siguiente →](08-noche.md)
+[← Anterior](07-safari.md) · [Índice](README.md) · [Siguiente →](09-noche.md)
 <!-- /nav -->

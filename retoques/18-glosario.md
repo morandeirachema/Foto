@@ -1,10 +1,10 @@
 <!-- nav -->
-[← Anterior](16-atajos.md) · [Índice](README.md) · [Siguiente →](18-preguntas-frecuentes.md)
+[← Anterior](17-atajos.md) · [Índice](README.md) · [Siguiente →](19-preguntas-frecuentes.md)
 <!-- /nav -->
 
 *Parte V · Referencia*
 
-# 17. Glosario
+# 18. Glosario
 
 Los términos de Luminar y del retoque. Los de cámara, luz y exposición (ISO, apertura, ETTR, hiperfocal…) están en el [glosario de conceptos](../conceptos/11-glosario.md).
 
@@ -32,5 +32,5 @@ Los términos de Luminar y del retoque. Los de cámara, luz y exposición (ISO, 
 | **Viñeteado** | Oscurecimiento de las esquinas |
 
 <!-- nav -->
-[← Anterior](16-atajos.md) · [Índice](README.md) · [Siguiente →](18-preguntas-frecuentes.md)
+[← Anterior](17-atajos.md) · [Índice](README.md) · [Siguiente →](19-preguntas-frecuentes.md)
 <!-- /nav -->

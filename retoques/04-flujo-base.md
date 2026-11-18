@@ -1,10 +1,10 @@
 <!-- nav -->
-[← Anterior](02-luminar-por-dentro.md) · [Índice](README.md) · [Siguiente →](04-ajustes-locales.md)
+[← Anterior](03-herramientas-una-a-una.md) · [Índice](README.md) · [Siguiente →](05-ajustes-locales.md)
 <!-- /nav -->
 
 *Parte II · El método*
 
-# 3. El flujo base: 10 pasos
+# 4. El flujo base: 10 pasos
 
 Este es el esqueleto que usarás en todas las fotos. Las secciones de safari, paisaje y noche explican **qué cambia** en cada caso.
 
@@ -54,7 +54,7 @@ Este es el esqueleto que usarás en todas las fotos. Las secciones de safari, pa
 - **Whites** y **Blacks:** hasta que el aviso de recorte apenas aparezca.
 - **Smart Contrast:** +10 a +25.
 - **El truco de los extremos:** con **`J`** activo, sube **Whites** hasta que aparezca el primer aviso y retrocede un poco; baja **Blacks** hasta el primer aviso y retrocede. Así usas todo el rango sin perder detalle.
-- **Shadows y Highlights tienen un límite.** Si los llevas muy lejos en un JPEG, la foto se vuelve gris y plana. Si necesitas más, usa una máscara o las Curvas (sección 5.1).
+- **Shadows y Highlights tienen un límite.** Si los llevas muy lejos en un JPEG, la foto se vuelve gris y plana. Si necesitas más, usa una máscara o las Curvas (sección 6.1).
 - **Por qué:** primero colocas cada zona de brillo en su sitio; luego das contraste.
 
 ### Paso 5 · Color: balance de blancos
@@ -89,7 +89,7 @@ Este es el esqueleto que usarás en todas las fotos. Las secciones de safari, pa
 
 ### Paso 9 · Ajustes locales: máscaras
 
-Aquí se trabaja por zonas: **Dodge & Burn** para aclarar u oscurecer pintando, y la pestaña **Masking** de otras herramientas (Structure AI, Color…) para lo demás. **Todo el paso a paso, desde cero, en la [sección 4](04-ajustes-locales.md).**
+Aquí se trabaja por zonas: **Dodge & Burn** para aclarar u oscurecer pintando, y la pestaña **Masking** de otras herramientas (Structure AI, Color…) para lo demás. **Todo el paso a paso, desde cero, en la [sección 5](05-ajustes-locales.md).**
 
 **El esquema de tres zonas:**
 1. **Sujeto:** un poco más claro, contrastado y nítido.
@@ -106,10 +106,32 @@ Aquí se trabaja por zonas: **Dodge & Burn** para aclarar u oscurecer pintando, 
 - **Vignette:** −10 a −20, si encaja. **Choose Subject** coloca el centro del viñeteado sobre el sujeto.
 - **Film Grain:** **Amount** 5–10 si ves bandas en el cielo.
 - **`\`** (mantener) para comparar con el original. Revisa al 100 %, descansa 5 minutos y **baja lo que sobre**.
-- **Exportar** (**`⇧⌘E`**): sección 12.
+- **Exportar** (**`⇧⌘E`**): sección 13.
 
 **La regla del descanso.** Tras un rato mirando una foto, el ojo se acostumbra a la saturación y al contraste, y siempre parece que "falta un poco más". Por eso las fotos editadas de un tirón suelen verse exageradas al día siguiente. Descansa, vuelve a mirarlas y baja lo que sobre.
 
+## Rescatar un JPEG difícil
+
+Con un JPEG no hay RAW al que volver, pero Luminar tiene herramientas para casi cada problema. Lo importante es saber **qué se puede arreglar, qué solo se puede disimular y qué no tiene arreglo**. Las herramientas marcadas con ✳️ **inventan** contenido: úsalas sin problema en tu álbum, y dilo si presentas la foto como documento ([sección 14](14-etica.md)).
+
+| Problema | Qué hacer en Luminar | Qué esperar |
+|---|---|---|
+| **Muy oscura** | Develop: Exposure **+0,5 a +1**, Shadows **+30 a +50**; antes, **Noiseless AI** (nivel propuesto o uno más) | Se arregla bastante; el límite lo pone el ruido que aparece en las sombras |
+| **Cielo quemado (blanco puro)** | Highlights **−50 a −60** suaviza el borde. Para tener cielo: ✳️ **Sky AI** (sustituye el cielo) | Sin Sky AI **no se recupera**: no hay información. Con Sky AI, cielo nuevo |
+| **Mucho ruido** (ISO alto, noche) | **Noiseless AI** en **High**; Color Denoise alto; Details **+10** para no perder pelo | Muy buen resultado; revisa al 100 % que el pelo o las estrellas no parezcan de plástico |
+| **Algo movida o blanda** | **Supersharp AI**, modo **Motion Blur**, nivel **Low** (sube a Middle si no basta) | Mejora un movimiento ligero; una foto muy movida no se salva |
+| **Desenfocada** (el foco se fue al fondo) | Supersharp AI, modo **Universal**, nivel **Low** | Mejora poco: el desenfoque real no se puede reconstruir |
+| **Animal muy pequeño** (recorte fuerte) | Recorta y, **al final**, ✳️ **Upscale** (hasta 6×; empieza por 2×) | Válida para pantalla o una copia pequeña; revisa al 100 % que no invente textura |
+| **Color raro** (dominante) | **Remove Color Cast**; si no basta, Temperature y Tint **±10**; dominante solo en las sombras: Color Harmony → Color Balance | Se corrige bien si no es extrema |
+| **Plana, sin contraste** (calima, nublado) | **Dehaze +15**, Smart Contrast **+20**, Supercontrast → Midtones **+15** | Mejora mucho |
+| **Bandas en el cielo** | Retoques más suaves en el cielo; **Film Grain** Amount **8** | Se disimulan, no desaparecen |
+| **Manchas de polvo del sensor** | **Remove Dust Spots**; luego Erase en las que queden | Se arregla del todo |
+| **Un cable, una rama, un vehículo que estorba** | **Erase** (pequeño); ✳️ **GenErase** (grande o difícil); cables en el cielo: **Remove Powerlines** | Se arregla del todo |
+| **Encuadre demasiado justo** | ✳️ **GenExpand**: amplía hasta un 25 %, mejor de un lado cada vez | Útil para ganar aire o cambiar la proporción |
+| **Contraluz con el animal negro** | Shadows **+40**; Dodge & Burn → Lighten sobre el animal ([sección 5.5](05-ajustes-locales.md)) | Vuelve algo de detalle; con mucho ruido, acepta la silueta |
+
+**El orden en una foto difícil:** primero el ruido y el movimiento (Noiseless AI, Supersharp AI), luego la luz y el color, luego las herramientas que inventan contenido y, **al final de todo**, Upscale.
+
 <!-- nav -->
-[← Anterior](02-luminar-por-dentro.md) · [Índice](README.md) · [Siguiente →](04-ajustes-locales.md)
+[← Anterior](03-herramientas-una-a-una.md) · [Índice](README.md) · [Siguiente →](05-ajustes-locales.md)
 <!-- /nav -->
