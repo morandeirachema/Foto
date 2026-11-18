@@ -234,6 +234,10 @@ formatearla.
 
 ---
 
+## Con el Viltrox 25 mm montado
+
+El Viltrox **no tiene interruptor AF/MF**: con él, manda `Enfoque → [AF/MF] → [Modo de enfoque]` (para MF, `Enfoque man.`). Para cambiar rápido, asigna **`Alter. select. AF/MF`** a un botón libre en `Ajustes → [Personal. operac.] → [Ajuste t. pers./dial]`. Si cargas **MR2** (astro) con el Viltrox, comprueba en pantalla que la cámara queda en MF. Todo en [su guía](11-viltrox-25mm.md).
+
 ## Si un ajuste no aparece
 
 | Síntoma | Causa | Solución |

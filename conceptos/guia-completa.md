@@ -8,32 +8,144 @@
 ## Cómo está organizada
 
 **Parte I · La luz y la exposición**
-1. El histograma por escenario
-2. Balance de blancos por escena
-3. Por qué funciona: el modelo detrás de las recetas
+1. La luz
+2. El histograma por escenario
+3. Balance de blancos por escena
+4. Por qué funciona: el modelo detrás de las recetas
 
 **Parte II · La composición y la mirada**
 
-4. Atlas de encuadres
-5. La mirada
-6. Cuaderno de composición *(para imprimir)*
+5. Atlas de encuadres
+6. La mirada
+7. Cuaderno de composición *(para imprimir)*
 
 **Parte III · Referencia**
 
-7. Glosario
+8. Glosario
 
 ## Cómo leerla
 
 - **Cada capítulo abre con su nivel:** 🟢 **Iniciación** (nunca has manejado una cámara en serio) · 🔵 **Básico** (las recetas) · 🔴 **Avanzado** (el porqué, y la foto que no es correcta sino buena). Debajo indica qué da por sabido y qué te desbloquea.
 - **Los ejemplos son de un viaje real** (safari, paisaje y cielos nocturnos en Namibia), pero los conceptos valen en cualquier sitio.
 - **"Capítulo N"** en un capítulo de conceptos se refiere a [Manejo de la a6700](../manejo-a6700/00-introduccion.md), salvo que el enlace diga otra cosa.
-- **Para empezar desde cero:** el [glosario](07-glosario.md) y el [histograma](01-histograma.md). Para entender por qué funcionan las recetas: [Por qué funciona](03-por-que-funciona.md).
+- **Para empezar desde cero:** sigue la [ruta de aprendizaje](../RUTA.md), que ordena las tres secciones del repo de cero a avanzado. Aquí, empieza por [la luz](01-la-luz.md), el [glosario](08-glosario.md) y el [histograma](02-histograma.md). Para entender por qué funcionan las recetas: [Por qué funciona](04-por-que-funciona.md).
 
 ---
 
 *Parte I · La luz y la exposición*
 
-# 1. El histograma por escenario — chuleta visual
+# 1. La luz — cuánta hay, cómo es, de dónde viene y de qué color
+
+> 🟢 **Iniciación** · Da por sabido: nada · Te desbloquea: mirar una escena y saber, antes de disparar, qué foto te va a dar esa luz y qué tendrás que corregir.
+
+**Qué resuelve.** Una cámara no fotografía cosas: fotografía **la luz que rebota en las cosas**. La misma duna es una mancha plana a mediodía y una escultura al amanecer; la misma cara es dura al sol y suave a la sombra. Este capítulo te enseña a leer la luz con **cuatro preguntas**. Todo lo demás (exposición, balance de blancos, composición, retoque) consiste en responder a lo que te diga la luz.
+
+## Las cuatro preguntas, en una tabla
+
+| Pregunta | Qué miras | Qué decide |
+|---|---|---|
+| **¿Cuánta hay?** | Si la escena es luminosa u oscura | La **exposición**: velocidad, apertura e ISO ([capítulo 1](../manejo-a6700/01-de-movil-a-la-a6700.md)) |
+| **¿Cómo es?** | Si las sombras tienen el borde **nítido** (dura) o **difuso** (suave) | El **contraste** de la foto y si cabe entera en el archivo |
+| **¿De dónde viene?** | Delante, de lado, detrás o desde arriba del sujeto | El **volumen**, la textura y el ambiente |
+| **¿De qué color es?** | Cálida (naranja), neutra o fría (azulada) | El **balance de blancos** y el ambiente |
+
+## 1 · Cuánta luz: la exposición
+
+La cámara necesita una **cantidad** concreta de luz para que la foto no salga ni oscura ni quemada. La reúne con tres controles: **velocidad de obturación** (cuánto tiempo entra), **apertura** (por qué agujero entra) e **ISO** (cuánto se amplifica). Cada uno tiene un precio: movimiento, profundidad de campo o ruido. Lo explican, de menos a más:
+- El [capítulo 1 de manejo](../manejo-a6700/01-de-movil-a-la-a6700.md): los tres números y el **paso**.
+- [El histograma](02-histograma.md): cómo saber si la cantidad es la correcta sin fiarte de la pantalla.
+- [Por qué funciona](04-por-que-funciona.md): el modelo completo.
+
+**Lo que conviene retener ya:** **un paso** es el doble (o la mitad) de luz. Abrir un paso el diafragma, duplicar el tiempo o duplicar el ISO dan la misma claridad, cada uno con su precio.
+
+## 2 · Cómo es la luz: dura o suave
+
+**La regla:** lo que decide si una luz es dura o suave es el **tamaño aparente** de la fuente vista desde el sujeto.
+- **Luz dura:** fuente **pequeña** o muy lejana. El sol en un cielo despejado es enorme, pero está tan lejos que, visto desde la Tierra, es un punto. Da **sombras de borde nítido**, mucho contraste y colores intensos.
+- **Luz suave:** fuente **grande**. Un cielo nublado entero, la luz que entra por una ventana grande, la **sombra abierta** (un sitio en sombra pero que ve mucho cielo). Da **sombras graduales**, poco contraste y piel o pelaje más amables.
+
+**Qué significa para la foto:**
+- Con luz dura, la diferencia entre la zona más clara y la más oscura puede ser **mayor de lo que el archivo puede guardar** (su *rango dinámico*). Tendrás que elegir qué sacrificar: o se quema el cielo, o se empastan las sombras. Un JPEG tiene menos margen que un RAW para recuperarlo después ([retoques 1.1](../retoques/01-conceptos-basicos.md)).
+- Con luz suave, todo cabe con facilidad, pero la foto puede quedar **plana**: le faltará contraste y habrá que dárselo con cuidado al retocar.
+
+| Luz | Para qué es buena | Para qué es mala | Qué haces |
+|---|---|---|---|
+| Sol directo de mediodía | Texturas duras, blanco y negro, siluetas | Caras y animales (sombras negras bajo los ojos) | Busca sombra abierta, o asume el contraste y piensa en blanco y negro |
+| Sol bajo (amanecer, atardecer) | Casi todo: volumen, color cálido, sombras largas | Escenas donde el sol entra en el objetivo sin querer | Aprovéchala: es la mejor hora |
+| Nublado | Retrato, fauna, bosque, cascadas | Paisajes amplios con cielo blanco | Deja fuera el cielo y fotografía detalles |
+| Sombra abierta | Retratos con luz suave en día de sol | Fondos con sol detrás (se queman) | Coloca a la persona en la sombra mirando hacia el cielo abierto |
+
+## 3 · De dónde viene: la dirección
+
+| Dirección | Qué hace | Ejemplo |
+|---|---|---|
+| **Frontal** (la luz detrás de ti) | Ilumina todo por igual: colores fieles, **poco volumen** | Un animal de frente con el sol a tu espalda: nítido pero plano |
+| **Lateral** | Una mitad iluminada, otra en sombra: **volumen y textura** | Las ondas de una duna, la piel de un elefante |
+| **Rasante** (lateral y muy baja) | Exagera cada relieve | La arena al amanecer: cada grano proyecta sombra |
+| **Contraluz** (la luz detrás del sujeto) | **Siluetas** y bordes iluminados; polvo y pelo brillan | Una acacia negra contra el atardecer |
+| **Cenital** (desde arriba) | Sombras cortas y negras bajo ojos, cuello y tripa | Mediodía: la luz más difícil para fauna y personas |
+
+**Qué significa para la foto:** el volumen que vemos en una foto plana (que solo tiene dos dimensiones) **lo crean las sombras**. Sin sombras no hay relieve; con demasiadas, no hay detalle. Por eso la luz lateral y baja es la favorita del paisaje, y la frontal, la más segura pero la más sosa.
+
+**Con contraluz, la cámara se equivoca:** ve mucha luz de fondo y oscurece la foto. El sujeto sale negro. O lo aceptas (silueta) o compensas la exposición hacia arriba y dejas que el fondo se queme ([capítulo 1 de manejo, "Medición"](../manejo-a6700/01-de-movil-a-la-a6700.md#medición-por-qué-la-cámara-se-equivoca-y-cómo-corregirla)).
+
+## 4 · De qué color es
+
+La luz "blanca" no existe en la práctica: cada fuente tiene su color, medido como **temperatura de color** en grados **Kelvin (K)**. Las cifras bajas son cálidas (naranjas) y las altas, frías (azuladas). El ojo humano se adapta y casi no lo nota; la cámara, sí.
+
+| Luz | Color | En la foto |
+|---|---|---|
+| Fuego, vela, bombilla incandescente | Muy cálida | Naranja intenso |
+| Amanecer y atardecer (hora dorada) | Cálida | Dorada |
+| Sol de mediodía | Neutra | Colores fieles |
+| Nublado | Algo fría | Ligeramente azulada |
+| Sombra con cielo azul | Fría | Azulada |
+| Después de la puesta (hora azul) | Muy fría | Azul intenso |
+
+**Qué significa para la foto:** el **balance de blancos** le dice a la cámara (o a Luminar) qué luz debe tomar como "blanca". No se trata de dejarlo todo neutro, sino de que sea **creíble**: un atardecer tiene que seguir siendo cálido. Los valores por escena, en [Balance de blancos](03-balance-de-blancos.md); cómo corregirlo al retocar, en [retoques 1.4](../retoques/01-conceptos-basicos.md).
+
+**Dos luces de distinto color en la misma foto** (un fuego y la luna, una farola y el cielo) nunca quedan neutras a la vez. Elige cuál debe parecer normal y deja la otra con su color.
+
+## Leer la luz en 30 segundos
+
+Antes de levantar la cámara:
+1. **¿Cuánta?** ¿Me hará falta subir mucho el ISO o bajar la velocidad?
+2. **¿Dura o suave?** Mira una sombra: ¿tiene el borde nítido o difuso?
+3. **¿De dónde?** ¿El sol está detrás de mí, de lado o detrás del sujeto?
+4. **¿De qué color?** ¿Cálida, neutra o fría? ¿Hay dos luces distintas?
+5. **¿Qué se va a quemar o a empastar?** Normalmente, el cielo o las sombras.
+
+Con esas cinco respuestas sabes qué foto te da esa luz, qué ajuste tendrás que hacer en la cámara y qué tendrás que corregir al retocar.
+
+## Si la foto sale mal…
+
+| Lo que ves | La luz era… | Qué hacer |
+|---|---|---|
+| Sombras negras bajo los ojos o la tripa | Cenital y dura | Busca sombra abierta o espera a que baje el sol; al retocar, aclara solo esa zona ([retoques 4.5](../retoques/04-ajustes-locales.md)) |
+| Cielo blanco y suelo bien | Dura, con el cielo mucho más claro que el suelo | Expón para lo que importa; al retocar, Highlights abajo |
+| Sujeto negro sobre fondo brillante | Contraluz | Compensa la exposición hacia arriba, o haz una silueta a propósito |
+| Foto plana, sin relieve | Frontal o nublada | Cambia de posición para tener luz lateral; al retocar, más contraste |
+| Todo naranja o todo azul | Muy cálida o muy fría | Balance de blancos ([capítulo 3](03-balance-de-blancos.md)) |
+
+## Ejercicio (una tarde, en casa)
+
+1. Pon un objeto con textura (una fruta, una piedra, una taza) junto a una **ventana**.
+2. Hazle cuatro fotos sin moverlo: con la ventana **delante** del objeto (frontal), **al lado** (lateral), **detrás** (contraluz) y con una cortina fina delante de la ventana (suave).
+3. Repite la foto lateral **a tres horas distintas** del día.
+4. Ponlas juntas y escribe, para cada una: dura o suave, de dónde viene, de qué color.
+
+**Aprobado cuando** sabes decir, sin mirar las notas, cuál de las fotos tiene más volumen, cuál es la más plana y por qué.
+
+## Referencias
+
+- Glosario de términos de luz y color: [capítulo 8](08-glosario.md)
+- La luz como decisión creativa: [La mirada](06-la-mirada.md)
+
+---
+
+*Parte I · La luz y la exposición*
+
+# 2. El histograma por escenario — chuleta visual
 
 > 🟢 **Iniciación** · Da por sabido: nada · Te desbloquea: juzgar si una foto está bien expuesta sin fiarte de la pantalla.
 
@@ -217,14 +329,14 @@ cámara intenta hacerla gris, y hay que compensar **en negativo**.
 
 ## Referencias
 
-- El porqué de todo esto (rango dinámico y ETTR): [por qué funciona](03-por-que-funciona.md)
+- El porqué de todo esto (rango dinámico y ETTR): [por qué funciona](04-por-que-funciona.md)
 - Guía de ayuda de la a6700 (histograma y Zebra): <https://helpguide.sony.net/ilc/2320/v1/es/>
 
 ---
 
 *Parte I · La luz y la exposición*
 
-# 2. Balance de blancos por escena — valores de partida
+# 3. Balance de blancos por escena — valores de partida
 
 > 🔵 **Básico** · Da por sabido: el capítulo 1 · Te desbloquea: que los colores salgan como los viste, no como los inventa la cámara.
 
@@ -280,7 +392,7 @@ justo lo que has ido a fotografiar.
 
 *Parte I · La luz y la exposición*
 
-# 3. Por qué funciona — el modelo que hay detrás de las recetas
+# 4. Por qué funciona — el modelo que hay detrás de las recetas
 
 > 🔴 **Avanzado** · Da por sabido: los capítulos 1 a 10 y haber disparado unas cuantas tardes · Te desbloquea: inventar **tu** receta cuando la escena no está en ninguna tabla.
 
@@ -574,7 +686,7 @@ sin estabilizador propio y **sin interruptor AF/MF**.
 
 *Parte II · La composición y la mirada*
 
-# 4. Atlas de encuadres — el repertorio, encuadre a encuadre
+# 5. Atlas de encuadres — el repertorio, encuadre a encuadre
 
 > 🔵 **Básico** · Da por sabido: el [capítulo 8](../manejo-a6700/08-safari-diurno.md) · Te desbloquea: mirar lo que tienes delante y saber **qué foto cabe ahí**, en vez de disparar a ver qué sale.
 
@@ -1070,7 +1182,7 @@ más de cuatro metros, que a f/1.8 es "cerca".
   granito de Hoada, la rueda del coche.
 - **Dónde**: Hoada y Spreetshoogte, donde hay roca cerca.
 - **El error que lo mata**: poner el objeto a menos de cuatro metros — sale
-  borroso y no hay arreglo (el porqué, en [por qué funciona](03-por-que-funciona.md)).
+  borroso y no hay arreglo (el porqué, en [por qué funciona](04-por-que-funciona.md)).
 
 ---
 
@@ -1099,12 +1211,12 @@ gesto y salida. Son los encuadres 3, 1, 6, 9 y 14 de este atlas.
 
 Los diagramas puestos a prueba, foto a foto, en
 [fotos desmontadas](https://github.com/morandeirachema/a6700-namibia/blob/main/mejora/fotos-desmontadas.md); y el calendario de
-práctica, en el [cuaderno de composición](06-cuaderno-de-composicion.md).
+práctica, en el [cuaderno de composición](07-cuaderno-de-composicion.md).
 
 ## Referencias
 
 - Las reglas detrás de estos encuadres: [safari a fondo](https://github.com/morandeirachema/a6700-namibia/blob/main/mejora/safari-a-fondo.md) · [paisaje a fondo](https://github.com/morandeirachema/a6700-namibia/blob/main/mejora/paisaje-a-fondo.md)
-- El porqué óptico (profundidad, compresión, aire): [por qué funciona](03-por-que-funciona.md)
+- El porqué óptico (profundidad, compresión, aire): [por qué funciona](04-por-que-funciona.md)
 - Qué animal hace qué gesto: [la fauna, animal por animal](https://github.com/morandeirachema/a6700-namibia/blob/main/tecnica/fauna-de-namibia.md)
 - Qué hay en el cielo cada noche: [el cielo del viaje](https://github.com/morandeirachema/a6700-namibia/blob/main/plan/cielo-del-viaje.md)
 - Composición de paisaje nocturno (van Oosten, entrevista): <https://www.photocascadia.com/an-interview-with-marsel-van-oosten-from-adrian-klein/>
@@ -1113,7 +1225,7 @@ práctica, en el [cuaderno de composición](06-cuaderno-de-composicion.md).
 
 *Parte II · La composición y la mirada*
 
-# 5. La mirada — cómo piensan los que hacen las fotos que te gustan
+# 6. La mirada — cómo piensan los que hacen las fotos que te gustan
 
 > 🔴 **Avanzado** · Da por sabido: los capítulos 1 a 10 · Te desbloquea: decidir tú dónde ponerte y qué esperar, en vez de reaccionar a lo que aparezca.
 
@@ -1256,7 +1368,7 @@ Sin esto, "practicar" es hacer más fotos iguales. El método es de una noche:
 | Escalón | Lo tienes cuando… | Dónde se entrena |
 |---|---|---|
 | **1 · Nítida** | El ojo del animal aguanta el 100 % en la mayoría de tus ráfagas | [Capítulo 8](../manejo-a6700/08-safari-diurno.md) y los deberes del [capítulo 1](../manejo-a6700/01-de-movil-a-la-a6700.md) |
-| **2 · Bien expuesta** | Miras el histograma antes de que te lo pida nadie y compensas sin pensar | [El histograma](01-histograma.md) |
+| **2 · Bien expuesta** | Miras el histograma antes de que te lo pida nadie y compensas sin pensar | [El histograma](02-histograma.md) |
 | **3 · Limpia** | Antes de disparar ya has mirado el fondo y has movido el coche medio metro | [Safari a fondo §5](https://github.com/morandeirachema/a6700-namibia/blob/main/mejora/safari-a-fondo.md) |
 | **4 · Con luz** | Dejas de disparar a mediodía sin remordimiento y madrugas sin discutirlo | [Mejores horas](https://github.com/morandeirachema/a6700-namibia/blob/main/plan/mejores-horas.md) |
 | **5 · Con momento** | Esperas el gesto que sabes que va a llegar, con el encuadre ya montado | [La fauna, animal por animal](https://github.com/morandeirachema/a6700-namibia/blob/main/tecnica/fauna-de-namibia.md) |
@@ -1291,7 +1403,7 @@ está calendarizado en el [plan de entrenamiento](https://github.com/morandeirac
 
 *Parte II · La composición y la mirada*
 
-# 6. Cuaderno de composición — 20 ejercicios, para imprimir y tachar
+# 7. Cuaderno de composición — 20 ejercicios, para imprimir y tachar
 
 Veinte ejercicios en escalera, del más tonto al más difícil. Cada uno tiene
 un **criterio de aprobado**: o lo cumples o no, sin opinión. Se hacen con
@@ -1300,7 +1412,7 @@ puerto— y ninguno necesita Namibia.
 
 **Cómo se usa**: uno o dos por sesión, en orden. No pases al siguiente
 bloque hasta tener el anterior entero. Los encuadres numerados son los del
-[atlas](04-atlas-de-encuadres.md).
+[atlas](05-atlas-de-encuadres.md).
 
 ---
 
@@ -1369,22 +1481,24 @@ Si vas mal de tiempo, estos tres valen más que los otros diecisiete:
 
 ## Para seguir
 
-- El repertorio: [atlas de encuadres](04-atlas-de-encuadres.md)
+- El repertorio: [atlas de encuadres](05-atlas-de-encuadres.md)
 - El análisis: [fotos desmontadas](https://github.com/morandeirachema/a6700-namibia/blob/main/mejora/fotos-desmontadas.md)
 - A quién mirar: [fotógrafos de referencia](https://github.com/morandeirachema/a6700-namibia/blob/main/mejora/fotografos-de-referencia.md)
-- El método de autocrítica y los cinco escalones: [la mirada](05-la-mirada.md)
+- El método de autocrítica y los cinco escalones: [la mirada](06-la-mirada.md)
 
 ---
 
 *Parte III · Referencia*
 
-# 7. Glosario — todas las palabras raras de este repo, en una línea
+# 8. Glosario — todas las palabras raras de este repo, en una línea
 
 > 🟢 **Iniciación** · Da por sabido: nada · Te desbloquea: leer cualquier guía del repo (y cualquier foro de fotografía) sin perderte.
 
+Los términos de retoque y de Luminar (máscara, Feather, HSL, bandas…) están en el [glosario de retoques](../retoques/17-glosario.md).
+
 Aquí no se enseña nada nuevo: se **traduce**. Cada término, una frase, y dónde
 te lo vas a encontrar. El porqué de casi todos está en
-[por qué funciona](03-por-que-funciona.md); los nombres de los menús en
+[por qué funciona](04-por-que-funciona.md); los nombres de los menús en
 español e inglés, en el [capítulo 4](../manejo-a6700/04-configuracion-basica.md).
 
 ## Exposición
@@ -1397,7 +1511,7 @@ español e inglés, en el [capítulo 4](../manejo-a6700/04-configuracion-basica.
 | **Compensación de exposición** | Decirle a la cámara "más claro / más oscuro" que lo que ella cree. En la a6700 funciona **también en M con ISO Auto** (±5 EV) |
 | **Medición** | Cómo mide la cámara la luz: **Multi** (toda la escena; la *matricial* de otras marcas), **puntual** (solo un punto), **puntual vinculada** (ese punto es el de enfoque) |
 | **ETTR** (*expose to the right*) | Exponer lo más a la derecha posible del histograma sin quemar, porque el RAW guarda mucha más información en las altas luces |
-| **Histograma** | El gráfico de cuánta foto hay en cada nivel de brillo: izquierda sombras, derecha luces. La única forma honesta de juzgar la exposición ([chuleta](01-histograma.md)) |
+| **Histograma** | El gráfico de cuánta foto hay en cada nivel de brillo: izquierda sombras, derecha luces. La única forma honesta de juzgar la exposición ([chuleta](02-histograma.md)) |
 | **Quemado** (*clipping*) | Zona tan clara que el sensor saturó: ahí ya no hay información, y no se recupera |
 | **Zebra** | El rayado que la a6700 dibuja **en vivo** sobre lo que va a salir quemado. En este repo, siempre a **100+** |
 | **Rango dinámico** | Cuánta diferencia entre lo más claro y lo más oscuro cabe en una sola foto. Máximo en ISO base |
@@ -1451,7 +1565,7 @@ español e inglés, en el [capítulo 4](../manejo-a6700/04-configuracion-basica.
 | Término | Qué es |
 |---|---|
 | **Balance de blancos (WB)** | Decirle a la cámara de qué color es la luz para que el blanco salga blanco |
-| **Kelvin (K)** | La escala de la temperatura de la luz: 3200 K naranja, 5500 K día, 7500 K sombra azulada. En este repo, **siempre fijo** — en K o en un preajuste (Luz de día, Nublado, Sombra) —; el automático, como mucho a mediodía ([balance de blancos](02-balance-de-blancos.md)) |
+| **Kelvin (K)** | La escala de la temperatura de la luz: 3200 K naranja, 5500 K día, 7500 K sombra azulada. En este repo, **siempre fijo** — en K o en un preajuste (Luz de día, Nublado, Sombra) —; el automático, como mucho a mediodía ([balance de blancos](03-balance-de-blancos.md)) |
 | **Hora dorada / hora azul** | La hora de luz cálida y rasante tras el amanecer o antes del ocaso; y el rato azulado posterior al ocaso |
 | **Contraluz** | El sol detrás del sujeto: siluetas, bordes encendidos y polvo dorado |
 | **Clave alta** | Foto deliberadamente muy clara, casi sin sombras. La estrategia del mediodía en la calcreta blanca |
@@ -1493,7 +1607,7 @@ español e inglés, en el [capítulo 4](../manejo-a6700/04-configuracion-basica.
 
 ## Referencias
 
-- El porqué de la mitad de estos términos: [por qué funciona](03-por-que-funciona.md)
+- El porqué de la mitad de estos términos: [por qué funciona](04-por-que-funciona.md)
 - Nombres de menú en español e inglés: [capítulo 4](../manejo-a6700/04-configuracion-basica.md)
 - Guía de ayuda oficial de la a6700: <https://helpguide.sony.net/ilc/2320/v1/es/>
 - Escala Bortle y mapa de contaminación lumínica: <https://www.lightpollutionmap.info/>

@@ -173,7 +173,7 @@ la gráfica, no el ojo:
    en vivo no acumula los segundos y engaña).
 
 Cómo debe verse el histograma en cada escenario del viaje, dibujado:
-[chuleta visual del histograma](../conceptos/01-histograma.md).
+[chuleta visual del histograma](../conceptos/02-histograma.md).
 
 ## RAW (y cómo pasar fotos al móvil en el viaje)
 

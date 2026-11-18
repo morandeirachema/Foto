@@ -53,7 +53,7 @@
 
 Estos nombres no salen en la lista principal de Sony y no se pudo abrir su ficha durante la auditoría. Lo más probable es que estén bien, pero **no están confirmados**:
 
-- [ ] `Tem.col./filtro`: valor de `Balance blanco` para fijar los grados Kelvin ([balance de blancos](../conceptos/02-balance-de-blancos.md), [diales y botones](03-diales-y-botones.md))
+- [ ] `Tem.col./filtro`: valor de `Balance blanco` para fijar los grados Kelvin ([balance de blancos](../conceptos/03-balance-de-blancos.md), [diales y botones](03-diales-y-botones.md))
 - [ ] `Cuadr. regl. terc.`: tipo de cuadrícula
 - [ ] `C. sin pérd.`: RAW comprimido sin pérdida
 - [ ] `Compens. variación`

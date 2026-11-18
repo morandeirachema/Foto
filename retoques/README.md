@@ -35,11 +35,13 @@ flowchart LR
 
 | Si… | Lee |
 |---|---|
+| Empiezas de cero en fotografía | La [ruta de aprendizaje](../RUTA.md): el orden de todo el repo |
 | Nunca has editado una foto | [1. Conceptos básicos](01-conceptos-basicos.md) → [2. Luminar por dentro](02-luminar-por-dentro.md) → [3. El flujo base](03-flujo-base.md) |
 | Quieres aclarar **los ojos**, abrir **una sombra** u oscurecer **el cielo** | [4. Ajustes locales](04-ajustes-locales.md) |
 | Tienes una foto de un animal delante | [6. Safari](06-safari.md) |
 | Tienes dunas, montaña o un atardecer | [7. Paisaje](07-paisaje.md) |
 | Tienes estrellas, luna o fuego | [8. Noche](08-noche.md) |
+| Acabas de volver del viaje | [10.4. De la tarjeta a la selección](10-trabajar-en-serie.md#104-tus-fotos-del-viaje-de-la-tarjeta-a-la-selección) |
 | Tienes 500 fotos que editar | [10. Trabajar en serie](10-trabajar-en-serie.md) |
 | Vas a imprimir o publicar | [12. Exportar](12-exportar.md) |
 

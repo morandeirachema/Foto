@@ -57,7 +57,7 @@
 
 # 1. Conceptos básicos
 
-Antes de mover un deslizador, conviene entender **qué estás tocando**. Si entiendes estos conceptos, sabrás qué herramienta de Luminar usar en cada caso.
+Antes de mover un deslizador, conviene entender **qué estás tocando**. Este capítulo resume lo imprescindible para retocar; la explicación completa, con la cámara, está en [Conceptos](../conceptos/README.md): [la luz](../conceptos/01-la-luz.md), [el histograma](../conceptos/02-histograma.md), [el balance de blancos](../conceptos/03-balance-de-blancos.md) y [por qué funciona](../conceptos/04-por-que-funciona.md). Si entiendes estos conceptos, sabrás qué herramienta de Luminar usar en cada caso.
 
 ## 1.1. Qué tiene de especial un JPEG
 
@@ -1175,6 +1175,23 @@ Una serie de fotos de viaje se ve profesional cuando las fotos **parecen de la m
 
 **Truco:** mira todas las fotos del álbum juntas en el catálogo. La que "salta" por más saturada, más oscura o de otro color es la que hay que corregir.
 
+## 10.4. Tus fotos del viaje: de la tarjeta a la selección
+
+Antes de editar la primera foto de un viaje, tres cosas, en este orden.
+
+**1. Copia de seguridad, antes de nada.** Las fotos que solo están en un sitio no están a salvo. La regla clásica **3-2-1**: **3** copias, en **2** soportes distintos (el ordenador y un disco externo, por ejemplo), y **1** de ellas fuera de casa o en la nube. Haz las copias de los **originales** antes de abrirlos en Luminar.
+
+**2. Lleva las fotos a Luminar.** **Add Folder with Images** (**`⌥⇧N`**) añade la carpeta al catálogo. Luminar enlaza esa carpeta: no la copia ni toca tus JPEG, y las ediciones se guardan en su catálogo ([sección 2.2](02-luminar-por-dentro.md)). Haz copia de seguridad también del catálogo.
+
+**3. Elige antes de editar.** Con miles de fotos, editar sin elegir es imposible:
+1. **Primera pasada:** rechaza (**`X`**) lo claramente fallido. Rápido: si dudas, no la rechaces.
+2. **Segunda pasada:** de cada ráfaga o situación, marca (**`P`**) la mejor, comparándolas con **`;`** y al 100 %.
+3. **Tercera pasada:** estrellas (**`1`–`5`**) a las favoritas. Las de **5** son tu selección final: crea un álbum con ellas (**`⌘N`**).
+
+Edita primero esa selección final, con el [flujo base](03-flujo-base.md) y los [ajustes locales](04-ajustes-locales.md). Después, el resto **en serie** (10.1).
+
+> **Las fotos de Namibia están en JPEG.** Todo lo de esta guía se aplica tal cual. Elige con más cuidado que con RAW: una foto quemada o muy oscura en JPEG no tiene arreglo.
+
 ---
 
 *Parte IV · Más allá de una foto*
@@ -1495,6 +1512,8 @@ Atajos según la documentación oficial de Skylum. En Windows, **`⌘`** suele c
 *Parte V · Referencia*
 
 # 17. Glosario
+
+Los términos de Luminar y del retoque. Los de cámara, luz y exposición (ISO, apertura, ETTR, hiperfocal…) están en el [glosario de conceptos](../conceptos/08-glosario.md).
 
 | Término | Significado |
 |---|---|

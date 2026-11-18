@@ -16,7 +16,7 @@ Help Guide oficial de la a6700 y la práctica de especialistas de safari y
 aves.
 
 **El resto del nivel avanzado**: el porqué de todo esto está en
-[por qué funciona](../conceptos/03-por-que-funciona.md); lo creativo, en
+[por qué funciona](../conceptos/04-por-que-funciona.md); lo creativo, en
 [safari a fondo](https://github.com/morandeirachema/a6700-namibia/blob/main/mejora/safari-a-fondo.md); el astro avanzado se mudó a
 [estrellas con la tierra dentro](07-estrellas-con-tierra.md) y el paisaje de
 los maestros, a [paisaje a fondo](https://github.com/morandeirachema/a6700-namibia/blob/main/mejora/paisaje-a-fondo.md).
@@ -103,7 +103,7 @@ El metaconsejo: no memorices combinaciones — mete estos tres ajustes en
 
 - **Punto dulce**: es un objetivo de la serie G y a 350 mm es usable a plena
   apertura (f/6.3), aunque ahí está su punto más blando: si el animal lo
-  permite, encuadra a ~300 mm y recorta ([por qué funciona](../conceptos/03-por-que-funciona.md)).
+  permite, encuadra a ~300 mm y recorta ([por qué funciona](../conceptos/04-por-que-funciona.md)).
   Con el sol alto y el ISO sobrado, cerrar a **f/7.1–f/8** afina un poco los
   bordes. Regla: nunca compres f/8 pagándolo con
   obturación insuficiente o ISO ruidoso.

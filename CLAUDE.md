@@ -23,6 +23,8 @@ The owner's explicit scope decisions:
 - `a6700-namibia` remains its own repo and is not modified from here.
 - **`sources/Namibia-a6700-edicion-completa.pdf` is how the owner's camera is actually configured.** Its content equals a6700-namibia at `a5252c3`, the version copied here. Don't change camera values in `manejo-a6700/` unless the owner asks or the PDF says otherwise. Its Annex A (the menu audit against Sony's Guía de ayuda, edition 5-051-980-47(1), firmware 2.00) lives as `manejo-a6700/15-verificacion-de-menus.md`, with all five findings applied. The 11 sub-option names listed there as ❓ are still unconfirmed: don't present them as verified until the owner checks them on the camera with C3. If the camera screen ever disagrees with the repo, the screen wins.
 
+`RUTA.md` (root) is the learning path from zero to advanced, the owner's stated goal (18 Nov 2026). It orders the chapters of all three sections into stages 0–4, each with practice and a "Lo dominas cuando…" self-check, plus a concept map (concept → 🟢/🔵/🔴 chapter). Update it whenever chapters are added, renamed or renumbered; `tools/comprobar.py` validates its links and anchors.
+
 `PENDIENTES.md` (root) is the owner's checklist of things only they can verify. When the owner reports a result, update the affected guide and tick the item; when you add an unverifiable claim, add it there.
 
 ## Structure (the same in all three sections)
@@ -38,6 +40,7 @@ The owner's explicit scope decisions:
 ## Commands
 
 ```sh
+python3 tools/comprobar.py       # repo check: links + anchors, unclosed fences, NN/H1 numbering, nav blocks, chuleta = 1 page. Run before every commit
 ./pdf/generar.sh                 # everything: nav blocks, the 3 guia-completa.md files and the 6 PDFs
 ./pdf/generar.sh <name>          # chuleta | verificacion-in-situ | cuaderno-de-composicion | guia-conceptos | guia-manejo-a6700 | guia-retoques
 ./pdf/generar-guia.sh <carpeta> [--no-pdf]   # one section: nav + <carpeta>/guia-completa.md (+ pdf/guia-<carpeta>.pdf)
@@ -57,7 +60,7 @@ Both scripts use pandoc and headless Google Chrome. Regenerate after editing a s
 
 Editorial contract:
 - **Nivel visible**: toda guía abre con `> 🟢/🔵/🔴 **Nivel** · Da por sabido: … · Te desbloquea: …`. Mantenerlo al crear o mover contenido.
-- **Teoría**: el nivel 🔴 avanzado **sí** explica el modelo (`conceptos/03-por-que-funciona.md`), pero con una regla dura: cada concepto termina en una decisión concreta de campo, con los números del equipo real. Nunca fórmulas sueltas.
+- **Teoría**: el nivel 🔴 avanzado **sí** explica el modelo (`conceptos/04-por-que-funciona.md`), pero con una regla dura: cada concepto termina en una decisión concreta de campo, con los números del equipo real. Nunca fórmulas sueltas.
 - **Audiencia**: novato que viene sobre todo del móvil — **a todos los niveles**. Nada de teoría: recetas con valores concretos, pasos numerados y tablas de "si la foto sale mal, toca esto". Toda guía (también las avanzadas) debe ser **autocontenida desde lo básico**: la base imprescindible va resumida dentro, y los enlaces a otros capítulos son para ampliar, nunca requisito para empezar.
 - **Equipo**: siempre opciones **budget**, con precio orientativo y mención de segunda mano (mpb.com) cuando compense.
 - **Enlaces externos**: toda referencia (apps, software, localizaciones, fabricantes) lleva su URL. No inventar URLs profundas; ante la duda, enlazar la página raíz del sitio.

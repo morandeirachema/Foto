@@ -1,0 +1,158 @@
+<div align="center">
+
+# 🧭 Ruta de aprendizaje: de cero a avanzado
+
+### Qué aprender, en qué orden, cómo practicarlo y cómo saber que ya lo dominas
+
+</div>
+
+---
+
+Este repo tiene más de cuarenta capítulos repartidos en tres secciones: [conceptos](conceptos/README.md), [manejo de la a6700](manejo-a6700/README.md) y [retoques con Luminar](retoques/README.md). Esta página es el **orden** para leerlos si empiezas de cero. Avanza por etapas: no pases a la siguiente hasta poder responder a las preguntas de **"Lo dominas cuando…"** de la etapa en la que estás.
+
+```mermaid
+flowchart LR
+    E0["0 · Las palabras"] --> E1["1 · Iniciación<br/>luz, exposición, cámara"]
+    E1 --> E2["2 · Básico<br/>color, escenas, retoque"]
+    E2 --> E3["3 · Avanzado<br/>el porqué y la mirada"]
+    E3 --> E4["4 · Seguir mejorando"]
+```
+
+**Cómo se usa:** cada etapa tiene tres columnas que conviene recorrer juntas: **entender** (conceptos), **hacer con la cámara** (manejo) y **hacer al retocar** (retoques). Los ejercicios son cortos, de una tarde o menos, y se hacen en casa o en la calle.
+
+---
+
+## Etapa 0 · Las palabras (una tarde)
+
+**Objetivo:** que ninguna palabra te frene.
+
+- Lee por encima el [glosario de conceptos](conceptos/08-glosario.md). No hace falta memorizarlo: vuelve a él cada vez que una palabra te pare. Para los términos de retoque, el [glosario de retoques](retoques/17-glosario.md).
+
+**Lo dominas cuando** sabes decir en una frase qué son exposición, ISO, apertura, velocidad, RAW, histograma y balance de blancos, aunque aún no sepas usarlos.
+
+---
+
+## Etapa 1 · Iniciación: la luz, la exposición y la cámara
+
+**Objetivo:** hacer una foto **bien expuesta y enfocada** a propósito, no por suerte.
+
+| | Qué | Dónde |
+|---|---|---|
+| 🧠 Entender | **La luz**: cuánta, dura o suave, de dónde, de qué color | [Conceptos 1 · La luz](conceptos/01-la-luz.md) |
+| 🧠 Entender | **Los tres números** (velocidad, apertura, ISO) y el **paso** | [Manejo 1 · Del móvil a la a6700](manejo-a6700/01-de-movil-a-la-a6700.md#los-3-números-y-qué-hacen-en-la-práctica) |
+| 🧠 Entender | **El histograma**: juzgar la exposición sin fiarte de la pantalla | [Conceptos 2 · El histograma](conceptos/02-histograma.md) |
+| 🧠 Entender | **La medición**: por qué la cámara "se equivoca" con fondos claros u oscuros | [Manejo 1 · Medición](manejo-a6700/01-de-movil-a-la-a6700.md#medición-por-qué-la-cámara-se-equivoca-y-cómo-corregirla) |
+| 🧠 Entender | **JPEG y RAW**: qué guarda cada uno y por qué importa | [Retoques 1.1](retoques/01-conceptos-basicos.md#11-qué-tiene-de-especial-un-jpeg) · [Manejo 1 · RAW](manejo-a6700/01-de-movil-a-la-a6700.md#raw-y-cómo-pasar-fotos-al-móvil-en-el-viaje) |
+| 📷 Hacer | Moverte por los **menús** y los **botones** | [Manejo 2](manejo-a6700/02-menus-y-primer-dia.md) · [Manejo 3](manejo-a6700/03-diales-y-botones.md) |
+| 📷 Hacer | **Enfocar**: autofoco con el pulgar, lupa, *peaking* e hiperfocal | [Manejo 1 · Enfoque](manejo-a6700/01-de-movil-a-la-a6700.md#enfoque-lo-mínimo-que-hay-que-saber) · [Manejo 5 · Enfocar el 11 mm](manejo-a6700/05-enfocar-el-11mm.md) |
+| 🎨 Retocar | Cómo funciona **Luminar** por dentro | [Retoques 2](retoques/02-luminar-por-dentro.md) |
+
+**Practica:**
+- [Las 7 tardes de deberes](manejo-a6700/01-de-movil-a-la-a6700.md#deberes-antes-del-viaje-7-tardes): el curso de iniciación completo.
+- [La luz junto a una ventana](conceptos/01-la-luz.md#ejercicio-una-tarde-en-casa) · [El histograma](conceptos/02-histograma.md#ejercicio-15-minutos-una-vez) (15 min) · [Enfocar esta noche](manejo-a6700/05-enfocar-el-11mm.md#ejercicio-para-esta-noche-20-minutos-desde-casa) (20 min).
+
+**Lo dominas cuando…**
+- [ ] Explicas por qué abrir un paso el diafragma, duplicar el tiempo o duplicar el ISO dan la misma claridad, y qué cuesta cada uno.
+- [ ] Miras un histograma y sabes si hay luces quemadas o sombras empastadas, y si eso es un problema en esa escena.
+- [ ] Sabes por qué un animal oscuro sobre fondo blanco sale mal expuesto y qué compensación usar.
+- [ ] Ante una escena, dices si la luz es dura o suave y de dónde viene.
+- [ ] Enfocas una estrella hasta que sea un punto, y lo repites sin mirar la guía.
+- [ ] Sabes qué formato graba tu cámara y lo has comprobado (un archivo `.ARW`).
+
+---
+
+## Etapa 2 · Básico: el color, las escenas y el retoque completo
+
+**Objetivo:** resolver las situaciones típicas (fauna, paisaje, noche) con una receta, y terminar la foto en Luminar.
+
+| | Qué | Dónde |
+|---|---|---|
+| 🧠 Entender | **El balance de blancos**: color creíble, Kelvin por escena | [Conceptos 3](conceptos/03-balance-de-blancos.md) · [Retoques 1.4](retoques/01-conceptos-basicos.md#14-balance-de-blancos-temperatura-y-matiz) |
+| 🧠 Entender | **Contraste global y local, ruido y nitidez** | [Retoques 1.5 y 1.6](retoques/01-conceptos-basicos.md#15-contraste-global-y-contraste-local) |
+| 🧠 Entender | **Composición**: qué foto cabe en cada escena | [Conceptos 5 · Atlas de encuadres](conceptos/05-atlas-de-encuadres.md) |
+| 📷 Hacer | **Configurar la cámara** una vez: RAW, enfoque con el pulgar, memorias | [Manejo 4](manejo-a6700/04-configuracion-basica.md) |
+| 📷 Hacer | **Recetas por escena**: astro, safari de día, charcas de noche | [Manejo 6](manejo-a6700/06-astrofotografia-namibia.md) · [7](manejo-a6700/07-estrellas-con-tierra.md) · [8](manejo-a6700/08-safari-diurno.md) · [9](manejo-a6700/09-safari-nocturno-charcas.md) |
+| 📷 Hacer | **Tus objetivos**: cuándo cada uno | [Manejo 10](manejo-a6700/10-equipo-accesorios.md) · [11 · Viltrox 25 mm](manejo-a6700/11-viltrox-25mm.md) |
+| 🎨 Retocar | **El flujo base**: los 10 pasos de cualquier foto | [Retoques 3](retoques/03-flujo-base.md) |
+| 🎨 Retocar | **Ajustes locales**: aclarar los ojos, abrir una sombra, oscurecer el cielo | [Retoques 4](retoques/04-ajustes-locales.md) |
+| 🎨 Retocar | **Por tipo de foto** | [Retoques 6 · Safari](retoques/06-safari.md) · [7 · Paisaje](retoques/07-paisaje.md) · [8 · Noche](retoques/08-noche.md) |
+
+**Practica:**
+- [Balance de blancos](conceptos/03-balance-de-blancos.md#ejercicio-10-minutos) (10 min) · [Configurar la cámara](manejo-a6700/04-configuracion-basica.md#ejercicio-una-tarde-en-casa) (una tarde).
+- [El cuaderno de composición](conceptos/07-cuaderno-de-composicion.md): 20 ejercicios en escalera ([PDF para imprimir](pdf/cuaderno-de-composicion.pdf)).
+- [Las dos tardes del atlas de encuadres](conceptos/05-atlas-de-encuadres.md#ejercicio-dos-tardes).
+- [Estrellas en tres noches](manejo-a6700/07-estrellas-con-tierra.md).
+- [Ajustes locales](retoques/04-ajustes-locales.md#49-ejercicio-una-tarde): la misma foto, retocada y sin retocar, ante alguien que no sabe qué has hecho.
+
+**Lo dominas cuando…**
+- [ ] Pones el balance de blancos en Kelvin según la luz, y sabes cuándo **no** neutralizarla.
+- [ ] Configuras la cámara para safari o para estrellas en menos de un minuto (memorias MR1 y MR2).
+- [ ] Haces el flujo base completo en Luminar sin mirar la guía, en unos 5 minutos por foto.
+- [ ] Aclaras los ojos de un animal y oscureces un fondo que distrae sin que se note el retoque.
+- [ ] Ante una escena, eliges entre al menos tres encuadres del atlas y sabes por qué.
+
+---
+
+## Etapa 3 · Avanzado: el porqué y la mirada
+
+**Objetivo:** inventar tu propia receta cuando la escena no está en ninguna tabla, y pasar de la foto **correcta** a la foto **buena**.
+
+| | Qué | Dónde |
+|---|---|---|
+| 🧠 Entender | **El modelo**: el paso como moneda, exponer a la derecha (ETTR), profundidad de campo, difracción, compresión, ruido e invarianza ISO, el autofoco por dentro | [Conceptos 4 · Por qué funciona](conceptos/04-por-que-funciona.md) |
+| 🧠 Entender | **La mirada**: cómo piensan los que hacen las fotos que te gustan | [Conceptos 6](conceptos/06-la-mirada.md) |
+| 📷 Hacer | **El AF y la exposición a fondo**: los mandos del AF, medición puntual vinculada, el tele al límite | [Manejo 12](manejo-a6700/12-af-y-exposicion-a-fondo.md) |
+| 📷 Hacer | **La referencia completa**: cada ajuste y cada línea del menú | [Manejo 13](manejo-a6700/13-ajustes-a6700.md) · [14](manejo-a6700/14-menu-completo.md) · [15](manejo-a6700/15-verificacion-de-menus.md) |
+| 🎨 Retocar | **Herramientas avanzadas**: Curves, Supercontrast, Color Harmony, Dodge & Burn, Light Depth, blanco y negro | [Retoques 5](retoques/05-herramientas-avanzadas.md) |
+| 🎨 Retocar | **Trabajar en serie** y **varias fotos en una** | [Retoques 10](retoques/10-trabajar-en-serie.md) · [11](retoques/11-varias-fotos.md) |
+| 🎨 Retocar | **Ética**: qué es corregir y qué es manipular | [Retoques 13](retoques/13-etica.md) |
+
+**Practica:**
+- [Los ejercicios del modelo técnico](conceptos/04-por-que-funciona.md#ejercicios-tres-tardes-antes-de-volar) (tres tardes).
+- [Los ejercicios de la mirada](conceptos/06-la-mirada.md#ejercicios-una-tarde-cada-uno-en-casa).
+- [El AF a fondo](manejo-a6700/12-af-y-exposicion-a-fondo.md#ejercicio-una-tarde-antes-de-volar) (una tarde).
+
+**Lo dominas cuando…**
+- [ ] Explicas por qué f/16 no da una foto "más nítida" que f/8, y cuándo cerrar más.
+- [ ] Sabes cuándo subir el ISO es gratis y cuándo cuesta, y lo aplicas de noche.
+- [ ] Calculas, con la tabla de hiperfocal, dónde enfocar un paisaje para que todo salga nítido.
+- [ ] Ves la diferencia entre "acercarse con el tele" y "alejarse con el tele" en una foto de un animal en su paisaje.
+- [ ] Usas curvas y Dodge & Burn para dirigir la mirada, no solo para corregir.
+- [ ] Sabes decir por qué una foto tuya es correcta pero no buena, y qué cambiarías la próxima vez.
+
+---
+
+## Etapa 4 · Seguir mejorando
+
+No es "hacer más fotos": es subir **un escalón cada vez**. El método está en [La mirada · Los cinco escalones](conceptos/06-la-mirada.md#los-cinco-escalones-en-este-orden-no-saltes): **nítida → bien expuesta → limpia → con luz → con momento**.
+
+- Revisa tus fotos con la [lista de errores típicos](retoques/15-errores-y-lista.md).
+- Edita en serie con coherencia ([retoques 10](retoques/10-trabajar-en-serie.md)).
+- Imprime una foto tuya a buen tamaño ([retoques 12.3](retoques/12-exportar.md#123-imprimir)): en papel se ve todo lo que la pantalla perdona.
+
+---
+
+## Mapa de conceptos: dónde se explica cada uno
+
+| Concepto | 🟢 Primera vez | 🔵 Aplicado | 🔴 A fondo |
+|---|---|---|---|
+| Luz: calidad, dirección, color | [Conceptos 1](conceptos/01-la-luz.md) | [Retoques 7 · Paisaje](retoques/07-paisaje.md) | [Conceptos 6 · La mirada](conceptos/06-la-mirada.md) |
+| Exposición y el paso | [Manejo 1](manejo-a6700/01-de-movil-a-la-a6700.md) | [Manejo 8 · Safari](manejo-a6700/08-safari-diurno.md) | [Conceptos 4 · §1](conceptos/04-por-que-funciona.md#1--el-paso-la-única-moneda-del-sistema) |
+| Histograma | [Conceptos 2](conceptos/02-histograma.md) | [Retoques 1.3](retoques/01-conceptos-basicos.md#13-el-histograma-y-el-aviso-de-recorte) | [Conceptos 4 · §2 ETTR](conceptos/04-por-que-funciona.md#2--exponer-a-la-derecha-y-por-qué-el-histograma-manda) |
+| Medición | [Manejo 1](manejo-a6700/01-de-movil-a-la-a6700.md#medición-por-qué-la-cámara-se-equivoca-y-cómo-corregirla) | [Manejo 8](manejo-a6700/08-safari-diurno.md) | [Manejo 12](manejo-a6700/12-af-y-exposicion-a-fondo.md) |
+| Balance de blancos | [Conceptos 3](conceptos/03-balance-de-blancos.md) | [Retoques 1.4](retoques/01-conceptos-basicos.md#14-balance-de-blancos-temperatura-y-matiz) | [Retoques 5.3 · Color Harmony](retoques/05-herramientas-avanzadas.md) |
+| Enfoque | [Manejo 1](manejo-a6700/01-de-movil-a-la-a6700.md#enfoque-lo-mínimo-que-hay-que-saber) | [Manejo 5](manejo-a6700/05-enfocar-el-11mm.md) | [Manejo 12](manejo-a6700/12-af-y-exposicion-a-fondo.md) |
+| Profundidad de campo e hiperfocal | [Manejo 5](manejo-a6700/05-enfocar-el-11mm.md) | [Manejo 11 · Viltrox](manejo-a6700/11-viltrox-25mm.md) | [Conceptos 4 · §3](conceptos/04-por-que-funciona.md#3--profundidad-de-campo-tres-palancas-y-una-pesa-más) |
+| Focal, perspectiva y compresión | [Manejo 1](manejo-a6700/01-de-movil-a-la-a6700.md#traducción-de-zooms-del-móvil-a-los-objetivos-del-viaje) | [Conceptos 5 · Atlas](conceptos/05-atlas-de-encuadres.md) | [Conceptos 4 · §5](conceptos/04-por-que-funciona.md#5--la-compresión-no-la-hace-el-tele-la-hace-la-distancia) |
+| Ruido e ISO | [Manejo 1](manejo-a6700/01-de-movil-a-la-a6700.md) | [Retoques 1.6](retoques/01-conceptos-basicos.md#16-ruido-y-nitidez-siempre-van-juntos) | [Conceptos 4 · §6](conceptos/04-por-que-funciona.md#6--ruido-iso-y-el-punto-en-que-deja-de-importar) |
+| Difracción | — | [Manejo 5](manejo-a6700/05-enfocar-el-11mm.md) | [Conceptos 4 · §4](conceptos/04-por-que-funciona.md#4--difracción-por-qué-f16-no-es-más-nítido) |
+| JPEG, RAW y rango dinámico | [Retoques 1.1](retoques/01-conceptos-basicos.md#11-qué-tiene-de-especial-un-jpeg) | [Manejo 4](manejo-a6700/04-configuracion-basica.md) | [Conceptos 4 · §2](conceptos/04-por-que-funciona.md#2--exponer-a-la-derecha-y-por-qué-el-histograma-manda) |
+| Composición | [Conceptos 5 · Atlas](conceptos/05-atlas-de-encuadres.md) | [Conceptos 7 · Cuaderno](conceptos/07-cuaderno-de-composicion.md) | [Conceptos 6 · La mirada](conceptos/06-la-mirada.md) |
+| Contraste global y local | [Retoques 1.5](retoques/01-conceptos-basicos.md#15-contraste-global-y-contraste-local) | [Retoques 3 · paso 8](retoques/03-flujo-base.md) | [Retoques 5 · Curves y Supercontrast](retoques/05-herramientas-avanzadas.md) |
+| Ajustes locales y máscaras | [Retoques 1.7](retoques/01-conceptos-basicos.md#17-ajustes-globales-y-locales) | [Retoques 4](retoques/04-ajustes-locales.md) | [Retoques 5.4 · Dodge & Burn](retoques/05-herramientas-avanzadas.md) |
+| Color: tono, saturación, luminancia | [Retoques 1.10](retoques/01-conceptos-basicos.md#110-color-lo-mínimo-de-teoría) | [Retoques 3 · paso 7](retoques/03-flujo-base.md) | [Retoques 5.6 · Blanco y negro](retoques/05-herramientas-avanzadas.md) |
+| Espacio de color y salida | [Retoques 12](retoques/12-exportar.md) | [Retoques 12.2](retoques/12-exportar.md#122-ajustes-recomendados-por-uso) | — |
+
+---
+
+[🏠 Inicio](README.md) · [✅ Pendientes](PENDIENTES.md)

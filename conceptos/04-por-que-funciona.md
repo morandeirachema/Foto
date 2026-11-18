@@ -1,10 +1,10 @@
 <!-- nav -->
-[← Anterior](02-balance-de-blancos.md) · [Índice](README.md) · [Siguiente →](04-atlas-de-encuadres.md)
+[← Anterior](03-balance-de-blancos.md) · [Índice](README.md) · [Siguiente →](05-atlas-de-encuadres.md)
 <!-- /nav -->
 
 *Parte I · La luz y la exposición*
 
-# 3. Por qué funciona — el modelo que hay detrás de las recetas
+# 4. Por qué funciona — el modelo que hay detrás de las recetas
 
 > 🔴 **Avanzado** · Da por sabido: los capítulos 1 a 10 y haber disparado unas cuantas tardes · Te desbloquea: inventar **tu** receta cuando la escena no está en ninguna tabla.
 
@@ -295,5 +295,5 @@ sin estabilizador propio y **sin interruptor AF/MF**.
 - Ficha oficial del Sony E 11mm F1.8: <https://www.sony.es/lenses/products/sel11f18>
 
 <!-- nav -->
-[← Anterior](02-balance-de-blancos.md) · [Índice](README.md) · [Siguiente →](04-atlas-de-encuadres.md)
+[← Anterior](03-balance-de-blancos.md) · [Índice](README.md) · [Siguiente →](05-atlas-de-encuadres.md)
 <!-- /nav -->

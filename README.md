@@ -14,7 +14,7 @@
 
 <sub>Elefantes hacia el agua, Etosha. Foto de [Yathin S. Krishnappa](https://commons.wikimedia.org/wiki/File:Elephants_rushing_to_water_(Etosha,_2013).jpg), CC BY-SA 3.0, vía Wikimedia Commons</sub>
 
-**[✅ Pendientes](PENDIENTES.md)** · **[🧠 Conceptos](#conceptos)** · **[🎛️ Manejo de la a6700](#manejo-a6700)** · **[🎨 Retoques](#retoques)** · **[🖨️ Para imprimir](#para-imprimir)** · **[🧭 Por dónde empiezo](#por-donde-empiezo)**
+**[🧭 Ruta de aprendizaje](RUTA.md)** · **[✅ Pendientes](PENDIENTES.md)** · **[🧠 Conceptos](#conceptos)** · **[🎛️ Manejo de la a6700](#manejo-a6700)** · **[🎨 Retoques](#retoques)** · **[🖨️ Para imprimir](#para-imprimir)** · **[🧭 Por dónde empiezo](#por-donde-empiezo)**
 
 </div>
 
@@ -34,9 +34,9 @@ flowchart LR
 
 | Carpeta | Qué hay | Guías |
 |---|---|---|
-| [`conceptos/`](conceptos/) | Lo que vale para cualquier cámara: el modelo técnico, el histograma, el balance de blancos, la composición y la mirada | 7 |
+| [`conceptos/`](conceptos/) | Lo que vale para cualquier cámara: la luz, el modelo técnico, el histograma, el balance de blancos, la composición y la mirada | 8 |
 | [`manejo-a6700/`](manejo-a6700/) | La cámara: del móvil a la a6700, menús, diales, configuración, recetas por escenario, equipo y referencia completa de ajustes | 17 |
-| [`retoques/`](retoques/) | La guía de Luminar en 19 capítulos, desde cero, verificada con la documentación oficial de Skylum | 20 |
+| [`retoques/`](retoques/) | La guía de Luminar en 19 capítulos, desde cero, verificada con la documentación oficial de Skylum | 19 |
 | [`pdf/`](pdf/) | Las tres hojas imprimibles y cada sección completa (conceptos, manejo, retoques), maquetadas en A4 | 6 PDF |
 | [`sources/`](sources/) | Material de origen: la **edición completa en PDF** de a6700-namibia (264 páginas), con la configuración de la cámara y el anexo de verificación de menús | 1 PDF |
 
@@ -50,13 +50,14 @@ Cada guía de conceptos y de manejo abre con su **nivel**: 🟢 **Iniciación** 
 
 | Nivel | Guía | Qué resuelve |
 |:---:|---|---|
-| 🟢 | [**El histograma por escenario**](conceptos/01-histograma.md) | Juzgar la exposición sin fiarte de la pantalla, dibujado escena a escena |
-| 🟢 | [**Glosario**](conceptos/07-glosario.md) | Todas las palabras raras, en una línea cada una |
-| 🔵 | [**Balance de blancos por escena**](conceptos/02-balance-de-blancos.md) | Valores de partida en Kelvin por luz, y por qué el automático te roba los atardeceres |
-| 🔵 | [**Atlas de encuadres**](conceptos/04-atlas-de-encuadres.md) | El repertorio: 14 encuadres de fauna y 6 de cielo, cada uno con su diagrama, su focal y **el error que lo mata** |
-| 🔵 | [**Cuaderno de composición**](conceptos/06-cuaderno-de-composicion.md) | 20 ejercicios en escalera, con criterio de aprobado, para imprimir y tachar ([PDF](pdf/cuaderno-de-composicion.pdf)) |
-| 🔴 | [**Por qué funciona**](conceptos/03-por-que-funciona.md) | El modelo detrás de las recetas: el paso como moneda, ETTR, profundidad de campo con los números del equipo, difracción, compresión, ruido e invarianza ISO, el AF por dentro |
-| 🔴 | [**La mirada**](conceptos/05-la-mirada.md) | Cómo piensan los que hacen las fotos que te gustan, el comportamiento que se anticipa y **cómo se mide si estás mejorando** |
+| 🟢 | [**1 · La luz**](conceptos/01-la-luz.md) 🆕 | Cuánta hay, dura o suave, de dónde viene y de qué color: leer la luz antes de disparar |
+| 🟢 | [**2 · El histograma por escenario**](conceptos/02-histograma.md) | Juzgar la exposición sin fiarte de la pantalla, dibujado escena a escena |
+| 🟢 | [**Glosario**](conceptos/08-glosario.md) | Todas las palabras raras, en una línea cada una |
+| 🔵 | [**Balance de blancos por escena**](conceptos/03-balance-de-blancos.md) | Valores de partida en Kelvin por luz, y por qué el automático te roba los atardeceres |
+| 🔵 | [**Atlas de encuadres**](conceptos/05-atlas-de-encuadres.md) | El repertorio: 14 encuadres de fauna y 6 de cielo, cada uno con su diagrama, su focal y **el error que lo mata** |
+| 🔵 | [**Cuaderno de composición**](conceptos/07-cuaderno-de-composicion.md) | 20 ejercicios en escalera, con criterio de aprobado, para imprimir y tachar ([PDF](pdf/cuaderno-de-composicion.pdf)) |
+| 🔴 | [**Por qué funciona**](conceptos/04-por-que-funciona.md) | El modelo detrás de las recetas: el paso como moneda, ETTR, profundidad de campo con los números del equipo, difracción, compresión, ruido e invarianza ISO, el AF por dentro |
+| 🔴 | [**La mirada**](conceptos/06-la-mirada.md) | Cómo piensan los que hacen las fotos que te gustan, el comportamiento que se anticipa y **cómo se mide si estás mejorando** |
 
 Índice: [`conceptos/README.md`](conceptos/README.md) · Todo en un archivo: [`guia-completa.md`](conceptos/guia-completa.md) · [PDF](pdf/guia-conceptos.pdf)
 
@@ -133,7 +134,7 @@ flowchart LR
 |---|---|---|
 | 📋 [Chuleta de la a6700](manejo-a6700/16-chuleta.md) | Todas las recetas de cámara en una cara | [chuleta.pdf](pdf/chuleta.pdf) |
 | ✅ [Verificación in situ](manejo-a6700/17-verificacion-in-situ.md) | Comprobaciones por momento del día | [verificacion-in-situ.pdf](pdf/verificacion-in-situ.pdf) |
-| ✏️ [Cuaderno de composición](conceptos/06-cuaderno-de-composicion.md) | 20 ejercicios para tachar | [cuaderno-de-composicion.pdf](pdf/cuaderno-de-composicion.pdf) |
+| ✏️ [Cuaderno de composición](conceptos/07-cuaderno-de-composicion.md) | 20 ejercicios para tachar | [cuaderno-de-composicion.pdf](pdf/cuaderno-de-composicion.pdf) |
 | 🧠 [Conceptos completo](conceptos/guia-completa.md) | Los 7 capítulos de conceptos | [guia-conceptos.pdf](pdf/guia-conceptos.pdf) |
 | 🎛️ [Manejo de la a6700 completo](manejo-a6700/guia-completa.md) | Los 17 capítulos de la cámara | [guia-manejo-a6700.pdf](pdf/guia-manejo-a6700.pdf) |
 | 🎨 [Retoques completo](retoques/guia-completa.md) | Los 19 capítulos de Luminar | [guia-retoques.pdf](pdf/guia-retoques.pdf) |
@@ -142,17 +143,19 @@ flowchart LR
 
 ## 🧭 Por dónde empiezo
 
-- 🐣 *Nunca he manejado una cámara en serio* → [Del móvil a la a6700](manejo-a6700/01-de-movil-a-la-a6700.md) y el [glosario](conceptos/07-glosario.md).
+> **¿Empiezas de cero?** Sigue la **[ruta de aprendizaje](RUTA.md)**: ordena todo el repo en cinco etapas, de las palabras básicas al nivel avanzado, con ejercicios y una lista de "lo dominas cuando…" en cada una.
+
+- 🐣 *Nunca he manejado una cámara en serio* → [Del móvil a la a6700](manejo-a6700/01-de-movil-a-la-a6700.md) y el [glosario](conceptos/08-glosario.md).
 - 📦 *La cámara acaba de llegar* → [Los menús y el primer día](manejo-a6700/02-menus-y-primer-dia.md), luego [los diales y los botones](manejo-a6700/03-diales-y-botones.md) y la [configuración básica](manejo-a6700/04-configuracion-basica.md).
 - 🔭 *Quiero fotografiar estrellas con el 11 mm* → [Enfocar el 11 mm](manejo-a6700/05-enfocar-el-11mm.md) (esta misma noche) y luego [Estrellas con la tierra dentro](manejo-a6700/07-estrellas-con-tierra.md).
 - 🙂 *Retratos, calle o interiores con poca luz* → [El Viltrox 25 mm](manejo-a6700/11-viltrox-25mm.md).
 - 🔎 *¿Qué es esta línea del menú?* → [El menú completo](manejo-a6700/14-menu-completo.md).
-- 📊 *No sé si la foto está bien expuesta* → [El histograma](conceptos/01-histograma.md).
+- 📊 *No sé si la foto está bien expuesta* → [El histograma](conceptos/02-histograma.md).
 - 🦁 *Voy de safari* → [Safari diurno](manejo-a6700/08-safari-diurno.md) para disparar y [Retoques · Safari](retoques/06-safari.md) para editar.
 - 🌌 *Quiero la Vía Láctea* → [Astrofotografía](manejo-a6700/06-astrofotografia-namibia.md) para disparar y [Retoques · Noche](retoques/08-noche.md) para editar.
 - 🎨 *Ya tengo las fotos, ¿y ahora?* → [El flujo base en Luminar](retoques/03-flujo-base.md).
 - 👁️ *Quiero aclarar los ojos, abrir una sombra u oscurecer el cielo* → [Ajustes locales](retoques/04-ajustes-locales.md), desde cero: qué, cómo y qué significa para la foto.
-- 🧠 *Quiero entender por qué funcionan las recetas* → [Por qué funciona](conceptos/03-por-que-funciona.md) y [La mirada](conceptos/05-la-mirada.md).
+- 🧠 *Quiero entender por qué funcionan las recetas* → [Por qué funciona](conceptos/04-por-que-funciona.md) y [La mirada](conceptos/06-la-mirada.md).
 - ✈️ *Salgo pronto* → imprime la [chuleta](pdf/chuleta.pdf) y la [verificación in situ](pdf/verificacion-in-situ.pdf).
 
 ## 🎯 Sobre la precisión
@@ -166,6 +169,7 @@ flowchart LR
 ## 🛠️ Mantenimiento
 
 ```sh
+python3 tools/comprobar.py                # comprueba enlaces, anclas, bloques de código, numeración y la chuleta
 ./pdf/generar.sh                          # regenera todo: navegación, guías completas y los 6 PDF
 ./pdf/generar.sh chuleta                  # uno solo: chuleta · verificacion-in-situ · cuaderno-de-composicion
                                           #           guia-conceptos · guia-manejo-a6700 · guia-retoques

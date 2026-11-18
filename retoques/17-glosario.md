@@ -6,6 +6,8 @@
 
 # 17. Glosario
 
+Los términos de Luminar y del retoque. Los de cámara, luz y exposición (ISO, apertura, ETTR, hiperfocal…) están en el [glosario de conceptos](../conceptos/08-glosario.md).
+
 | Término | Significado |
 |---|---|
 | **8 bits** | 256 niveles por color, como en un JPEG |

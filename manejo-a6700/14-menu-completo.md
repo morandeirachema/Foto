@@ -267,7 +267,7 @@ en las charcas el flash está prohibido de todas formas.
 
 | Ajuste | Qué hace | Tu valor |
 |---|---|---|
-| `Balance blanco` | Automático, preajustes, `Tem.col./filtro` (en K) y personalizados | **Fauna**: `Luz diurna` o K fijo. **Charca**: K ≈ 3500. **Astro**: K 3900. En `Tem.col./filtro` el dial trasero cambia los K ([balance de blancos](../conceptos/02-balance-de-blancos.md)) |
+| `Balance blanco` | Automático, preajustes, `Tem.col./filtro` (en K) y personalizados | **Fauna**: `Luz diurna` o K fijo. **Charca**: K ≈ 3500. **Astro**: K 3900. En `Tem.col./filtro` el dial trasero cambia los K ([balance de blancos](../conceptos/03-balance-de-blancos.md)) |
 | `Ajuste prior AWB` | Qué prioriza el automático con luz cálida | No lo toques |
 | `Bloq.AWB dispar.` | Bloquea el automático al disparar | No lo toques |
 

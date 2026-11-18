@@ -1,10 +1,10 @@
 <!-- nav -->
-[← Anterior](01-histograma.md) · [Índice](README.md) · [Siguiente →](03-por-que-funciona.md)
+[← Anterior](02-histograma.md) · [Índice](README.md) · [Siguiente →](04-por-que-funciona.md)
 <!-- /nav -->
 
 *Parte I · La luz y la exposición*
 
-# 2. Balance de blancos por escena — valores de partida
+# 3. Balance de blancos por escena — valores de partida
 
 > 🔵 **Básico** · Da por sabido: el capítulo 1 · Te desbloquea: que los colores salgan como los viste, no como los inventa la cámara.
 
@@ -57,5 +57,5 @@ justo lo que has ido a fotografiar.
 - Tutoriales de balance de blancos en español (dzoom): <https://www.dzoom.org.es/>
 
 <!-- nav -->
-[← Anterior](01-histograma.md) · [Índice](README.md) · [Siguiente →](03-por-que-funciona.md)
+[← Anterior](02-histograma.md) · [Índice](README.md) · [Siguiente →](04-por-que-funciona.md)
 <!-- /nav -->

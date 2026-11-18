@@ -59,11 +59,11 @@ safari: montaña centrada, nada toca el borde derecho · paisaje: todo el ancho 
 
 ## Antes de arrancar cada día
 
-Volver a MR1 (restaura todo) · batería + repuesto · SD con hueco · 70-350: **AF · OSS ON · bloqueo de zoom** · cargador USB-C/power bank a mano (la caja no trae cargador) · pera y microfibra · bean bag · Pixel cargado y con hueco · **diales**: delantero = velocidad, trasero = abertura (si no, intercámbialos en `Ajuste t. pers./dial`) · **C1** pantalla brillante (solo en MF) · **C3** lupa
+Volver a MR1 (restaura todo) · **formato RAW** (foto de prueba = `.ARW`) · batería + repuesto · SD con hueco · 70-350: **AF · OSS ON · bloqueo de zoom** · cargador USB-C/power bank a mano (la caja no trae cargador) · pera y microfibra · bean bag · Pixel cargado y con hueco · **diales**: delantero = velocidad, trasero = abertura (si no, intercámbialos en `Ajuste t. pers./dial`) · **C1** pantalla brillante (solo en MF) · **C3** lupa
 
 ## Enfocar una estrella (resumen)
 
-MR2 → Verificac. luminosa para encuadrar → lupa sobre la estrella más brillante → anillo hasta el punto mínimo → cinta en el anillo → prueba 20 s → histograma primer tercio.
+MR2 → Verificac. luminosa para encuadrar → lupa sobre la estrella más brillante → anillo hasta el punto mínimo → cinta en el anillo → prueba 20 s → histograma primer tercio. **Con el Viltrox 25 mm:** `Modo de enfoque` → `Enfoque man.` (no tiene interruptor) y 10–13 s.
 
 <!-- nav -->
 [← Anterior](15-verificacion-de-menus.md) · [Índice](README.md) · [Siguiente →](17-verificacion-in-situ.md)

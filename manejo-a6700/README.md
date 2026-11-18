@@ -39,7 +39,7 @@ flowchart LR
 
 | Si… | Lee |
 |---|---|
-| Nunca has manejado una cámara en serio | [1. Del móvil a la a6700](01-de-movil-a-la-a6700.md) |
+| Empiezas de cero | La [ruta de aprendizaje](../RUTA.md) y luego [1. Del móvil a la a6700](01-de-movil-a-la-a6700.md) |
 | La cámara acaba de llegar | [2. Los menús](02-menus-y-primer-dia.md) → [3. Los diales](03-diales-y-botones.md) → [4. Configuración](04-configuracion-basica.md) |
 | Quieres estrellas **esta noche** | [5. Enfocar el 11 mm](05-enfocar-el-11mm.md) → [7. Estrellas con la tierra dentro](07-estrellas-con-tierra.md) |
 | Retratos, calle o interiores con poca luz | [11. El Viltrox 25 mm](11-viltrox-25mm.md) |

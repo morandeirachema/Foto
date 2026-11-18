@@ -1,5 +1,5 @@
 <!-- nav -->
-[Índice](README.md) · [Siguiente →](01-histograma.md)
+[Índice](README.md) · [Siguiente →](01-la-luz.md)
 <!-- /nav -->
 
 # Conceptos de fotografía
@@ -10,27 +10,28 @@
 ## Cómo está organizada
 
 **Parte I · La luz y la exposición**
-1. El histograma por escenario
-2. Balance de blancos por escena
-3. Por qué funciona: el modelo detrás de las recetas
+1. La luz
+2. El histograma por escenario
+3. Balance de blancos por escena
+4. Por qué funciona: el modelo detrás de las recetas
 
 **Parte II · La composición y la mirada**
 
-4. Atlas de encuadres
-5. La mirada
-6. Cuaderno de composición *(para imprimir)*
+5. Atlas de encuadres
+6. La mirada
+7. Cuaderno de composición *(para imprimir)*
 
 **Parte III · Referencia**
 
-7. Glosario
+8. Glosario
 
 ## Cómo leerla
 
 - **Cada capítulo abre con su nivel:** 🟢 **Iniciación** (nunca has manejado una cámara en serio) · 🔵 **Básico** (las recetas) · 🔴 **Avanzado** (el porqué, y la foto que no es correcta sino buena). Debajo indica qué da por sabido y qué te desbloquea.
 - **Los ejemplos son de un viaje real** (safari, paisaje y cielos nocturnos en Namibia), pero los conceptos valen en cualquier sitio.
 - **"Capítulo N"** en un capítulo de conceptos se refiere a [Manejo de la a6700](../manejo-a6700/00-introduccion.md), salvo que el enlace diga otra cosa.
-- **Para empezar desde cero:** el [glosario](07-glosario.md) y el [histograma](01-histograma.md). Para entender por qué funcionan las recetas: [Por qué funciona](03-por-que-funciona.md).
+- **Para empezar desde cero:** sigue la [ruta de aprendizaje](../RUTA.md), que ordena las tres secciones del repo de cero a avanzado. Aquí, empieza por [la luz](01-la-luz.md), el [glosario](08-glosario.md) y el [histograma](02-histograma.md). Para entender por qué funcionan las recetas: [Por qué funciona](04-por-que-funciona.md).
 
 <!-- nav -->
-[Índice](README.md) · [Siguiente →](01-histograma.md)
+[Índice](README.md) · [Siguiente →](01-la-luz.md)
 <!-- /nav -->

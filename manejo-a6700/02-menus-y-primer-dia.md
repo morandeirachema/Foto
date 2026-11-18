@@ -241,7 +241,7 @@ MENU → Toma → [Visualizac. toma] → [Tipo lín. cuadríc.]
 Con la **regla de tres** dibujada encima, dos cosas dejan de fallar:
 
 - **El aire de la mirada**: ves de un vistazo si el animal está en un tercio
-  o centrado como una foto de carnet ([atlas de encuadres](../conceptos/04-atlas-de-encuadres.md)).
+  o centrado como una foto de carnet ([atlas de encuadres](../conceptos/05-atlas-de-encuadres.md)).
 - **El horizonte torcido**: en el pan de Etosha, en las dunas y en la costa,
   medio grado canta. La cuadrícula lo caza antes de disparar; el **Nivel**
   del DISP lo remata.
@@ -282,7 +282,7 @@ Aquí está el gesto que este repo te pide una y otra vez ("verifica al
 6. **DISP** cambia la información sobre la foto hasta enseñarte el
    **histograma** — la única forma honesta de saber si la exposición está
    bien, porque la pantalla en la oscuridad siempre parece más clara de lo
-   que la foto es ([el histograma por escenario](../conceptos/01-histograma.md)).
+   que la foto es ([el histograma por escenario](../conceptos/02-histograma.md)).
 
 Si quieres que empiece más ampliada, `MENU → Reproducc. → [Aumento]`
 tiene el aumento y la posición iniciales (`Aum. aumento inic` y
@@ -304,7 +304,7 @@ pulsación va subiendo estrellas mientras revisas
 reproducción).
 
 **Para qué sirve de verdad**: el repaso de cada noche te pide elegir **las
-tres mejores del día** ([la mirada](../conceptos/05-la-mirada.md)). Si además les
+tres mejores del día** ([la mirada](../conceptos/06-la-mirada.md)). Si además les
 pones tres estrellas ahí mismo, las localizas enseguida al revisar en la
 cámara. Que el programa de edición lea esa valoración al importar no está
 garantizado (la documentación de Luminar no lo menciona): compruébalo con

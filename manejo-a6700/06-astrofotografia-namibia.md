@@ -19,7 +19,7 @@ visible gran parte de la noche.
 > **Nubes de Magallanes**, Saturno y las Táuridas, y la Cruz del Sur no está
 > al anochecer. Las recetas y el enfoque de este capítulo valen igual; el
 > **plan de tus noches concretas** está en
-> [la mirada](../conceptos/05-la-mirada.md), el fino en
+> [la mirada](../conceptos/06-la-mirada.md), el fino en
 > [estrellas con la tierra dentro](07-estrellas-con-tierra.md), y el catálogo completo de lo
 > fotografiable en tu ventana, objetivo a objetivo, en
 > [el cielo del viaje](https://github.com/morandeirachema/a6700-namibia/blob/main/plan/cielo-del-viaje.md).

@@ -56,7 +56,7 @@ Las [recetas completas](retoques/09-recetas.md) están marcadas como provisional
 
 ## 6 · El equipo y el estado del repo
 
-- [ ] **El 70-350 prestado**: ¿lo sigues teniendo o ya lo devolviste? Si ya no está, ajusto las guías para que no cuenten con él.
+- [x] **El 70-350 prestado**: sigue contigo una temporada (18 de noviembre de 2026). Las guías siguen contando con él; si lo devuelves, avisa y las ajusto.
 - [ ] El estado del equipo de [equipo y accesorios](manejo-a6700/10-equipo-accesorios.md) es del **25 de octubre**. ¿Ha cambiado algo?
 - [ ] **Capturas de los menús:** el [guion](manejo-a6700/img/menus/) tiene 14 imprescindibles (marcadas ★). Hazlas con el móvil y ejecuta `python3 manejo-a6700/img/menus/insertar.py`.
 - [ ] En **macOS Vista Previa**: comprueba que la ruta para quitar la ubicación de una foto es la de [retoques, 13.3](retoques/13-etica.md) (Herramientas → Mostrar inspector → ubicación).
