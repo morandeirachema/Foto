@@ -4,32 +4,39 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ## What this repository is
 
-There is no code here. It holds a documentation project: a Spanish-language guide to editing JPEG photos (safari, landscape and night photography) in Luminar (version 1.29.x). Each step also gives the equivalent setting in Lightroom and darktable.
+There is no application code here. The repository holds a Spanish-language guide to editing JPEG photos (safari, landscape, night) in **Luminar for Desktop 1.29.x** (Luminar Neo), on macOS. **The guide covers Luminar only.** The owner explicitly asked for no darktable or Lightroom content, so don't add equivalences to other editors.
 
-- `guia-luminar-jpeg-safari-paisaje-noche.md`: the **source**. Edit this one.
-- `guia-luminar-jpeg-safari-paisaje-noche.pdf`: a **generated** A4 export of the Markdown, printed with headless Chrome (Skia/PDF). It is not the source of truth. Regenerate it after changing the Markdown, and never edit the PDF by hand.
+## Source vs generated files
 
-## Regenerating the PDF
+- `docs/NN-*.md`: **the source.** One file per chapter (`00-introduccion.md` … `18-fuentes.md`), plus `docs/README.md`, the hand-written chapter index.
+- `guia-luminar-jpeg-safari-paisaje-noche.md` and `.pdf`: **generated** by `build.sh`. Never edit them by hand.
+- The `<!-- nav -->` … `<!-- /nav -->` blocks at the top and bottom of each chapter are **rewritten by `build.sh`**. Don't edit them.
 
-The PDF was printed from HTML with headless Chrome. One way to rebuild it with tools already on this machine (`pandoc` is installed):
+## Commands
 
 ```sh
-pandoc guia-luminar-jpeg-safari-paisaje-noche.md -s -o /tmp/guia.html \
-  --metadata title="Mejorar JPEG de safari, paisaje y fotografía nocturna con Luminar"
-"/Applications/Google Chrome.app/Contents/MacOS/Google Chrome" --headless \
-  --no-pdf-header-footer --print-to-pdf=guia-luminar-jpeg-safari-paisaje-noche.pdf /tmp/guia.html
+./build.sh            # refresh chapter nav, rebuild single-file .md, render A4 PDF
+./build.sh --no-pdf   # skip the PDF
+pdfinfo guia-luminar-jpeg-safari-paisaje-noche.pdf   # sanity check (A4, page count)
 ```
 
-Check the result with `pdfinfo` (it should be A4, about 16 pages).
+The PDF is built with pandoc (`--from gfm`, styled by `pdf.css`) and then printed by headless Google Chrome (`CHROME` env var overrides the path). Run `./build.sh` after any change in `docs/` and commit the regenerated files with it. To check the layout, render pages with `pdftoppm -png -r 50 -f N -l N <pdf> <prefix>`. `pdf.css` relies on `p:has(+ h1)` to keep each chapter's "*Parte …*" label on the same page as its heading.
 
-## How the guide is structured (keep these conventions when editing)
+## Adding or renaming a chapter
 
-- **Language and tone:** Spanish (Spain), addressed to the reader as *tú*, plain and beginner-friendly. Luminar tool names stay in English as they appear in the app (*Noiseless AI*, *Structure AI*, *Mask AI → Sky*). Lightroom and darktable names are given in Spanish, as in their Spanish interfaces.
-- **Seven numbered parts:** 1) universal concepts, 2) the 10-step base workflow in Luminar, 3) safari, 4) landscape, 5) night, 6) common mistakes and checklist, 7) equivalence table. Parts 3–5 only describe **what changes** compared with the base workflow in Part 2. Don't repeat the base steps there.
-- **Each step follows the same pattern:** **Qué hacer** (Luminar, with starting values for JPEG) → **Por qué** (the universal reason) → **En otros editores** (Lightroom / darktable equivalent).
-- **Values are starting points**, written as ranges (`+15 a +40`, `−0,2/−0,4`). Use a Spanish decimal comma and a true minus sign `−` (U+2212), not a hyphen.
-- **Keyboard shortcuts are macOS** (`⌘`, `⇧`) and go in backticks inside bold: **`⌘1`**.
-- **Content that must stay consistent across sections:** the shortcut list (Part 2), the checklist (6.2) and the equivalence table (Part 7) repeat tool names and shortcuts. If you rename or add a tool in one place, update all three.
-- **Documentary ethics:** the guide deliberately warns against removing scene elements or swapping skies in documentary or wildlife photos. Keep that stance.
-- **Sources:** the list at the end links to Skylum's official docs and the darktable 5.6 manual. Add a source whenever you add a claim about a specific tool's behaviour.
-- **Version line:** the header records the guide date and the Luminar version. Update it when you revise the content for a new release.
+Files are picked up by the glob `docs/[0-9][0-9]-*.md`, in order. Chapter number = file number, and in-text cross-references ("sección 4.3") rely on that. If you add, remove or renumber a chapter, update: the in-text "sección N" references, `docs/00-introduccion.md`, `docs/README.md` and the root `README.md` (contents list, "Empieza por aquí" table).
+
+## Accuracy rules (the owner asked for "very precise, no fabrications")
+
+- Every Luminar tool name, slider name, menu path, shortcut and technical limit must be verifiable in Skylum's official docs. The index is `https://support.skylum.com/llms.txt`; append `.md` to any page URL. Check the docs before adding or changing a claim, and add the page to `docs/18-fuentes.md`.
+- If the docs don't say something (for example, the HSL channel list, the export color-space options, metadata/GPS removal on export, which input formats HDR Merge or Panorama accept), say so in the text rather than guessing.
+- Slider values are the guide's own starting points, and the text says so. `docs/08-recetas.md` is marked **provisional** until it has been checked against the owner's sample photos. Keep that banner until then.
+- Corrections already made from the docs: Dehaze lives in **Landscape Tools → Landscape**; **Twilight Enhancer AI** exists (Landscape Tools); Sky Enhancer AI is not for night skies; Upscale goes up to 6× (no fixed ×2/×4); Object Select AI is hover + click with **Subtract**; there are no "adjustment layers" (Add New Layer offers My Images, Flares, Light Leaks, Stardust Bokeh and Sparklers); tools can be added multiple times with their own masks ("instancias").
+
+## Writing conventions
+
+- Spanish (Spain), addressed to the reader as *tú*, plain and beginner-friendly. Luminar UI names stay **in English** and in bold, exactly as in the app (*Noiseless AI*, *Mask AI*, *Sync Adjustments*).
+- Each step follows the pattern: **what to do in Luminar** (with values) → **why**.
+- Values are ranges with a Spanish decimal comma and a true minus sign `−` (U+2212): `+15 a +40`, `−0,2/−0,4`.
+- Shortcuts are macOS, in bold backticks: **`⌘1`**. Chapter 15 is the full list. Keep it, the checklist (14.2) and the in-text mentions consistent.
+- Documentary ethics stance (chapter 12): correct the photo, don't change the scene. Content-generating tools (GenErase, GenSwap, GenExpand, Sky AI, Atmosphere AI, Twilight Enhancer's Dawn) are always flagged as such.
