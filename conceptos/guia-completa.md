@@ -75,7 +75,9 @@ La cámara no sabe qué estás fotografiando. Mide cuánta luz llega y la ajusta
 | **Algo muy claro** (nieve, arena, cielo, agua al sol) | "Sobra luz" | Oscurece | La nieve sale gris, el animal sale negro | **Suma: +0,7 a +1** |
 | **Algo muy oscuro** (noche, agua en sombra, fondo negro) | "Falta luz" | Aclara | Lo iluminado se quema: la garza blanca, el rinoceronte en el foco | **Resta: −0,7 a −1** |
 
-**La regla:** mira **qué ocupa la mayor parte del encuadre**. Si es claro, **+**. Si es oscuro, **−**. Parece al revés porque no estás corrigiendo la escena: estás **deshaciendo lo que la cámara ya hizo**.
+**La regla más corta: corrige lo que ves en el sujeto.** ¿Sale **quemado** (demasiado blanco, sin detalle)? → **−**. ¿Sale **oscuro**? → **+**. La compensación mueve la foto en la dirección que quieres.
+
+**Y por qué pasa:** mira **qué ocupa la mayor parte del encuadre**. Si es claro, **+**. Si es oscuro, **−**. Parece al revés porque no estás corrigiendo la escena: estás **deshaciendo lo que la cámara ya hizo**.
 
 **Experimento de 5 minutos** (es la mejor forma de entenderlo):
 1. Pon la cámara en **A** (prioridad a la apertura) con la compensación a **0**.
