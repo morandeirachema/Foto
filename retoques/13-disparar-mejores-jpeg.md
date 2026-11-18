@@ -8,6 +8,8 @@
 
 La mejor edición empieza en la cámara. Si disparas en JPEG, estos ajustes amplían el margen para editar en Luminar.
 
+> ⚠️ **Lo primero, con la a6700: que dispare en RAW.** En Namibia todas las fotos salieron solo en JPEG por un error de configuración. Comprueba `Formato archivo` = **RAW** (también después de cargar cada memoria) y que tus archivos sean **`.ARW`**: [configuración básica](../manejo-a6700/01-configuracion-basica.md). Los ajustes de esta página son para cuando, por lo que sea, solo tengas JPEG.
+
 > Los nombres de los menús cambian según la marca. Consulta el manual de tu cámara. Con la **Sony a6700**, la configuración completa, con las rutas de menú verificadas, está en [Manejo de la a6700](../manejo-a6700/README.md).
 
 ## 13.1. Ajustes de la cámara

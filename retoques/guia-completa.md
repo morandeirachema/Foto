@@ -41,6 +41,8 @@
 
 ## Cómo leerla
 
+- **Pensada para JPEG, y es justo lo que tienes:** las fotos de Namibia salieron solo en JPEG por un error de configuración de la cámara. Todo lo de esta guía se aplica tal cual a ellas. Para que no se repita, mira la [configuración básica de la a6700](../manejo-a6700/01-configuracion-basica.md).
+
 - Cada paso indica **qué hacer** en Luminar y **por qué**. Si entiendes el porqué, sabrás adaptarlo a cada foto.
 - Cuando el texto dice "sección 4.3", se refiere al apartado 4.3 (el capítulo 4).
 - Los **nombres de herramientas, controles y atajos** están comprobados con la documentación oficial de Skylum (sección 18). Se mantienen en inglés, como aparecen en el programa.
@@ -1162,6 +1164,8 @@ Muchas cámaras y todos los móviles guardan la **ubicación GPS** en el archivo
 # 13. Disparar mejores JPEG la próxima vez
 
 La mejor edición empieza en la cámara. Si disparas en JPEG, estos ajustes amplían el margen para editar en Luminar.
+
+> ⚠️ **Lo primero, con la a6700: que dispare en RAW.** En Namibia todas las fotos salieron solo en JPEG por un error de configuración. Comprueba `Formato archivo` = **RAW** (también después de cargar cada memoria) y que tus archivos sean **`.ARW`**: [configuración básica](../manejo-a6700/01-configuracion-basica.md). Los ajustes de esta página son para cuando, por lo que sea, solo tengas JPEG.
 
 > Los nombres de los menús cambian según la marca. Consulta el manual de tu cámara. Con la **Sony a6700**, la configuración completa, con las rutas de menú verificadas, está en [Manejo de la a6700](../manejo-a6700/README.md).
 

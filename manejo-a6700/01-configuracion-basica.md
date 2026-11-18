@@ -42,6 +42,14 @@ Hazlo en casa, con todo cargado, y no vuelvas a pensar en ello.
 | `SteadyShot` | **Activar** | Los Sony informan de su focal a la cámara; el Viltrox también es un objetivo con contactos (comprueba una vez que la información de una foto dice 25 mm) (`Ajuste SteadyShot` en Auto). En trípode, **Desactivar** |
 | Efecto de ajustes en visor/pantalla | ON | Ver la exposición real antes de disparar |
 
+> ⚠️ **Lección de Namibia: las fotos del viaje salieron solo en JPEG** por un
+> error de configuración. Antes de cualquier salida importante, comprueba
+> `Toma → [Calid. img/grab.] → [Formato archivo]` = **RAW**, y vuelve a
+> comprobarlo **después de cargar cada memoria** (MR1, MR2): si una memoria
+> se guardó antes de poner RAW, puede devolver el formato antiguo.
+> Haz una foto de prueba y pásala al ordenador: tiene que haber un archivo
+> **`.ARW`** (el RAW de Sony). Si solo hay `.JPG`, el formato no es RAW.
+
 ## Enfoque con el pulgar (back-button focus)
 
 El cambio de configuración más útil de la cámara para safari:

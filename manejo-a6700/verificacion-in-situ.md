@@ -81,6 +81,9 @@ asimétricas, ese ejemplar está descentrado.
   aunque anoche lo cambiaras todo en la charca.
 - [ ] Batería puesta cargada + repuesto **a mano**. En tu noviembre el
   problema es el calor: ni baterías ni tarjetas al sol del coche.
+- [ ] **Formato en RAW**: `Formato archivo` = RAW también tras cargar MR1
+  y MR2, y una foto de prueba que en el ordenador sea **`.ARW`**. *Por qué:*
+  en Namibia, por un error de configuración, todo salió solo en JPEG.
 - [ ] Tarjeta dentro y con hueco (un RAW de la a6700 ocupa ~25–30 MB: haz la
   cuenta de tu tarjeta y sabrás cuántas fotos le caben).
 - [ ] **Mandos del 70-350** — se mueven solos rozando en la mochila,

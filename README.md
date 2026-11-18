@@ -14,7 +14,7 @@
 
 <sub>Elefantes hacia el agua, Etosha. Foto de [Yathin S. Krishnappa](https://commons.wikimedia.org/wiki/File:Elephants_rushing_to_water_(Etosha,_2013).jpg), CC BY-SA 3.0, vía Wikimedia Commons</sub>
 
-**[🧠 Conceptos](#conceptos)** · **[🎛️ Manejo de la a6700](#manejo-a6700)** · **[🎨 Retoques](#retoques)** · **[🖨️ Para imprimir](#para-imprimir)** · **[🧭 Por dónde empiezo](#por-donde-empiezo)**
+**[✅ Pendientes](PENDIENTES.md)** · **[🧠 Conceptos](#conceptos)** · **[🎛️ Manejo de la a6700](#manejo-a6700)** · **[🎨 Retoques](#retoques)** · **[🖨️ Para imprimir](#para-imprimir)** · **[🧭 Por dónde empiezo](#por-donde-empiezo)**
 
 </div>
 
@@ -100,7 +100,7 @@ Las capturas de pantalla de los menús tienen su guion en [`manejo-a6700/img/men
 
 ## 🎨 3 · Retoques con Luminar
 
-Guía paso a paso para mejorar **JPEG** de safari, paisaje y noche en **Luminar**. Cada herramienta, control, atajo y límite técnico está **comprobado con la documentación oficial de Skylum**. Los valores numéricos se presentan como puntos de partida.
+Guía paso a paso para mejorar **JPEG** de safari, paisaje y noche en **Luminar**. Es justo el formato de las fotos de Namibia, que salieron solo en JPEG por un error de configuración (para que no se repita: [configuración básica](manejo-a6700/01-configuracion-basica.md)). Cada herramienta, control, atajo y límite técnico está **comprobado con la documentación oficial de Skylum**. Los valores numéricos se presentan como puntos de partida.
 
 ```mermaid
 flowchart LR
@@ -149,6 +149,8 @@ flowchart LR
 - ✈️ *Salgo pronto* → imprime la [chuleta](pdf/chuleta.pdf) y la [verificación in situ](pdf/verificacion-in-situ.pdf).
 
 ## 🎯 Sobre la precisión
+
+> Lo que solo tú puedes comprobar (en la cámara, en los objetivos o en Luminar) está en **[PENDIENTES.md](PENDIENTES.md)**.
 
 - **Manejo de la a6700:** las guías describen **cómo está configurada la cámara**. Los nombres de menú, las rutas y los datos técnicos están verificados con la [Guía de ayuda oficial de Sony](https://helpguide.sony.net/ilc/2320/v1/es/) (edición 5-051-980-47(1), firmware 2.00): [79 de 79 rutas correctas](manejo-a6700/verificacion-de-menus.md), con 11 subopciones pendientes de confirmar en la cámara. Los menús se escriben **abreviados, como aparecen en pantalla** (`Calid. img/grab.`, `AF c/obturador`, `Rec. motivo en AF`…).
 - **Retoques:** cada herramienta y atajo de Luminar está comprobado con la [documentación de Skylum](https://support.skylum.com/). Lo que la documentación no dice, la guía lo indica en lugar de suponerlo.
