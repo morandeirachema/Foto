@@ -46,14 +46,16 @@ Estas herramientas están en la pestaña **Extra**. La documentación de Skylum 
 
 - **Dónde:** Extra → **Enhancement tools** → **Upscale**.
 - **Límites:** entrada mínima de 257 × 257 px; entrada máxima de 16.000 px en el lado largo; salida máxima de 32.000 px en el lado largo.
-- **Cuándo usarlo:** **al final**, después de todos los ajustes, y solo si lo necesitas (un recorte fuerte que quieres imprimir o ver en grande).
+- **Factores:** 2×, 4× y 6×.
+- **Cuándo usarlo:** solo si lo necesitas (un recorte fuerte que quieres imprimir o ver en grande), casi al final de la edición.
+- **El orden que recomienda Skylum:** quita el ruido **antes** (Noiseless AI o la reducción de ruido de Develop), amplía y enfoca **después**, con suavidad, con Structure AI o Details.
 - **Revisa al 100 %:** en pelo y plumas puede inventar textura.
 
 ## 12.5. Herramientas generativas: GenErase, GenSwap y GenExpand
 
 Generan con IA contenido que **no estaba** en la foto.
 
-- **GenExpand** amplía el lienzo **hasta un 25 %** y rellena el espacio nuevo. Skylum recomienda ampliaciones pequeñas (en torno al 10 %), de un lado cada vez. El resultado se guarda como **TIF**. La versión *Regular* admite una descripción en texto (en inglés funciona mejor) y necesita conexión a internet; la versión *Improved* no necesita texto.
+- **GenExpand** amplía el lienzo **hasta un 25 %** y rellena el espacio nuevo. Skylum recomienda ampliaciones pequeñas (en torno al 10 %), de un lado cada vez. **GenExpand Improved** (versión 1.29.0 o posterior, con una licencia que lo incluya) admite hasta dos lados por generación. El resultado se guarda como **TIF**. La versión *Regular* admite una descripción en texto (en inglés funciona mejor) y necesita conexión a internet; la versión *Improved* no necesita texto.
 - **GenErase** y **GenSwap** borran o sustituyen elementos generando contenido nuevo.
 
 > En fotos documentales, de naturaleza o de concurso, estas herramientas **convierten la foto en una ilustración** (sección 14).

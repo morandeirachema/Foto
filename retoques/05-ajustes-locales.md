@@ -44,7 +44,7 @@ En Luminar no hay un panel de ajustes locales aparte: **cada herramienta tiene s
 - **Dodge & Burn** para aclarar u oscurecer zonas **pintando** (5.4 a 5.6). No necesita máscara: el pincel es la máscara.
 - **Otras herramientas, cada una con su máscara**, para lo demás: textura del sujeto, color del fondo, etc. (5.7).
 
-> **¿Se puede añadir Develop dos veces, cada una con su máscara?** La documentación de Skylum dice, al hablar de capas, que las herramientas se pueden aplicar "varias veces y con máscaras distintas", pero **no explica cómo** hacerlo con la misma herramienta en una foto. Compruébalo en tu versión ([PENDIENTES](../PENDIENTES.md)). Si se puede, es la forma más precisa de aclarar u oscurecer una zona seleccionada con Mask AI u Object Select AI. Si no, usa los métodos de este capítulo.
+> **¿Se puede añadir Develop dos veces, cada una con su máscara?** La documentación de Skylum dice que sí: en la pestaña **Edits** "puedes añadir la misma herramienta más de una vez", y al hablar de capas, "varias veces y con máscaras distintas". Lo que **no explica son los pasos**. Compruébalo en tu versión ([PENDIENTES](../PENDIENTES.md)). Si se puede, es la forma más precisa de aclarar u oscurecer una zona seleccionada con Mask AI u Object Select AI. Si no, usa los métodos de este capítulo.
 
 **Los tipos de máscara:**
 

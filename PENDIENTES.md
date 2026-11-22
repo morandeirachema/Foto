@@ -43,9 +43,16 @@ La auditoría confirmó las 79 rutas, pero estos nombres no se pudieron localiza
 - [ ] Herramienta **Color → HSL**: ¿qué colores aparecen? La documentación de Skylum no los enumera ([retoques, paso 7](retoques/04-flujo-base.md)).
 - [ ] **Exportar**: ¿qué opciones salen en *Color Space*? ¿Hay alguna opción para quitar metadatos o la ubicación GPS? ([retoques, 13](retoques/13-exportar.md))
 - [ ] Para el futuro con RAW: ¿abre Luminar los **`.ARW` comprimidos sin pérdida** de la a6700? Prueba con la foto de la sección 1.
-- [ ] ¿Se puede añadir **la misma herramienta dos veces** (por ejemplo, Develop) con máscaras distintas? Prueba a añadir Develop de nuevo después de usarlo. Si se puede, las guías pueden usar Develop + Mask AI para aclarar u oscurecer zonas con precisión ([retoques, 5.2](retoques/05-ajustes-locales.md)).
+- [ ] **La misma herramienta dos veces** (por ejemplo, Develop) con máscaras distintas: Skylum dice que se puede, pero no explica cómo. Prueba a añadir Develop de nuevo después de usarlo y dime qué pasos has seguido. Si se puede, las guías pueden usar Develop + Mask AI para aclarar u oscurecer zonas con precisión ([retoques, 5.2](retoques/05-ajustes-locales.md)).
 - [ ] **La escala de cada deslizador:** Skylum no publica los rangos. La primera vez que abras Develop, Structure AI, Dodge & Burn, Vignette y Film Grain, anota hasta dónde llega cada deslizador (por ejemplo, de −100 a +100) y ajusto los números de [Las herramientas, una a una](retoques/03-herramientas-una-a-una.md) si hace falta.
 - [ ] **El tamaño de tus JPEG de Namibia:** en Luminar, pestaña **Info** (**`I`**). Si es **6192 × 4128**, la cámara estaba en **L (26M)** y valen las cuentas de impresión de [retoques 13.5](retoques/13-exportar.md#135-tus-fotos-compartir-con-la-familia-e-imprimir).
+- [ ] **Atajos con teclado español:** ¿responden en tu Mac **`⌥º`** (ver el original), **`⇧7`** (mostrar la máscara), **`⇧,`** (comparar) y **`⌥`** + las teclas de **`[`** **`]`** (tamaño del pincel)? Dime también si tu teclado es español o de EE. UU. ([retoques, 17](retoques/17-atajos.md#si-tu-teclado-es-español)).
+- [ ] **Apilado en Mac:** ¿acepta JPEG la versión de prueba de [Starry Landscape Stacker](https://sites.google.com/site/starrylandscapestacker/home)? ¿Tienes series de fotos nocturnas iguales y seguidas para apilar? ([retoques, 9.2](retoques/09-noche.md#apilar-una-serie-fuera-de-luminar))
+- [ ] **Exportar a TIFF:** ¿ofrece Luminar 16 bits? Y en **Sharpen**, ¿qué niveles aparecen?
+- [ ] **Polvo del sensor:** tus fotos de día tienen manchas arriba a la izquierda del cielo. ¿Se puede copiar o sincronizar **Remove Dust Spots** entre fotos? (Skylum dice que Erase no se sincroniza.) Y limpia el sensor antes de la próxima salida.
+- [ ] **Charca con focos:** prueba las tres salidas de [retoques, 9.3](retoques/09-noche.md#animales-en-una-charca-iluminada-con-focos) con una foto de elefantes y dime cuál te convence.
+- [ ] **Color en pantalla:** compara una foto exportada en Vista Previa con lo que ves en Luminar. ¿Coinciden? ([retoques, 1.9](retoques/01-conceptos-basicos.md))
+- [ ] **Las rutas según el contenido** de [retoques, 4](retoques/04-flujo-base.md#qué-hay-en-tu-foto-la-ruta-según-el-contenido) están por probar con tus fotos: dime en cuáles no funciona el orden.
 - [ ] ¿Lee Luminar las **estrellas** que pones en la cámara (`Valoración`)? Marca una foto con 3 estrellas y ábrela en el catálogo.
 
 ## 5 · Fotos de muestra para las recetas

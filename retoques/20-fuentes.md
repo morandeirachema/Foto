@@ -13,7 +13,12 @@ Los nombres de las herramientas, los controles, los atajos y los límites técni
 - [Atajos de teclado (Desktop)](https://support.skylum.com/something-useful/keyboard-shortcut-keys)
 - [Sincronizar ajustes](https://support.skylum.com/how-to-use-luminar-for-desktop/catalog/syncing-adjustments)
 - [Presets](https://support.skylum.com/presets) · [Personalizar presets](https://support.skylum.com/presets/customizing-presets)
-- [Exportar](https://support.skylum.com/saving-and-exporting-files/export-image)
+- [Exportar](https://support.skylum.com/saving-and-exporting-files/export-image) · [Imprimir en casa](https://support.skylum.com/printing/home-printing)
+- [Recorrido por Luminar](https://support.skylum.com/how-to-use-luminar-for-desktop/luminar-for-desktop-walkthrough) · [Empezar a editar (pestaña Edits)](https://support.skylum.com/editing-tools/start-editing-with-edit-view)
+- [Histograma](https://support.skylum.com/how-to-use-luminar-for-desktop/catalog/histogram) · [Favoritas, rechazadas e icono Visibility](https://support.skylum.com/organizing-images/marking-favorite-and-rejected-images)
+- [Aplicar presets](https://support.skylum.com/presets/browsing-and-applying-presets) · [Copia de seguridad del catálogo](https://support.skylum.com/how-to-use-luminar-for-desktop/catalog/catalog-files/backing-up-a-catalog)
+- [Formatos admitidos](https://support.skylum.com/about-luminar-for-desktop/supported-file-types-and-cameras) · [Buenas prácticas con Upscale](https://support.skylum.com/luminar-for-desktop-tips/best-practices-with-upscale)
+- [Por qué cambian los colores al exportar (perfil del monitor)](https://support.skylum.com/why-do-photo-colors-change-after-export-in-luminar-for-desktop)
 
 **Essentials**
 - [Develop / Develop RAW](https://support.skylum.com/editing-tools/essential-tools/develop-raw-develop)
@@ -57,6 +62,11 @@ Los nombres de las herramientas, los controles, los atajos y los límites técni
 - [Crop AI](https://support.skylum.com/editing-tools/crop-ai-tool)
 - [HDR Merge](https://support.skylum.com/extra-tools/hdr-merge) · [Panorama Stitching](https://support.skylum.com/extra-tools/panorama-stitching) · [Focus Stacking](https://support.skylum.com/extra-tools/focus-stacking) · [Upscale](https://support.skylum.com/extra-tools/upscale)
 - [GenErase](https://support.skylum.com/extra-tools/generative-tools/generase) · [GenSwap](https://support.skylum.com/extra-tools/generative-tools/genswap) · [GenExpand](https://support.skylum.com/extra-tools/generative-tools/genexpand)
+
+**Fuera de Luminar** (criterio de edición y programas de apilado; no son fuentes de Skylum)
+- Color del cielo nocturno: [Clarkvision](https://clarkvision.com/articles/color.of.the.night.sky) · [Lonely Speck](https://www.lonelyspeck.com/how-to-process-milky-way-astrophotography-in-adobe-lightroom/)
+- Apilado en Mac: [Starry Landscape Stacker](https://sites.google.com/site/starrylandscapestacker/home) · [Siril](https://siril.org/) · [StarStaX](https://starstax.net/)
+- Límites del JPEG: [posterización](https://www.cambridgeincolour.com/tutorials/posterization.htm) y [enfoque](https://www.cambridgeincolour.com/tutorials/image-sharpening.htm), en Cambridge in Colour
 
 <!-- nav -->
 [← Anterior](19-preguntas-frecuentes.md) · [Índice](README.md)

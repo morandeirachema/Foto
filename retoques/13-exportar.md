@@ -98,7 +98,8 @@ Una copia en papel enseña cosas que la pantalla del móvil esconde. Antes de ma
 
 **Exportar**
 - **Tamaño original**, **calidad máxima** y **sRGB**, salvo que el laboratorio pida otra cosa.
-- **Sharpen** del cuadro de exportación: **moderado**. La copia pierde algo de nitidez al imprimirse; no lo subas tanto que aparezcan bordes blancos.
+- **Si imprimes en casa:** desde la versión 1.29, el menú **Export** tiene **Print…** (*Home Printing*), con perfiles **ICC** de impresora y papel, **Soft Proofing** (simula en pantalla cómo quedarán los colores en ese papel) y **Print Sharpening** (None, Low, Medium o High). Una prueba pequeña en papel sigue siendo la mejor comprobación.
+- **Sharpen** del cuadro de exportación: **moderado** ("bajo" y "moderado" son palabras de esta guía: Skylum no documenta qué niveles ofrece Sharpen al exportar; elige el intermedio de los que veas). La copia pierde algo de nitidez al imprimirse; no lo subas tanto que aparezcan bordes blancos.
 - Si te quedas corto de píxeles, **Upscale** al final (empieza por 2×) y revisa al 100 %.
 
 **Imprimir**

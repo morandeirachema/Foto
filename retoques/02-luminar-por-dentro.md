@@ -9,7 +9,7 @@
 ## 2.1. Catálogo y edición
 
 - **Catálogo** (**`L`**): aquí ves, seleccionas y organizas. Añades carpetas (**`⌥⇧N`**), creas álbumes (**`⌘N`**) y marcas favoritas.
-- **Edición:** aquí ajustas una foto. A la derecha hay tres pestañas: **Presets** (**`T`**), **Tools** (**`E`**) e **Info** (**`I`**, datos de la toma).
+- **Edición:** aquí ajustas una foto. A la derecha hay cinco pestañas: **Presets** (**`T`**), **Tools** (**`E`**), **Edits** (las herramientas que ya has aplicado a la foto: desde aquí las revisas y las cambias), **Extra** (herramientas generativas, Upscale y fusiones) e **Info** (**`I`**, datos de la toma).
 
 **Categorías de Tools:**
 
@@ -58,14 +58,14 @@ En Luminar, la mayoría de las herramientas tienen su propia pestaña **Masking*
 
 **Revisa siempre los bordes con `/`.** Las máscaras IA suelen fallar en cuernos, orejas, bigotes y ramas finas: corrígelas con **Brush**.
 
-**Una máscara por herramienta.** La máscara limita el efecto de **esa** herramienta a una zona. Por eso **Develop** se usa sin máscara, para toda la foto, y las zonas se trabajan con **Dodge & Burn** (pintando luz y sombra) y con **otras herramientas, cada una con su máscara**. Todo el método, paso a paso, en la [sección 5](05-ajustes-locales.md). La documentación de Skylum dice, al hablar de capas, que las herramientas se pueden aplicar "varias veces y con máscaras distintas", pero no explica cómo hacerlo con la misma herramienta en una foto: compruébalo en tu versión ([PENDIENTES](../PENDIENTES.md)).
+**Una máscara por herramienta.** La máscara limita el efecto de **esa** herramienta a una zona. Por eso **Develop** se usa sin máscara, para toda la foto, y las zonas se trabajan con **Dodge & Burn** (pintando luz y sombra) y con **otras herramientas, cada una con su máscara**. Todo el método, paso a paso, en la [sección 5](05-ajustes-locales.md). La documentación de Skylum dice que **se puede añadir la misma herramienta más de una vez** (lo menciona al hablar de la pestaña **Edits** y de las capas), pero no explica los pasos: compruébalo en tu versión ([PENDIENTES](../PENDIENTES.md)).
 
 ## 2.4. Capas
 
 - **Añadir una capa:** el icono **+** del panel **Layers** abre *Add New Layer*, con estas opciones: **My Images** (otra foto tuya), **Flares**, **Light Leaks**, **Stardust Bokeh** y **Sparklers**.
 - **Propiedades de la capa:** **Opacity**, **Blend Modes**, **Horizontal Flip**, **Vertical Flip** e **Image Mapping**. Cada capa tiene su pestaña **Masking** (Brush, Linear Gradient, Radial Gradient, Mask AI).
 - **Background Removal AI:** separa el sujeto del fondo dentro de una capa.
-- **Quitar u ocultar:** clic derecho → **Remove Layer** o **Hide Layer**.
+- **Quitar u ocultar:** clic secundario (**`⌃`**-clic, o clic con dos dedos en el trackpad) → **Remove Layer** o **Hide Layer**.
 
 Para la edición normal de un JPEG de viaje bastan las **herramientas con máscara**. Las capas sirven sobre todo para combinar imágenes, un uso que en fotos documentales conviene evitar (sección 14).
 

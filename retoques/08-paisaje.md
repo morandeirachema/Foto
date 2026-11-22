@@ -20,7 +20,7 @@
 ## 8.2. Paso a paso
 
 **1. Horizonte y encuadre**
-- **`C`** → **Auto Straighten**.
+- **`C`** → **Auto Straighten** (**Horizon Alignment** en el Crop AI anterior).
 - **Horizonte en el tercio superior** si lo interesante es el suelo, **en el inferior** si es el cielo. Casi nunca en el centro, salvo en reflejos simétricos.
 - **Primer plano, plano medio y fondo:** un buen paisaje suele tener los tres. El recorte debe mantenerlos.
 - **Líneas que guían** (un camino, un río, la cresta de una duna): recorta para que entren desde una esquina y lleven hacia el sujeto.

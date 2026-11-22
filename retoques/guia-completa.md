@@ -46,11 +46,11 @@
 - **Pensada para JPEG, y es justo lo que tienes:** las fotos de Namibia salieron solo en JPEG por un error de configuración de la cámara. Todo lo de esta guía se aplica tal cual a ellas. Para que no se repita, mira la [configuración básica de la a6700](../manejo-a6700/04-configuracion-basica.md).
 
 - Cada paso indica **qué hacer** en Luminar y **por qué**. Si entiendes el porqué, sabrás adaptarlo a cada foto.
-- Cuando el texto dice "sección 6.3", se refiere al apartado 5.3 (el capítulo 5).
-- **¿Empiezas de cero en edición?** Lee en orden los capítulos 1 a 5. El 3 es la ficha de cada herramienta, con los números de partida: tenlo abierto mientras editas. El 4 enseña a aclarar u oscurecer solo una parte de la foto (los ojos, una sombra, el cielo), explicando qué haces, cómo y qué significa para la foto.
+- Cuando el texto dice "sección 5.3", se refiere al apartado 5.3, dentro del capítulo 5.
+- **¿Empiezas de cero en edición?** Lee en orden los capítulos 1 a 5. El 3 es la ficha de cada herramienta, con los números de partida: tenlo abierto mientras editas. El 5 enseña a aclarar u oscurecer solo una parte de la foto (los ojos, una sombra, el cielo), explicando qué haces, cómo y qué significa para la foto.
 - Los **nombres de herramientas, controles y atajos** están comprobados con la documentación oficial de Skylum (sección 20). Se mantienen en inglés, como aparecen en el programa.
 - Los **valores numéricos** son puntos de partida para JPEG propuestos por esta guía, no valores oficiales. Cada foto es distinta: mueve el deslizador mirando la imagen, no el número.
-- Los atajos son de **macOS**. En Windows, **`⌘`** suele corresponder a **Ctrl** y **`⌥`** a **Alt**.
+- Los atajos son de **macOS**: **`⌘`** es Comando, **`⌥`** Opción, **`⇧`** Mayúsculas y **`⌃`** Control. Si tu teclado es español, mira cómo se escriben **`\`**, **`/`**, **`;`**, **`[`** y **`]`** en la [sección 17](17-atajos.md#si-tu-teclado-es-español).
 
 ---
 
@@ -122,6 +122,8 @@ Toda foto se puede dividir por brillo. En **Develop**, Luminar tiene un control 
 - El **histograma** es una gráfica del brillo: **izquierda oscuro, derecha claro**.
 - Si la "montaña" toca el borde derecho, hay **luces quemadas**; si toca el izquierdo, **negros empastados**.
 - El **aviso de recorte** pinta en la foto las zonas quemadas o empastadas. En Luminar se activa y desactiva con **`J`**.
+- **Dónde está en Luminar:** menú **View > Show Histogram**. Un **clic sobre el histograma** alterna entre la vista conjunta y los canales **rojo, verde y azul** por separado. Los **dos triángulos** de las esquinas superiores activan los avisos: el izquierdo pinta en azul los negros puros y el derecho, en rojo, los blancos puros.
+- **Mira los canales por separado cuando domina un color** (dunas rojas, un atardecer, un animal bajo un foco naranja). Si el canal rojo ya toca el borde derecho, no añadas calidez ni saturación: ese color no tiene más margen.
 - **No hay un histograma correcto:** una foto nocturna tiene que estar a la izquierda y una de arena blanca, a la derecha.
 
 **El recorte permitido.** No todo recorte es un error. Puedes dejar quemados el **sol**, las **farolas**, los **reflejos del sol** en el agua o en un ojo y una **luna pequeña** en un paisaje. Lo que no debe quemarse es lo que tiene textura y el espectador mira: nubes, plumas blancas, nieve, la piel del sujeto.
@@ -217,7 +219,7 @@ Editar en local consiste en que el sujeto gane un poco en esas cosas y el fondo 
 - **Brillo moderado.** Con el brillo al máximo, tus fotos saldrán **oscuras** en otras pantallas y en papel.
 - **Desactiva** el brillo automático, **True Tone** y **Night Shift** mientras editas (en macOS, en Ajustes del Sistema → Pantallas). Cambian el color de la pantalla según la hora y la luz ambiente.
 - **Luz ambiente tenue y constante.** No edites con el sol dando en la pantalla.
-- **Un calibrador de pantalla** es muy recomendable si imprimes o vendes fotos.
+- **Un calibrador de pantalla** es muy recomendable si imprimes o vendes fotos. Un aviso: un artículo de soporte de Skylum (marcado como posiblemente desactualizado y pensado para Windows) dice que Luminar muestra las fotos en sRGB y **no lee el perfil personalizado del monitor**. Si calibras, compara la foto exportada en Vista Previa antes de fiarte del color para imprimir ([PENDIENTES](../PENDIENTES.md)).
 - **Comprueba en el móvil.** Mucha gente verá tus fotos en un teléfono.
 
 ## 1.10. Color: lo mínimo de teoría
@@ -249,7 +251,7 @@ Editar en local consiste en que el sujeto gane un poco en esas cosas y el fondo 
 ## 2.1. Catálogo y edición
 
 - **Catálogo** (**`L`**): aquí ves, seleccionas y organizas. Añades carpetas (**`⌥⇧N`**), creas álbumes (**`⌘N`**) y marcas favoritas.
-- **Edición:** aquí ajustas una foto. A la derecha hay tres pestañas: **Presets** (**`T`**), **Tools** (**`E`**) e **Info** (**`I`**, datos de la toma).
+- **Edición:** aquí ajustas una foto. A la derecha hay cinco pestañas: **Presets** (**`T`**), **Tools** (**`E`**), **Edits** (las herramientas que ya has aplicado a la foto: desde aquí las revisas y las cambias), **Extra** (herramientas generativas, Upscale y fusiones) e **Info** (**`I`**, datos de la toma).
 
 **Categorías de Tools:**
 
@@ -298,14 +300,14 @@ En Luminar, la mayoría de las herramientas tienen su propia pestaña **Masking*
 
 **Revisa siempre los bordes con `/`.** Las máscaras IA suelen fallar en cuernos, orejas, bigotes y ramas finas: corrígelas con **Brush**.
 
-**Una máscara por herramienta.** La máscara limita el efecto de **esa** herramienta a una zona. Por eso **Develop** se usa sin máscara, para toda la foto, y las zonas se trabajan con **Dodge & Burn** (pintando luz y sombra) y con **otras herramientas, cada una con su máscara**. Todo el método, paso a paso, en la [sección 5](05-ajustes-locales.md). La documentación de Skylum dice, al hablar de capas, que las herramientas se pueden aplicar "varias veces y con máscaras distintas", pero no explica cómo hacerlo con la misma herramienta en una foto: compruébalo en tu versión ([PENDIENTES](../PENDIENTES.md)).
+**Una máscara por herramienta.** La máscara limita el efecto de **esa** herramienta a una zona. Por eso **Develop** se usa sin máscara, para toda la foto, y las zonas se trabajan con **Dodge & Burn** (pintando luz y sombra) y con **otras herramientas, cada una con su máscara**. Todo el método, paso a paso, en la [sección 5](05-ajustes-locales.md). La documentación de Skylum dice que **se puede añadir la misma herramienta más de una vez** (lo menciona al hablar de la pestaña **Edits** y de las capas), pero no explica los pasos: compruébalo en tu versión ([PENDIENTES](../PENDIENTES.md)).
 
 ## 2.4. Capas
 
 - **Añadir una capa:** el icono **+** del panel **Layers** abre *Add New Layer*, con estas opciones: **My Images** (otra foto tuya), **Flares**, **Light Leaks**, **Stardust Bokeh** y **Sparklers**.
 - **Propiedades de la capa:** **Opacity**, **Blend Modes**, **Horizontal Flip**, **Vertical Flip** e **Image Mapping**. Cada capa tiene su pestaña **Masking** (Brush, Linear Gradient, Radial Gradient, Mask AI).
 - **Background Removal AI:** separa el sujeto del fondo dentro de una capa.
-- **Quitar u ocultar:** clic derecho → **Remove Layer** o **Hide Layer**.
+- **Quitar u ocultar:** clic secundario (**`⌃`**-clic, o clic con dos dedos en el trackpad) → **Remove Layer** o **Hide Layer**.
 
 Para la edición normal de un JPEG de viaje bastan las **herramientas con máscara**. Las capas sirven sobre todo para combinar imágenes, un uso que en fotos documentales conviene evitar (sección 14).
 
@@ -456,7 +458,7 @@ La herramienta de los ajustes locales ([sección 5](05-ajustes-locales.md)).
 
 | Herramienta | Atajo | Cómo |
 |---|---|---|
-| **Crop AI** | **`C`** | **Auto Straighten** para nivelar; elige proporción; **`X`** cambia vertical/horizontal; sal de la herramienta para aplicar |
+| **Crop AI** | **`C`** | **Auto Straighten** para nivelar (**Horizon Alignment** en el Crop AI anterior); elige proporción; **`X`** cambia vertical/horizontal; sal de la herramienta para aplicar |
 | **Erase** | **`⌘E`** | Pinta sobre lo que quieres quitar (pincel algo mayor que el objeto) y pulsa **Erase** |
 | **Remove Dust Spots** | — | Quita automáticamente manchas de polvo del sensor; luego afina con Erase |
 | **Clone** | **`⌘J`** | **`⌥`**-clic para elegir de dónde copiar; pinta con toques cortos |
@@ -468,7 +470,7 @@ Las usa la guía en casos concretos. ✳️ = **inventa** contenido: perfecta pa
 | Herramienta (categoría) | Para qué | Controles clave | Empieza en |
 |---|---|---|---|
 | **Supersharp AI** (Image Quality) | Fotos algo movidas o blandas | Modo **Motion Blur** (movimiento) o **Universal**; nivel **Low / Middle / High** | Motion Blur, **Low** |
-| ✳️ **Upscale** (Extra) | Ampliar una foto muy recortada | El factor, **hasta 6×** | **2×**, al final de todo |
+| ✳️ **Upscale** (Extra) | Ampliar una foto muy recortada | El factor, **hasta 6×** | **2×**, con el ruido ya quitado; el enfoque suave, después |
 | **Face AI** (Portrait) | Caras con poca luz | **Face Light** | +10 a +20 |
 | **Twilight Enhancer AI** (Landscape) | Luz de hora dorada o azul | Presets **Blush, Golden, Blue, Emerald, Mauve**; **Amount** | Preset y **Amount** 20–30 |
 | **Water Enhancer AI** (Landscape) | Agua más clara y viva | **Amount**, **Blue**, **Green**, **Brightness**, **Contrast**; pincel **Draw/Erase** | **Amount** 20–30 |
@@ -548,7 +550,7 @@ Este es el esqueleto que usarás en todas las fotos. Las secciones de safari, pa
 ### Paso 3 · Recorte y horizonte: Crop AI
 
 - **`C`** abre el recorte.
-- **Auto Straighten** nivela el horizonte automáticamente; el deslizador **Straighten** lo ajusta a mano.
+- **Auto Straighten** nivela el horizonte automáticamente; el deslizador **Straighten** lo ajusta a mano. Estos nombres son los de **Crop AI Improved** (versión 1.29.0 o posterior, con una licencia que lo incluya). En el Crop AI anterior, la nivelación automática se llama **Horizon Alignment**.
 - **Smart Compositions** (Crop AI Improved, según versión y licencia) propone varios recortes e indica la regla usada: tercios, proporción áurea, espiral áurea, triángulo áureo o centrado.
 - **Proporciones** (desplegable de Ratio): Free, Original, Transposed, 1:1, 4:5, 2:3, 4:3, 5:7, 16:9, 16:10, 21:9, entre otras. **`X`** cambia entre horizontal y vertical.
 - **Perspectiva:** si hay árboles o edificios que "caen", usa **Develop → Transform** (Vertical, Horizontal, Aspect).
@@ -568,7 +570,8 @@ Este es el esqueleto que usarás en todas las fotos. Las secciones de safari, pa
 
 ### Paso 5 · Color: balance de blancos
 
-- **Develop → Color:** elige un preset de **White Balance**, haz clic con el cuentagotas (**`W`**) sobre algo neutro o ajusta **Temperature** y **Tint**.
+- **Develop → Color:** haz clic con el cuentagotas (**`W`**) sobre algo neutro (blanco o gris) o ajusta **Temperature** y **Tint**. El desplegable de presets de **White Balance** es, según Skylum, para archivos RAW: con tus JPEG, usa el cuentagotas y los deslizadores.
+- **Mueve poco.** En un JPEG el balance de blancos ya está aplicado: una corrección pequeña funciona; una grande tiñe las luces o las sombras.
 - **Remove Color Cast** (en la herramienta **Color**) detecta y corrige una dominante automáticamente. Pruébalo y quédate con el resultado solo si te convence.
 - **Por qué:** una dominante de color hace que todo parezca "raro" aunque la luz esté bien.
 
@@ -619,6 +622,33 @@ Aquí se trabaja por zonas: **Dodge & Burn** para aclarar u oscurecer pintando, 
 
 **La regla del descanso.** Tras un rato mirando una foto, el ojo se acostumbra a la saturación y al contraste, y siempre parece que "falta un poco más". Por eso las fotos editadas de un tirón suelen verse exageradas al día siguiente. Descansa, vuelve a mirarlas y baja lo que sobre.
 
+## ¿Qué hay en tu foto? La ruta según el contenido
+
+Los 10 pasos son los mismos en todas las fotos; lo que cambia es **cuáles pesan** en cada una. Mira la foto, busca en la tabla lo que contiene y sigue la ruta: los números son los **pasos de este capítulo**. Si la foto contiene dos cosas (un animal bajo un cielo con manchas, una persona delante de una duna), sigue las dos filas.
+
+Antes, dos comprobaciones de 20 segundos que deciden casi todo:
+- **¿Para qué es la foto?** Para el móvil casi todo vale; para imprimir, el ruido y los recortes fuertes se notan.
+- **¿Qué está ya en el límite?** Pulsa **`J`** y mira el histograma por canales (sección 1.3). Lo que está quemado no vuelve, y el color que ya toca el borde no admite más.
+
+> Las rutas son criterio de esta guía, montado a partir de lo que recomiendan fotógrafos de fauna, paisaje y cielo nocturno para RAW y rebajado para JPEG. Están **por probar con tus fotos**, igual que las [recetas](10-recetas.md). Las cantidades van en palabras: empieza con los valores de [las herramientas, una a una](03-herramientas-una-a-una.md), o con menos.
+
+| Si en la foto hay… | Haz esto, en este orden | No toques |
+|---|---|---|
+| **Un animal de buen tamaño, a la sombra o al anochecer** (sale azulado y apagado) | **2** ruido suave → **3** recorte moderado, con aire hacia donde mira → **5** un poco más cálido con Temperature → **4** sube Exposure y Shadows con moderación → **9** máscara del animal (**Object Select AI**): algo más de luz y de Structure AI; la misma máscara invertida (**`⌘I`**): fondo un poco más oscuro y menos saturado; **Dodge & Burn** pequeño en el ojo → **10** comprueba que el animal no parezca pegado | El cuentagotas sobre la luz cálida (se la lleva); desenfocar el fondo; enfocar el fondo |
+| **Un animal pequeño y lejano** | **1** decide que es una foto para móvil o copia pequeña → **2** ruido antes de recortar, juzgado al tamaño final → **3** recorte fuerte: el ojo en un tercio y aire hacia donde mira → **5** y **4** como en la fila anterior → **9** diferencias pequeñas entre animal y fondo: en un animal pequeño el borde de la máscara es impreciso → **10** exporta a unos 2000 px; **Upscale 2×** solo para imprimir | Enfocar un ojo que mide cuatro píxeles; Upscale 4× o 6× |
+| **Un animal con luz plana de mediodía o calima** | **10** manchas de polvo del cielo, lo primero → **3** recorta para sacar al animal del centro y quitar lo que estorba en los bordes → **4** Smart Contrast o una curva en S suave → **7** Vibrance, no Saturation → **9** **Dehaze** bajo, con máscara solo en la lejanía → vuelve a mirar el cielo: Dehaze saca manchas nuevas | Golden Hour y calidez añadida sobre luz plana; Dehaze fuerte. Si el contraste no tiene arreglo, prueba en blanco y negro |
+| **Un animal de noche bajo un foco naranja** | La ruta completa está en [9.3](09-noche.md#animales-en-una-charca-iluminada-con-focos): descarta las movidas → mira el canal rojo → **2** Noiseless AI → corrige el color solo a medias, baja el naranja en HSL o pasa a blanco y negro → comparte a tamaño pequeño | Neutralizar del todo; aclarar las sombras; enfocar; imprimir en grande |
+| **Cielo azul despejado** (cualquier foto de día a f/7–f/11) | **10** **Remove Dust Spots**, empezando por arriba a la izquierda, que es donde están tus manchas → **9** oscurece el cielo solo un poco, con un **Linear Gradient** suave o **Mask AI** (cielo) → **10** **Film Grain** si aparecen bandas → revisa el cielo al 100 % | Structure AI, Details y Dehaze sobre el cielo; bajar mucho la luminancia del azul |
+| **Dunas rojas o arena naranja** | Mira el canal rojo → **4** la luz antes que el color → **8** textura para las ondas de la arena → **7** si la arena ha perdido relieve, baja un poco la saturación del naranja en vez de subirla → revisa al 100 % la cresta de la duna contra el cielo: ni halo ni borde de color | Subir la saturación del rojo o el naranja con el canal rojo al límite; cambios grandes de Hue (parten la duna en dos colores) |
+| **Una persona o un árbol a contraluz, con el fondo iluminado** (Deadvlei) | **10** polvo del cielo → **4** ajusta la foto entera para la duna y el cielo, que son lo claro → **9** aclara **solo** el sujeto en sombra con una máscara ([5.5](05-ajustes-locales.md)), como mucho un paso de luz; con la misma máscara, quita el tono azulado del suelo en sombra → opcional: **Erase** sobre turistas lejanos | Subir Shadows en toda la foto. Si al aclarar sale ruido, deja el sujeto en silueta |
+| **Atardecer, amanecer o una silueta buscada** | **3** horizonte nivelado → **5** conserva la calidez: no neutralices → **4** baja un poco Whites cerca del sol; deja las siluetas negras → **7** Vibrance en pequeña cantidad → **10** Film Grain para el degradado del cielo | Balance de blancos neutro; subir Exposure junto al sol; Sky AI o Sunrays si la foto se presenta como lo que viste |
+| **Estrellas o Vía Láctea** | Si hay una serie, [apílala antes](09-noche.md#apilar-una-serie-fuera-de-luminar) → después, toda la [sección 9.2](09-noche.md): color hacia un gris neutro, luz con Curves poco a poco, contraste solo en el núcleo con una máscara Radial, ruido con mano ligera, Film Grain contra las bandas | Sky Enhancer AI; Dehaze o Structure AI en toda la foto; enfocar el cielo; un cielo azul saturado; aclarar el suelo negro |
+| **Fuego, linternas o luces del lodge** | **5** deja la luz cálida; si importa el cielo, enfríalo aparte con una máscara → **4** baja un poco Whites; el centro de la llama puede quedar blanco → **7** naranja algo menos saturado para recuperar textura en caras y suelo → **10** Film Grain en la zona donde la luz se apaga | Bajar mucho Highlights sobre llamas quemadas (se vuelven grises); enfocar llamas y chispas |
+
+**Qué decide el contenido, en resumen:** dónde va la máscara (paso 9), qué color está en riesgo (pasos 5 y 7) y a qué tamaño puede verse la foto (pasos 1 y 10). Lo demás no cambia. La mayoría de las fotos de día necesitan solo polvo, recorte, balance de blancos, luz y exportar.
+
+**¿No has hecho nunca una máscara?** Es mover primero los deslizadores de una herramienta, abrir su pestaña **Masking**, elegir el tipo, marcar la zona en la foto y revisarla con **`/`**. Está explicado desde cero en la [sección 5.2](05-ajustes-locales.md) y, clic a clic con ejemplos, en las secciones 5.4 a 5.7.
+
 ## Rescatar un JPEG difícil
 
 Con un JPEG no hay RAW al que volver, pero Luminar tiene herramientas para casi cada problema. Lo importante es saber **qué se puede arreglar, qué solo se puede disimular y qué no tiene arreglo**. Las herramientas marcadas con ✳️ **inventan** contenido: úsalas sin problema en tu álbum, y dilo si presentas la foto como documento ([sección 14](14-etica.md)).
@@ -630,16 +660,16 @@ Con un JPEG no hay RAW al que volver, pero Luminar tiene herramientas para casi 
 | **Mucho ruido** (ISO alto, noche) | **Noiseless AI** en **High**; Color Denoise alto; Details **+10** para no perder pelo | Muy buen resultado; revisa al 100 % que el pelo o las estrellas no parezcan de plástico |
 | **Algo movida o blanda** | **Supersharp AI**, modo **Motion Blur**, nivel **Low** (sube a Middle si no basta) | Mejora un movimiento ligero; una foto muy movida no se salva |
 | **Desenfocada** (el foco se fue al fondo) | Supersharp AI, modo **Universal**, nivel **Low** | Mejora poco: el desenfoque real no se puede reconstruir |
-| **Animal muy pequeño** (recorte fuerte) | Recorta y, **al final**, ✳️ **Upscale** (hasta 6×; empieza por 2×) | Válida para pantalla o una copia pequeña; revisa al 100 % que no invente textura |
+| **Animal muy pequeño** (recorte fuerte) | Recorta, quita el ruido y después ✳️ **Upscale** (2×, 4× o 6×; empieza por 2×); el enfoque suave, al final | Válida para pantalla o una copia pequeña; revisa al 100 % que no invente textura |
 | **Color raro** (dominante) | **Remove Color Cast**; si no basta, Temperature y Tint **±10**; dominante solo en las sombras: Color Harmony → Color Balance | Se corrige bien si no es extrema |
 | **Plana, sin contraste** (calima, nublado) | **Dehaze +15**, Smart Contrast **+20**, Supercontrast → Midtones **+15** | Mejora mucho |
 | **Bandas en el cielo** | Retoques más suaves en el cielo; **Film Grain** Amount **8** | Se disimulan, no desaparecen |
-| **Manchas de polvo del sensor** | **Remove Dust Spots**; luego Erase en las que queden | Se arregla del todo |
+| **Manchas de polvo del sensor** (puntos grises en el cielo, siempre en el mismo sitio) | **Remove Dust Spots**; luego Erase en las que queden. Vuelve a mirar el cielo después de Dehaze o de subir el contraste: hacen visibles manchas que antes no se veían | Se arregla del todo, pero **foto a foto**: Erase no se sincroniza |
 | **Un cable, una rama, un vehículo que estorba** | **Erase** (pequeño); ✳️ **GenErase** (grande o difícil); cables en el cielo: **Remove Powerlines** | Se arregla del todo |
 | **Encuadre demasiado justo** | ✳️ **GenExpand**: amplía hasta un 25 %, mejor de un lado cada vez | Útil para ganar aire o cambiar la proporción |
 | **Contraluz con el animal negro** | Shadows **+40**; Dodge & Burn → Lighten sobre el animal ([sección 5.5](05-ajustes-locales.md)) | Vuelve algo de detalle; con mucho ruido, acepta la silueta |
 
-**El orden en una foto difícil:** primero el ruido y el movimiento (Noiseless AI, Supersharp AI), luego la luz y el color, luego las herramientas que inventan contenido y, **al final de todo**, Upscale.
+**El orden en una foto difícil:** primero el ruido y el movimiento (Noiseless AI, Supersharp AI), luego la luz y el color, luego las herramientas que inventan contenido y, casi al final, Upscale. Después de ampliar solo queda un enfoque suave (Structure AI o Details), como recomienda Skylum ([sección 12.4](12-varias-fotos.md)).
 
 ## Ejercicio (una tarde)
 
@@ -694,7 +724,7 @@ En Luminar no hay un panel de ajustes locales aparte: **cada herramienta tiene s
 - **Dodge & Burn** para aclarar u oscurecer zonas **pintando** (5.4 a 5.6). No necesita máscara: el pincel es la máscara.
 - **Otras herramientas, cada una con su máscara**, para lo demás: textura del sujeto, color del fondo, etc. (5.7).
 
-> **¿Se puede añadir Develop dos veces, cada una con su máscara?** La documentación de Skylum dice, al hablar de capas, que las herramientas se pueden aplicar "varias veces y con máscaras distintas", pero **no explica cómo** hacerlo con la misma herramienta en una foto. Compruébalo en tu versión ([PENDIENTES](../PENDIENTES.md)). Si se puede, es la forma más precisa de aclarar u oscurecer una zona seleccionada con Mask AI u Object Select AI. Si no, usa los métodos de este capítulo.
+> **¿Se puede añadir Develop dos veces, cada una con su máscara?** La documentación de Skylum dice que sí: en la pestaña **Edits** "puedes añadir la misma herramienta más de una vez", y al hablar de capas, "varias veces y con máscaras distintas". Lo que **no explica son los pasos**. Compruébalo en tu versión ([PENDIENTES](../PENDIENTES.md)). Si se puede, es la forma más precisa de aclarar u oscurecer una zona seleccionada con Mask AI u Object Select AI. Si no, usa los métodos de este capítulo.
 
 **Los tipos de máscara:**
 
@@ -1121,7 +1151,7 @@ El blanco y negro no es quitar el color, sino **decidir qué gris recibe cada co
 ## 8.2. Paso a paso
 
 **1. Horizonte y encuadre**
-- **`C`** → **Auto Straighten**.
+- **`C`** → **Auto Straighten** (**Horizon Alignment** en el Crop AI anterior).
 - **Horizonte en el tercio superior** si lo interesante es el suelo, **en el inferior** si es el cielo. Casi nunca en el centro, salvo en reflejos simétricos.
 - **Primer plano, plano medio y fondo:** un buen paisaje suele tener los tres. El recorte debe mantenerlos.
 - **Líneas que guían** (un camino, un río, la cresta de una duna): recorta para que entren desde una esquina y lleven hacia el sujeto.
@@ -1245,16 +1275,19 @@ La fotografía nocturna es la que **más sufre en JPEG**: mucho ruido, sombras m
 - **Noiseless AI**, normalmente en *Middle*.
 - **Riesgo:** una reducción de ruido fuerte **borra las estrellas pequeñas** porque las confunde con ruido. Mira al 100 % y baja **Luminosity Denoise** hasta que vuelvan a verse.
 - **Color Denoise:** el ruido de color (manchas moradas y verdes) es lo que más ensucia un cielo nocturno.
-- **Apilar fotos:** si hiciste varias fotos iguales seguidas, un programa de astrofotografía puede apilarlas y reducir mucho el ruido (por ejemplo, Sequator en Windows o Starry Landscape Stacker en Mac). Las herramientas de fusión de Luminar (HDR Merge, Panorama Stitching y Focus Stacking) no incluyen un apilado para reducir ruido. Después terminas la edición en Luminar.
+- **Apilar fotos:** si hiciste varias fotos iguales seguidas, apílalas **antes** de editar: es lo que más reduce el ruido. Luminar no lo hace; el paso a paso está al final de esta sección ([Apilar una serie](#apilar-una-serie-fuera-de-luminar)).
 
 **2. Balance de blancos**
-- El cielo nocturno suele salir naranja (contaminación lumínica) o verdoso.
-- **Temperature** hacia el azul hasta que el cielo sea **gris azulado oscuro**, no naranja ni morado. El verde se corrige con **Tint** hacia el magenta.
-- Un cielo nocturno creíble es neutro o ligeramente azul. Las estrellas deben verse blancas con matices, no todas del mismo color.
+- **Mira primero de qué color es el cielo y por qué.** Naranja o amarillo junto al horizonte, sobre un pueblo o un lodge: contaminación lumínica. Una **banda verde suave** cerca del horizonte en un cielo muy oscuro, como el de Namibia: casi seguro es **luminiscencia atmosférica** (*airglow*), luz natural del propio aire. Es real: no la borres.
+- **Si toda la foto tira a marrón o a naranja** (pasa con un balance de blancos fijo de día), mueve **Temperature** un poco hacia el azul, hasta que el cielo sea **gris neutro oscuro o algo cálido**. No busques un azul intenso: el cielo nocturno real casi nunca es azul.
+- **Tint** hacia el magenta solo si **toda** la foto está verdosa. Si el verde es una banda en el horizonte, déjala, o bájale un poco la saturación con una máscara.
+- Las estrellas deben verse blancas con matices, no todas del mismo color.
+- **Dos gustos, los dos defendibles.** Roger Clark defiende el color natural, con balance de luz de día: cielo neutro o cálido y Vía Láctea parda ([Clarkvision](https://clarkvision.com/articles/color.of.the.night.sky)). Ian Norman prefiere un cielo más frío, en torno a 3900 K ([Lonely Speck](https://www.lonelyspeck.com/how-to-process-milky-way-astrophotography-in-adobe-lightroom/)). Para un álbum de recuerdo, quédate cerca de lo que viste.
 
 **3. Luz**
 - **Exposure** +0,3/+0,7 si está muy oscura (vigila el ruido).
-- **Blacks** un poco **abajo** (−5 a −15). Un cielo negro profundo disimula el ruido y da contraste a las estrellas; si lo dejas gris, la foto parece sucia.
+- **Blacks** un poco **abajo** (−5 a −15) **solo si el cielo se ve gris**: un cielo oscuro disimula el ruido y da contraste a las estrellas.
+- **Si la foto ya salió oscura** (cielo casi negro y Vía Láctea apenas visible), **no bajes Blacks**: perderías las estrellas débiles. Sube la luz poco a poco con **Curves** (sección 6.1), mirando al 100 %. Hacia un paso de luz (+1 EV) empiezan a verse bandas y ruido en un JPEG: ese es tu límite, y el motivo para apilar si tienes una serie (más abajo).
 - **Highlights** −10/−20 si hay alguna luz quemada.
 - **Shadows** con cuidado: es la zona con más ruido.
 
@@ -1281,6 +1314,31 @@ La fotografía nocturna es la que **más sufre en JPEG**: mucho ruido, sombras m
 
 **Estrellas alargadas (pequeños trazos):** salen cuando la exposición fue demasiado larga para la focal usada. No tienen arreglo real al editar. Para la próxima vez, consulta la sección 15.3.
 
+### Apilar una serie (fuera de Luminar)
+
+**Qué es:** el programa alinea las estrellas de varias fotos iguales y hace la media. El ruido, que es distinto en cada foto, se cancela; la señal, que es la misma, se queda. Con 10 fotos, el ruido baja en teoría a un tercio, y el archivo resultante (TIFF de 16 bits) aguanta mucho mejor que un JPEG el aclarado de la Vía Láctea.
+
+**Qué necesitas:** varias fotos **seguidas**, con el **trípode quieto** y **los mismos ajustes**. Búscalas en el catálogo: misma exposición e ISO, con segundos de diferencia.
+
+Las herramientas de fusión de Luminar (HDR Merge, Panorama Stitching y Focus Stacking) no incluyen un apilado para reducir ruido, así que hace falta otro programa. Para Mac:
+
+| Programa | Precio | Para qué | Enlace |
+|---|---|---|---|
+| **Starry Landscape Stacker** | Unos 40 USD; tiene versión de prueba | Alinea el cielo y deja el suelo quieto con una máscara. Es el equivalente en Mac de Sequator | <https://sites.google.com/site/starrylandscapestacker/home> |
+| **Siril** | Gratis | Apila y corrige degradados de fondo (*background extraction*). No tiene "suelo fijo" de un clic | <https://siril.org/> |
+| **StarStaX** | Las versiones antiguas, gratis | Solo para **trazas de estrellas**: suma los trazos de una serie larga | <https://starstax.net/> |
+
+Sequator, que citan muchas guías, solo existe para Windows.
+
+**Paso a paso:**
+1. **No edites las fotos antes.** Ni ruido, ni enfoque, ni correcciones de lente: estropean el apilado.
+2. Abre la serie en el programa. **No está confirmado que acepten JPEG**: pruébalo con la versión de prueba ([PENDIENTES](../PENDIENTES.md)). Si no los acepta, convierte antes los JPEG a TIFF, sin editarlos.
+3. Marca el cielo (en Starry Landscape Stacker, pintando la máscara) y apila.
+4. Guarda el resultado como **TIFF de 16 bits**.
+5. Añade ese TIFF al catálogo de Luminar (admite TIFF de 8 y 16 bits) y edítalo con los pasos de esta sección. Notarás que Noiseless AI casi no hace falta.
+
+Un apilado de fotos del mismo sitio y del mismo momento no es un montaje. Si enseñas la foto, basta con decir "apilado de 10 tomas".
+
 ## 9.3. Luces artificiales (lodge, campamento, ciudad)
 
 - **Balance de blancos:** no neutralices del todo las bombillas cálidas. Algo de calidez hace la escena acogedora.
@@ -1289,6 +1347,20 @@ La fotografía nocturna es la que **más sufre en JPEG**: mucho ruido, sombras m
 - **Magic Light AI** (opcional, **Intensity** 10–20) añade rayos y brillo a bombillas y farolas.
 - **HSL:** naranja → Saturation **−10** si la luz es demasiado intensa.
 - **Luces de distintos colores:** neutraliza la que más se vea y deja la otra con su color.
+
+### Animales en una charca iluminada con focos
+
+Es el caso más difícil del viaje: ISO muy alto (hasta 12800), todo teñido de **naranja** por el foco y el fondo negro. **Un color neutro no se puede recuperar de un JPEG así**: bajo esa luz casi toda la información está en el canal rojo. Esto es criterio de esta guía (no hay tutoriales de referencia para este caso), así que pruébalo con una foto y ajusta:
+
+1. **Descarta primero las movidas.** A 1/25 s, un animal que se mueve sale borroso, y eso no tiene arreglo.
+2. **Mira el canal rojo** en el histograma (sección 1.3). Si toca el borde derecho, no subas la exposición ni la saturación.
+3. **Noiseless AI**, con el nivel propuesto. Revisa la piel del animal al 100 %: si parece de cera, baja **Luminosity Denoise**.
+4. **Elige una de tres salidas:**
+   - **Corrección parcial:** **Temperature** hacia el azul solo hasta que el animal deje de verse de un único naranja. Si sigues, aparecen colores falsos.
+   - **Menos saturación:** herramienta **Color → HSL → Saturation**, naranja hacia abajo. Conserva el ambiente y recupera textura en la piel.
+   - **Blanco y negro** (**Black & White**): elimina la dominante y disimula el ruido de color. Suele ser la que mejor queda.
+5. **Deja el fondo negro.** Aclarar las sombras solo saca ruido.
+6. **Compártela a tamaño pequeño.** A 2000 px el ruido se ve mucho menos que al 100 %; no es una foto para imprimir en grande.
 
 ## 9.4. Fuego de campamento y linternas
 
@@ -1383,8 +1455,8 @@ El mejor momento para la "foto nocturna" con JPEG suele ser **antes** de la noch
 |---|---|---|
 | 1 | Noiseless AI | Middle; Color Denoise alto; Luminosity Denoise bajado hasta ver las estrellas pequeñas |
 | 2 | Crop | Horizonte en el tercio inferior; acacia fuera del centro |
-| 3 | Develop → Color | Temperature hacia el azul; Tint hacia el magenta hasta un cielo gris azulado |
-| 4 | Develop | Exposure +0,4; Blacks −10; Shadows +5 |
+| 3 | Develop → Color | Temperature un poco hacia el azul, hasta un cielo gris neutro o algo cálido; la banda verde del horizonte (*airglow*) se queda |
+| 4 | Develop | Exposure +0,4; Shadows +5; Blacks −10 solo si el cielo se ve gris |
 | 5 | Supercontrast + Radial (Inverted) sobre el núcleo | Highlights +15 |
 | 6 | Dodge & Burn → Lighten | Muy suave sobre el núcleo |
 | 7 | Color Harmony + Gradient desde el horizonte | Warmth un poco negativa |
@@ -1417,7 +1489,7 @@ Tras un safari puedes volver con miles de fotos. Editarlas una a una es inviable
 
 1. Edita bien **una foto representativa** de una situación (misma luz, mismo animal).
 2. Con ella seleccionada (borde naranja), selecciona las demás en el catálogo o en la tira de fotos (**Filmstrip**): **`⇧`**-clic para un rango, **`⌘`**-clic para fotos sueltas. Las demás aparecen con borde blanco.
-3. Clic derecho → **Adjustments → Sync Adjustments** (**`⇧⌘S`**).
+3. Clic secundario (**`⌃`**-clic, o clic con dos dedos en el trackpad) → **Adjustments → Sync Adjustments** (**`⇧⌘S`**).
 4. Revisa cada foto y retoca lo que cambie, sobre todo la exposición.
 
 **Copiar y pegar ajustes:** **`⌘C`** en la foto editada y **`⌘V`** en la otra.
@@ -1428,7 +1500,11 @@ Tras un safari puedes volver con miles de fotos. Editarlas una a una es inviable
 - **Revisa las máscaras** en cada foto sincronizada: el animal no estará en el mismo sitio en todas.
 - Las miniaturas del catálogo son previsualizaciones: revisa el resultado en la vista de una sola foto.
 
+**Receta para una sesión con el mismo color raro.** Si disparaste con el balance de blancos fijo, todas las fotos de una misma luz tienen **la misma dominante** (azulada a la sombra o al anochecer, naranja bajo los focos). Corrige **una** (ruido, balance de blancos y luz), sincroniza esos ajustes con el resto de la sesión y deja para cada foto lo que no se sincroniza o cambia de sitio: recorte, manchas de polvo y máscaras.
+
 ## 11.2. Presets propios
+
+> **Aviso:** según Skylum, **aplicar un preset sobrescribe los cambios** que ya hayas hecho en la foto. Aplica el preset **primero** y ajusta después.
 
 1. Ajusta una foto (o modifica un preset existente).
 2. En el desplegable **Actions**, abajo, elige **Save as Preset**.
@@ -1456,7 +1532,7 @@ Antes de editar la primera foto de un viaje, tres cosas, en este orden.
 
 **1. Copia de seguridad, antes de nada.** Las fotos que solo están en un sitio no están a salvo. La regla clásica **3-2-1**: **3** copias, en **2** soportes distintos (el ordenador y un disco externo, por ejemplo), y **1** de ellas fuera de casa o en la nube. Haz las copias de los **originales** antes de abrirlos en Luminar.
 
-**2. Lleva las fotos a Luminar.** **Add Folder with Images** (**`⌥⇧N`**) añade la carpeta al catálogo. Luminar enlaza esa carpeta: no la copia ni toca tus JPEG, y las ediciones se guardan en su catálogo ([sección 2.2](02-luminar-por-dentro.md)). Haz copia de seguridad también del catálogo.
+**2. Lleva las fotos a Luminar.** **Add Folder with Images** (**`⌥⇧N`**) añade la carpeta al catálogo. Luminar enlaza esa carpeta: no la copia ni toca tus JPEG, y las ediciones se guardan en su catálogo ([sección 2.2](02-luminar-por-dentro.md)). Haz copia de seguridad también del catálogo: **File > Catalog > Backup** (se recupera con **File > Catalog > Restore from Backup**).
 
 **3. Elige antes de editar.** Con miles de fotos, editar sin elegir es imposible:
 1. **Primera pasada:** rechaza (**`X`**) lo claramente fallido. Rápido: si dudas, no la rechaces.
@@ -1521,14 +1597,16 @@ Estas herramientas están en la pestaña **Extra**. La documentación de Skylum 
 
 - **Dónde:** Extra → **Enhancement tools** → **Upscale**.
 - **Límites:** entrada mínima de 257 × 257 px; entrada máxima de 16.000 px en el lado largo; salida máxima de 32.000 px en el lado largo.
-- **Cuándo usarlo:** **al final**, después de todos los ajustes, y solo si lo necesitas (un recorte fuerte que quieres imprimir o ver en grande).
+- **Factores:** 2×, 4× y 6×.
+- **Cuándo usarlo:** solo si lo necesitas (un recorte fuerte que quieres imprimir o ver en grande), casi al final de la edición.
+- **El orden que recomienda Skylum:** quita el ruido **antes** (Noiseless AI o la reducción de ruido de Develop), amplía y enfoca **después**, con suavidad, con Structure AI o Details.
 - **Revisa al 100 %:** en pelo y plumas puede inventar textura.
 
 ## 12.5. Herramientas generativas: GenErase, GenSwap y GenExpand
 
 Generan con IA contenido que **no estaba** en la foto.
 
-- **GenExpand** amplía el lienzo **hasta un 25 %** y rellena el espacio nuevo. Skylum recomienda ampliaciones pequeñas (en torno al 10 %), de un lado cada vez. El resultado se guarda como **TIF**. La versión *Regular* admite una descripción en texto (en inglés funciona mejor) y necesita conexión a internet; la versión *Improved* no necesita texto.
+- **GenExpand** amplía el lienzo **hasta un 25 %** y rellena el espacio nuevo. Skylum recomienda ampliaciones pequeñas (en torno al 10 %), de un lado cada vez. **GenExpand Improved** (versión 1.29.0 o posterior, con una licencia que lo incluya) admite hasta dos lados por generación. El resultado se guarda como **TIF**. La versión *Regular* admite una descripción en texto (en inglés funciona mejor) y necesita conexión a internet; la versión *Improved* no necesita texto.
 - **GenErase** y **GenSwap** borran o sustituyen elementos generando contenido nuevo.
 
 > En fotos documentales, de naturaleza o de concurso, estas herramientas **convierten la foto en una ilustración** (sección 14).
@@ -1631,7 +1709,8 @@ Una copia en papel enseña cosas que la pantalla del móvil esconde. Antes de ma
 
 **Exportar**
 - **Tamaño original**, **calidad máxima** y **sRGB**, salvo que el laboratorio pida otra cosa.
-- **Sharpen** del cuadro de exportación: **moderado**. La copia pierde algo de nitidez al imprimirse; no lo subas tanto que aparezcan bordes blancos.
+- **Si imprimes en casa:** desde la versión 1.29, el menú **Export** tiene **Print…** (*Home Printing*), con perfiles **ICC** de impresora y papel, **Soft Proofing** (simula en pantalla cómo quedarán los colores en ese papel) y **Print Sharpening** (None, Low, Medium o High). Una prueba pequeña en papel sigue siendo la mejor comprobación.
+- **Sharpen** del cuadro de exportación: **moderado** ("bajo" y "moderado" son palabras de esta guía: Skylum no documenta qué niveles ofrece Sharpen al exportar; elige el intermedio de los que veas). La copia pierde algo de nitidez al imprimirse; no lo subas tanto que aparezcan bordes blancos.
 - Si te quedas corto de píxeles, **Upscale** al final (empieza por 2×) y revisa al 100 %.
 
 **Imprimir**
@@ -1806,7 +1885,18 @@ REVISIÓN Y SALIDA
 
 # 17. Atajos de teclado (macOS)
 
-Atajos según la documentación oficial de Skylum. En Windows, **`⌘`** suele corresponder a **Ctrl** y **`⌥`**, a **Alt**.
+Atajos de **macOS**, según la documentación oficial de Skylum. Esta guía no cubre Windows.
+
+## Los símbolos de las teclas del Mac
+
+| Símbolo | Tecla | Dónde está |
+|---|---|---|
+| **`⌘`** | Comando (*Command*) | A los lados de la barra espaciadora |
+| **`⌥`** | Opción (*Option*) | Entre Control y Comando |
+| **`⇧`** | Mayúsculas (*Shift*) | En los extremos de la fila inferior de letras |
+| **`⌃`** | Control | Abajo a la izquierda |
+
+Un atajo como **`⇧⌘E`** se hace manteniendo Mayúsculas y Comando, y pulsando E. **`⌥`**-clic es hacer clic con Opción pulsada. El **clic secundario** ("clic derecho") es **`⌃`**-clic, o un clic con dos dedos en el trackpad.
 
 ## Catálogo y selección
 
@@ -1854,6 +1944,23 @@ Atajos según la documentación oficial de Skylum. En Windows, **`⌘`** suele c
 | **`⌘I`** | Invertir la máscara |
 | **`[`** / **`]`** | Pincel más pequeño / más grande |
 | **`⇧[`** / **`⇧]`** | Menos / más suavidad del pincel |
+
+## Si tu teclado es español
+
+Skylum documenta los atajos con el teclado de Estados Unidos. En un teclado de Mac en español (ISO), algunos de esos caracteres no tienen tecla propia y se escriben así:
+
+| Carácter | Para qué | En el teclado español de Mac |
+|---|---|---|
+| **`\`** | Ver el original | **`⌥º`** (la tecla a la izquierda del 1) |
+| **`/`** | Mostrar la máscara | **`⇧7`** |
+| **`;`** | Comparar | **`⇧,`** |
+| **`[`** / **`]`** | Tamaño del pincel | **`⌥`** + la tecla a la derecha de la P / **`⌥+`** |
+| **`'`** | Copia virtual (**`⌘'`**) | Tecla propia, a la derecha del 0 |
+
+La documentación de Skylum no dice si Luminar reconoce estos atajos cuando el carácter necesita **`⌥`** o **`⇧`**. Pruébalos en tu Mac ([PENDIENTES](../PENDIENTES.md)). Si alguno no responde, tienes dos salidas:
+
+- **Usa el control en pantalla:** **Compare** para comparar, **Show** en las acciones de la máscara y los deslizadores **Size** y **Softness** del pincel hacen lo mismo que sus atajos. Para ver el original sin el atajo, usa el **icono Visibility**: muestra el antes y el después de una foto editada.
+- **Añade la distribución "ABC" (EE. UU.)** en Ajustes del Sistema → Teclado → Entrada de texto → Fuentes de entrada, y cambia a ella mientras editas (**`⌃`** + barra espaciadora, o la tecla 🌐). Con ella, las teclas están donde dice la tabla de Skylum: **`[`** y **`]`** a la derecha de la P, **`;`** y **`'`** a la derecha de la L, **`/`** junto al Mayúsculas derecho.
 
 ---
 
@@ -1926,7 +2033,12 @@ Los nombres de las herramientas, los controles, los atajos y los límites técni
 - [Atajos de teclado (Desktop)](https://support.skylum.com/something-useful/keyboard-shortcut-keys)
 - [Sincronizar ajustes](https://support.skylum.com/how-to-use-luminar-for-desktop/catalog/syncing-adjustments)
 - [Presets](https://support.skylum.com/presets) · [Personalizar presets](https://support.skylum.com/presets/customizing-presets)
-- [Exportar](https://support.skylum.com/saving-and-exporting-files/export-image)
+- [Exportar](https://support.skylum.com/saving-and-exporting-files/export-image) · [Imprimir en casa](https://support.skylum.com/printing/home-printing)
+- [Recorrido por Luminar](https://support.skylum.com/how-to-use-luminar-for-desktop/luminar-for-desktop-walkthrough) · [Empezar a editar (pestaña Edits)](https://support.skylum.com/editing-tools/start-editing-with-edit-view)
+- [Histograma](https://support.skylum.com/how-to-use-luminar-for-desktop/catalog/histogram) · [Favoritas, rechazadas e icono Visibility](https://support.skylum.com/organizing-images/marking-favorite-and-rejected-images)
+- [Aplicar presets](https://support.skylum.com/presets/browsing-and-applying-presets) · [Copia de seguridad del catálogo](https://support.skylum.com/how-to-use-luminar-for-desktop/catalog/catalog-files/backing-up-a-catalog)
+- [Formatos admitidos](https://support.skylum.com/about-luminar-for-desktop/supported-file-types-and-cameras) · [Buenas prácticas con Upscale](https://support.skylum.com/luminar-for-desktop-tips/best-practices-with-upscale)
+- [Por qué cambian los colores al exportar (perfil del monitor)](https://support.skylum.com/why-do-photo-colors-change-after-export-in-luminar-for-desktop)
 
 **Essentials**
 - [Develop / Develop RAW](https://support.skylum.com/editing-tools/essential-tools/develop-raw-develop)
@@ -1970,3 +2082,8 @@ Los nombres de las herramientas, los controles, los atajos y los límites técni
 - [Crop AI](https://support.skylum.com/editing-tools/crop-ai-tool)
 - [HDR Merge](https://support.skylum.com/extra-tools/hdr-merge) · [Panorama Stitching](https://support.skylum.com/extra-tools/panorama-stitching) · [Focus Stacking](https://support.skylum.com/extra-tools/focus-stacking) · [Upscale](https://support.skylum.com/extra-tools/upscale)
 - [GenErase](https://support.skylum.com/extra-tools/generative-tools/generase) · [GenSwap](https://support.skylum.com/extra-tools/generative-tools/genswap) · [GenExpand](https://support.skylum.com/extra-tools/generative-tools/genexpand)
+
+**Fuera de Luminar** (criterio de edición y programas de apilado; no son fuentes de Skylum)
+- Color del cielo nocturno: [Clarkvision](https://clarkvision.com/articles/color.of.the.night.sky) · [Lonely Speck](https://www.lonelyspeck.com/how-to-process-milky-way-astrophotography-in-adobe-lightroom/)
+- Apilado en Mac: [Starry Landscape Stacker](https://sites.google.com/site/starrylandscapestacker/home) · [Siril](https://siril.org/) · [StarStaX](https://starstax.net/)
+- Límites del JPEG: [posterización](https://www.cambridgeincolour.com/tutorials/posterization.htm) y [enfoque](https://www.cambridgeincolour.com/tutorials/image-sharpening.htm), en Cambridge in Colour

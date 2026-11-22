@@ -1454,9 +1454,10 @@ para un novato: círculos de estrellas girando sobre el paisaje.
 
 ## Apilado en casa
 
-Apila las 10 tomas del paso 7 con Sequator (Windows, gratis:
-<https://sites.google.com/view/sequator/>) o Starry Landscape Stacker
-(macOS: <https://sites.google.com/site/starrylandscapestacker/>). Los RAW
+Apila las 10 tomas del paso 7 con Starry Landscape Stacker (macOS, de
+pago: <https://sites.google.com/site/starrylandscapestacker/>). Si algún
+día editas en Windows, la alternativa gratuita es Sequator
+(<https://sites.google.com/view/sequator/>). Los RAW
 (.ARW) entran directamente. Es la diferencia entre un cielo ruidoso y uno
 limpio a ISO 1600–3200 — el paso a paso está en la
 [guía de edición](../retoques/README.md).

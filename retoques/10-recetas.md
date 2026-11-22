@@ -62,8 +62,8 @@
 |---|---|---|
 | 1 | Noiseless AI | Middle; Color Denoise alto; Luminosity Denoise bajado hasta ver las estrellas pequeñas |
 | 2 | Crop | Horizonte en el tercio inferior; acacia fuera del centro |
-| 3 | Develop → Color | Temperature hacia el azul; Tint hacia el magenta hasta un cielo gris azulado |
-| 4 | Develop | Exposure +0,4; Blacks −10; Shadows +5 |
+| 3 | Develop → Color | Temperature un poco hacia el azul, hasta un cielo gris neutro o algo cálido; la banda verde del horizonte (*airglow*) se queda |
+| 4 | Develop | Exposure +0,4; Shadows +5; Blacks −10 solo si el cielo se ve gris |
 | 5 | Supercontrast + Radial (Inverted) sobre el núcleo | Highlights +15 |
 | 6 | Dodge & Burn → Lighten | Muy suave sobre el núcleo |
 | 7 | Color Harmony + Gradient desde el horizonte | Warmth un poco negativa |

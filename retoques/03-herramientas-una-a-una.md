@@ -139,7 +139,7 @@ La herramienta de los ajustes locales ([sección 5](05-ajustes-locales.md)).
 
 | Herramienta | Atajo | Cómo |
 |---|---|---|
-| **Crop AI** | **`C`** | **Auto Straighten** para nivelar; elige proporción; **`X`** cambia vertical/horizontal; sal de la herramienta para aplicar |
+| **Crop AI** | **`C`** | **Auto Straighten** para nivelar (**Horizon Alignment** en el Crop AI anterior); elige proporción; **`X`** cambia vertical/horizontal; sal de la herramienta para aplicar |
 | **Erase** | **`⌘E`** | Pinta sobre lo que quieres quitar (pincel algo mayor que el objeto) y pulsa **Erase** |
 | **Remove Dust Spots** | — | Quita automáticamente manchas de polvo del sensor; luego afina con Erase |
 | **Clone** | **`⌘J`** | **`⌥`**-clic para elegir de dónde copiar; pinta con toques cortos |
@@ -151,7 +151,7 @@ Las usa la guía en casos concretos. ✳️ = **inventa** contenido: perfecta pa
 | Herramienta (categoría) | Para qué | Controles clave | Empieza en |
 |---|---|---|---|
 | **Supersharp AI** (Image Quality) | Fotos algo movidas o blandas | Modo **Motion Blur** (movimiento) o **Universal**; nivel **Low / Middle / High** | Motion Blur, **Low** |
-| ✳️ **Upscale** (Extra) | Ampliar una foto muy recortada | El factor, **hasta 6×** | **2×**, al final de todo |
+| ✳️ **Upscale** (Extra) | Ampliar una foto muy recortada | El factor, **hasta 6×** | **2×**, con el ruido ya quitado; el enfoque suave, después |
 | **Face AI** (Portrait) | Caras con poca luz | **Face Light** | +10 a +20 |
 | **Twilight Enhancer AI** (Landscape) | Luz de hora dorada o azul | Presets **Blush, Golden, Blue, Emerald, Mauve**; **Amount** | Preset y **Amount** 20–30 |
 | **Water Enhancer AI** (Landscape) | Agua más clara y viva | **Amount**, **Blue**, **Green**, **Brightness**, **Contrast**; pincel **Draw/Erase** | **Amount** 20–30 |

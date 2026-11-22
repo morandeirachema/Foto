@@ -6,7 +6,18 @@
 
 # 17. Atajos de teclado (macOS)
 
-Atajos según la documentación oficial de Skylum. En Windows, **`⌘`** suele corresponder a **Ctrl** y **`⌥`**, a **Alt**.
+Atajos de **macOS**, según la documentación oficial de Skylum. Esta guía no cubre Windows.
+
+## Los símbolos de las teclas del Mac
+
+| Símbolo | Tecla | Dónde está |
+|---|---|---|
+| **`⌘`** | Comando (*Command*) | A los lados de la barra espaciadora |
+| **`⌥`** | Opción (*Option*) | Entre Control y Comando |
+| **`⇧`** | Mayúsculas (*Shift*) | En los extremos de la fila inferior de letras |
+| **`⌃`** | Control | Abajo a la izquierda |
+
+Un atajo como **`⇧⌘E`** se hace manteniendo Mayúsculas y Comando, y pulsando E. **`⌥`**-clic es hacer clic con Opción pulsada. El **clic secundario** ("clic derecho") es **`⌃`**-clic, o un clic con dos dedos en el trackpad.
 
 ## Catálogo y selección
 
@@ -54,6 +65,23 @@ Atajos según la documentación oficial de Skylum. En Windows, **`⌘`** suele c
 | **`⌘I`** | Invertir la máscara |
 | **`[`** / **`]`** | Pincel más pequeño / más grande |
 | **`⇧[`** / **`⇧]`** | Menos / más suavidad del pincel |
+
+## Si tu teclado es español
+
+Skylum documenta los atajos con el teclado de Estados Unidos. En un teclado de Mac en español (ISO), algunos de esos caracteres no tienen tecla propia y se escriben así:
+
+| Carácter | Para qué | En el teclado español de Mac |
+|---|---|---|
+| **`\`** | Ver el original | **`⌥º`** (la tecla a la izquierda del 1) |
+| **`/`** | Mostrar la máscara | **`⇧7`** |
+| **`;`** | Comparar | **`⇧,`** |
+| **`[`** / **`]`** | Tamaño del pincel | **`⌥`** + la tecla a la derecha de la P / **`⌥+`** |
+| **`'`** | Copia virtual (**`⌘'`**) | Tecla propia, a la derecha del 0 |
+
+La documentación de Skylum no dice si Luminar reconoce estos atajos cuando el carácter necesita **`⌥`** o **`⇧`**. Pruébalos en tu Mac ([PENDIENTES](../PENDIENTES.md)). Si alguno no responde, tienes dos salidas:
+
+- **Usa el control en pantalla:** **Compare** para comparar, **Show** en las acciones de la máscara y los deslizadores **Size** y **Softness** del pincel hacen lo mismo que sus atajos. Para ver el original sin el atajo, usa el **icono Visibility**: muestra el antes y el después de una foto editada.
+- **Añade la distribución "ABC" (EE. UU.)** en Ajustes del Sistema → Teclado → Entrada de texto → Fuentes de entrada, y cambia a ella mientras editas (**`⌃`** + barra espaciadora, o la tecla 🌐). Con ella, las teclas están donde dice la tabla de Skylum: **`[`** y **`]`** a la derecha de la P, **`;`** y **`'`** a la derecha de la L, **`/`** junto al Mayúsculas derecho.
 
 <!-- nav -->
 [← Anterior](16-errores-y-lista.md) · [Índice](README.md) · [Siguiente →](18-glosario.md)

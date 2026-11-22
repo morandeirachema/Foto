@@ -70,6 +70,8 @@ Toda foto se puede dividir por brillo. En **Develop**, Luminar tiene un control 
 - El **histograma** es una gráfica del brillo: **izquierda oscuro, derecha claro**.
 - Si la "montaña" toca el borde derecho, hay **luces quemadas**; si toca el izquierdo, **negros empastados**.
 - El **aviso de recorte** pinta en la foto las zonas quemadas o empastadas. En Luminar se activa y desactiva con **`J`**.
+- **Dónde está en Luminar:** menú **View > Show Histogram**. Un **clic sobre el histograma** alterna entre la vista conjunta y los canales **rojo, verde y azul** por separado. Los **dos triángulos** de las esquinas superiores activan los avisos: el izquierdo pinta en azul los negros puros y el derecho, en rojo, los blancos puros.
+- **Mira los canales por separado cuando domina un color** (dunas rojas, un atardecer, un animal bajo un foco naranja). Si el canal rojo ya toca el borde derecho, no añadas calidez ni saturación: ese color no tiene más margen.
 - **No hay un histograma correcto:** una foto nocturna tiene que estar a la izquierda y una de arena blanca, a la derecha.
 
 **El recorte permitido.** No todo recorte es un error. Puedes dejar quemados el **sol**, las **farolas**, los **reflejos del sol** en el agua o en un ojo y una **luna pequeña** en un paisaje. Lo que no debe quemarse es lo que tiene textura y el espectador mira: nubes, plumas blancas, nieve, la piel del sujeto.
@@ -165,7 +167,7 @@ Editar en local consiste en que el sujeto gane un poco en esas cosas y el fondo 
 - **Brillo moderado.** Con el brillo al máximo, tus fotos saldrán **oscuras** en otras pantallas y en papel.
 - **Desactiva** el brillo automático, **True Tone** y **Night Shift** mientras editas (en macOS, en Ajustes del Sistema → Pantallas). Cambian el color de la pantalla según la hora y la luz ambiente.
 - **Luz ambiente tenue y constante.** No edites con el sol dando en la pantalla.
-- **Un calibrador de pantalla** es muy recomendable si imprimes o vendes fotos.
+- **Un calibrador de pantalla** es muy recomendable si imprimes o vendes fotos. Un aviso: un artículo de soporte de Skylum (marcado como posiblemente desactualizado y pensado para Windows) dice que Luminar muestra las fotos en sRGB y **no lee el perfil personalizado del monitor**. Si calibras, compara la foto exportada en Vista Previa antes de fiarte del color para imprimir ([PENDIENTES](../PENDIENTES.md)).
 - **Comprueba en el móvil.** Mucha gente verá tus fotos en un teléfono.
 
 ## 1.10. Color: lo mínimo de teoría
