@@ -76,7 +76,7 @@ Mientras editas, el ojo se acostumbra: cada cambio parece poco y siempre "falta 
 
 | # | Prueba | Cómo | Te has pasado si… |
 |---|---|---|---|
-| 1 | **Antes y después** | Mantén **`\`** (o usa el icono **Visibility**) tres o cuatro veces | Al ver el original sientes **alivio**, o la editada parece otra foto y no la misma con mejor luz |
+| 1 | **Antes y después** | Mantén **`\`** (o usa el icono **Visibility**; si no lo ves, activa **View > Show Photo Actions Panel**) tres o cuatro veces | Al ver el original sientes **alivio**, o la editada parece otra foto y no la misma con mejor luz |
 | 2 | **De lejos** | **`⌘0`** y aléjate un paso de la pantalla, o mira la miniatura en el catálogo | El ojo se va a un **color**, un **halo** o un **borde** antes que al sujeto |
 | 3 | **De cerca** | **`⌘1`** en tres sitios: el borde del sujeto, una zona lisa (cielo) y el detalle fino (pelo, estrellas) | Hay una línea alrededor del sujeto, escalones o grano áspero en el cielo, pelo de alambre o de cera |
 | 4 | **Los límites** | **`J`** y el histograma (sección 1.3) | Hay **más** zonas rojas o azules que antes de empezar: esas las has creado tú |

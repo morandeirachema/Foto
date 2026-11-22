@@ -73,7 +73,7 @@ Si usas Accent AI alto, **baja Smart Contrast y Shadows** en Develop: suman efec
 | Control | Qué hace | Empieza en | Te has pasado si… |
 |---|---|---|---|
 | **Vibrance** | Como en Develop | +5 a +15 | Colores de cartel |
-| **Remove Color Cast** | Quita una dominante automáticamente | Pruébalo; quédate con el resultado solo si convence | La foto pierde su ambiente (un atardecer neutro) |
+| **Remove Color Cast** | Deslizador que detecta y quita una dominante | Súbelo poco a poco; quédate con el resultado solo si convence | La foto pierde su ambiente (un atardecer neutro) |
 | **HSL → Hue** | Cambia el tono de un color concreto | ±5 a ±10 | Colores imposibles (hierba azulada) |
 | **HSL → Saturation** | Más o menos intensidad de un color concreto | −20 a +10 | Un color "salta" del resto |
 | **HSL → Luminance** | Aclara u oscurece un color concreto | −20 a +10 | Bandas en el cielo al oscurecer el azul |
@@ -142,7 +142,7 @@ La herramienta de los ajustes locales ([sección 5](05-ajustes-locales.md)).
 | **Crop AI** | **`C`** | **Auto Straighten** para nivelar (**Horizon Alignment** en el Crop AI anterior); elige proporción; **`X`** cambia vertical/horizontal; sal de la herramienta para aplicar |
 | **Erase** | **`⌘E`** | Pinta sobre lo que quieres quitar (pincel algo mayor que el objeto) y pulsa **Erase** |
 | **Remove Dust Spots** | — | Quita automáticamente manchas de polvo del sensor; luego afina con Erase |
-| **Clone** | **`⌘J`** | **`⌥`**-clic para elegir de dónde copiar; pinta con toques cortos |
+| **Clone** | **`⌘J`** | Haz clic para fijar de dónde copiar (**`⌥`**-clic lo cambia después); pinta con toques cortos |
 
 ## 3.12. Las demás herramientas, en una tabla
 

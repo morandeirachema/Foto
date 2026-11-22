@@ -537,7 +537,7 @@ práctica, en el [cuaderno de composición](08-cuaderno-de-composicion.md).
 - El porqué óptico (profundidad, compresión, aire): [por qué funciona](09-por-que-funciona.md)
 - Qué animal hace qué gesto: [la fauna, animal por animal](https://github.com/morandeirachema/a6700-namibia/blob/main/tecnica/fauna-de-namibia.md)
 - Qué hay en el cielo cada noche: [el cielo del viaje](https://github.com/morandeirachema/a6700-namibia/blob/main/plan/cielo-del-viaje.md)
-- Composición de paisaje nocturno (van Oosten, entrevista): <https://www.photocascadia.com/an-interview-with-marsel-van-oosten-from-adrian-klein/>
+- Entrevista a Marsel van Oosten (previsualización, Namibia, fotografía nocturna): <https://www.photocascadia.com/an-interview-with-marsel-van-oosten-from-adrian-klein/>
 
 <!-- nav -->
 [← Anterior](06-composicion.md) · [Índice](README.md) · [Siguiente →](08-cuaderno-de-composicion.md)

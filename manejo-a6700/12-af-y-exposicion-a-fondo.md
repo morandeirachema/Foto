@@ -84,8 +84,8 @@ El metaconsejo: no memorices combinaciones — mete estos tres ajustes en
 - **El ISO sin sacar el ojo del visor**: de serie ya vive en la flecha
   derecha de la rueda de control — déjalo ahí: en las noches de ISO manual
   lo tocarás constantemente.
-- **Área AF distinta por orientación** (menú de Enfoque → Área de enfoque →
-  "Cambiar área AF V/H"): un área y una posición para horizontal y otras
+- **Área AF distinta por orientación** (`Enfoque → [Área de enfoque] → [Conm.áreaAF V/H]` →
+  `Punto AF+ár. AF`): un área y una posición para horizontal y otras
   para vertical — giras la cámara al retrato y tu encuadre "bueno" ya está
   puesto.
 - **El botón de retención de foco del 70-350** (y el del 11 mm): de serie

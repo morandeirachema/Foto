@@ -418,7 +418,7 @@ qué vive en cada una ya no se busca a ciegas:
 | **Enfoque** | Todo el AF | AF-S/AF-C, área de enfoque, reconocimiento de sujeto, sensibilidad de seguimiento, `AF c/obturador` |
 | **Reproducción** | Revisar y borrar | Ampliación, proteger, borrar, valorar |
 | **Red** | Wifi, Bluetooth, transferencia | Emparejar con Creators' App |
-| **Ajustes** | La cámara como aparato | Idioma, `Área/fecha`, `Personal. operac.` (botones y menú Fn), `Rest/guard ajust`, brillo de pantalla, formateo de firmware |
+| **Ajustes** | La cámara como aparato | Idioma, `Área/fecha`, `Personal. operac.` (botones y menú Fn), `Rest/guard ajust`, brillo de pantalla, `Versión` (firmware) |
 | **Mi Menú** | **La tuya**: los ajustes que tú metas | Los tres mandos del AF, `Func. capt. interv.`, lo que uses a diario |
 
 Y cuatro cosas que ahorran mucha desesperación:
@@ -561,7 +561,7 @@ MENU → Toma → [Visualizac. toma] → [Vis. lín. cuadrícul.] → Activar
 MENU → Toma → [Visualizac. toma] → [Tipo lín. cuadríc.]
 ```
 
-Con la **regla de tres** dibujada encima, dos cosas dejan de fallar:
+Con la **regla de los tercios** (`Cuadr. regl. terc.`) dibujada encima, dos cosas dejan de fallar:
 
 - **El aire de la mirada**: ves de un vistazo si el animal está en un tercio
   o centrado como una foto de carnet ([atlas de encuadres](../conceptos/07-atlas-de-encuadres.md)).
@@ -593,7 +593,7 @@ Aquí está el gesto que este repo te pide una y otra vez ("verifica al
 100 % que el ojo salió nítido") y que casi nadie sabe hacer:
 
 1. Pulsa **▶**. Pasas de foto con la rueda de control o el dial.
-2. **Gira la rueda de control para ampliar** — y aquí está el truco: la
+2. **Pulsa AF-ON para ampliar** (la rueda de control cambia el aumento) — y aquí está el truco: la
    cámara **amplía directamente sobre el punto donde enfocó**, o sea,
    normalmente **sobre el ojo del animal**. No tienes que buscarlo.
 3. Muévete por la foto ampliada con las flechas de la rueda.
@@ -1018,15 +1018,15 @@ Hazlo en casa, con todo cargado, y no vuelvas a pensar en ello.
 
 | Ajuste | Valor | Motivo |
 |---|---|---|
-| `Formato archivo` (en `Calid. img/grab.`) | RAW, con `Tipo archivo RAW` comprimido sin pérdida | Máxima latitud de edición |
+| `Formato archivo` (en `Calid. img/grab.`) | RAW, con `Tipo archivo RAW` en `C. sin pérd.` (comprimido sin pérdida) | Máxima latitud de edición |
 | `Visualizac. cebra` | **Activar, nivel `100 IRE o +`** | Rayado en vivo sobre lo que va a salir quemado — tu aviso de altas luces *antes* de disparar |
 | `RR exposic. larga` | Desactivar | Duplica el tiempo entre fotos de astro |
-| `RR ISO Alta` | Desactivar/Baja | Solo afecta al JPEG; en RAW lo harás mejor en el ordenador |
+| `RR ISO Alta` | Desactivar/Bajo | Reduce el ruido en la cámara (Sony no documenta si afecta al RAW); con RAW lo harás mejor en el ordenador |
 | Señales de audio | OFF | Silencio en charcas y miradores |
 | `Liberar sin tarj. mem.` | **Inhabilitar** | De fábrica la cámara dispara sin tarjeta y no guarda nada |
 | `Iluminador AF` | **Desactivar** | Su luz naranja espanta a los animales de la charca |
 | DRO (optimizador de rango dinámico) | OFF | No toca el RAW, pero maquilla el JPEG y el histograma — engaña justo a lo que usas para exponer |
-| `SteadyShot` | **Activar** | Los Sony informan de su focal a la cámara; el Viltrox también es un objetivo con contactos (comprueba una vez que la información de una foto dice 25 mm) (`Ajuste SteadyShot` en Auto). En trípode, **Desactivar** |
+| `SteadyShot` | **Activar** | Los Sony informan de su focal a la cámara; el Viltrox también es un objetivo con contactos (comprueba una vez que la información de una foto dice 25 mm) (`Adaptac. SteadyS.` en `Automático`). En trípode, **Desactivar** |
 | Efecto de ajustes en visor/pantalla | ON | Ver la exposición real antes de disparar |
 
 > ⚠️ **Lección de Namibia: las fotos del viaje salieron solo en JPEG** por un
@@ -1103,7 +1103,7 @@ Configura la cámara como quieras que quede y guárdala con
 
 - **MR1 — Safari diurno**: M, 1/1000 s, apertura mínima del zoom,
   ISO Auto (100–12800), AF-C, reconocimiento de sujeto **Animal**, área
-  Zona, ráfaga Hi+ (11 fps), RAW, balance de blancos **Luz de día**
+  Zona, ráfaga Hi+ (11 fps), RAW, balance de blancos **`Luz diurna`**
   (compruébalo antes de guardar: si se queda el Kelvin de la noche, todo
   el safari sale azulado; y a la sombra o con el sol ya puesto, cámbialo
   a Sombra o Nublado — [balance de blancos](../conceptos/04-balance-de-blancos.md)).
@@ -1147,7 +1147,7 @@ está en la [guía de logística](https://github.com/morandeirachema/a6700-namib
 | Selector NTSC/PAL | NTSC/PAL Selector |
 | Perfil de imagen | Picture Profile |
 | Retención de enfoque | Focus Hold |
-| Ajuste SteadyShot | SteadyShot Adjust |
+| Adaptac. SteadyS. | SteadyShot Adjust. |
 | Nivel | Level |
 | Verificac. luminosa | Bright Monitoring |
 | AF c/obturador | AF w/ shutter |
@@ -1183,7 +1183,7 @@ larga de esto.)
 | No encuentro un ajuste en los menús | Botón **Fn**: casi todo lo del día a día está en esa pantalla, editable |
 | Cambié algo en MR1/MR2 y al volver ha desaparecido | Es su diseño: las memorias recuperan lo GUARDADO. Para hacer fijo un cambio, vuelve a guardar (`Mem. ajustes cám`) |
 | AF-ON no enfoca tras configurar el pulgar | Revisa los dos pasos: `AF c/obturador` = Desactivar y la asignación de AF-ON sin tocar |
-| El estabilizador "flota" o emborrona | SteadyShot ON sobre trípode: apágalo (en el cuerpo y, con el tele, también su interruptor OSS) |
+| El estabilizador "flota" o emborrona | SteadyShot ON sobre trípode: apágalo (en el menú con el 11 mm y el Viltrox; con el 70-350 manda solo el interruptor OSS del objetivo) |
 | Un objetivo "no enfoca" de repente | Su interruptor **AF/MF** se movió en la mochila: los dos lo llevan en el barrilete |
 | El visor no se enciende al acercar el ojo | La pantalla está desplegada hacia ti o el selector visor/pantalla está en manual: pliégala o ponlo en Auto |
 | El menú está en inglés y me pierdo | La tabla de traducción de arriba; o `Menu → Language → Español` |
@@ -1418,7 +1418,7 @@ visible gran parte de la noche.
 | Estrellas gordas o borrosas | Enfoque mal: repite el paso 4. No es el ISO ni los segundos |
 | Todo movido | Trípode vibrando: viento, correa colgando o tocaste la cámara — temporizador 2 s siempre; con el obturador electrónico la cámara ya no aporta ni una vibración propia |
 | Cielo naranja/verde raro | Balance de blancos a 3900 K (en RAW se corrige después sin pérdida) |
-| Esquinas con estrellas "estiradas" | Coma del objetivo, no eres tú. Cierra de f/1.8 a f/2.8 (y compensa con ISO 3200) si molesta mucho |
+| Esquinas con estrellas "estiradas" | Coma del objetivo, no eres tú. Cierra de f/1.8 a f/2.8 si molesta mucho (pierdes algo más de un paso: compensa con ISO 3200 y acepta la foto un poco más oscura, o ISO 4000) |
 | Puntos rojos/calientes en exposiciones largas | Píxeles calientes: normales en cualquier exposición larga. El apilado y el NR por IA los eliminan solos |
 
 La versión a fondo de las dos fotos con primer plano — la postal (cielo
@@ -1773,8 +1773,8 @@ datos), y la 2, la 3 y la 4 no usan más que tus ojos y la cámara:
    cielo abierto. Y para el polo ni siquiera hace falta precisión: 100 km de
    error lo mueven menos de 1°.
 2. **A ojo, en 30 segundos**: brújula del móvil al sur (**180°**; con
-   una brújula magnética de verdad, en Namibia el sur real marca ~190–195°,
-   porque el norte magnético cae 10–15° al oeste) y, brazo estirado, cuenta
+   una brújula magnética de verdad, en Namibia el sur real marca ~189° en Etosha y ~195° en Sesriem,
+   porque el norte magnético cae entre 9° y 15° al oeste) y, brazo estirado, cuenta
    **dos puños** (~10° cada uno) desde el horizonte en Etosha, dos y medio en
    Sesriem: ahí está el polo. Con la cámara **nivelada** (nivel electrónico
    con DISP) y **el horizonte en el tercio bajo** del encuadre, el 11 mm
@@ -1786,8 +1786,9 @@ datos), y la 2, la 3 y la 4 no usan más que tus ojos y la cámara:
    con el polo un **triángulo casi equilátero**, y el polo es el vértice
    **vacío y oscuro**. Entre las 20:30 y las 23:00 de tus noches la Nube
    Pequeña queda arriba, casi en la vertical del polo, y la Nube Grande
-   abajo a la izquierda (sureste): el polo está **a la misma altura que la
-   Grande, dos puños a su derecha, y debajo de la Pequeña**. Según avanza
+   abajo a la izquierda (sureste), subiendo durante la noche: **hacia las
+   21:30** el polo está **a la misma altura que la Grande, dos puños a su
+   derecha, y debajo de la Pequeña**. Según avanza
    la noche todo gira, pero el polo no se mueve
    ([el cielo del viaje](https://github.com/morandeirachema/a6700-namibia/blob/main/plan/cielo-del-viaje.md)).
 4. **La prueba de giro** (la definitiva, 4 minutos): antes de lanzar la
@@ -1840,7 +1841,7 @@ Y la dirección decide el dibujo:
 4. Y ya: **no toques nada** hasta el final. 90 tomas = 45 min de arcos
    discretos; 180+ = remolino serio. Tú, mientras, a la charca o a dormir —
    la serie no te necesita.
-5. En casa: **StarStaX** (gratis, modo Lighten, `Gap filling` si hay
+5. En casa: **StarStaX** (la versión clásica es gratuita; modo Lighten, `Gap filling` si hay
    microhuecos), con tu primera toma como base
    ([edición](../retoques/09-noche.md#apilar-una-serie-fuera-de-luminar)).
 
@@ -1873,9 +1874,9 @@ apuntando a otra parte del cielo ([su guía](https://github.com/morandeirachema/
 |---|---|---|
 | 20:25–21:30 | **Núcleo bajo al OSO** (+26° y bajando) + cola de la **luz zodiacal** en el mismo cielo | Panorámica de 3–4 verticales solapadas 30 %, o banda diagonal con silueta |
 | 21:30–23:00 | **Nubes de Magallanes** altas al sur | 15–20 tomas apiladas, 20 s · f/1.8 · ISO 1600–3200 |
-| 23:00 en adelante | **Banda de Orión–Carina** subiendo por el este; Saturno culminando | Mismos ajustes; Saturno como "estrella" ancla de composición |
+| 23:00 en adelante | **Banda de Orión–Carina** subiendo por el este; Saturno, que ha culminado hacia las 22:30, alto al norte | Mismos ajustes; Saturno como "estrella" ancla de composición |
 | Toda la noche | **Star trails** centrados en el polo (a ~19–24° de altura, según la parada) | Triángulo de las Nubes o AR; serie de 90–180 tomas que además caza bólidos de las Táuridas |
-| Alba del 14 | **Conjunción Júpiter–Marte** al este | El zoom corto o el 11 mm con paisaje, en el crepúsculo |
+| Albas del 14 al 18 | **Júpiter y Marte juntos** al noreste (a 1,4° el día 14; mínimo de 1,2° el 16) | El zoom corto o el 11 mm con paisaje, en el crepúsculo |
 
 ### Técnica fina
 
@@ -2054,7 +2055,7 @@ ventanilla puedes usar la tabla tal cual; la fila de 1/250 s del atardecer es
 | Movida/borrosa el animal | Obturación más rápida (rueda delantera). Fallo nº 1 |
 | El animal oscuro, el fondo bien | Compensación **+0.7/+1**, o medición puntual vinculada al punto de enfoque |
 | El recuadro de reconocimiento se va al arbusto o a otro animal | Toca en pantalla al bueno; si insiste, punto único y colócalo tú |
-| Todo lejísimos | Encuadra bien y **recorta en edición** (los 26 Mpx aguantan un recorte del 50 %) |
+| Todo lejísimos | Encuadra bien y **recorta en edición** (los 26 Mpx aguantan quedarse con la mitad del encuadre, 13 Mpx) |
 | Borroso "que tiembla" a lo lejos a mediodía | *Heat haze*: aire caliente vibrando. No es la cámara — acércate o espera a que refresque |
 | El AF caza y no fija a 350 mm | Apunta a un borde con contraste (línea lomo/cielo, no la panza lisa); o punto único; o acerca tú el foco con el anillo en modo DMF |
 | Ojo del animal blando, cuerpo nítido | Revisa al 100 %: ¿el Eye AF enganchó el ojo o la oreja? Reencuadra dando más tamaño a la cabeza, o punto único al ojo |
@@ -2224,8 +2225,8 @@ Tres números que multiplicados dan tu techo real:
    te ahorras entre un tercio y dos tercios de paso de ISO gratis.
 2. **Lo que aguanta el sensor**: la a6700 va limpia hasta **3200** y muy bien
    a **6400**; a **12800** el ruido es evidente pero la foto vive; **25600**
-   queda castigado (ruido de color en las sombras). Los ISO expandidos por
-   encima **ni tocarlos**: son un empujón digital — mismo ruido, peor color.
+   queda castigado (ruido de color en las sombras). El rango nativo acaba en ISO 32000; los ISO ampliados
+   (de 40000 a 102400) **ni tocarlos**: son un empujón digital — mismo ruido, peor color.
 3. **Lo que devuelve la IA**: la reducción de ruido por IA (en Luminar,
    **Noiseless AI**: [retoques, paso 2](../retoques/04-flujo-base.md)) recupera mucho
    detalle a ISO alto. Cuánto, depende de la foto: compruébalo al 100 % con
@@ -2340,8 +2341,8 @@ que más fabricantes terceros tiene (Sigma, Tamron, Samyang, Viltrox…) y un
 mercado de segunda mano enorme (<https://www.mpb.com/>), donde casi todo baja
 un 20–40 %.
 
-**El kit del viaje, en una línea**: a6700 (~1.000–1.200 €) + 11mm F1.8
-(~400–550 €) + 70-350 G OSS (~570–650 €) ≈ **2.000–2.400 € nuevo**, o unos
+**El kit del viaje, en una línea**: a6700 (~1.000–1.500 €) + 11mm F1.8
+(~400–600 €) + 70-350 G OSS (~850–900 €) ≈ **2.250–3.000 € nuevo** (precios orientativos de noviembre de 2026), o unos
 1.800–2.100 € comprando las dos ópticas de segunda mano en mpb.
 
 > **Estado a 25 de octubre de 2026**: el cuerpo, el **11 mm**, el **70-350**
@@ -2364,7 +2365,7 @@ un 20–40 %.
 
 ## El cuerpo: Sony a6700
 
-**~1.000–1.200 € nueva** (salió a 1.700 € en 2023 y hoy se ve bastante por
+**~1.000–1.500 € nueva según tienda** (salió a 1.700 € en 2023 y hoy se ve bastante por
 debajo: compara antes de comprar) / **~800–950 € usada** en mpb. Por qué
 esta y no otra:
 
@@ -2392,7 +2393,7 @@ Dos peculiaridades que se asumen (y que esta guía ya tiene en cuenta):
 
 ## Astrofotografía y paisaje: el Sony E 11mm F1.8
 
-El **Sony E 11mm F1.8 (SEL11F18)** — ~400–550 € nuevo / ~330–420 € usado en
+El **Sony E 11mm F1.8 (SEL11F18)** — ~400–600 € nuevo / ~330–420 € usado en
 mpb — es el gran angular nativo de la casa para APS-C
 (<https://www.sony.es/lenses/products/sel11f18>):
 
@@ -2425,7 +2426,7 @@ solo.
 
 | Objetivo | Precio aprox. | Notas |
 |---|---|---|
-| **Sony E 70-350mm F4.5-6.3 G OSS (SEL70350G)** ⭐ | ~570–650 € nuevo / ~450–520 € usado | **105–525 mm equivalentes en 625 g**: el alcance del safari en un objetivo que se levanta con una mano. Serie G (óptica buena de verdad), motor lineal XD rápido y silencioso, estabilizador OSS, bloqueo de zoom y botón de retención de foco. <https://www.sony.es/lenses/products/sel70350g> |
+| **Sony E 70-350mm F4.5-6.3 G OSS (SEL70350G)** ⭐ | ~850–900 € nuevo (550–650 € en ofertas puntuales) / ~450–520 € usado | **105–525 mm equivalentes en 625 g**: el alcance del safari en un objetivo que se levanta con una mano. Serie G (óptica buena de verdad), motor lineal XD rápido y silencioso, estabilizador OSS, bloqueo de zoom y botón de retención de foco. <https://www.sony.es/lenses/products/sel70350g> |
 | Sony FE 70-300mm G | ~900–1.100 € | Full frame (105–450 eq en esta cámara): más caro, más pesado y con menos alcance. Aquí no compensa |
 | Sigma 150-600mm DG DN OS Sports (E) | ~1.300–1.500 € / menos usado | 600 mm reales (900 eq): mucho más alcance, pero 2,1 kg — pide bean bag para todo. <https://www.sigma-global.com/> |
 | Sony FE 200-600mm G | ~1.900 € | El AF de referencia y zoom interno, pero 2,1 kg y fuera de presupuesto |
@@ -2469,7 +2470,7 @@ de este viaje lo hace el móvil, que enfoca a 3 cm
 
 La etiqueta **V** es la velocidad de **escritura sostenida** garantizada
 (V30 = 30 MB/s, V60 = 60, V90 = 90). Y el detalle que casi nadie explica: en
-la práctica **las V30 del mercado son UHS-I** (bus limitado a ~104 MB/s) y
+la práctica **casi todas las V30 del mercado son UHS-I** (bus limitado a ~104 MB/s) y
 **las V60 y V90 son UHS-II** (bus de hasta 312 MB/s). La a6700 es UHS-II, así
 que la pregunta real no es "¿V30 o V60?" sino "¿UHS-I o UHS-II?".
 
@@ -2480,14 +2481,14 @@ da para más por mucho que ponga en la etiqueta. En la cara impresa, la **V con
 un número** (V30, V60, V90) es la velocidad de escritura sostenida, y un **II**
 junto al logotipo de SD confirma el bus.
 
-**En ráfaga.** A 11 fps con RAW comprimido sin pérdida, la cámara genera del
-orden de **300 MB/s**: ninguna tarjeta del mundo sigue ese ritmo. Por eso
+**En ráfaga.** Con RAW comprimido sin pérdida (~10 fps y unos 36 MB por foto), la cámara genera del
+orden de **350 MB/s**: ninguna tarjeta sigue ese ritmo (la más rápida medida en cámara escribe a ~230 MB/s). Por eso
 existe el búfer, y lo que decide la tarjeta es **cuánto tarda en vaciarlo**:
 
 | | UHS-I V30 | UHS-II V60 | UHS-II V90 |
 |---|---|---|---|
-| Ráfaga antes de atascarse | ~15–18 RAW | El búfer entero | El búfer entero |
-| Vaciar el búfer tras 30 RAW | **18–22 s** | **8–9 s** | **4–6 s** |
+| Ráfaga antes de atascarse (RAW sin pérdida) | ~17–21 | ~25–35 | ~90–375 |
+| Vaciar el búfer lleno | **6,5–9 s** | **4–5,5 s** | **2,5–4 s** |
 | Precio (128 GB) | 20–30 € | 50–90 € | 120–180 € |
 
 Y un dato de la propia cámara que conviene tener en la cabeza: el búfer son
@@ -2497,14 +2498,14 @@ segundos** (en RAW sin pérdida la ráfaga va a ~10 fps). O sea: la regla de "r�
 estilística, es que **el búfer se llena justo ahí**.
 
 **La decisión**: el escenario que lo paga es la charca. Los rinocerontes
-llegan, hacen algo durante quince segundos y se van; con una V30 te comes
-**veinte segundos de cámara bloqueada** justo en medio. Con una V60, ocho.
+llegan, hacen algo durante quince segundos y se van; con una V30 son
+unos **ocho segundos de cámara bloqueada** justo en medio. Con una V60, cuatro o cinco.
 
 **Conclusión de compra**: **V60 UHS-II** para todo. Las V30 baratas que ya
 tengas, guárdalas como respaldo de emergencia — funcionan, simplemente te
 frenan.
 
-- **El kit de copias**: el **MacBook Neo** (250 GB de disco: no cabe el
+- **El kit de copias**: el **MacBook Neo** (256 GB de disco: no cabe el
   viaje entero dos veces), un **lector de tarjetas UHS-II USB-C** (25–40 €:
   uno UHS-I barato es 3–4 veces más lento y alarga el volcado de cada noche)
   y, **opcional y recomendado**, un **SSD portátil USB-C** — el de 500 GB que
@@ -2570,7 +2571,7 @@ frenan.
 
 ## Polvo en el sensor: comprobarlo y limpiarlo
 
-Las fotos de Namibia tienen **manchas grises en el cielo, siempre en el mismo sitio** (arriba a la izquierda): es polvo pegado al sensor. Se ve con el diafragma cerrado (f/8–f/11) sobre zonas lisas, y con el objetivo abierto casi desaparece. En la edición se quita foto a foto ([retoques, 4](../retoques/04-flujo-base.md#rescatar-un-jpeg-difícil)); lo que ahorra trabajo es limpiarlo **antes de salir**.
+Las fotos de Namibia tienen **una mancha gris en el cielo, siempre en el mismo sitio** (arriba, en el tercio izquierdo): es polvo pegado al sensor. Está medida en 99 de las 147 fotos con cielo liso, en seis días distintos. Se ve con el diafragma cerrado (f/8–f/11) sobre zonas lisas, y con el objetivo abierto casi desaparece. En la edición se quita foto a foto ([retoques, 4](../retoques/04-flujo-base.md#rescatar-un-jpeg-difícil)); lo que ahorra trabajo es limpiarlo **antes de salir**.
 
 **Comprobar (2 minutos):** modo A, **f/16**, ISO 100, enfoque manual desenfocado; fotografía un cielo despejado o una pared blanca moviendo un poco la cámara. Mira la foto al 100 %: cada punto oscuro y borroso es una mota.
 
@@ -2781,8 +2782,8 @@ El metaconsejo: no memorices combinaciones — mete estos tres ajustes en
 - **El ISO sin sacar el ojo del visor**: de serie ya vive en la flecha
   derecha de la rueda de control — déjalo ahí: en las noches de ISO manual
   lo tocarás constantemente.
-- **Área AF distinta por orientación** (menú de Enfoque → Área de enfoque →
-  "Cambiar área AF V/H"): un área y una posición para horizontal y otras
+- **Área AF distinta por orientación** (`Enfoque → [Área de enfoque] → [Conm.áreaAF V/H]` →
+  `Punto AF+ár. AF`): un área y una posición para horizontal y otras
   para vertical — giras la cámara al retrato y tu encuadre "bueno" ya está
   puesto.
 - **El botón de retención de foco del 70-350** (y el del 11 mm): de serie
@@ -2938,7 +2939,7 @@ Esto se hace en casa, antes de volar, y no se vuelve a mirar en todo el viaje.
 | Ajuste | Ruta | Valor | Por qué |
 |---|---|---|---|
 | **Formato archivo** | `Toma → [Calid. img/grab.] → [Formato archivo]` | **RAW** | Todo el revelado del repo asume RAW |
-| **Tipo archivo RAW** | `Toma → [Calid. img/grab.] → [Tipo archivo RAW]` | **Comprimido sin pérdida** | Máxima calidad… y ojo: es el que deja el búfer en **23 fotos** (ver [equipo](10-equipo-accesorios.md)) |
+| **Tipo archivo RAW** | `Toma → [Calid. img/grab.] → [Tipo archivo RAW]` | **`C. sin pérd.`** (comprimido sin pérdida) | Máxima calidad… y ojo: es el que deja el búfer en **23 fotos** (ver [equipo](10-equipo-accesorios.md)) |
 | **RR exposic. larga** | `Toma → [Calid. img/grab.] → [RR exposic. larga]` | **Desactivar** | Si no, tras cada foto de 20 s la cámara se pasa otros 20 s en negro: adiós star trails |
 | **RR ISO Alta** | `Toma → [Calid. img/grab.] → [RR ISO Alta]` | **Bajo / Desactivar** | Solo afecta al JPEG; el ruido del RAW lo arreglas mucho mejor en casa |
 | **Visualizac. cebra** | `Exposición/color → [Visualizac. cebra] → [Visualizac. cebra]` | **Activar** | Tu única alarma de quemados **en vivo** |
@@ -2951,7 +2952,7 @@ Esto se hace en casa, antes de volar, y no se vuelve a mirar en todo el viaje.
 | **Iluminador AF** | `Enfoque → [AF/MF] → [Iluminador AF]` | **Desactivar** | Su luz espanta a los animales de la charca |
 | **AF c/obturador** | `Enfoque → [AF/MF] → [AF c/obturador]` | **Desactivar** | Es lo que separa enfoque (pulgar) y disparo (índice) |
 | **Vis. lín. cuadrícul.** | `Toma → [Visualizac. toma] → [Vis. lín. cuadrícul.]` | **Activar** | La herramienta de encuadre: aire de la mirada y horizontes rectos |
-| **Tipo lín. cuadríc.** | `Toma → [Visualizac. toma] → [Tipo lín. cuadríc.]` | **Regla de tres** | Es la que se corresponde con los encuadres del atlas |
+| **Tipo lín. cuadríc.** | `Toma → [Visualizac. toma] → [Tipo lín. cuadríc.]` | **`Cuadr. regl. terc.`** (regla de los tercios) | Es la que se corresponde con los encuadres del atlas |
 | **Rev.automática** | `Ajustes → [Opción de visual.] → [Rev.automática]` | **Desactivar** | Te tapa el visor justo cuando la escena sigue pasando |
 | **Aj. DISP (vis. pant.)** | `Ajustes → [Personal. operac.] → [Aj. DISP (vis. pant.)]` | Deja solo **toda info. · histograma · nivel** | Menos pulsaciones de DISP en el campo |
 | **Valoración** | `Reproducc. → [Selección/nota] → [Valoración]` | A un botón, en reproducción | Marcar las 3 del día en cámara |
@@ -2979,7 +2980,7 @@ solo tocas la rueda delantera.
 
 | Ajuste | Ruta | Valor | Por qué |
 |---|---|---|---|
-| **Modo de toma** | `Toma → [Modo de toma] → [Modo de toma]` | **M** | Con ISO Auto, y la compensación sigue funcionando (rareza buena de esta cámara) |
+| **Modo de toma** | Dial de modo en **M** (en foto no hay ruta de menú) | **M** | Con ISO Auto, y la compensación sigue funcionando (rareza buena de esta cámara) |
 | **ISO** | `Exposición/color → [Exposición] → [ISO]` | **ISO AUTO**, y dentro: **ISO AUTO mínimo 100 · máximo 12800** | El techo de trabajo real del sensor |
 | Obturación | Rueda delantera (tras intercambiar los diales) | **1/1000** de partida | Y la mueves por escena: [capítulo 8](08-safari-diurno.md) |
 | Apertura | Rueda trasera | **La mínima** del zoom | Cambia sola al zoomear; por debajo de 200 mm ganas luz |
@@ -2989,8 +2990,8 @@ solo tocas la rueda delantera.
 | **Dest. reconocim.** | `Enfoque → [Reconoc. motivo] → [Dest. reconocim.]` | **Animal** (→ *Ave* para aves) | Es el ajuste que más vas a cambiar: ponlo en el **Fn** |
 | **Sens. Seguim. AF** | `Enfoque → [AF/MF] → [Sens. Seguim. AF]` | **3** (estándar) · **1** con hierba delante · **4–5** en persecución | 1 = tozudo, 5 = saltarín |
 | **Modo manejo** | `Toma → [Modo de manejo] → [Modo manejo]` | **`Captura contin.`** en **Hi+** | 11 fps (~10 en RAW sin pérdida). En Hi+ el visor no va en vivo durante la ráfaga: si te cuesta seguir, baja a Hi |
-| **SteadyShot** | `Toma → [Estabiliz. de img] → [SteadyShot]` | **Activar** (+ interruptor **OSS** del objetivo en ON) | A pulso y desde la ventanilla |
-| **Modo medición** | `Exposición/color → [Medición] → [Modo medición]` | **Multi** de partida · **Puntual** vinculada al AF para el nivel avanzado (`[Medición] → [Punto med. punt.] → Vínc. punto enf.`) | El detalle, en [AF y exposición a fondo](12-af-y-exposicion-a-fondo.md) |
+| **SteadyShot** | `Toma → [Estabiliz. de img] → [SteadyShot]` | **Activar** (con el 70-350 manda solo el interruptor **OSS** del objetivo: ponlo en ON) | A pulso y desde la ventanilla |
+| **Modo medición** | `Exposición/color → [Medición] → [Modo medición]` | **Multi** de partida · **Puntual** vinculada al AF para el nivel avanzado (`[Medición] → [Punto med. punt.] → Vínc. punto enf.`; el vínculo exige área `Punto`: con Zona, la puntual mide en el centro) | El detalle, en [AF y exposición a fondo](12-af-y-exposicion-a-fondo.md) |
 | **Balance blanco** | `Exposición/color → [Balance blancos] → [Balance blanco]` | **Luz diurna** o K fijo | Es RAW: se cambia después sin coste |
 
 **Guardarlo**: `Toma → [Modo de toma] → [Mem. ajustes cám]` → **1**.
@@ -3014,14 +3015,14 @@ Las tres son distintas de verdad: no intentes cubrirlas con una sola memoria.
 
 | Ajuste | Ruta | Valor |
 |---|---|---|
-| Modo | `Toma → [Modo de toma]` | **M** (ISO manual) |
+| Modo | Dial de modo | **M** (ISO manual) |
 | Obturación / apertura | Ruedas | **1/60** · la mínima (recoge bajo 200 mm y ganas un tercio de paso) |
 | **ISO** | `Exposición/color → [Exposición] → [ISO]` | **6400**, techo 12800 (25600 solo rescate) |
 | **Balance blanco** | `Exposición/color → [Balance blancos] → [Balance blanco]` | **K ≈ 3500**, ajustando con la revisión |
 | **Modo de enfoque** | `Enfoque → [AF/MF] → [Modo de enfoque]` | **AF-S** |
 | **Área de enfoque** | `Enfoque → [Área de enfoque]` | **Punto: S o M** sobre lo iluminado |
 | **Tipo de obturador** | `Toma → [Obturad./silenc.] → [Tipo de obturador]` | **Obturad. electr.** — silencio absoluto |
-| **SteadyShot** | `Toma → [Estabiliz. de img] → [SteadyShot]` | **Desactivar** (y el OSS del objetivo, también) |
+| **SteadyShot** | `Toma → [Estabiliz. de img] → [SteadyShot]` | **Desactivar** (con el 70-350, con el interruptor OSS del objetivo) |
 | **Modo manejo** | `Toma → [Modo de manejo] → [Modo manejo]` | **`Captura contin.`**: ráfagas cortas de 3–4 en los momentos quietos; si sale todo movido, **`Autodisp.(senc)`** de 2 s |
 
 ### C2, astro: la receta de MR2
@@ -3369,12 +3370,12 @@ de la primera foto del día: si algo no cuadra con la
 
 | Ajuste | Qué hace | Tu valor |
 |---|---|---|
-| `Aj. modo silenc.` | Silencio total de golpe: fuerza electrónico y apaga los pitidos | **Desactivar**: en la charca basta con `Tipo de obturador` |
+| `Aj. modo silenc.` | Silencio de golpe (no completo, según Sony): fuerza electrónico y apaga los pitidos | **Desactivar**: en la charca basta con `Tipo de obturador` |
 | `Tipo de obturador` | Mecánico (1/4000–30 s y BULB) o electrónico (1/8000–30 s, sin BULB) | **Mecánico de día**; **electrónico en la charca** (silencio absoluto). ⚠️ el electrónico desactiva BULB y `RR exposic. larga`, y con LED parpadeantes puede sacar franjas |
-| `e-Prim. cortin. obtur.` | Primera cortinilla electrónica: menos retardo | **Activar**. Desactívala solo si a 1/4000 con el 11 mm a f/1.8 ves el bokeh recortado |
+| `e-Prim. cortin. obtur.` | Primera cortinilla electrónica: menos retardo | **Activar**. Desactívala si a 1/4000 con el 11 mm a f/1.8 ves el bokeh recortado, y **con el Viltrox 25 mm**: Sony pide `Desactivar` con objetivos de otro fabricante |
 | `Liber. sin objetivo` | Disparar sin objetivo montado | **Inhabilitar** (los tres objetivos tienen contactos) |
 | `Liberar sin tarj. mem.` | Disparar sin tarjeta (la foto no se guarda) | **Inhabilitar** ⚠️ Sony lo trae habilitado |
-| `Ajust. sin parpadeo` | Reduce las franjas de luces artificiales (solo con obturador mecánico) | **Desactivar**; en la charca, si pasas a mecánico por las franjas, actívalo |
+| `Ajust. sin parpadeo` | Reduce las franjas de luces artificiales (`Toma sin parpad.` solo va con obturador mecánico; `Obturad. variable`, con los dos) | **Desactivar**; en la charca, si pasas a mecánico por las franjas, actívalo |
 
 ### [Estabiliz. de img]
 
@@ -3752,7 +3753,7 @@ que te señalen al azar.
 | Grupos que el repo usa en rutas | 33 de los 54 oficiales | ✅ Todos existen y en su pestaña |
 | Grupos y elementos de [el menú completo](14-menu-completo.md) | Las 8 pestañas, grupo a grupo | ✅ Sin elementos inventados ni mal colocados |
 | Nombres de segundo nivel verificados | 12 nombres o familias de valores | ✅ 12 coinciden en la ficha |
-| Nombres de segundo nivel no localizados | 11 subopciones | ❓ Pendientes de comprobar en la cámara (C3) |
+| Nombres de segundo nivel | 11 subopciones | ✅ Confirmadas el 22 de noviembre de 2026 en las fichas de la Guía de ayuda de la a6700 ([verificación](../notas-de-investigacion/verificacion-de-datos/menus-de-la-a6700.md)) |
 | Errores que impidan encontrar un ajuste | Ninguno | ✅ |
 | Otros hallazgos | 1 error de formato que ocultaba medio capítulo 3 en GitHub, y 2 mejoras menores | ✅ Aplicados en este repo |
 
@@ -3777,8 +3778,8 @@ que te señalen al azar.
 | `Versión` (cuerpo y objetivo) | `Ajustes → [Opción ajustes] → [Versión]`; muestra cuerpo y objetivo | ✅ |
 | `Verificac. luminosa`, `Amplific. enfoque`, `AF c/obturador`, `Captura contin.`, `Autodisp.(senc)`, `Variación expos.` | Nombres exactos en el índice oficial | ✅ |
 | `Func. táctil dur. toma` (en `Ajust. pantalla táctil`) | En `Ajust. pantalla táctil → Pantalla de toma`: `Seguimient. táct.`, `Obturador táctil`, `AE táctil` y `Desac.` | ✅ |
-| `Número archivo` (`Serie` / `Reponer`) y `Nombre carpeta` (`Forma fecha`) | Subopciones de `Aj. archiv./carpet.`. La ruta está verificada en el a6700; los nombres de las subopciones, en guías Sony de la misma generación | ✅ ruta · ⚠️ subopciones |
-| `Tipo obturad. interv.` (dentro de `Func. capt. interv.`) | Existe en guías Sony de la misma generación; según Sony, va en obturador electrónico por defecto, sea cual sea `Tipo de obturador` | ✅ nombre · ⚠️ valor por defecto confirmado en un modelo hermano |
+| `Número archivo` (`Serie` / `Reponer`) y `Nombre carpeta` (`Forma fecha`) | Subopciones de `Aj. archiv./carpet.`. La ruta está verificada en el a6700; los nombres de las subopciones, en guías Sony de la misma generación | ✅ (confirmado el 22 de noviembre de 2026 en la Guía de la a6700) |
+| `Tipo obturad. interv.` (dentro de `Func. capt. interv.`) | Existe en guías Sony de la misma generación; según Sony, va en obturador electrónico por defecto, sea cual sea `Tipo de obturador` | ✅ (confirmado el 22 de noviembre de 2026 en la ficha de la a6700) |
 
 ## Pendiente: 11 subopciones por confirmar en la cámara
 
@@ -4101,7 +4102,7 @@ asimétricas, ese ejemplar está descentrado.
 
 El repaso que separa "creo que la tengo" de "la tengo":
 
-- [ ] ▶ y **zoom al máximo sobre el ojo** (gira la rueda: amplía sola sobre
+- [ ] ▶ y **zoom al máximo sobre el ojo** (pulsa AF-ON y ajusta el aumento con la rueda: amplía sobre
   donde enfocó; el dial salta de foto sin perder el zoom). Lo que buscas:
   pestañas y pelo definidos. Cómo leer el fallo si no lo están:
   - Ojo blando pero otra zona nítida → el reconocimiento enganchó a otra

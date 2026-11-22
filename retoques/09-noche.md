@@ -35,7 +35,7 @@ La fotografía nocturna es la que **más sufre en JPEG**: mucho ruido, sombras m
 - **Si toda la foto tira a marrón o a naranja** (pasa con un balance de blancos fijo de día), mueve **Temperature** un poco hacia el azul, hasta que el cielo sea **gris neutro oscuro o algo cálido**. No busques un azul intenso: el cielo nocturno real casi nunca es azul.
 - **Tint** hacia el magenta solo si **toda** la foto está verdosa. Si el verde es una banda en el horizonte, déjala, o bájale un poco la saturación con una máscara.
 - Las estrellas deben verse blancas con matices, no todas del mismo color.
-- **Dos gustos, los dos defendibles.** Roger Clark defiende el color natural, con balance de luz de día: cielo neutro o cálido y Vía Láctea parda ([Clarkvision](https://clarkvision.com/articles/color.of.the.night.sky)). Ian Norman prefiere un cielo más frío, en torno a 3900 K ([Lonely Speck](https://www.lonelyspeck.com/how-to-process-milky-way-astrophotography-in-adobe-lightroom/)). Para un álbum de recuerdo, quédate cerca de lo que viste.
+- **Dos gustos, los dos defendibles.** Roger Clark defiende el color natural, con balance de luz de día: cielo neutro o cálido y Vía Láctea parda ([Clarkvision](https://clarkvision.com/articles/color.of.the.night.sky)). Ian Norman busca un balance neutro, que en sus fotos acaba en torno a 3900 K, más frío que el de luz de día ([Lonely Speck](https://www.lonelyspeck.com/how-to-process-milky-way-astrophotography-in-adobe-lightroom/)). Para un álbum de recuerdo, quédate cerca de lo que viste.
 
 **3. Luz**
 - **Exposure** +0,3/+0,7 si está muy oscura (vigila el ruido).
@@ -77,20 +77,20 @@ Las herramientas de fusión de Luminar (HDR Merge, Panorama Stitching y Focus St
 
 | Programa | Precio | Para qué | Enlace |
 |---|---|---|---|
-| **Starry Landscape Stacker** | Unos 40 USD; tiene versión de prueba | Alinea el cielo y deja el suelo quieto con una máscara. Es el equivalente en Mac de Sequator | <https://sites.google.com/site/starrylandscapestacker/home> |
-| **Siril** | Gratis | Apila y corrige degradados de fondo (*background extraction*). No tiene "suelo fijo" de un clic | <https://siril.org/> |
-| **StarStaX** | Las versiones antiguas, gratis | Solo para **trazas de estrellas**: suma los trazos de una serie larga | <https://starstax.net/> |
+| **Starry Landscape Stacker** | Unos 40 USD; la versión de prueba es igual, pero pone marca de agua | Alinea el cielo y deja el suelo quieto con una máscara. Hace en Mac lo que Sequator en Windows (comparación de esta guía) | <https://sites.google.com/site/starrylandscapestacker/home> |
+| **Siril** | Gratis | Apila y corrige degradados de fondo (*background extraction*). Alinea por las estrellas, así que el suelo queda borroso y hay que tratarlo aparte | <https://siril.org/> |
+| **StarStaX** | Las versiones antiguas, gratis (ya no se mantienen) | Sobre todo para **trazas de estrellas**: se queda con lo más claro de cada foto de una serie larga; no alinea el cielo | <https://starstax.net/> |
 
-Sequator, que citan muchas guías, solo existe para Windows.
+Sequator, que citan muchas guías, solo existe para Windows ([lo dice su página de descargas](https://sites.google.com/view/sequator/download)).
 
 **Paso a paso:**
 1. **No edites las fotos antes.** Ni ruido, ni enfoque, ni correcciones de lente: estropean el apilado.
-2. Abre la serie en el programa. **No está confirmado que acepten JPEG**: pruébalo con la versión de prueba ([PENDIENTES](../PENDIENTES.md)). Si no los acepta, convierte antes los JPEG a TIFF, sin editarlos.
+2. Abre la serie en el programa. **Starry Landscape Stacker acepta JPEG**, aunque su autor los desaconseja por la calidad ([requisitos](https://sites.google.com/site/starrylandscapestacker/restrictions-and-requirements-version-1-9)). En Siril no está confirmado: si no los abre, convierte antes los JPEG a TIFF, sin editarlos.
 3. Marca el cielo (en Starry Landscape Stacker, pintando la máscara) y apila.
 4. Guarda el resultado como **TIFF de 16 bits**.
 5. Añade ese TIFF al catálogo de Luminar (admite TIFF de 8 y 16 bits) y edítalo con los pasos de esta sección. Notarás que Noiseless AI casi no hace falta.
 
-Un apilado de fotos del mismo sitio y del mismo momento no es un montaje. Si enseñas la foto, basta con decir "apilado de 10 tomas".
+Un apilado de fotos del mismo sitio y del mismo momento es una técnica admitida incluso en concursos de fotografía de paisaje natural ([normas de los NLPA](https://www.naturallandscapeawards.com/rules/)). Si enseñas la foto, basta con decir "apilado de 10 tomas".
 
 ## 9.3. Luces artificiales (lodge, campamento, ciudad)
 
@@ -103,10 +103,10 @@ Un apilado de fotos del mismo sitio y del mismo momento no es un montaje. Si ens
 
 ### Animales en una charca iluminada con focos
 
-Es el caso más difícil del viaje: ISO muy alto (hasta 12800), todo teñido de **naranja** por el foco y el fondo negro. **Un color neutro no se puede recuperar de un JPEG así**: bajo esa luz casi toda la información está en el canal rojo. Esto es criterio de esta guía (no hay tutoriales de referencia para este caso), así que pruébalo con una foto y ajusta:
+Es el caso más difícil del viaje: ISO muy alto (hasta 12800), todo teñido de **naranja** por el foco y el fondo negro. **Un color neutro no se puede recuperar de un JPEG así**: bajo esa luz casi toda la información está en el canal rojo y **el canal azul está vacío** (medido en una foto del viaje: rojo 179, verde 65 y azul 1 sobre el elefante). Esto es criterio de esta guía (no hay tutoriales de referencia para este caso), así que pruébalo con una foto y ajusta:
 
-1. **Descarta primero las movidas.** A 1/25 s, un animal que se mueve sale borroso, y eso no tiene arreglo.
-2. **Mira el canal rojo** en el histograma (sección 1.3). Si toca el borde derecho, no subas la exposición ni la saturación.
+1. **Descarta primero las movidas.** Casi todas las fotos de la charca se hicieron por debajo de 1/60 s: un animal que se mueve sale borroso, y eso no tiene arreglo.
+2. **Mira los canales** en el histograma (sección 1.3). Verás el azul pegado a la izquierda: por eso no hay color neutro que recuperar. Si el rojo toca el borde derecho, no subas la exposición ni la saturación.
 3. **Noiseless AI**, con el nivel propuesto. Revisa la piel del animal al 100 %: si parece de cera, baja **Luminosity Denoise**.
 4. **Elige una de tres salidas:**
    - **Corrección parcial:** **Temperature** hacia el azul solo hasta que el animal deje de verse de un único naranja. Si sigues, aparecen colores falsos.

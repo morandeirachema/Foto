@@ -22,7 +22,7 @@ español e inglés, en el [capítulo 4](../manejo-a6700/04-configuracion-basica.
 | **Velocidad de obturación** | Cuánto tiempo entra la luz en el sensor (1/1000 s, 1/60 s, 20 s…). Rápida congela el movimiento; lenta deja entrar más luz pero mueve la foto ([capítulo 1](../manejo-a6700/01-de-movil-a-la-a6700.md)) |
 | **Paso** (*stop*) | El doble o la mitad de luz. La unidad de todo el sistema: un paso más de obturación, de apertura o de ISO son lo mismo en luz |
 | **EV** | *Exposure Value*. En la práctica, un sinónimo de "paso": "+1 EV" es "un paso más claro" |
-| **Exposición equivalente** | Combinaciones distintas de los tres números que dejan entrar la misma luz — y dan fotos distintas |
+| **Exposición equivalente** | Combinaciones distintas de los tres números que dan la misma claridad — y fotos distintas |
 | **Compensación de exposición** | Decirle a la cámara "más claro / más oscuro" que lo que ella cree. En la a6700 funciona **también en M con ISO Auto** (±5 EV) |
 | **Medición** | Cómo mide la cámara la luz: **Multi** (toda la escena; la *matricial* de otras marcas), **puntual** (solo un punto), **puntual vinculada** (ese punto es el de enfoque) |
 | **ETTR** (*expose to the right*) | Exponer lo más a la derecha posible del histograma sin quemar, porque el RAW guarda mucha más información en las altas luces |
@@ -55,7 +55,7 @@ español e inglés, en el [capítulo 4](../manejo-a6700/04-configuracion-basica.
 | **Equivalente** (factor 1,5) | Tu sensor es APS-C: multiplica por 1,5 para comparar con el móvil o con formato completo. 11 mm = 16,5 eq · 70-350 = 105–525 eq |
 | **Apertura** (número f) | El tamaño del agujero por el que entra la luz. Número **pequeño** = agujero grande = más luz |
 | **Apertura variable** | Los zoom baratos y ligeros pierden luz al alargarse: el 70-350 va de f/4.5 a f/6.3 según la focal |
-| **Profundidad de campo** | Cuánto sale nítido delante y detrás de donde enfocaste. Depende de distancia, focal y apertura — en ese orden |
+| **Profundidad de campo** | Cuánto sale nítido delante y detrás de donde enfocaste. Depende de la distancia, la focal y la apertura; a igual tamaño del sujeto en el encuadre, casi solo de la apertura |
 | **Hiperfocal** | La distancia a la que enfocar para que todo salga nítido desde su mitad hasta el infinito. Con el 11 mm a f/8: enfoca a 0,8 m |
 | **Círculo de confusión** | El tamaño a partir del cual un punto desenfocado "se nota". Es la letra pequeña de las cuentas de profundidad |
 | **Difracción** | El emborronado que aparece al cerrar mucho el diafragma. En tu cámara se nota desde f/11; f/16 es pérdida clara |
@@ -83,12 +83,12 @@ español e inglés, en el [capítulo 4](../manejo-a6700/04-configuracion-basica.
 | **Dirección de la luz** | De dónde llega respecto al sujeto: frontal (plana), lateral (volumen), rasante (textura), contraluz (siluetas), cenital (sombras bajo los ojos) ([la luz](01-la-luz.md)) |
 | **Sombra abierta** | Un sitio a la sombra que ve mucho cielo: luz suave en un día de sol, ideal para retratos |
 | **Balance de blancos (WB)** | Decirle a la cámara de qué color es la luz para que el blanco salga blanco |
-| **Kelvin (K)** | La escala de la temperatura de la luz: 3200 K naranja, 5500 K día, 7500 K sombra azulada. En este repo, **siempre fijo** — en K o en un preajuste (Luz de día, Nublado, Sombra) —; el automático, como mucho a mediodía ([balance de blancos](04-balance-de-blancos.md)) |
-| **Hora dorada / hora azul** | La hora de luz cálida y rasante tras el amanecer o antes del ocaso; y el rato azulado posterior al ocaso |
+| **Kelvin (K)** | La escala de la temperatura de la luz: 3200 K naranja, ~5200 K día, ~7000 K sombra azulada. En este repo, **siempre fijo** — en K o en un preajuste (Luz de día, Nublado, Sombra) —; el automático, como mucho a mediodía ([balance de blancos](04-balance-de-blancos.md)) |
+| **Hora dorada / hora azul** | La hora de luz cálida y rasante tras el amanecer o antes del ocaso; y el rato azulado anterior al amanecer y posterior al ocaso |
 | **Contraluz** | El sol detrás del sujeto: siluetas, bordes encendidos y polvo dorado |
 | **Clave alta** | Foto deliberadamente muy clara, casi sin sombras. La estrategia del mediodía en la calcreta blanca |
 | **ISO base** | El ISO de máxima calidad del sensor: **100** en la a6700 |
-| **ISO invariante** | Que dé casi igual subir el ISO en cámara o levantar la exposición en revelado. Tu cámara lo es a partir de ~800 |
+| **ISO invariante** | Que dé casi igual subir el ISO en cámara o levantar la exposición en revelado. Tu cámara lo es a partir de ~320–400, en RAW |
 | **Ruido de lectura** | El ruido que añade la propia electrónica al leer el sensor, independiente de la luz |
 | **RAW / ARW** | El archivo con todos los datos del sensor, sin decisiones tomadas. `.ARW` es el RAW de Sony |
 | **sRGB / Adobe RGB** | Espacios de color. Revela en Adobe RGB, **exporta a sRGB** para pantallas ajenas |

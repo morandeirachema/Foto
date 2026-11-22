@@ -72,7 +72,7 @@ Esto se hace en casa, antes de volar, y no se vuelve a mirar en todo el viaje.
 | Ajuste | Ruta | Valor | Por qué |
 |---|---|---|---|
 | **Formato archivo** | `Toma → [Calid. img/grab.] → [Formato archivo]` | **RAW** | Todo el revelado del repo asume RAW |
-| **Tipo archivo RAW** | `Toma → [Calid. img/grab.] → [Tipo archivo RAW]` | **Comprimido sin pérdida** | Máxima calidad… y ojo: es el que deja el búfer en **23 fotos** (ver [equipo](10-equipo-accesorios.md)) |
+| **Tipo archivo RAW** | `Toma → [Calid. img/grab.] → [Tipo archivo RAW]` | **`C. sin pérd.`** (comprimido sin pérdida) | Máxima calidad… y ojo: es el que deja el búfer en **23 fotos** (ver [equipo](10-equipo-accesorios.md)) |
 | **RR exposic. larga** | `Toma → [Calid. img/grab.] → [RR exposic. larga]` | **Desactivar** | Si no, tras cada foto de 20 s la cámara se pasa otros 20 s en negro: adiós star trails |
 | **RR ISO Alta** | `Toma → [Calid. img/grab.] → [RR ISO Alta]` | **Bajo / Desactivar** | Solo afecta al JPEG; el ruido del RAW lo arreglas mucho mejor en casa |
 | **Visualizac. cebra** | `Exposición/color → [Visualizac. cebra] → [Visualizac. cebra]` | **Activar** | Tu única alarma de quemados **en vivo** |
@@ -85,7 +85,7 @@ Esto se hace en casa, antes de volar, y no se vuelve a mirar en todo el viaje.
 | **Iluminador AF** | `Enfoque → [AF/MF] → [Iluminador AF]` | **Desactivar** | Su luz espanta a los animales de la charca |
 | **AF c/obturador** | `Enfoque → [AF/MF] → [AF c/obturador]` | **Desactivar** | Es lo que separa enfoque (pulgar) y disparo (índice) |
 | **Vis. lín. cuadrícul.** | `Toma → [Visualizac. toma] → [Vis. lín. cuadrícul.]` | **Activar** | La herramienta de encuadre: aire de la mirada y horizontes rectos |
-| **Tipo lín. cuadríc.** | `Toma → [Visualizac. toma] → [Tipo lín. cuadríc.]` | **Regla de tres** | Es la que se corresponde con los encuadres del atlas |
+| **Tipo lín. cuadríc.** | `Toma → [Visualizac. toma] → [Tipo lín. cuadríc.]` | **`Cuadr. regl. terc.`** (regla de los tercios) | Es la que se corresponde con los encuadres del atlas |
 | **Rev.automática** | `Ajustes → [Opción de visual.] → [Rev.automática]` | **Desactivar** | Te tapa el visor justo cuando la escena sigue pasando |
 | **Aj. DISP (vis. pant.)** | `Ajustes → [Personal. operac.] → [Aj. DISP (vis. pant.)]` | Deja solo **toda info. · histograma · nivel** | Menos pulsaciones de DISP en el campo |
 | **Valoración** | `Reproducc. → [Selección/nota] → [Valoración]` | A un botón, en reproducción | Marcar las 3 del día en cámara |
@@ -113,7 +113,7 @@ solo tocas la rueda delantera.
 
 | Ajuste | Ruta | Valor | Por qué |
 |---|---|---|---|
-| **Modo de toma** | `Toma → [Modo de toma] → [Modo de toma]` | **M** | Con ISO Auto, y la compensación sigue funcionando (rareza buena de esta cámara) |
+| **Modo de toma** | Dial de modo en **M** (en foto no hay ruta de menú) | **M** | Con ISO Auto, y la compensación sigue funcionando (rareza buena de esta cámara) |
 | **ISO** | `Exposición/color → [Exposición] → [ISO]` | **ISO AUTO**, y dentro: **ISO AUTO mínimo 100 · máximo 12800** | El techo de trabajo real del sensor |
 | Obturación | Rueda delantera (tras intercambiar los diales) | **1/1000** de partida | Y la mueves por escena: [capítulo 8](08-safari-diurno.md) |
 | Apertura | Rueda trasera | **La mínima** del zoom | Cambia sola al zoomear; por debajo de 200 mm ganas luz |
@@ -123,8 +123,8 @@ solo tocas la rueda delantera.
 | **Dest. reconocim.** | `Enfoque → [Reconoc. motivo] → [Dest. reconocim.]` | **Animal** (→ *Ave* para aves) | Es el ajuste que más vas a cambiar: ponlo en el **Fn** |
 | **Sens. Seguim. AF** | `Enfoque → [AF/MF] → [Sens. Seguim. AF]` | **3** (estándar) · **1** con hierba delante · **4–5** en persecución | 1 = tozudo, 5 = saltarín |
 | **Modo manejo** | `Toma → [Modo de manejo] → [Modo manejo]` | **`Captura contin.`** en **Hi+** | 11 fps (~10 en RAW sin pérdida). En Hi+ el visor no va en vivo durante la ráfaga: si te cuesta seguir, baja a Hi |
-| **SteadyShot** | `Toma → [Estabiliz. de img] → [SteadyShot]` | **Activar** (+ interruptor **OSS** del objetivo en ON) | A pulso y desde la ventanilla |
-| **Modo medición** | `Exposición/color → [Medición] → [Modo medición]` | **Multi** de partida · **Puntual** vinculada al AF para el nivel avanzado (`[Medición] → [Punto med. punt.] → Vínc. punto enf.`) | El detalle, en [AF y exposición a fondo](12-af-y-exposicion-a-fondo.md) |
+| **SteadyShot** | `Toma → [Estabiliz. de img] → [SteadyShot]` | **Activar** (con el 70-350 manda solo el interruptor **OSS** del objetivo: ponlo en ON) | A pulso y desde la ventanilla |
+| **Modo medición** | `Exposición/color → [Medición] → [Modo medición]` | **Multi** de partida · **Puntual** vinculada al AF para el nivel avanzado (`[Medición] → [Punto med. punt.] → Vínc. punto enf.`; el vínculo exige área `Punto`: con Zona, la puntual mide en el centro) | El detalle, en [AF y exposición a fondo](12-af-y-exposicion-a-fondo.md) |
 | **Balance blanco** | `Exposición/color → [Balance blancos] → [Balance blanco]` | **Luz diurna** o K fijo | Es RAW: se cambia después sin coste |
 
 **Guardarlo**: `Toma → [Modo de toma] → [Mem. ajustes cám]` → **1**.
@@ -148,14 +148,14 @@ Las tres son distintas de verdad: no intentes cubrirlas con una sola memoria.
 
 | Ajuste | Ruta | Valor |
 |---|---|---|
-| Modo | `Toma → [Modo de toma]` | **M** (ISO manual) |
+| Modo | Dial de modo | **M** (ISO manual) |
 | Obturación / apertura | Ruedas | **1/60** · la mínima (recoge bajo 200 mm y ganas un tercio de paso) |
 | **ISO** | `Exposición/color → [Exposición] → [ISO]` | **6400**, techo 12800 (25600 solo rescate) |
 | **Balance blanco** | `Exposición/color → [Balance blancos] → [Balance blanco]` | **K ≈ 3500**, ajustando con la revisión |
 | **Modo de enfoque** | `Enfoque → [AF/MF] → [Modo de enfoque]` | **AF-S** |
 | **Área de enfoque** | `Enfoque → [Área de enfoque]` | **Punto: S o M** sobre lo iluminado |
 | **Tipo de obturador** | `Toma → [Obturad./silenc.] → [Tipo de obturador]` | **Obturad. electr.** — silencio absoluto |
-| **SteadyShot** | `Toma → [Estabiliz. de img] → [SteadyShot]` | **Desactivar** (y el OSS del objetivo, también) |
+| **SteadyShot** | `Toma → [Estabiliz. de img] → [SteadyShot]` | **Desactivar** (con el 70-350, con el interruptor OSS del objetivo) |
 | **Modo manejo** | `Toma → [Modo de manejo] → [Modo manejo]` | **`Captura contin.`**: ráfagas cortas de 3–4 en los momentos quietos; si sale todo movido, **`Autodisp.(senc)`** de 2 s |
 
 ### C2, astro: la receta de MR2

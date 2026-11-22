@@ -196,12 +196,12 @@ de la primera foto del día: si algo no cuadra con la
 
 | Ajuste | Qué hace | Tu valor |
 |---|---|---|
-| `Aj. modo silenc.` | Silencio total de golpe: fuerza electrónico y apaga los pitidos | **Desactivar**: en la charca basta con `Tipo de obturador` |
+| `Aj. modo silenc.` | Silencio de golpe (no completo, según Sony): fuerza electrónico y apaga los pitidos | **Desactivar**: en la charca basta con `Tipo de obturador` |
 | `Tipo de obturador` | Mecánico (1/4000–30 s y BULB) o electrónico (1/8000–30 s, sin BULB) | **Mecánico de día**; **electrónico en la charca** (silencio absoluto). ⚠️ el electrónico desactiva BULB y `RR exposic. larga`, y con LED parpadeantes puede sacar franjas |
-| `e-Prim. cortin. obtur.` | Primera cortinilla electrónica: menos retardo | **Activar**. Desactívala solo si a 1/4000 con el 11 mm a f/1.8 ves el bokeh recortado |
+| `e-Prim. cortin. obtur.` | Primera cortinilla electrónica: menos retardo | **Activar**. Desactívala si a 1/4000 con el 11 mm a f/1.8 ves el bokeh recortado, y **con el Viltrox 25 mm**: Sony pide `Desactivar` con objetivos de otro fabricante |
 | `Liber. sin objetivo` | Disparar sin objetivo montado | **Inhabilitar** (los tres objetivos tienen contactos) |
 | `Liberar sin tarj. mem.` | Disparar sin tarjeta (la foto no se guarda) | **Inhabilitar** ⚠️ Sony lo trae habilitado |
-| `Ajust. sin parpadeo` | Reduce las franjas de luces artificiales (solo con obturador mecánico) | **Desactivar**; en la charca, si pasas a mecánico por las franjas, actívalo |
+| `Ajust. sin parpadeo` | Reduce las franjas de luces artificiales (`Toma sin parpad.` solo va con obturador mecánico; `Obturad. variable`, con los dos) | **Desactivar**; en la charca, si pasas a mecánico por las franjas, actívalo |
 
 ### [Estabiliz. de img]
 

@@ -21,7 +21,7 @@
 | Grupos que el repo usa en rutas | 33 de los 54 oficiales | ✅ Todos existen y en su pestaña |
 | Grupos y elementos de [el menú completo](14-menu-completo.md) | Las 8 pestañas, grupo a grupo | ✅ Sin elementos inventados ni mal colocados |
 | Nombres de segundo nivel verificados | 12 nombres o familias de valores | ✅ 12 coinciden en la ficha |
-| Nombres de segundo nivel no localizados | 11 subopciones | ❓ Pendientes de comprobar en la cámara (C3) |
+| Nombres de segundo nivel | 11 subopciones | ✅ Confirmadas el 22 de noviembre de 2026 en las fichas de la Guía de ayuda de la a6700 ([verificación](../notas-de-investigacion/verificacion-de-datos/menus-de-la-a6700.md)) |
 | Errores que impidan encontrar un ajuste | Ninguno | ✅ |
 | Otros hallazgos | 1 error de formato que ocultaba medio capítulo 3 en GitHub, y 2 mejoras menores | ✅ Aplicados en este repo |
 
@@ -46,8 +46,8 @@
 | `Versión` (cuerpo y objetivo) | `Ajustes → [Opción ajustes] → [Versión]`; muestra cuerpo y objetivo | ✅ |
 | `Verificac. luminosa`, `Amplific. enfoque`, `AF c/obturador`, `Captura contin.`, `Autodisp.(senc)`, `Variación expos.` | Nombres exactos en el índice oficial | ✅ |
 | `Func. táctil dur. toma` (en `Ajust. pantalla táctil`) | En `Ajust. pantalla táctil → Pantalla de toma`: `Seguimient. táct.`, `Obturador táctil`, `AE táctil` y `Desac.` | ✅ |
-| `Número archivo` (`Serie` / `Reponer`) y `Nombre carpeta` (`Forma fecha`) | Subopciones de `Aj. archiv./carpet.`. La ruta está verificada en el a6700; los nombres de las subopciones, en guías Sony de la misma generación | ✅ ruta · ⚠️ subopciones |
-| `Tipo obturad. interv.` (dentro de `Func. capt. interv.`) | Existe en guías Sony de la misma generación; según Sony, va en obturador electrónico por defecto, sea cual sea `Tipo de obturador` | ✅ nombre · ⚠️ valor por defecto confirmado en un modelo hermano |
+| `Número archivo` (`Serie` / `Reponer`) y `Nombre carpeta` (`Forma fecha`) | Subopciones de `Aj. archiv./carpet.`. La ruta está verificada en el a6700; los nombres de las subopciones, en guías Sony de la misma generación | ✅ (confirmado el 22 de noviembre de 2026 en la Guía de la a6700) |
+| `Tipo obturad. interv.` (dentro de `Func. capt. interv.`) | Existe en guías Sony de la misma generación; según Sony, va en obturador electrónico por defecto, sea cual sea `Tipo de obturador` | ✅ (confirmado el 22 de noviembre de 2026 en la ficha de la a6700) |
 
 ## Pendiente: 11 subopciones por confirmar en la cámara
 

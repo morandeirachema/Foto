@@ -62,7 +62,7 @@ Antes de editar la primera foto de un viaje, tres cosas, en este orden.
 2. **Segunda pasada:** de cada ráfaga o situación, marca (**`P`**) la mejor, comparándolas con **`;`** y al 100 %.
 3. **Tercera pasada:** estrellas (**`1`–`5`**) a las favoritas. Las de **5** son tu selección final: crea un álbum con ellas (**`⌘N`**).
 
-Edita primero esa selección final, con el [flujo base](04-flujo-base.md) y los [ajustes locales](05-ajustes-locales.md). Después, el resto **en serie** (10.1).
+Edita primero esa selección final, con el [flujo base](04-flujo-base.md) y los [ajustes locales](05-ajustes-locales.md). Después, el resto **en serie** (11.1).
 
 > **Las fotos de Namibia están en JPEG.** Todo lo de esta guía se aplica tal cual. Elige con más cuidado que con RAW: una foto quemada o muy oscura en JPEG no tiene arreglo.
 

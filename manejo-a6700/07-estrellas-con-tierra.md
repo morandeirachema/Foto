@@ -204,8 +204,8 @@ datos), y la 2, la 3 y la 4 no usan más que tus ojos y la cámara:
    cielo abierto. Y para el polo ni siquiera hace falta precisión: 100 km de
    error lo mueven menos de 1°.
 2. **A ojo, en 30 segundos**: brújula del móvil al sur (**180°**; con
-   una brújula magnética de verdad, en Namibia el sur real marca ~190–195°,
-   porque el norte magnético cae 10–15° al oeste) y, brazo estirado, cuenta
+   una brújula magnética de verdad, en Namibia el sur real marca ~189° en Etosha y ~195° en Sesriem,
+   porque el norte magnético cae entre 9° y 15° al oeste) y, brazo estirado, cuenta
    **dos puños** (~10° cada uno) desde el horizonte en Etosha, dos y medio en
    Sesriem: ahí está el polo. Con la cámara **nivelada** (nivel electrónico
    con DISP) y **el horizonte en el tercio bajo** del encuadre, el 11 mm
@@ -217,8 +217,9 @@ datos), y la 2, la 3 y la 4 no usan más que tus ojos y la cámara:
    con el polo un **triángulo casi equilátero**, y el polo es el vértice
    **vacío y oscuro**. Entre las 20:30 y las 23:00 de tus noches la Nube
    Pequeña queda arriba, casi en la vertical del polo, y la Nube Grande
-   abajo a la izquierda (sureste): el polo está **a la misma altura que la
-   Grande, dos puños a su derecha, y debajo de la Pequeña**. Según avanza
+   abajo a la izquierda (sureste), subiendo durante la noche: **hacia las
+   21:30** el polo está **a la misma altura que la Grande, dos puños a su
+   derecha, y debajo de la Pequeña**. Según avanza
    la noche todo gira, pero el polo no se mueve
    ([el cielo del viaje](https://github.com/morandeirachema/a6700-namibia/blob/main/plan/cielo-del-viaje.md)).
 4. **La prueba de giro** (la definitiva, 4 minutos): antes de lanzar la
@@ -271,7 +272,7 @@ Y la dirección decide el dibujo:
 4. Y ya: **no toques nada** hasta el final. 90 tomas = 45 min de arcos
    discretos; 180+ = remolino serio. Tú, mientras, a la charca o a dormir —
    la serie no te necesita.
-5. En casa: **StarStaX** (gratis, modo Lighten, `Gap filling` si hay
+5. En casa: **StarStaX** (la versión clásica es gratuita; modo Lighten, `Gap filling` si hay
    microhuecos), con tu primera toma como base
    ([edición](../retoques/09-noche.md#apilar-una-serie-fuera-de-luminar)).
 
@@ -304,9 +305,9 @@ apuntando a otra parte del cielo ([su guía](https://github.com/morandeirachema/
 |---|---|---|
 | 20:25–21:30 | **Núcleo bajo al OSO** (+26° y bajando) + cola de la **luz zodiacal** en el mismo cielo | Panorámica de 3–4 verticales solapadas 30 %, o banda diagonal con silueta |
 | 21:30–23:00 | **Nubes de Magallanes** altas al sur | 15–20 tomas apiladas, 20 s · f/1.8 · ISO 1600–3200 |
-| 23:00 en adelante | **Banda de Orión–Carina** subiendo por el este; Saturno culminando | Mismos ajustes; Saturno como "estrella" ancla de composición |
+| 23:00 en adelante | **Banda de Orión–Carina** subiendo por el este; Saturno, que ha culminado hacia las 22:30, alto al norte | Mismos ajustes; Saturno como "estrella" ancla de composición |
 | Toda la noche | **Star trails** centrados en el polo (a ~19–24° de altura, según la parada) | Triángulo de las Nubes o AR; serie de 90–180 tomas que además caza bólidos de las Táuridas |
-| Alba del 14 | **Conjunción Júpiter–Marte** al este | El zoom corto o el 11 mm con paisaje, en el crepúsculo |
+| Albas del 14 al 18 | **Júpiter y Marte juntos** al noreste (a 1,4° el día 14; mínimo de 1,2° el 16) | El zoom corto o el 11 mm con paisaje, en el crepúsculo |
 
 ### Técnica fina
 

@@ -125,7 +125,7 @@ asimétricas, ese ejemplar está descentrado.
 
 El repaso que separa "creo que la tengo" de "la tengo":
 
-- [ ] ▶ y **zoom al máximo sobre el ojo** (gira la rueda: amplía sola sobre
+- [ ] ▶ y **zoom al máximo sobre el ojo** (pulsa AF-ON y ajusta el aumento con la rueda: amplía sobre
   donde enfocó; el dial salta de foto sin perder el zoom). Lo que buscas:
   pestañas y pelo definidos. Cómo leer el fallo si no lo están:
   - Ojo blando pero otra zona nítida → el reconocimiento enganchó a otra

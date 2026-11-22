@@ -18,6 +18,7 @@ Los nombres de las herramientas, los controles, los atajos y los límites técni
 - [Histograma](https://support.skylum.com/how-to-use-luminar-for-desktop/catalog/histogram) · [Favoritas, rechazadas e icono Visibility](https://support.skylum.com/organizing-images/marking-favorite-and-rejected-images)
 - [Aplicar presets](https://support.skylum.com/presets/browsing-and-applying-presets) · [Copia de seguridad del catálogo](https://support.skylum.com/how-to-use-luminar-for-desktop/catalog/catalog-files/backing-up-a-catalog)
 - [Formatos admitidos](https://support.skylum.com/about-luminar-for-desktop/supported-file-types-and-cameras) · [Buenas prácticas con Upscale](https://support.skylum.com/luminar-for-desktop-tips/best-practices-with-upscale)
+- [Structure AI](https://support.skylum.com/editing-tools/essential-tools/structure-ai) · [Añadir una carpeta](https://support.skylum.com/how-to-use-luminar-for-desktop/catalog/adding-a-folder-for-editing) · [Guardar los ajustes en el catálogo](https://support.skylum.com/saving-and-exporting-files/saving-adjustments-in-a-catalog) · [Registro de cambios](https://skylum.com/whats-new/luminar-neo/68)
 - [Sunrays](https://support.skylum.com/editing-tools/landscape-tools/sunrays) · [Reconstruir una zona borrosa (Supersharp AI con máscara)](https://support.skylum.com/luminar-for-desktop-tips/how-to-reconstruct-a-blurry-part-of-a-photo)
 - [Por qué cambian los colores al exportar (perfil del monitor)](https://support.skylum.com/why-do-photo-colors-change-after-export-in-luminar-for-desktop)
 
@@ -66,6 +67,7 @@ Los nombres de las herramientas, los controles, los atajos y los límites técni
 
 **Fuera de Luminar** (criterio de edición y programas de apilado; no son fuentes de Skylum)
 - Color del cielo nocturno: [Clarkvision](https://clarkvision.com/articles/color.of.the.night.sky) · [Lonely Speck](https://www.lonelyspeck.com/how-to-process-milky-way-astrophotography-in-adobe-lightroom/)
+- Cámara y Mac: [Guía de ayuda de la Sony a6700](https://helpguide.sony.net/ilc/2320/v1/es/index.html) · [fuentes de entrada del teclado en macOS](https://support.apple.com/es-es/guide/mac-help/mchlp1406/mac)
 - Apilado en Mac: [Starry Landscape Stacker](https://sites.google.com/site/starrylandscapestacker/home) · [Siril](https://siril.org/) · [StarStaX](https://starstax.net/)
 - Límites del JPEG: [posterización](https://www.cambridgeincolour.com/tutorials/posterization.htm) y [enfoque](https://www.cambridgeincolour.com/tutorials/image-sharpening.htm), en Cambridge in Colour
 

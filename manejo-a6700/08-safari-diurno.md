@@ -131,7 +131,7 @@ ventanilla puedes usar la tabla tal cual; la fila de 1/250 s del atardecer es
 | Movida/borrosa el animal | Obturación más rápida (rueda delantera). Fallo nº 1 |
 | El animal oscuro, el fondo bien | Compensación **+0.7/+1**, o medición puntual vinculada al punto de enfoque |
 | El recuadro de reconocimiento se va al arbusto o a otro animal | Toca en pantalla al bueno; si insiste, punto único y colócalo tú |
-| Todo lejísimos | Encuadra bien y **recorta en edición** (los 26 Mpx aguantan un recorte del 50 %) |
+| Todo lejísimos | Encuadra bien y **recorta en edición** (los 26 Mpx aguantan quedarse con la mitad del encuadre, 13 Mpx) |
 | Borroso "que tiembla" a lo lejos a mediodía | *Heat haze*: aire caliente vibrando. No es la cámara — acércate o espera a que refresque |
 | El AF caza y no fija a 350 mm | Apunta a un borde con contraste (línea lomo/cielo, no la panza lisa); o punto único; o acerca tú el foco con el anillo en modo DMF |
 | Ojo del animal blando, cuerpo nítido | Revisa al 100 %: ¿el Eye AF enganchó el ojo o la oreja? Reencuadra dando más tamaño a la cabeza, o punto único al ojo |

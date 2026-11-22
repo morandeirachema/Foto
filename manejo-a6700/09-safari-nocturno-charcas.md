@@ -92,8 +92,8 @@ Tres números que multiplicados dan tu techo real:
    te ahorras entre un tercio y dos tercios de paso de ISO gratis.
 2. **Lo que aguanta el sensor**: la a6700 va limpia hasta **3200** y muy bien
    a **6400**; a **12800** el ruido es evidente pero la foto vive; **25600**
-   queda castigado (ruido de color en las sombras). Los ISO expandidos por
-   encima **ni tocarlos**: son un empujón digital — mismo ruido, peor color.
+   queda castigado (ruido de color en las sombras). El rango nativo acaba en ISO 32000; los ISO ampliados
+   (de 40000 a 102400) **ni tocarlos**: son un empujón digital — mismo ruido, peor color.
 3. **Lo que devuelve la IA**: la reducción de ruido por IA (en Luminar,
    **Noiseless AI**: [retoques, paso 2](../retoques/04-flujo-base.md)) recupera mucho
    detalle a ISO alto. Cuánto, depende de la foto: compruébalo al 100 % con

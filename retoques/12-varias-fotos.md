@@ -29,7 +29,7 @@ Estas herramientas están en la pestaña **Extra**. La documentación de Skylum 
 - **Proyecciones:** **Spherical**, **Cylinder**, **Mercator**, **Plane** y **Fisheye**.
 - **Tamaño máximo de exportación:** 15.000 px.
 - **Después:** recorta a mano los bordes irregulares.
-- **Consejos de toma de Skylum:** mantén constantes la luz y la exposición (exposición y balance de blancos en manual), bloquea el enfoque, gira con suavidad y, si puedes, usa trípode.
+- **Consejos de toma** (Skylum los da para panorámicas hechas a partir de vídeo; valen igual para fotos): mantén constantes la luz y la exposición (exposición y balance de blancos en manual), bloquea el enfoque, gira con suavidad y, si puedes, usa trípode.
 
 ## 12.3. Focus Stacking
 

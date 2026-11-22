@@ -111,7 +111,7 @@ visible gran parte de la noche.
 | Estrellas gordas o borrosas | Enfoque mal: repite el paso 4. No es el ISO ni los segundos |
 | Todo movido | Trípode vibrando: viento, correa colgando o tocaste la cámara — temporizador 2 s siempre; con el obturador electrónico la cámara ya no aporta ni una vibración propia |
 | Cielo naranja/verde raro | Balance de blancos a 3900 K (en RAW se corrige después sin pérdida) |
-| Esquinas con estrellas "estiradas" | Coma del objetivo, no eres tú. Cierra de f/1.8 a f/2.8 (y compensa con ISO 3200) si molesta mucho |
+| Esquinas con estrellas "estiradas" | Coma del objetivo, no eres tú. Cierra de f/1.8 a f/2.8 si molesta mucho (pierdes algo más de un paso: compensa con ISO 3200 y acepta la foto un poco más oscura, o ISO 4000) |
 | Puntos rojos/calientes en exposiciones largas | Píxeles calientes: normales en cualquier exposición larga. El apilado y el NR por IA los eliminan solos |
 
 La versión a fondo de las dos fotos con primer plano — la postal (cielo

@@ -44,9 +44,9 @@ La cámara no sabe qué estás fotografiando. Mide cuánta luz llega y la ajusta
 **Experimento de 5 minutos** (es la mejor forma de entenderlo):
 1. Pon la cámara en **A** (prioridad a la apertura) con la compensación a **0**.
 2. Fotografía un **folio blanco** que llene todo el encuadre. Míralo: sale **gris**, no blanco.
-3. Repite con **+1** de compensación: ahora sí sale blanco.
+3. Repite con **+1** de compensación: sale más claro, pero aún gris claro. Con **+2** ya sale blanco.
 4. Fotografía una **tela o camiseta negra** que llene el encuadre, con compensación 0: también sale **gris**.
-5. Repite con **−1**: ahora sí sale negra.
+5. Repite con **−1**: mejora. Con **−2** ya sale negra.
 
 Después de verlo una vez, no se olvida: **la cámara lo pone todo gris; tú le devuelves el blanco (+) o el negro (−)**. Cómo se pone la compensación en la a6700, en el [capítulo 1 de manejo](../manejo-a6700/01-de-movil-a-la-a6700.md#medición-por-qué-la-cámara-se-equivoca-y-cómo-corregirla).
 

@@ -52,7 +52,7 @@ En Luminar no hay un panel de ajustes locales aparte: **cada herramienta tiene s
 |---|---|---|---|
 | **Brush** | **`B`** | Pintas. Modo **Paint** añade y modo **Erase** quita. Controles **Size**, **Softness** y **Strength**. **`[`**/**`]`** cambian el tamaño | Zonas con forma irregular |
 | **Radial** | **`R`** | Arrastras un círculo. El círculo interior marca el tamaño; el exterior, lo suave del borde. **Standard** protege el centro; **Inverted** aplica el efecto dentro | Una zona redonda: una cara, el núcleo de la Vía Láctea |
-| **Linear Gradient** | **`G`** | Arrastras un degradado: líneas superior e inferior para la transición, punto central para moverlo y rotarlo | Cielo o suelo con horizonte recto |
+| **Linear Gradient** | **`G`** | Arrastras un degradado: líneas superior e inferior para la transición, punto central para moverlo; arrastra justo fuera del punto para rotarlo | Cielo o suelo con horizonte recto |
 | **Mask AI** | **`A`** | Eliges categorías: personas, cielo, edificios, vehículos, agua, plantas, montañas, suelo natural, suelo artificial | Cielo, agua, vegetación… en un clic |
 | **Object Select AI** | — | Pasas el ratón y resalta un objeto; clic para seleccionarlo; **Subtract** para quitar zonas | Un animal, una persona |
 | **Luminosity** | — | Un deslizador elige un rango de brillo (de sombras a luces), con **Feathering** | "Solo las sombras" o "solo las luces" |

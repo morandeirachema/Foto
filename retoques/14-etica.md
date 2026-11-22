@@ -34,7 +34,7 @@ En fotografía documental, de naturaleza y de viaje, la línea general es: **pue
 
 Muchas cámaras y todos los móviles guardan la **ubicación GPS** en el archivo. Para especies amenazadas (rinocerontes, pangolines, grandes felinos, aves en el nido), publicar la ubicación exacta puede ayudar a los cazadores furtivos.
 
-- **Antes de publicar** fotos de especies amenazadas, **quita la ubicación** del archivo exportado. La documentación de exportación de Skylum no menciona una opción para quitar metadatos. En macOS, puedes hacerlo en **Vista Previa**: menú Herramientas → Mostrar inspector → pestaña de ubicación → Eliminar información de ubicación.
+- **Antes de publicar** fotos de especies amenazadas, **quita la ubicación** del archivo exportado. La documentación de exportación de Skylum no menciona una opción para quitar metadatos. En macOS, Apple documenta cómo hacerlo en la app **Fotos** (Imagen → Ubicación → Ocultar ubicación). En **Vista Previa**, Herramientas → Mostrar inspector enseña la ubicación; que desde ahí se pueda eliminar está por comprobar ([PENDIENTES](../PENDIENTES.md)).
 - **No des la ubicación exacta en el texto** ("cerca del lodge X, junto al río Y").
 
 ## 14.4. Personas

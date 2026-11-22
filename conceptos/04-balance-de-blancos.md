@@ -15,8 +15,10 @@ práctica: **de día, un preajuste fijo; de noche, Kelvin a mano.**
 
 ## Cómo se cambia en la a6700
 
-- Botón **Fn → Balance de blancos**: elige preajuste (☀️ Luz de día,
-  ⛅ Nublado, 🏠 Sombra…) o **K** y ajusta ahí el número con la rueda.
+- Botón **Fn → Balance de blancos**: elige preajuste (☀️ `Luz diurna`, que esta guía llama "Luz de día",
+  ⛅ `Nublado`, 🏠 `Sombra`…) o `Tem.col./filtro` (K) y gira el dial trasero.
+  Los Kelvin que esta guía da para los preajustes son aproximados: Sony no
+  publica la cifra de cada uno.
 - Bonus del visor electrónico: **ves el color antes de disparar** — el valor
   de K se afina mirando el resultado en pantalla, no adivinando y revisando.
 
@@ -29,7 +31,7 @@ práctica: **de día, un preajuste fijo; de noche, Kelvin a mano.**
 | Animal en sombra (bajo un árbol, hide) | **Sombra (7000 K)** | La sombra abierta es muy azul |
 | **Amanecer y atardecer** | **Fijo en Luz de día (5200 K)** — nunca AWB | El AWB "corrige" el dorado y te roba justo lo que viniste a buscar; con 5200 K fijo, la luz cálida se queda en la foto |
 | Contraluz con polvo dorado | Luz de día (5200 K), o Nublado si lo quieres aún más cálido | Mismo motivo: conservar el oro |
-| Charca nocturna con focos | **K a mano: empieza en 3500** y ajusta por prueba entre **2800–4000** | Cada campamento tiene focos distintos (los de sodio piden ~2800–3200; ver la prueba de color del [capítulo 9](../manejo-a6700/09-safari-nocturno-charcas.md)) |
+| Charca nocturna con focos | **K a mano: empieza en 3500** y ajusta por prueba entre **2800–4000** | Cada campamento tiene focos distintos (los de sodio, de unos 2000–2700 K, seguirán naranjas incluso al mínimo: baja a 2800 y asume el tono, o pasa a blanco y negro; ver la prueba de color del [capítulo 9](../manejo-a6700/09-safari-nocturno-charcas.md)) |
 | Game drive con foco | **K ≈ 3200–3800** | Focos halógenos, cálidos |
 | Astro / Vía Láctea | **K = 3900** (rango útil 3800–4200) | Cielo neutro sin ponerse naranja ni azul eléctrico |
 | Hide de Olifantsrus (focos rojos) | Da igual el valor: la luz ES roja | No luches contra ella: asume la foto monocroma rojiza o pasa a B/N en edición |

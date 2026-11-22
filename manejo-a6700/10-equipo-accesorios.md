@@ -18,8 +18,8 @@ que más fabricantes terceros tiene (Sigma, Tamron, Samyang, Viltrox…) y un
 mercado de segunda mano enorme (<https://www.mpb.com/>), donde casi todo baja
 un 20–40 %.
 
-**El kit del viaje, en una línea**: a6700 (~1.000–1.200 €) + 11mm F1.8
-(~400–550 €) + 70-350 G OSS (~570–650 €) ≈ **2.000–2.400 € nuevo**, o unos
+**El kit del viaje, en una línea**: a6700 (~1.000–1.500 €) + 11mm F1.8
+(~400–600 €) + 70-350 G OSS (~850–900 €) ≈ **2.250–3.000 € nuevo** (precios orientativos de noviembre de 2026), o unos
 1.800–2.100 € comprando las dos ópticas de segunda mano en mpb.
 
 > **Estado a 25 de octubre de 2026**: el cuerpo, el **11 mm**, el **70-350**
@@ -42,7 +42,7 @@ un 20–40 %.
 
 ## El cuerpo: Sony a6700
 
-**~1.000–1.200 € nueva** (salió a 1.700 € en 2023 y hoy se ve bastante por
+**~1.000–1.500 € nueva según tienda** (salió a 1.700 € en 2023 y hoy se ve bastante por
 debajo: compara antes de comprar) / **~800–950 € usada** en mpb. Por qué
 esta y no otra:
 
@@ -70,7 +70,7 @@ Dos peculiaridades que se asumen (y que esta guía ya tiene en cuenta):
 
 ## Astrofotografía y paisaje: el Sony E 11mm F1.8
 
-El **Sony E 11mm F1.8 (SEL11F18)** — ~400–550 € nuevo / ~330–420 € usado en
+El **Sony E 11mm F1.8 (SEL11F18)** — ~400–600 € nuevo / ~330–420 € usado en
 mpb — es el gran angular nativo de la casa para APS-C
 (<https://www.sony.es/lenses/products/sel11f18>):
 
@@ -103,7 +103,7 @@ solo.
 
 | Objetivo | Precio aprox. | Notas |
 |---|---|---|
-| **Sony E 70-350mm F4.5-6.3 G OSS (SEL70350G)** ⭐ | ~570–650 € nuevo / ~450–520 € usado | **105–525 mm equivalentes en 625 g**: el alcance del safari en un objetivo que se levanta con una mano. Serie G (óptica buena de verdad), motor lineal XD rápido y silencioso, estabilizador OSS, bloqueo de zoom y botón de retención de foco. <https://www.sony.es/lenses/products/sel70350g> |
+| **Sony E 70-350mm F4.5-6.3 G OSS (SEL70350G)** ⭐ | ~850–900 € nuevo (550–650 € en ofertas puntuales) / ~450–520 € usado | **105–525 mm equivalentes en 625 g**: el alcance del safari en un objetivo que se levanta con una mano. Serie G (óptica buena de verdad), motor lineal XD rápido y silencioso, estabilizador OSS, bloqueo de zoom y botón de retención de foco. <https://www.sony.es/lenses/products/sel70350g> |
 | Sony FE 70-300mm G | ~900–1.100 € | Full frame (105–450 eq en esta cámara): más caro, más pesado y con menos alcance. Aquí no compensa |
 | Sigma 150-600mm DG DN OS Sports (E) | ~1.300–1.500 € / menos usado | 600 mm reales (900 eq): mucho más alcance, pero 2,1 kg — pide bean bag para todo. <https://www.sigma-global.com/> |
 | Sony FE 200-600mm G | ~1.900 € | El AF de referencia y zoom interno, pero 2,1 kg y fuera de presupuesto |
@@ -147,7 +147,7 @@ de este viaje lo hace el móvil, que enfoca a 3 cm
 
 La etiqueta **V** es la velocidad de **escritura sostenida** garantizada
 (V30 = 30 MB/s, V60 = 60, V90 = 90). Y el detalle que casi nadie explica: en
-la práctica **las V30 del mercado son UHS-I** (bus limitado a ~104 MB/s) y
+la práctica **casi todas las V30 del mercado son UHS-I** (bus limitado a ~104 MB/s) y
 **las V60 y V90 son UHS-II** (bus de hasta 312 MB/s). La a6700 es UHS-II, así
 que la pregunta real no es "¿V30 o V60?" sino "¿UHS-I o UHS-II?".
 
@@ -158,14 +158,14 @@ da para más por mucho que ponga en la etiqueta. En la cara impresa, la **V con
 un número** (V30, V60, V90) es la velocidad de escritura sostenida, y un **II**
 junto al logotipo de SD confirma el bus.
 
-**En ráfaga.** A 11 fps con RAW comprimido sin pérdida, la cámara genera del
-orden de **300 MB/s**: ninguna tarjeta del mundo sigue ese ritmo. Por eso
+**En ráfaga.** Con RAW comprimido sin pérdida (~10 fps y unos 36 MB por foto), la cámara genera del
+orden de **350 MB/s**: ninguna tarjeta sigue ese ritmo (la más rápida medida en cámara escribe a ~230 MB/s). Por eso
 existe el búfer, y lo que decide la tarjeta es **cuánto tarda en vaciarlo**:
 
 | | UHS-I V30 | UHS-II V60 | UHS-II V90 |
 |---|---|---|---|
-| Ráfaga antes de atascarse | ~15–18 RAW | El búfer entero | El búfer entero |
-| Vaciar el búfer tras 30 RAW | **18–22 s** | **8–9 s** | **4–6 s** |
+| Ráfaga antes de atascarse (RAW sin pérdida) | ~17–21 | ~25–35 | ~90–375 |
+| Vaciar el búfer lleno | **6,5–9 s** | **4–5,5 s** | **2,5–4 s** |
 | Precio (128 GB) | 20–30 € | 50–90 € | 120–180 € |
 
 Y un dato de la propia cámara que conviene tener en la cabeza: el búfer son
@@ -175,14 +175,14 @@ segundos** (en RAW sin pérdida la ráfaga va a ~10 fps). O sea: la regla de "r�
 estilística, es que **el búfer se llena justo ahí**.
 
 **La decisión**: el escenario que lo paga es la charca. Los rinocerontes
-llegan, hacen algo durante quince segundos y se van; con una V30 te comes
-**veinte segundos de cámara bloqueada** justo en medio. Con una V60, ocho.
+llegan, hacen algo durante quince segundos y se van; con una V30 son
+unos **ocho segundos de cámara bloqueada** justo en medio. Con una V60, cuatro o cinco.
 
 **Conclusión de compra**: **V60 UHS-II** para todo. Las V30 baratas que ya
 tengas, guárdalas como respaldo de emergencia — funcionan, simplemente te
 frenan.
 
-- **El kit de copias**: el **MacBook Neo** (250 GB de disco: no cabe el
+- **El kit de copias**: el **MacBook Neo** (256 GB de disco: no cabe el
   viaje entero dos veces), un **lector de tarjetas UHS-II USB-C** (25–40 €:
   uno UHS-I barato es 3–4 veces más lento y alarga el volcado de cada noche)
   y, **opcional y recomendado**, un **SSD portátil USB-C** — el de 500 GB que
@@ -248,7 +248,7 @@ frenan.
 
 ## Polvo en el sensor: comprobarlo y limpiarlo
 
-Las fotos de Namibia tienen **manchas grises en el cielo, siempre en el mismo sitio** (arriba a la izquierda): es polvo pegado al sensor. Se ve con el diafragma cerrado (f/8–f/11) sobre zonas lisas, y con el objetivo abierto casi desaparece. En la edición se quita foto a foto ([retoques, 4](../retoques/04-flujo-base.md#rescatar-un-jpeg-difícil)); lo que ahorra trabajo es limpiarlo **antes de salir**.
+Las fotos de Namibia tienen **una mancha gris en el cielo, siempre en el mismo sitio** (arriba, en el tercio izquierdo): es polvo pegado al sensor. Está medida en 99 de las 147 fotos con cielo liso, en seis días distintos. Se ve con el diafragma cerrado (f/8–f/11) sobre zonas lisas, y con el objetivo abierto casi desaparece. En la edición se quita foto a foto ([retoques, 4](../retoques/04-flujo-base.md#rescatar-un-jpeg-difícil)); lo que ahorra trabajo es limpiarlo **antes de salir**.
 
 **Comprobar (2 minutos):** modo A, **f/16**, ISO 100, enfoque manual desenfocado; fotografía un cielo despejado o una pared blanca moviendo un poco la cámara. Mira la foto al 100 %: cada punto oscuro y borroso es una mota.
 

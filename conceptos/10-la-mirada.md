@@ -6,7 +6,7 @@
 
 # 10. La mirada — cómo piensan los que hacen las fotos que te gustan
 
-> 🔴 **Avanzado** · Da por sabido: los capítulos 1 a 10 · Te desbloquea: decidir tú dónde ponerte y qué esperar, en vez de reaccionar a lo que aparezca.
+> 🔴 **Avanzado** · Da por sabido: los capítulos 1 a 10 de [manejo](../manejo-a6700/README.md) · Te desbloquea: decidir tú dónde ponerte y qué esperar, en vez de reaccionar a lo que aparezca.
 
 Los capítulos 1–10 hacen que la foto salga **bien**. Esta guía va de que salga
 **buena**, y no trata de ajustes: trata de dónde estar, a qué hora, qué
@@ -19,23 +19,23 @@ demás.
 > Los trece fotógrafos, uno a uno, con qué robarle a cada uno y enlaces a su
 > obra: [fotógrafos de referencia](https://github.com/morandeirachema/a6700-namibia/blob/main/mejora/fotografos-de-referencia.md).
 
-Investigamos a los grandes que han fotografiado Namibia — Frans Lanting,
-Marsel van Oosten, Nick Brandt, Peter Delaney — y todos convergen en lo
-mismo:
+Investigamos a grandes de la fauna africana — Frans Lanting, Marsel van
+Oosten y Peter Delaney en Namibia; Nick Brandt en África oriental — y todos
+convergen en lo mismo:
 
 1. **La foto se planifica antes de que ocurra.** Van Oosten: "la mayoría de
    mis fotos de Namibia las he previsualizado en casa". Tu versión: la
    [lista de tomas](https://github.com/morandeirachema/a6700-namibia/blob/main/plan/lista-de-tomas.md) repasada cada noche, y el
    plan de charcas de abajo decidido la víspera.
 2. **Volumen en el momento bueno.** Lanting disparó 321 tomas a los árboles
-   de Deadvlei. Cuando la luz se abra, no hagas 3 fotos y te vayas: trabaja
+   muertos de Sossusvlei y Deadvlei. Cuando la luz se abra, no hagas 3 fotos y te vayas: trabaja
    la escena en variaciones hasta que se cierre.
 3. **Retrato, no solo acción** (Brandt): espera el momento en que el animal
    se queda **quieto y solemne** — la mirada sostenida vale más que cien
    fotos bebiendo. Y dispara **a la altura de su ojo** o más bajo.
-4. **Paciencia como técnica**: los "elefantes fantasma" de Rimmer son
-   literalmente esperar el after del baño de barro aguantando el calor del
-   mediodía. La foto era estar allí.
+4. **Paciencia como técnica**: los "elefantes fantasma" de Christopher Rimmer
+   salieron de observar la manada dos semanas y esperar a que terminara su
+   baño de barro de la tarde. La foto era estar allí.
 
 ## Safari: el plan de charcas por luz y hora (Etosha)
 
@@ -66,7 +66,7 @@ La luz decide la charca. Con fuentes de fotógrafos que las trabajan:
 - **Rinoceronte negro**: Okaukuejo de noche, ventana 21:00–24:00, patrón
   fiable desde hace décadas y vigente en noviembre.
 - **Elefantes**: oleadas a media mañana y ~30 min antes del atardecer; tras
-  el baño de barro se rebozan en polvo de calcreta y salen **blancos**
+  el baño de barro, la arcilla blanca de la zona los deja **blancos**
   ("elefantes fantasma") — la foto es cuando abandonan la charca.
 - **Jirafa bebiendo**: abre las patas en compás — su momento más vulnerable
   y TU foto. Se lo piensa minutos: ten el encuadre listo antes.
@@ -97,7 +97,7 @@ La lista completa, especie por especie y con los ajustes de cada una:
    última salida 16:00–cierre. El *heat haze* castigará el tele a mediodía a
    más de ~30 m: acepta la foto ambiental o acércate.
 4. **El mediodía no se tira**: luz dura + calcreta blanca = **clave alta en
-   blanco y negro**. Receta Delaney: mide, compensa **+2/3 a +1** (el
+   blanco y negro**. Receta de clave alta (al estilo de Peter Delaney; los valores son de esta guía): mide, compensa **+2/3 a +1** (el
    medidor oscurece lo blanco), deja el fondo blanco puro y convierte en
    edición ([flujo B/N](../retoques/README.md)). El "defecto" del
    mediodía se vuelve estilo.
@@ -138,9 +138,10 @@ Sin esto, "practicar" es hacer más fotos iguales. El método es de una noche:
 4. **Las tres buenas, mírales el porqué**: ¿qué hiciste distinto? Luz
    lateral, esperaste el gesto, bajaste el punto de vista, limpiaste el
    fondo. Eso es lo que hay que repetir a propósito.
-5. **La pregunta de control**, la de van Oosten: ¿esta foto la habría hecho
-   igual cualquiera que pasara por aquí? Si la respuesta es sí, no es tuya
-   todavía.
+5. **La pregunta de control** (inspirada en van Oosten: "Anyone could have
+   made this shot, but very few people would have made that same decision"):
+   ¿qué decisión tomé yo que no habría tomado cualquiera? Si no hay ninguna,
+   la foto no es tuya todavía.
 
 ### Los cinco escalones (en este orden, no saltes)
 
@@ -152,7 +153,7 @@ Sin esto, "practicar" es hacer más fotos iguales. El método es de una noche:
 | **4 · Con luz** | Dejas de disparar a mediodía sin remordimiento y madrugas sin discutirlo | [Mejores horas](https://github.com/morandeirachema/a6700-namibia/blob/main/plan/mejores-horas.md) |
 | **5 · Con momento** | Esperas el gesto que sabes que va a llegar, con el encuadre ya montado | [La fauna, animal por animal](https://github.com/morandeirachema/a6700-namibia/blob/main/tecnica/fauna-de-namibia.md) |
 
-Un escalón por semana de las once previas al viaje es un ritmo realista:
+Los cinco escalones repartidos en las once semanas previas al viaje son un ritmo realista:
 está calendarizado en el [plan de entrenamiento](https://github.com/morandeirachema/a6700-namibia/blob/main/plan/plan-de-entrenamiento.md).
 
 ## Ejercicios (una tarde cada uno, en casa)

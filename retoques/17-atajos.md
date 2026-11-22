@@ -68,7 +68,7 @@ Un atajo como **`⇧⌘E`** se hace manteniendo Mayúsculas y Comando, y pulsand
 
 ## Si tu teclado es español
 
-Skylum documenta los atajos con el teclado de Estados Unidos. En un teclado de Mac en español (ISO), algunos de esos caracteres no tienen tecla propia y se escriben así:
+La tabla de Skylum usa caracteres que en el teclado de Estados Unidos tienen tecla propia. En un teclado de Mac en español (ISO), algunos de esos caracteres no tienen tecla propia y se escriben así:
 
 | Carácter | Para qué | En el teclado español de Mac |
 |---|---|---|
@@ -80,8 +80,8 @@ Skylum documenta los atajos con el teclado de Estados Unidos. En un teclado de M
 
 La documentación de Skylum no dice si Luminar reconoce estos atajos cuando el carácter necesita **`⌥`** o **`⇧`**. Pruébalos en tu Mac ([PENDIENTES](../PENDIENTES.md)). Si alguno no responde, tienes dos salidas:
 
-- **Usa el control en pantalla:** **Compare** para comparar, **Show** en las acciones de la máscara y los deslizadores **Size** y **Softness** del pincel hacen lo mismo que sus atajos. Para ver el original sin el atajo, usa el **icono Visibility**: muestra el antes y el después de una foto editada.
-- **Añade la distribución "ABC" (EE. UU.)** en Ajustes del Sistema → Teclado → Entrada de texto → Fuentes de entrada, y cambia a ella mientras editas (**`⌃`** + barra espaciadora, o la tecla 🌐). Con ella, las teclas están donde dice la tabla de Skylum: **`[`** y **`]`** a la derecha de la P, **`;`** y **`'`** a la derecha de la L, **`/`** junto al Mayúsculas derecho.
+- **Usa el control en pantalla:** **Show** en las acciones de la máscara y los deslizadores **Size** y **Softness** del pincel hacen lo mismo que sus atajos. Para ver el original sin el atajo, usa el **icono Visibility**, que muestra el antes y el después de una foto editada (si no lo ves, activa **View > Show Photo Actions Panel**). Para comparar, Skylum solo documenta el nombre del atajo.
+- **Añade la distribución "ABC" (EE. UU.)** en Ajustes del Sistema → Teclado → *Introducción de texto* → **Editar** → **+**, y cambia a ella mientras editas (**`⌃`** + barra espaciadora; o la tecla 🌐, si la tienes configurada para cambiar de fuente de entrada). Con ella, las teclas están donde dice la tabla de Skylum: **`[`** y **`]`** a la derecha de la P, **`;`** y **`'`** a la derecha de la L, **`/`** junto al Mayúsculas derecho.
 
 <!-- nav -->
 [← Anterior](16-errores-y-lista.md) · [Índice](README.md) · [Siguiente →](18-glosario.md)

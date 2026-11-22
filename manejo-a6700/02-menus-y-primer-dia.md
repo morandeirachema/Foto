@@ -95,7 +95,7 @@ qué vive en cada una ya no se busca a ciegas:
 | **Enfoque** | Todo el AF | AF-S/AF-C, área de enfoque, reconocimiento de sujeto, sensibilidad de seguimiento, `AF c/obturador` |
 | **Reproducción** | Revisar y borrar | Ampliación, proteger, borrar, valorar |
 | **Red** | Wifi, Bluetooth, transferencia | Emparejar con Creators' App |
-| **Ajustes** | La cámara como aparato | Idioma, `Área/fecha`, `Personal. operac.` (botones y menú Fn), `Rest/guard ajust`, brillo de pantalla, formateo de firmware |
+| **Ajustes** | La cámara como aparato | Idioma, `Área/fecha`, `Personal. operac.` (botones y menú Fn), `Rest/guard ajust`, brillo de pantalla, `Versión` (firmware) |
 | **Mi Menú** | **La tuya**: los ajustes que tú metas | Los tres mandos del AF, `Func. capt. interv.`, lo que uses a diario |
 
 Y cuatro cosas que ahorran mucha desesperación:
@@ -238,7 +238,7 @@ MENU → Toma → [Visualizac. toma] → [Vis. lín. cuadrícul.] → Activar
 MENU → Toma → [Visualizac. toma] → [Tipo lín. cuadríc.]
 ```
 
-Con la **regla de tres** dibujada encima, dos cosas dejan de fallar:
+Con la **regla de los tercios** (`Cuadr. regl. terc.`) dibujada encima, dos cosas dejan de fallar:
 
 - **El aire de la mirada**: ves de un vistazo si el animal está en un tercio
   o centrado como una foto de carnet ([atlas de encuadres](../conceptos/07-atlas-de-encuadres.md)).
@@ -270,7 +270,7 @@ Aquí está el gesto que este repo te pide una y otra vez ("verifica al
 100 % que el ojo salió nítido") y que casi nadie sabe hacer:
 
 1. Pulsa **▶**. Pasas de foto con la rueda de control o el dial.
-2. **Gira la rueda de control para ampliar** — y aquí está el truco: la
+2. **Pulsa AF-ON para ampliar** (la rueda de control cambia el aumento) — y aquí está el truco: la
    cámara **amplía directamente sobre el punto donde enfocó**, o sea,
    normalmente **sobre el ojo del animal**. No tienes que buscarlo.
 3. Muévete por la foto ampliada con las flechas de la rueda.

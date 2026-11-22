@@ -39,7 +39,7 @@ hacer() {
   case "$nombre" in
     chuleta) css+=(--css=pdf/compacto.css) ;;   # debe caber en una cara
   esac
-  # the sheet is printed without the chapter navigation
+  # la hoja se imprime sin la navegación del capítulo
   sed '/^<!-- nav -->$/,/^<!-- \/nav -->$/d' "$fuente" > "$tmp/$nombre.md"
   pandoc "$tmp/$nombre.md" --standalone --embed-resources \
          "${css[@]}" --metadata title="" \

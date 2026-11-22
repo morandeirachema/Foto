@@ -22,7 +22,7 @@
 | **Professional** | Supercontrast, Color Harmony, Dodge & Burn, Clone | Control fino de tono y color |
 | **Image Quality** | Noiseless AI, Supersharp AI | Ruido y desenfoque |
 
-**Pestaña Extra:** **HDR Merge**, **Panorama Stitching** y **Focus Stacking** (en *Merge Tools*), **Upscale** (en *Enhancement tools*) y las herramientas generativas **GenErase**, **GenSwap** y **GenExpand** (sección 12).
+**Pestaña Extra:** **HDR Merge**, **Panorama Stitching** y **Focus Stacking** (en *Merge Tools*), **Upscale** y **Restoration** (en *Enhancement*) y las herramientas generativas **GenErase**, **GenSwap** y **GenExpand** (sección 12).
 
 > **Versiones y licencias.** Algunas herramientas tienen una versión *Improved*, que requiere Luminar for Desktop 1.29.0 o posterior y una licencia que la incluya; otras dependen de la suscripción. Si no encuentras una herramienta, consulta la documentación oficial (sección 20).
 
@@ -30,7 +30,7 @@
 
 - Luminar **no modifica tus JPEG**: guarda los ajustes en su catálogo. Puedes volver a una foto meses después y cambiar cualquier ajuste.
 - **Copia virtual** (**`⌘'`**): crea otra versión de la misma foto sin duplicar el archivo. Úsala para probar el blanco y negro, otro recorte (horizontal y vertical) o una edición más atrevida.
-- **Compare** (**`;`**): muestra versiones lado a lado.
+- **Compare** (**`;`**): compara versiones (Skylum solo documenta el nombre del atajo; mira en tu versión cómo las muestra).
 - **`\`** (mantener pulsado): muestra el original mientras lo mantienes.
 - **Revert to Original** (**`⇧⌘R`**): descarta todos los ajustes.
 - **Copia de seguridad:** las ediciones viven en el catálogo de Luminar. Haz copia del catálogo además de tus fotos.

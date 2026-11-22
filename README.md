@@ -56,7 +56,7 @@ De los fundamentos al dominio, en cuatro partes. Vale para cualquier cámara.
 | | 🟢 | [**2 · La exposición**](conceptos/02-exposicion.md) 🆕 | Velocidad, apertura e ISO, el paso, la exposición equivalente y los modos |
 | | 🟢 | [**3 · El histograma por escenario**](conceptos/03-histograma.md) | Juzgar la exposición sin fiarte de la pantalla |
 | | 🔵 | [**4 · Balance de blancos**](conceptos/04-balance-de-blancos.md) | Valores de partida en Kelvin, y por qué el automático te roba los atardeceres |
-| **II · Óptica y composición** | 🟢 | [**5 · Óptica**](conceptos/05-optica.md) 🆕 | Focal, factor de recorte, perspectiva, profundidad de campo e hiperfocal |
+| **II · Óptica y composición** | 🟢 → 🔵 | [**5 · Óptica**](conceptos/05-optica.md) 🆕 | Focal, factor de recorte, perspectiva, profundidad de campo e hiperfocal |
 | | 🟢 | [**6 · Composición: lo básico**](conceptos/06-composicion.md) 🆕 | Sujeto, simplificar, tercios, horizonte, líneas, capas, espacio, punto de vista, bordes |
 | | 🔵 | [**7 · Atlas de encuadres**](conceptos/07-atlas-de-encuadres.md) | 14 encuadres de fauna y 6 de cielo, con su diagrama y **el error que lo mata** |
 | | 🔵 | [**8 · Cuaderno de composición**](conceptos/08-cuaderno-de-composicion.md) | 20 ejercicios en escalera ([PDF](pdf/cuaderno-de-composicion.pdf)) |
@@ -127,7 +127,7 @@ flowchart LR
 | **IV · Más allá de una foto** | [10. Recetas](retoques/10-recetas.md) ⚠️ *provisional* · [11. Trabajar en serie](retoques/11-trabajar-en-serie.md) · [12. HDR, panorámicas, Upscale](retoques/12-varias-fotos.md) · [13. Exportar](retoques/13-exportar.md) · [14. Ética y GPS](retoques/14-etica.md) · [15. Disparar mejores JPEG](retoques/15-disparar-mejores-jpeg.md) |
 | **V · Referencia** | [16. Errores y lista](retoques/16-errores-y-lista.md) · [17. Atajos](retoques/17-atajos.md) · [18. Glosario](retoques/18-glosario.md) · [19. Preguntas](retoques/19-preguntas-frecuentes.md) · [20. Fuentes](retoques/20-fuentes.md) |
 
-Índice detallado: [`retoques/README.md`](retoques/README.md) · Todo en un archivo: [`retoques/guia-completa.md`](retoques/guia-completa.md) · [PDF de 56 páginas](pdf/guia-retoques.pdf)
+Índice detallado: [`retoques/README.md`](retoques/README.md) · Todo en un archivo: [`retoques/guia-completa.md`](retoques/guia-completa.md) · [PDF](pdf/guia-retoques.pdf)
 
 **Los atajos de Luminar que más vas a usar:** **`J`** aviso de recorte · **`\`** ver el original · **`⌘1`** zoom 100 % · **`C`** recortar · **`W`** cuentagotas · **`A`** Mask AI · **`/`** ver la máscara · **`⌘I`** invertir la máscara · **`⇧⌘S`** sincronizar ajustes · **`⇧⌘E`** exportar.
 
@@ -140,7 +140,7 @@ flowchart LR
 | 📋 [Chuleta de la a6700](manejo-a6700/16-chuleta.md) | Todas las recetas de cámara en una cara | [chuleta.pdf](pdf/chuleta.pdf) |
 | ✅ [Verificación in situ](manejo-a6700/17-verificacion-in-situ.md) | Comprobaciones por momento del día | [verificacion-in-situ.pdf](pdf/verificacion-in-situ.pdf) |
 | ✏️ [Cuaderno de composición](conceptos/08-cuaderno-de-composicion.md) | 20 ejercicios para tachar | [cuaderno-de-composicion.pdf](pdf/cuaderno-de-composicion.pdf) |
-| 🧠 [Conceptos completo](conceptos/guia-completa.md) | Los 7 capítulos de conceptos | [guia-conceptos.pdf](pdf/guia-conceptos.pdf) |
+| 🧠 [Conceptos completo](conceptos/guia-completa.md) | Los 11 capítulos de conceptos | [guia-conceptos.pdf](pdf/guia-conceptos.pdf) |
 | 🎛️ [Manejo de la a6700 completo](manejo-a6700/guia-completa.md) | Los 17 capítulos de la cámara | [guia-manejo-a6700.pdf](pdf/guia-manejo-a6700.pdf) |
 | 🎨 [Retoques completo](retoques/guia-completa.md) | Los 20 capítulos de Luminar | [guia-retoques.pdf](pdf/guia-retoques.pdf) |
 

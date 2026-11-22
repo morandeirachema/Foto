@@ -33,7 +33,7 @@
 
 - **En orden, de la 1 a la 10:** cada capítulo se apoya en los anteriores. Las partes I y II son los fundamentos (🟢 y 🔵); la parte III, el dominio (🔴).
 - **Cada capítulo abre con su nivel:** 🟢 **Iniciación** (nunca has manejado una cámara en serio) · 🔵 **Básico** (las recetas) · 🔴 **Avanzado** (el porqué, y la foto que no es correcta sino buena). Debajo indica qué da por sabido y qué te desbloquea.
-- **Cada capítulo termina con un ejercicio** de una tarde o menos, con criterio de aprobado.
+- **Cada capítulo (salvo el glosario) termina con un ejercicio** de una tarde o menos, con criterio de aprobado.
 - **Los ejemplos son de un viaje real** (safari, paisaje y cielos nocturnos en Namibia), pero los conceptos valen en cualquier sitio.
 - **"Capítulo N"** en un capítulo de conceptos se refiere a [Manejo de la a6700](../manejo-a6700/00-introduccion.md), salvo que el enlace diga otra cosa.
 - **El orden de todo el repo**, combinando conceptos con la cámara y el retoque, está en la [ruta de aprendizaje](../RUTA.md), con una [autoevaluación](../AUTOEVALUACION.md) por etapa.
@@ -82,9 +82,9 @@ La cámara no sabe qué estás fotografiando. Mide cuánta luz llega y la ajusta
 **Experimento de 5 minutos** (es la mejor forma de entenderlo):
 1. Pon la cámara en **A** (prioridad a la apertura) con la compensación a **0**.
 2. Fotografía un **folio blanco** que llene todo el encuadre. Míralo: sale **gris**, no blanco.
-3. Repite con **+1** de compensación: ahora sí sale blanco.
+3. Repite con **+1** de compensación: sale más claro, pero aún gris claro. Con **+2** ya sale blanco.
 4. Fotografía una **tela o camiseta negra** que llene el encuadre, con compensación 0: también sale **gris**.
-5. Repite con **−1**: ahora sí sale negra.
+5. Repite con **−1**: mejora. Con **−2** ya sale negra.
 
 Después de verlo una vez, no se olvida: **la cámara lo pone todo gris; tú le devuelves el blanco (+) o el negro (−)**. Cómo se pone la compensación en la a6700, en el [capítulo 1 de manejo](../manejo-a6700/01-de-movil-a-la-a6700.md#medición-por-qué-la-cámara-se-equivoca-y-cómo-corregirla).
 
@@ -335,7 +335,7 @@ sombras. A partir de ahí, cada escenario tiene su forma "buena".
 - Error típico: subir la exposición "porque el histograma está muy a la
   izquierda" → el animal se quema. La masa izquierda **debe** estar ahí.
 - Vigila solo que la joroba del animal no toque el borde derecho (la piel
-  mojada bajo el foco quema rápido: −0.3/−0.7 si hace falta).
+  mojada bajo el foco quema rápido: −0,7/−1 si hace falta).
 
 ## Astrofotografía
 
@@ -433,7 +433,7 @@ sombras. A partir de ahí, cada escenario tiene su forma "buena".
 | Retrato de persona | La piel en el centro-derecha | **+0.7 / +1** |
 | Paisaje "de libro" | Usa todo el ancho | 0 |
 | Paisaje que no cabe | Empotrado en **ambos** bordes → horquilla | ±2 EV |
-| Charca de noche | Masa pegada a la izquierda + joroba pequeña | Ninguna: **no la toques** |
+| Charca de noche | Masa pegada a la izquierda + joroba pequeña | 0 de partida; **−0,7/−1** si el animal iluminado se quema |
 | Astro | Una montaña en el primer tercio, despegada | Subir ISO, no segundos |
 
 ## Cómo verlo en la a6700
@@ -479,8 +479,10 @@ práctica: **de día, un preajuste fijo; de noche, Kelvin a mano.**
 
 ## Cómo se cambia en la a6700
 
-- Botón **Fn → Balance de blancos**: elige preajuste (☀️ Luz de día,
-  ⛅ Nublado, 🏠 Sombra…) o **K** y ajusta ahí el número con la rueda.
+- Botón **Fn → Balance de blancos**: elige preajuste (☀️ `Luz diurna`, que esta guía llama "Luz de día",
+  ⛅ `Nublado`, 🏠 `Sombra`…) o `Tem.col./filtro` (K) y gira el dial trasero.
+  Los Kelvin que esta guía da para los preajustes son aproximados: Sony no
+  publica la cifra de cada uno.
 - Bonus del visor electrónico: **ves el color antes de disparar** — el valor
   de K se afina mirando el resultado en pantalla, no adivinando y revisando.
 
@@ -493,7 +495,7 @@ práctica: **de día, un preajuste fijo; de noche, Kelvin a mano.**
 | Animal en sombra (bajo un árbol, hide) | **Sombra (7000 K)** | La sombra abierta es muy azul |
 | **Amanecer y atardecer** | **Fijo en Luz de día (5200 K)** — nunca AWB | El AWB "corrige" el dorado y te roba justo lo que viniste a buscar; con 5200 K fijo, la luz cálida se queda en la foto |
 | Contraluz con polvo dorado | Luz de día (5200 K), o Nublado si lo quieres aún más cálido | Mismo motivo: conservar el oro |
-| Charca nocturna con focos | **K a mano: empieza en 3500** y ajusta por prueba entre **2800–4000** | Cada campamento tiene focos distintos (los de sodio piden ~2800–3200; ver la prueba de color del [capítulo 9](../manejo-a6700/09-safari-nocturno-charcas.md)) |
+| Charca nocturna con focos | **K a mano: empieza en 3500** y ajusta por prueba entre **2800–4000** | Cada campamento tiene focos distintos (los de sodio, de unos 2000–2700 K, seguirán naranjas incluso al mínimo: baja a 2800 y asume el tono, o pasa a blanco y negro; ver la prueba de color del [capítulo 9](../manejo-a6700/09-safari-nocturno-charcas.md)) |
 | Game drive con foco | **K ≈ 3200–3800** | Focos halógenos, cálidos |
 | Astro / Vía Láctea | **K = 3900** (rango útil 3800–4200) | Cielo neutro sin ponerse naranja ni azul eléctrico |
 | Hide de Olifantsrus (focos rojos) | Da igual el valor: la luz ES roja | No luches contra ella: asume la foto monocroma rojiza o pasa a B/N en edición |
@@ -1239,7 +1241,7 @@ práctica, en el [cuaderno de composición](08-cuaderno-de-composicion.md).
 - El porqué óptico (profundidad, compresión, aire): [por qué funciona](09-por-que-funciona.md)
 - Qué animal hace qué gesto: [la fauna, animal por animal](https://github.com/morandeirachema/a6700-namibia/blob/main/tecnica/fauna-de-namibia.md)
 - Qué hay en el cielo cada noche: [el cielo del viaje](https://github.com/morandeirachema/a6700-namibia/blob/main/plan/cielo-del-viaje.md)
-- Composición de paisaje nocturno (van Oosten, entrevista): <https://www.photocascadia.com/an-interview-with-marsel-van-oosten-from-adrian-klein/>
+- Entrevista a Marsel van Oosten (previsualización, Namibia, fotografía nocturna): <https://www.photocascadia.com/an-interview-with-marsel-van-oosten-from-adrian-klein/>
 
 ---
 
@@ -1309,7 +1311,7 @@ Encaja en las once semanas del [plan de entrenamiento](https://github.com/morand
 | 1–3 | **Ver** (1–5) | Las primeras tardes de deberes del capítulo 1 |
 | 4–7 | **Encuadrar** (6–12) | Las monográficas de [safari a fondo](https://github.com/morandeirachema/a6700-namibia/blob/main/mejora/safari-a-fondo.md) |
 | 8–9 | **Esperar** (13–16) | La tarde del gesto de la [fauna](https://github.com/morandeirachema/a6700-namibia/blob/main/tecnica/fauna-de-namibia.md) |
-| 9–10 | **Contar** (17–20) | El ensayo general de Cabárceno (el 20) y la criba de su vuelta (18 y 19) |
+| 10–11 | **Contar** (17–20) | El ensayo general de Cabárceno (el 20) y la criba de su vuelta (18 y 19) |
 
 ## Los tres que no se recortan
 
@@ -1334,7 +1336,7 @@ Si vas mal de tiempo, estos tres valen más que los otros diecisiete:
 
 # 9. Por qué funciona — el modelo que hay detrás de las recetas
 
-> 🔴 **Avanzado** · Da por sabido: los capítulos 1 a 10 y haber disparado unas cuantas tardes · Te desbloquea: inventar **tu** receta cuando la escena no está en ninguna tabla.
+> 🔴 **Avanzado** · Da por sabido: los capítulos 1 a 10 de [manejo](../manejo-a6700/README.md) y haber disparado unas cuantas tardes · Te desbloquea: inventar **tu** receta cuando la escena no está en ninguna tabla.
 
 Todo el repo hasta aquí te da recetas: números que funcionan, comprobados,
 para las situaciones que vas a encontrar. Funcionan porque debajo hay un
@@ -1343,8 +1345,8 @@ te salva es entender el modelo, no memorizar más tablas.
 
 **La regla de esta guía**: ningún concepto se queda en teoría. Cada uno
 termina en **la decisión** que te deja tomar, con los números de **tu**
-equipo: una a6700 de 26 Mpx (sensor APS-C de 23,3 × 15,5 mm), un 11 mm f/1.8
-y un 70-350 f/4.5-6.3.
+equipo: una a6700 de 26 Mpx (sensor APS-C de 23,3 × 15,5 mm), un 11 mm f/1.8,
+un Viltrox 25 mm f/1.7 y un 70-350 f/4.5-6.3.
 
 ---
 
@@ -1359,13 +1361,13 @@ que necesitas, y los tres controles la manejan con escalas distintas:
 | **Apertura** | Un número f **dividido entre √2** | f/2 → 2.8 → 4 → 5.6 → 8 → 11 (cada salto ahí es un paso; el f/1.8 del 11 mm es un tercio más que f/2) |
 | **ISO** | El doble de amplificación | 100 → 200 → 400 → 800 → 1600… |
 
-De ahí sale lo único que hay que interiorizar: **tres exposiciones que dejan
-entrar la misma luz** y dan tres fotos completamente distintas.
+De ahí sale lo único que hay que interiorizar: **tres ajustes que dan la misma
+claridad** con cantidades de luz distintas, y por eso tres fotos completamente distintas.
 
-| Ajustes | Misma luz, pero… |
+| Ajustes | Misma claridad, pero… |
 |---|---|
 | 1/2000 · f/6.3 · ISO 6400 | El animal congelado, ruido alto |
-| 1/500 · f/6.3 · ISO 1600 | Dos pasos menos de ruido, riesgo de movida |
+| 1/500 · f/6.3 · ISO 1600 | Dos pasos menos de ISO (cuatro veces más luz): bastante menos ruido, riesgo de movida |
 | 1/500 · f/3.2 · ISO 400 | Aún más limpia — pero tu tele no abre a f/3.2 |
 
 **La decisión**: cuando falte luz, decides **qué pagas**. Movimiento
@@ -1388,7 +1390,8 @@ niveles de tu archivo viven en el paso más luminoso; el siguiente paso tiene
 la mitad, el siguiente la mitad de eso… Traducción: **las sombras son pobres
 en datos y las altas luces son ricas**. Por eso una foto subexpuesta que
 levantas en revelado saca ruido y bandas, y una foto expuesta "hacia la
-derecha" (ETTR) tiene margen de sobra.
+derecha" (ETTR) tiene margen de sobra. El beneficio real es que entra más
+luz (menos ruido): si la compensación solo sube el ISO, no ganas calidad.
 
 Pero hay un límite duro: **lo quemado no vuelve**. No hay dato que
 recuperar donde el sensor saturó.
@@ -1503,7 +1506,8 @@ falta"**.
 
 Tu cámara tiene ISO base **100** (máxima calidad y rango dinámico) y, como
 casi todos los sensores modernos, un **segundo escalón de ganancia** en la
-parte baja-media del rango. Y algo más útil todavía: **a partir de ISO ~800
+parte baja-media del rango. Y algo más útil todavía: **a partir de ISO ~320–400
+(su segundo escalón de ganancia, según las mediciones de [Photons to Photos](https://www.photonstophotos.net/Charts/RN_e.htm))
 la a6700 es prácticamente ISO-invariante** — subir el ISO en cámara o
 levantar la exposición después en el revelado dan casi el mismo resultado.
 
@@ -1511,9 +1515,9 @@ levantar la exposición después en el revelado dan casi el mismo resultado.
 
 **Las decisiones**:
 
-- **Por debajo de ISO 800, expón bien en cámara.** Ahí la cámara **no** es
+- **Por debajo de ISO 400, expón bien en cámara.** Ahí la cámara **no** es
   invariante y subexponer "para levantarlo luego" te cuesta calidad real.
-- **Por encima de 800, protege las altas luces.** En la charca, si dudas
+- **Por encima de 400, protege las altas luces.** En la charca, si dudas
   entre quemar la orilla iluminada o dejar la foto un poco oscura: **déjala
   oscura y levántala en revelado**. Lo quemado no vuelve; el ruido que añades
   al levantar es pequeño y la reducción por IA se lo come.
@@ -1569,9 +1573,9 @@ que más vas a usar.
 - **Su apertura escalona**: f/4.5 (70–81 mm) · f/5 (82–113) · f/5.6 (114–199)
   · f/6.3 (200–350). Recoger el zoom por debajo de 200 mm **es luz gratis**, y
   por debajo de 114 mm, más todavía.
-- Como todo superzoom, **su punto más blando es 350 mm a f/6.3**. Cuando el
-  animal lo permita, encuadrar a ~300 mm y recortar los 26 Mpx en edición a
-  menudo da un resultado igual o mejor.
+- A **350 mm y f/6.3** rinde un poco por debajo del centro del rango, pero
+  sigue siendo excelente según la review de Dustin Abbott: no hace falta
+  evitarlo.
 - **0,23x de ampliación máxima** a 350 mm desde 1,5 m: da para texturas y
   flores grandes. No es macro, y no lo va a ser.
 
@@ -1594,7 +1598,7 @@ sin estabilizador propio y **sin interruptor AF/MF**.
 |---|---|---|
 | Falta luz | Solo hay tres monedas y todas cuestan algo | Con apoyo, paga con tiempo; a pulso, con ISO |
 | Fondo blanco o cielo | El medidor busca el gris medio | +0.7/+1 y vigila el Zebra 100+ |
-| Dudas si quemar o subexponer (ISO alto) | Por encima de 800 la cámara es casi invariante | Salva las altas luces, levanta después |
+| Dudas si quemar o subexponer (ISO alto) | Por encima de ~400 la cámara es casi invariante | Salva las altas luces, levanta después |
 | A 350 mm y el animal cerca | Menos de un metro de profundidad | El ojo, y verificación al 100 % |
 | Quieres todo nítido en paisaje | La difracción castiga a partir de f/11 | f/8 e hiperfocal; si no llega, aleja el primer plano |
 | Quieres el sujeto pequeño en un fondo enorme | La compresión es distancia, no focal | Aléjate y zoomea |
@@ -1630,7 +1634,7 @@ sin estabilizador propio y **sin interruptor AF/MF**.
 
 # 10. La mirada — cómo piensan los que hacen las fotos que te gustan
 
-> 🔴 **Avanzado** · Da por sabido: los capítulos 1 a 10 · Te desbloquea: decidir tú dónde ponerte y qué esperar, en vez de reaccionar a lo que aparezca.
+> 🔴 **Avanzado** · Da por sabido: los capítulos 1 a 10 de [manejo](../manejo-a6700/README.md) · Te desbloquea: decidir tú dónde ponerte y qué esperar, en vez de reaccionar a lo que aparezca.
 
 Los capítulos 1–10 hacen que la foto salga **bien**. Esta guía va de que salga
 **buena**, y no trata de ajustes: trata de dónde estar, a qué hora, qué
@@ -1643,23 +1647,23 @@ demás.
 > Los trece fotógrafos, uno a uno, con qué robarle a cada uno y enlaces a su
 > obra: [fotógrafos de referencia](https://github.com/morandeirachema/a6700-namibia/blob/main/mejora/fotografos-de-referencia.md).
 
-Investigamos a los grandes que han fotografiado Namibia — Frans Lanting,
-Marsel van Oosten, Nick Brandt, Peter Delaney — y todos convergen en lo
-mismo:
+Investigamos a grandes de la fauna africana — Frans Lanting, Marsel van
+Oosten y Peter Delaney en Namibia; Nick Brandt en África oriental — y todos
+convergen en lo mismo:
 
 1. **La foto se planifica antes de que ocurra.** Van Oosten: "la mayoría de
    mis fotos de Namibia las he previsualizado en casa". Tu versión: la
    [lista de tomas](https://github.com/morandeirachema/a6700-namibia/blob/main/plan/lista-de-tomas.md) repasada cada noche, y el
    plan de charcas de abajo decidido la víspera.
 2. **Volumen en el momento bueno.** Lanting disparó 321 tomas a los árboles
-   de Deadvlei. Cuando la luz se abra, no hagas 3 fotos y te vayas: trabaja
+   muertos de Sossusvlei y Deadvlei. Cuando la luz se abra, no hagas 3 fotos y te vayas: trabaja
    la escena en variaciones hasta que se cierre.
 3. **Retrato, no solo acción** (Brandt): espera el momento en que el animal
    se queda **quieto y solemne** — la mirada sostenida vale más que cien
    fotos bebiendo. Y dispara **a la altura de su ojo** o más bajo.
-4. **Paciencia como técnica**: los "elefantes fantasma" de Rimmer son
-   literalmente esperar el after del baño de barro aguantando el calor del
-   mediodía. La foto era estar allí.
+4. **Paciencia como técnica**: los "elefantes fantasma" de Christopher Rimmer
+   salieron de observar la manada dos semanas y esperar a que terminara su
+   baño de barro de la tarde. La foto era estar allí.
 
 ## Safari: el plan de charcas por luz y hora (Etosha)
 
@@ -1690,7 +1694,7 @@ La luz decide la charca. Con fuentes de fotógrafos que las trabajan:
 - **Rinoceronte negro**: Okaukuejo de noche, ventana 21:00–24:00, patrón
   fiable desde hace décadas y vigente en noviembre.
 - **Elefantes**: oleadas a media mañana y ~30 min antes del atardecer; tras
-  el baño de barro se rebozan en polvo de calcreta y salen **blancos**
+  el baño de barro, la arcilla blanca de la zona los deja **blancos**
   ("elefantes fantasma") — la foto es cuando abandonan la charca.
 - **Jirafa bebiendo**: abre las patas en compás — su momento más vulnerable
   y TU foto. Se lo piensa minutos: ten el encuadre listo antes.
@@ -1721,7 +1725,7 @@ La lista completa, especie por especie y con los ajustes de cada una:
    última salida 16:00–cierre. El *heat haze* castigará el tele a mediodía a
    más de ~30 m: acepta la foto ambiental o acércate.
 4. **El mediodía no se tira**: luz dura + calcreta blanca = **clave alta en
-   blanco y negro**. Receta Delaney: mide, compensa **+2/3 a +1** (el
+   blanco y negro**. Receta de clave alta (al estilo de Peter Delaney; los valores son de esta guía): mide, compensa **+2/3 a +1** (el
    medidor oscurece lo blanco), deja el fondo blanco puro y convierte en
    edición ([flujo B/N](../retoques/README.md)). El "defecto" del
    mediodía se vuelve estilo.
@@ -1762,9 +1766,10 @@ Sin esto, "practicar" es hacer más fotos iguales. El método es de una noche:
 4. **Las tres buenas, mírales el porqué**: ¿qué hiciste distinto? Luz
    lateral, esperaste el gesto, bajaste el punto de vista, limpiaste el
    fondo. Eso es lo que hay que repetir a propósito.
-5. **La pregunta de control**, la de van Oosten: ¿esta foto la habría hecho
-   igual cualquiera que pasara por aquí? Si la respuesta es sí, no es tuya
-   todavía.
+5. **La pregunta de control** (inspirada en van Oosten: "Anyone could have
+   made this shot, but very few people would have made that same decision"):
+   ¿qué decisión tomé yo que no habría tomado cualquiera? Si no hay ninguna,
+   la foto no es tuya todavía.
 
 ### Los cinco escalones (en este orden, no saltes)
 
@@ -1776,7 +1781,7 @@ Sin esto, "practicar" es hacer más fotos iguales. El método es de una noche:
 | **4 · Con luz** | Dejas de disparar a mediodía sin remordimiento y madrugas sin discutirlo | [Mejores horas](https://github.com/morandeirachema/a6700-namibia/blob/main/plan/mejores-horas.md) |
 | **5 · Con momento** | Esperas el gesto que sabes que va a llegar, con el encuadre ya montado | [La fauna, animal por animal](https://github.com/morandeirachema/a6700-namibia/blob/main/tecnica/fauna-de-namibia.md) |
 
-Un escalón por semana de las once previas al viaje es un ritmo realista:
+Los cinco escalones repartidos en las once semanas previas al viaje son un ritmo realista:
 está calendarizado en el [plan de entrenamiento](https://github.com/morandeirachema/a6700-namibia/blob/main/plan/plan-de-entrenamiento.md).
 
 ## Ejercicios (una tarde cada uno, en casa)
@@ -1824,7 +1829,7 @@ español e inglés, en el [capítulo 4](../manejo-a6700/04-configuracion-basica.
 | **Velocidad de obturación** | Cuánto tiempo entra la luz en el sensor (1/1000 s, 1/60 s, 20 s…). Rápida congela el movimiento; lenta deja entrar más luz pero mueve la foto ([capítulo 1](../manejo-a6700/01-de-movil-a-la-a6700.md)) |
 | **Paso** (*stop*) | El doble o la mitad de luz. La unidad de todo el sistema: un paso más de obturación, de apertura o de ISO son lo mismo en luz |
 | **EV** | *Exposure Value*. En la práctica, un sinónimo de "paso": "+1 EV" es "un paso más claro" |
-| **Exposición equivalente** | Combinaciones distintas de los tres números que dejan entrar la misma luz — y dan fotos distintas |
+| **Exposición equivalente** | Combinaciones distintas de los tres números que dan la misma claridad — y fotos distintas |
 | **Compensación de exposición** | Decirle a la cámara "más claro / más oscuro" que lo que ella cree. En la a6700 funciona **también en M con ISO Auto** (±5 EV) |
 | **Medición** | Cómo mide la cámara la luz: **Multi** (toda la escena; la *matricial* de otras marcas), **puntual** (solo un punto), **puntual vinculada** (ese punto es el de enfoque) |
 | **ETTR** (*expose to the right*) | Exponer lo más a la derecha posible del histograma sin quemar, porque el RAW guarda mucha más información en las altas luces |
@@ -1857,7 +1862,7 @@ español e inglés, en el [capítulo 4](../manejo-a6700/04-configuracion-basica.
 | **Equivalente** (factor 1,5) | Tu sensor es APS-C: multiplica por 1,5 para comparar con el móvil o con formato completo. 11 mm = 16,5 eq · 70-350 = 105–525 eq |
 | **Apertura** (número f) | El tamaño del agujero por el que entra la luz. Número **pequeño** = agujero grande = más luz |
 | **Apertura variable** | Los zoom baratos y ligeros pierden luz al alargarse: el 70-350 va de f/4.5 a f/6.3 según la focal |
-| **Profundidad de campo** | Cuánto sale nítido delante y detrás de donde enfocaste. Depende de distancia, focal y apertura — en ese orden |
+| **Profundidad de campo** | Cuánto sale nítido delante y detrás de donde enfocaste. Depende de la distancia, la focal y la apertura; a igual tamaño del sujeto en el encuadre, casi solo de la apertura |
 | **Hiperfocal** | La distancia a la que enfocar para que todo salga nítido desde su mitad hasta el infinito. Con el 11 mm a f/8: enfoca a 0,8 m |
 | **Círculo de confusión** | El tamaño a partir del cual un punto desenfocado "se nota". Es la letra pequeña de las cuentas de profundidad |
 | **Difracción** | El emborronado que aparece al cerrar mucho el diafragma. En tu cámara se nota desde f/11; f/16 es pérdida clara |
@@ -1885,12 +1890,12 @@ español e inglés, en el [capítulo 4](../manejo-a6700/04-configuracion-basica.
 | **Dirección de la luz** | De dónde llega respecto al sujeto: frontal (plana), lateral (volumen), rasante (textura), contraluz (siluetas), cenital (sombras bajo los ojos) ([la luz](01-la-luz.md)) |
 | **Sombra abierta** | Un sitio a la sombra que ve mucho cielo: luz suave en un día de sol, ideal para retratos |
 | **Balance de blancos (WB)** | Decirle a la cámara de qué color es la luz para que el blanco salga blanco |
-| **Kelvin (K)** | La escala de la temperatura de la luz: 3200 K naranja, 5500 K día, 7500 K sombra azulada. En este repo, **siempre fijo** — en K o en un preajuste (Luz de día, Nublado, Sombra) —; el automático, como mucho a mediodía ([balance de blancos](04-balance-de-blancos.md)) |
-| **Hora dorada / hora azul** | La hora de luz cálida y rasante tras el amanecer o antes del ocaso; y el rato azulado posterior al ocaso |
+| **Kelvin (K)** | La escala de la temperatura de la luz: 3200 K naranja, ~5200 K día, ~7000 K sombra azulada. En este repo, **siempre fijo** — en K o en un preajuste (Luz de día, Nublado, Sombra) —; el automático, como mucho a mediodía ([balance de blancos](04-balance-de-blancos.md)) |
+| **Hora dorada / hora azul** | La hora de luz cálida y rasante tras el amanecer o antes del ocaso; y el rato azulado anterior al amanecer y posterior al ocaso |
 | **Contraluz** | El sol detrás del sujeto: siluetas, bordes encendidos y polvo dorado |
 | **Clave alta** | Foto deliberadamente muy clara, casi sin sombras. La estrategia del mediodía en la calcreta blanca |
 | **ISO base** | El ISO de máxima calidad del sensor: **100** en la a6700 |
-| **ISO invariante** | Que dé casi igual subir el ISO en cámara o levantar la exposición en revelado. Tu cámara lo es a partir de ~800 |
+| **ISO invariante** | Que dé casi igual subir el ISO en cámara o levantar la exposición en revelado. Tu cámara lo es a partir de ~320–400, en RAW |
 | **Ruido de lectura** | El ruido que añade la propia electrónica al leer el sensor, independiente de la luz |
 | **RAW / ARW** | El archivo con todos los datos del sensor, sin decisiones tomadas. `.ARW` es el RAW de Sony |
 | **sRGB / Adobe RGB** | Espacios de color. Revela en Adobe RGB, **exporta a sRGB** para pantallas ajenas |

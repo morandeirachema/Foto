@@ -37,15 +37,15 @@ Hazlo en casa, con todo cargado, y no vuelvas a pensar en ello.
 
 | Ajuste | Valor | Motivo |
 |---|---|---|
-| `Formato archivo` (en `Calid. img/grab.`) | RAW, con `Tipo archivo RAW` comprimido sin pérdida | Máxima latitud de edición |
+| `Formato archivo` (en `Calid. img/grab.`) | RAW, con `Tipo archivo RAW` en `C. sin pérd.` (comprimido sin pérdida) | Máxima latitud de edición |
 | `Visualizac. cebra` | **Activar, nivel `100 IRE o +`** | Rayado en vivo sobre lo que va a salir quemado — tu aviso de altas luces *antes* de disparar |
 | `RR exposic. larga` | Desactivar | Duplica el tiempo entre fotos de astro |
-| `RR ISO Alta` | Desactivar/Baja | Solo afecta al JPEG; en RAW lo harás mejor en el ordenador |
+| `RR ISO Alta` | Desactivar/Bajo | Reduce el ruido en la cámara (Sony no documenta si afecta al RAW); con RAW lo harás mejor en el ordenador |
 | Señales de audio | OFF | Silencio en charcas y miradores |
 | `Liberar sin tarj. mem.` | **Inhabilitar** | De fábrica la cámara dispara sin tarjeta y no guarda nada |
 | `Iluminador AF` | **Desactivar** | Su luz naranja espanta a los animales de la charca |
 | DRO (optimizador de rango dinámico) | OFF | No toca el RAW, pero maquilla el JPEG y el histograma — engaña justo a lo que usas para exponer |
-| `SteadyShot` | **Activar** | Los Sony informan de su focal a la cámara; el Viltrox también es un objetivo con contactos (comprueba una vez que la información de una foto dice 25 mm) (`Ajuste SteadyShot` en Auto). En trípode, **Desactivar** |
+| `SteadyShot` | **Activar** | Los Sony informan de su focal a la cámara; el Viltrox también es un objetivo con contactos (comprueba una vez que la información de una foto dice 25 mm) (`Adaptac. SteadyS.` en `Automático`). En trípode, **Desactivar** |
 | Efecto de ajustes en visor/pantalla | ON | Ver la exposición real antes de disparar |
 
 > ⚠️ **Lección de Namibia: las fotos del viaje salieron solo en JPEG** por un
@@ -122,7 +122,7 @@ Configura la cámara como quieras que quede y guárdala con
 
 - **MR1 — Safari diurno**: M, 1/1000 s, apertura mínima del zoom,
   ISO Auto (100–12800), AF-C, reconocimiento de sujeto **Animal**, área
-  Zona, ráfaga Hi+ (11 fps), RAW, balance de blancos **Luz de día**
+  Zona, ráfaga Hi+ (11 fps), RAW, balance de blancos **`Luz diurna`**
   (compruébalo antes de guardar: si se queda el Kelvin de la noche, todo
   el safari sale azulado; y a la sombra o con el sol ya puesto, cámbialo
   a Sombra o Nublado — [balance de blancos](../conceptos/04-balance-de-blancos.md)).
@@ -166,7 +166,7 @@ está en la [guía de logística](https://github.com/morandeirachema/a6700-namib
 | Selector NTSC/PAL | NTSC/PAL Selector |
 | Perfil de imagen | Picture Profile |
 | Retención de enfoque | Focus Hold |
-| Ajuste SteadyShot | SteadyShot Adjust |
+| Adaptac. SteadyS. | SteadyShot Adjust. |
 | Nivel | Level |
 | Verificac. luminosa | Bright Monitoring |
 | AF c/obturador | AF w/ shutter |
@@ -202,7 +202,7 @@ larga de esto.)
 | No encuentro un ajuste en los menús | Botón **Fn**: casi todo lo del día a día está en esa pantalla, editable |
 | Cambié algo en MR1/MR2 y al volver ha desaparecido | Es su diseño: las memorias recuperan lo GUARDADO. Para hacer fijo un cambio, vuelve a guardar (`Mem. ajustes cám`) |
 | AF-ON no enfoca tras configurar el pulgar | Revisa los dos pasos: `AF c/obturador` = Desactivar y la asignación de AF-ON sin tocar |
-| El estabilizador "flota" o emborrona | SteadyShot ON sobre trípode: apágalo (en el cuerpo y, con el tele, también su interruptor OSS) |
+| El estabilizador "flota" o emborrona | SteadyShot ON sobre trípode: apágalo (en el menú con el 11 mm y el Viltrox; con el 70-350 manda solo el interruptor OSS del objetivo) |
 | Un objetivo "no enfoca" de repente | Su interruptor **AF/MF** se movió en la mochila: los dos lo llevan en el barrilete |
 | El visor no se enciende al acercar el ojo | La pantalla está desplegada hacia ti o el selector visor/pantalla está en manual: pliégala o ponlo en Auto |
 | El menú está en inglés y me pierdo | La tabla de traducción de arriba; o `Menu → Language → Español` |

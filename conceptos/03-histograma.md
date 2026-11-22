@@ -62,7 +62,7 @@ sombras. A partir de ahí, cada escenario tiene su forma "buena".
 - Error típico: subir la exposición "porque el histograma está muy a la
   izquierda" → el animal se quema. La masa izquierda **debe** estar ahí.
 - Vigila solo que la joroba del animal no toque el borde derecho (la piel
-  mojada bajo el foco quema rápido: −0.3/−0.7 si hace falta).
+  mojada bajo el foco quema rápido: −0,7/−1 si hace falta).
 
 ## Astrofotografía
 
@@ -160,7 +160,7 @@ sombras. A partir de ahí, cada escenario tiene su forma "buena".
 | Retrato de persona | La piel en el centro-derecha | **+0.7 / +1** |
 | Paisaje "de libro" | Usa todo el ancho | 0 |
 | Paisaje que no cabe | Empotrado en **ambos** bordes → horquilla | ±2 EV |
-| Charca de noche | Masa pegada a la izquierda + joroba pequeña | Ninguna: **no la toques** |
+| Charca de noche | Masa pegada a la izquierda + joroba pequeña | 0 de partida; **−0,7/−1** si el animal iluminado se quema |
 | Astro | Una montaña en el primer tercio, despegada | Subir ISO, no segundos |
 
 ## Cómo verlo en la a6700

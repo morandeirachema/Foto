@@ -91,7 +91,7 @@ La regla directa: **¿el sujeto sale quemado (demasiado blanco)? → −. ¿Sale
 **M1. Un folio blanco llena todo el encuadre. Con la compensación en 0 sale gris. ¿Qué haces para que salga blanco?**
 <details><summary>Respuesta</summary>
 
-**+1.** La cámara lo ha puesto gris; tú le devuelves el blanco sumando.
+**Sumar: +1 para empezar y hasta +2** para que sea blanco de verdad. La cámara lo ha puesto gris; tú le devuelves el blanco sumando.
 → [Conceptos 1 · El gris medio](conceptos/01-la-luz.md#por-qué-la-cámara-se-equivoca-el-gris-medio)
 </details>
 
@@ -203,7 +203,7 @@ Porque la máscara limita **ese** ajuste: toda tu corrección global pasaría a 
 <details><summary>Respuesta</summary>
 
 **No es el enfoque**: es que la exposición fue demasiado larga y la Tierra giró. Baja el tiempo (20 → 15 → 13 s) y, si queda oscura, sube el ISO.
-→ [Manejo 7 · Estrellas con la tierra dentro](manejo-a6700/07-estrellas-con-tierra.md)
+→ [Manejo 6 · Astrofotografía](manejo-a6700/06-astrofotografia-namibia.md) · [Manejo 7 · Estrellas con la tierra dentro](manejo-a6700/07-estrellas-con-tierra.md)
 </details>
 
 **7. ¿Qué guarda tu memoria MR2 y para qué?**
@@ -294,7 +294,7 @@ Con pruebas que no dependen del ojo cansado: **antes y después** (**`\`**), **d
 → [Retoques 16.3](retoques/16-errores-y-lista.md#163-me-he-pasado-la-prueba-de-dos-minutos)
 </details>
 
-**L9. En varias fotos de día aparecen manchas grises en el cielo, siempre en el mismo sitio. ¿Qué son y qué haces?**
+**L9. En varias fotos de día aparece una mancha gris en el cielo, siempre en el mismo sitio. ¿Qué es y qué haces?**
 <details><summary>Respuesta</summary>
 
 **Polvo en el sensor.** En Luminar: **Remove Dust Spots** y Erase en las que queden, **foto a foto** (Erase no se sincroniza), y vuelve a mirar el cielo después de Dehaze. En la cámara: limpia el sensor antes de la próxima salida.
@@ -304,7 +304,7 @@ Con pruebas que no dependen del ojo cansado: **antes y después** (**`\`**), **d
 **L10. Un elefante de noche bajo el foco de la charca sale todo naranja, a ISO 12800. ¿Puedes dejarlo con colores neutros?**
 <details><summary>Respuesta</summary>
 
-**No:** bajo esa luz casi toda la información está en el canal rojo, y un JPEG no guarda más. Tres salidas: corregir **solo a medias** con Temperature, **bajar la saturación del naranja** en HSL o pasarla a **blanco y negro**. El fondo se queda negro y la foto se comparte a tamaño pequeño.
+**No:** bajo esa luz casi toda la información está en el canal rojo y el azul está vacío: un JPEG no guarda más. Tres salidas: corregir **solo a medias** con Temperature, **bajar la saturación del naranja** en HSL o pasarla a **blanco y negro**. El fondo se queda negro y la foto se comparte a tamaño pequeño.
 → [Retoques 9.3 · Charca con focos](retoques/09-noche.md#animales-en-una-charca-iluminada-con-focos)
 </details>
 
@@ -329,7 +329,7 @@ Por la **difracción**: con el diafragma muy cerrado, la luz se abre al pasar po
 **2. Con la a6700, ¿da igual subir el ISO en la cámara o aclarar la foto después?**
 <details><summary>Respuesta</summary>
 
-**Depende del formato.** En **RAW**, a partir de **ISO ~800** la a6700 es **prácticamente ISO-invariante**: el ruido final es casi el mismo, y lo importante es **no quemar las luces**. En **JPEG, no**: el archivo ya está procesado y guarda 8 bits, así que aclarar después saca ruido y bandas. **Con JPEG, expón bien en la cámara** subiendo el ISO, y solo deja la foto algo oscura para no quemar las luces.
+**Depende del formato.** En **RAW**, a partir de **ISO ~320–400** la a6700 es **prácticamente ISO-invariante**: el ruido final es casi el mismo, y lo importante es **no quemar las luces**. En **JPEG, no**: el archivo ya está procesado y guarda 8 bits, así que aclarar después saca ruido y bandas. **Con JPEG, expón bien en la cámara** subiendo el ISO, y solo deja la foto algo oscura para no quemar las luces.
 → [Conceptos 9 · §6 Ruido e ISO](conceptos/09-por-que-funciona.md#6--ruido-iso-y-el-punto-en-que-deja-de-importar)
 </details>
 

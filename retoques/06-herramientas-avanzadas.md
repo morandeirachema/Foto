@@ -13,7 +13,7 @@ No son imprescindibles, pero dan un control que las herramientas básicas no tie
 - **Eje horizontal:** el brillo **original**, de oscuro (izquierda) a claro (derecha).
 - **Eje vertical:** el brillo **resultante**.
 - **Línea recta en diagonal:** la foto sin cambios.
-- **Subir** un punto aclara esa zona; **bajarlo** la oscurece. Luminar admite hasta **10 puntos**.
+- **Mueve** un punto y mira la foto. Lo habitual en una curva es que subir aclare y bajar oscurezca, pero la documentación de Skylum lo describe al revés ("drag down to lighten"): compruébalo en tu versión ([PENDIENTES](../PENDIENTES.md)). Luminar admite hasta **10 puntos**.
 - Selector de curva: **White** (brillo general), **Red**, **Green** y **Blue**.
 
 **Las cuatro curvas más útiles:**

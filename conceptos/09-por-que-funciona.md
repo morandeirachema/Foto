@@ -6,7 +6,7 @@
 
 # 9. Por qué funciona — el modelo que hay detrás de las recetas
 
-> 🔴 **Avanzado** · Da por sabido: los capítulos 1 a 10 y haber disparado unas cuantas tardes · Te desbloquea: inventar **tu** receta cuando la escena no está en ninguna tabla.
+> 🔴 **Avanzado** · Da por sabido: los capítulos 1 a 10 de [manejo](../manejo-a6700/README.md) y haber disparado unas cuantas tardes · Te desbloquea: inventar **tu** receta cuando la escena no está en ninguna tabla.
 
 Todo el repo hasta aquí te da recetas: números que funcionan, comprobados,
 para las situaciones que vas a encontrar. Funcionan porque debajo hay un
@@ -15,8 +15,8 @@ te salva es entender el modelo, no memorizar más tablas.
 
 **La regla de esta guía**: ningún concepto se queda en teoría. Cada uno
 termina en **la decisión** que te deja tomar, con los números de **tu**
-equipo: una a6700 de 26 Mpx (sensor APS-C de 23,3 × 15,5 mm), un 11 mm f/1.8
-y un 70-350 f/4.5-6.3.
+equipo: una a6700 de 26 Mpx (sensor APS-C de 23,3 × 15,5 mm), un 11 mm f/1.8,
+un Viltrox 25 mm f/1.7 y un 70-350 f/4.5-6.3.
 
 ---
 
@@ -31,13 +31,13 @@ que necesitas, y los tres controles la manejan con escalas distintas:
 | **Apertura** | Un número f **dividido entre √2** | f/2 → 2.8 → 4 → 5.6 → 8 → 11 (cada salto ahí es un paso; el f/1.8 del 11 mm es un tercio más que f/2) |
 | **ISO** | El doble de amplificación | 100 → 200 → 400 → 800 → 1600… |
 
-De ahí sale lo único que hay que interiorizar: **tres exposiciones que dejan
-entrar la misma luz** y dan tres fotos completamente distintas.
+De ahí sale lo único que hay que interiorizar: **tres ajustes que dan la misma
+claridad** con cantidades de luz distintas, y por eso tres fotos completamente distintas.
 
-| Ajustes | Misma luz, pero… |
+| Ajustes | Misma claridad, pero… |
 |---|---|
 | 1/2000 · f/6.3 · ISO 6400 | El animal congelado, ruido alto |
-| 1/500 · f/6.3 · ISO 1600 | Dos pasos menos de ruido, riesgo de movida |
+| 1/500 · f/6.3 · ISO 1600 | Dos pasos menos de ISO (cuatro veces más luz): bastante menos ruido, riesgo de movida |
 | 1/500 · f/3.2 · ISO 400 | Aún más limpia — pero tu tele no abre a f/3.2 |
 
 **La decisión**: cuando falte luz, decides **qué pagas**. Movimiento
@@ -60,7 +60,8 @@ niveles de tu archivo viven en el paso más luminoso; el siguiente paso tiene
 la mitad, el siguiente la mitad de eso… Traducción: **las sombras son pobres
 en datos y las altas luces son ricas**. Por eso una foto subexpuesta que
 levantas en revelado saca ruido y bandas, y una foto expuesta "hacia la
-derecha" (ETTR) tiene margen de sobra.
+derecha" (ETTR) tiene margen de sobra. El beneficio real es que entra más
+luz (menos ruido): si la compensación solo sube el ISO, no ganas calidad.
 
 Pero hay un límite duro: **lo quemado no vuelve**. No hay dato que
 recuperar donde el sensor saturó.
@@ -175,7 +176,8 @@ falta"**.
 
 Tu cámara tiene ISO base **100** (máxima calidad y rango dinámico) y, como
 casi todos los sensores modernos, un **segundo escalón de ganancia** en la
-parte baja-media del rango. Y algo más útil todavía: **a partir de ISO ~800
+parte baja-media del rango. Y algo más útil todavía: **a partir de ISO ~320–400
+(su segundo escalón de ganancia, según las mediciones de [Photons to Photos](https://www.photonstophotos.net/Charts/RN_e.htm))
 la a6700 es prácticamente ISO-invariante** — subir el ISO en cámara o
 levantar la exposición después en el revelado dan casi el mismo resultado.
 
@@ -183,9 +185,9 @@ levantar la exposición después en el revelado dan casi el mismo resultado.
 
 **Las decisiones**:
 
-- **Por debajo de ISO 800, expón bien en cámara.** Ahí la cámara **no** es
+- **Por debajo de ISO 400, expón bien en cámara.** Ahí la cámara **no** es
   invariante y subexponer "para levantarlo luego" te cuesta calidad real.
-- **Por encima de 800, protege las altas luces.** En la charca, si dudas
+- **Por encima de 400, protege las altas luces.** En la charca, si dudas
   entre quemar la orilla iluminada o dejar la foto un poco oscura: **déjala
   oscura y levántala en revelado**. Lo quemado no vuelve; el ruido que añades
   al levantar es pequeño y la reducción por IA se lo come.
@@ -241,9 +243,9 @@ que más vas a usar.
 - **Su apertura escalona**: f/4.5 (70–81 mm) · f/5 (82–113) · f/5.6 (114–199)
   · f/6.3 (200–350). Recoger el zoom por debajo de 200 mm **es luz gratis**, y
   por debajo de 114 mm, más todavía.
-- Como todo superzoom, **su punto más blando es 350 mm a f/6.3**. Cuando el
-  animal lo permita, encuadrar a ~300 mm y recortar los 26 Mpx en edición a
-  menudo da un resultado igual o mejor.
+- A **350 mm y f/6.3** rinde un poco por debajo del centro del rango, pero
+  sigue siendo excelente según la review de Dustin Abbott: no hace falta
+  evitarlo.
 - **0,23x de ampliación máxima** a 350 mm desde 1,5 m: da para texturas y
   flores grandes. No es macro, y no lo va a ser.
 
@@ -266,7 +268,7 @@ sin estabilizador propio y **sin interruptor AF/MF**.
 |---|---|---|
 | Falta luz | Solo hay tres monedas y todas cuestan algo | Con apoyo, paga con tiempo; a pulso, con ISO |
 | Fondo blanco o cielo | El medidor busca el gris medio | +0.7/+1 y vigila el Zebra 100+ |
-| Dudas si quemar o subexponer (ISO alto) | Por encima de 800 la cámara es casi invariante | Salva las altas luces, levanta después |
+| Dudas si quemar o subexponer (ISO alto) | Por encima de ~400 la cámara es casi invariante | Salva las altas luces, levanta después |
 | A 350 mm y el animal cerca | Menos de un metro de profundidad | El ojo, y verificación al 100 % |
 | Quieres todo nítido en paisaje | La difracción castiga a partir de f/11 | f/8 e hiperfocal; si no llega, aleja el primer plano |
 | Quieres el sujeto pequeño en un fondo enorme | La compresión es distancia, no focal | Aléjate y zoomea |

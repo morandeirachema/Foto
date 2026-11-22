@@ -68,7 +68,7 @@ Encaja en las once semanas del [plan de entrenamiento](https://github.com/morand
 | 1–3 | **Ver** (1–5) | Las primeras tardes de deberes del capítulo 1 |
 | 4–7 | **Encuadrar** (6–12) | Las monográficas de [safari a fondo](https://github.com/morandeirachema/a6700-namibia/blob/main/mejora/safari-a-fondo.md) |
 | 8–9 | **Esperar** (13–16) | La tarde del gesto de la [fauna](https://github.com/morandeirachema/a6700-namibia/blob/main/tecnica/fauna-de-namibia.md) |
-| 9–10 | **Contar** (17–20) | El ensayo general de Cabárceno (el 20) y la criba de su vuelta (18 y 19) |
+| 10–11 | **Contar** (17–20) | El ensayo general de Cabárceno (el 20) y la criba de su vuelta (18 y 19) |
 
 ## Los tres que no se recortan
 
