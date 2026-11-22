@@ -246,7 +246,24 @@ frenan.
   con la luna nueva, las Nubes de Magallanes y los cúmulos australes con
   unos 8x42 son un espectáculo por sí solos.
 
+## Polvo en el sensor: comprobarlo y limpiarlo
+
+Las fotos de Namibia tienen **manchas grises en el cielo, siempre en el mismo sitio** (arriba a la izquierda): es polvo pegado al sensor. Se ve con el diafragma cerrado (f/8–f/11) sobre zonas lisas, y con el objetivo abierto casi desaparece. En la edición se quita foto a foto ([retoques, 4](../retoques/04-flujo-base.md#rescatar-un-jpeg-difícil)); lo que ahorra trabajo es limpiarlo **antes de salir**.
+
+**Comprobar (2 minutos):** modo A, **f/16**, ISO 100, enfoque manual desenfocado; fotografía un cielo despejado o una pared blanca moviendo un poco la cámara. Mira la foto al 100 %: cada punto oscuro y borroso es una mota.
+
+**Limpiar, según la Guía de ayuda de Sony:**
+1. Batería al **51 % o más**.
+2. `MENU → Ajustes → [Opción ajustes] → [Limpieza del sensor] → [Intro]`: el sensor vibra para sacudir el polvo (hace ruido; es normal).
+3. Si siguen las manchas: quita el objetivo y, con la cámara **mirando un poco hacia abajo**, sopla con una **pera** (unos 10 €) el sensor y su alrededor. Sin meter la punta más allá de la montura, sin soplar fuerte y **nunca con aire comprimido en espray**.
+4. Apaga, monta el objetivo y repite la comprobación.
+5. Si sigue habiendo polvo, no frotes: servicio técnico o una tienda que limpie sensores.
+
+**Para que entre menos:** cambia de objetivo con la cámara apagada, mirando hacia abajo, a resguardo del viento y nunca con las ventanillas abiertas en una pista ([safari de día](08-safari-diurno.md)).
+
 ## Referencias
+
+- Limpieza del sensor, Guía de ayuda de la a6700: <https://helpguide.sony.net/ilc/2320/v1/es/contents/0601_cleaning_mode.html>
 
 - Búfer y tiempos de vaciado medidos con tarjetas UHS-I y UHS-II (Alpha Shooters): <https://www.alphashooters.com/cameras/sony-a6700/memory-cards/>
 

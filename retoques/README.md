@@ -43,6 +43,7 @@ flowchart LR
 | Tienes dunas, montaña o un atardecer | [8. Paisaje](08-paisaje.md) |
 | Tienes estrellas, luna o fuego | [9. Noche](09-noche.md) |
 | Acabas de volver del viaje | [11.4. De la tarjeta a la selección](11-trabajar-en-serie.md#114-tus-fotos-del-viaje-de-la-tarjeta-a-la-selección) |
+| No sabes si **te has pasado** editando | [16.3. ¿Me he pasado? La prueba de dos minutos](16-errores-y-lista.md#163-me-he-pasado-la-prueba-de-dos-minutos) |
 | Una foto oscura, quemada, movida o con mucho ruido | [Rescatar un JPEG difícil](04-flujo-base.md#rescatar-un-jpeg-difícil) |
 | Vas a compartir con la familia o imprimir | [13.5. Compartir e imprimir](13-exportar.md#135-tus-fotos-compartir-con-la-familia-e-imprimir) |
 | Vas a imprimir una foto | [13.6. Consejos para imprimir](13-exportar.md#136-consejos-para-las-fotos-que-vas-a-imprimir) |
@@ -69,7 +70,7 @@ flowchart LR
 | | [13. Exportar](13-exportar.md) | Formatos, tamaños por uso, impresión |
 | | [14. Ética y ubicación](14-etica.md) | Qué es manipular, concursos, GPS y fauna amenazada |
 | | [15. Disparar mejores JPEG](15-disparar-mejores-jpeg.md) | Ajustes de cámara para la próxima vez (y que sea RAW) |
-| **V · Referencia** | [16. Errores y lista](16-errores-y-lista.md) | Errores típicos y lista de comprobación imprimible |
+| **V · Referencia** | [16. Errores y lista](16-errores-y-lista.md) | Errores típicos, lista de comprobación imprimible y la prueba "¿me he pasado?" |
 | | [17. Atajos de teclado](17-atajos.md) | Atajos de macOS verificados |
 | | [18. Glosario](18-glosario.md) | Términos básicos |
 | | [19. Preguntas frecuentes](19-preguntas-frecuentes.md) | Dudas habituales |

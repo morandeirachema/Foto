@@ -37,7 +37,7 @@
 - Quita del borde lo que distraiga (un trozo de vehículo, una rama cortada).
 - **No cortes por las articulaciones:** evita cortar justo por las rodillas, las patas o la punta de la cola.
 - **Orejas y cuernos dentro:** un cuerno cortado por el borde molesta más que un poco de espacio sobrante.
-- Si recortas mucho, piensa en **Upscale** al final (sección 12.4).
+- Si recortas mucho y vas a imprimir, piensa en **Upscale** casi al final: ruido antes, enfoque suave después (sección 12.4).
 - El ojo del animal es el centro de interés: construye el encuadre a partir de él.
 
 **4. Luz: expón para el animal**
@@ -86,7 +86,7 @@
 
 **9. Acabado**
 - **Vignette** −10 a −15 si el fondo es claro en los bordes; **Choose Subject** para centrarlo en el animal.
-- **Upscale** solo si has recortado mucho, y siempre al final.
+- **Upscale** solo si has recortado mucho, casi al final: ruido antes, enfoque suave después.
 
 ## 7.3. Casos concretos
 

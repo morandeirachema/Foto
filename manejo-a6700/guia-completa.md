@@ -1103,7 +1103,10 @@ Configura la cámara como quieras que quede y guárdala con
 
 - **MR1 — Safari diurno**: M, 1/1000 s, apertura mínima del zoom,
   ISO Auto (100–12800), AF-C, reconocimiento de sujeto **Animal**, área
-  Zona, ráfaga Hi+ (11 fps), RAW.
+  Zona, ráfaga Hi+ (11 fps), RAW, balance de blancos **Luz de día**
+  (compruébalo antes de guardar: si se queda el Kelvin de la noche, todo
+  el safari sale azulado; y a la sombra o con el sol ya puesto, cámbialo
+  a Sombra o Nublado — [balance de blancos](../conceptos/04-balance-de-blancos.md)).
 - **MR2 — Astro**: M, 20 s, **f/1.8**, ISO 1600, balance de blancos K 3900,
   enfoque manual, temporizador 2 s, SteadyShot OFF, RAW. Con el 11 mm la
   apertura sí se guarda en la memoria (es un objetivo con contactos): al
@@ -1338,7 +1341,7 @@ visible gran parte de la noche.
 | Modo | M (o directamente **MR2**, [capítulo 4](04-configuracion-basica.md)) |
 | Apertura | **f/1.8** — la máxima del 11 mm, y se pone con la rueda de la cámara como en cualquier objetivo (si las estrellas de las esquinas salen con "alitas", cierra a f/2.8) |
 | Obturación | 20 s con el 11 mm (16,5 mm eq) |
-| ISO | 1600; sube a 3200 si queda oscura |
+| ISO | 1600; sube a 3200 si queda oscura (mira el histograma: la montaña no debe estar pegada al borde izquierdo) |
 | Balance de blancos | 3900 K (elige el modo **K** dentro del menú de balance de blancos y ajusta ahí el número) |
 | Formato | RAW |
 | Enfoque | Manual: interruptor **AF/MF del objetivo en MF** (el AF no engancha estrellas en serio) |
@@ -1449,8 +1452,8 @@ para un novato: círculos de estrellas girando sobre el paisaje.
    tomas 90–180.
 4. **90–180 tomas** (45–90 minutos; cuanto más tiempo, más largos los arcos).
    Batería llena al empezar y no toques nada hasta el final.
-5. En casa se apilan con StarStaX (<https://markus-enzweiler.de/software/starstax/>),
-   explicado en la [guía de edición](../retoques/README.md).
+5. En casa se apilan con StarStaX (<https://starstax.net/>): mira la
+   [guía de edición](../retoques/09-noche.md#apilar-una-serie-fuera-de-luminar).
 
 ## Apilado en casa
 
@@ -1460,7 +1463,7 @@ día editas en Windows, la alternativa gratuita es Sequator
 (<https://sites.google.com/view/sequator/>). Los RAW
 (.ARW) entran directamente. Es la diferencia entre un cielo ruidoso y uno
 limpio a ISO 1600–3200 — el paso a paso está en la
-[guía de edición](../retoques/README.md).
+[guía de edición](../retoques/09-noche.md#apilar-una-serie-fuera-de-luminar).
 
 ## El intervalómetro integrado y la película time-lapse
 
@@ -1513,9 +1516,9 @@ planificador sobre mapa.
 3. Ejecuta la receta y el enfoque a estrella de este capítulo, y las **10
    tomas para apilar** — con cielo de luna nueva es cuando el apilado más luce.
 4. Si el resplandor de las farolas mancha el cielo bajo, encuadra más alto o
-   inclúyelo asumido como "amanecer falso" naranja en el horizonte; la opción
-   `Reduce light pollution` de Sequator ([edición](../retoques/README.md))
-   limpia bastante el degradado.
+   inclúyelo asumido como "amanecer falso" naranja en el horizonte; al
+   apilar, la extracción de fondo (*Background extraction*) de Siril
+   ([edición](../retoques/09-noche.md#apilar-una-serie-fuera-de-luminar)) suaviza el degradado.
 5. Remata la noche en el mirador de la charca ([capítulo 9](09-safari-nocturno-charcas.md)):
    astro y rinocerontes en la misma salida.
 
@@ -1714,8 +1717,8 @@ atrás o asume el tamaño.
 Receta de la noche 1 tal cual. En noche sin luna **no hay luz para la
 tierra: el objeto sale negro y ESA es la estética** — no subas el ISO "para
 sacar el árbol", solo lavarías el cielo. Las 10 tomas para apilar, también
-igual (en Sequator, marca `Freeze ground`: apila las estrellas sin
-emborronar tu objeto).
+igual (en Starry Landscape Stacker, pinta la máscara del cielo: apila las
+estrellas y deja quieto el suelo, sin emborronar tu objeto).
 
 ¿Y con algo de luna? Regalo: la luna ilumina la tierra gratis. Baja a ISO
 800–1600 y tendrás objeto CON volumen y estrellas — en el viaje, eso pasa
@@ -1726,7 +1729,7 @@ solo los días 11–14.
 | Objeto borroso, estrellas bien | Está a menos de 4 m: atrás con el trípode |
 | Estrellas borrosas, objeto bien | Reenfocaste al objeto: enfoque a estrella otra vez |
 | Silueta con halo naranja | Farola detrás: muévete hasta cielo limpio |
-| Suelo emborronado al apilar | `Freeze ground` en Sequator |
+| Suelo emborronado al apilar | Repasa la máscara del cielo en Starry Landscape Stacker: el suelo tiene que quedar fuera |
 | El objeto "no se lee" | Mal elegido: perfil simple y suelto, decidido de día |
 
 **Nivel extra, para cuando lo anterior aburra**: tierra con textura sin
@@ -1839,7 +1842,7 @@ Y la dirección decide el dibujo:
    la serie no te necesita.
 5. En casa: **StarStaX** (gratis, modo Lighten, `Gap filling` si hay
    microhuecos), con tu primera toma como base
-   ([edición](../retoques/README.md)).
+   ([edición](../retoques/09-noche.md#apilar-una-serie-fuera-de-luminar)).
 
 | Si los círculos salen… | Causa | Toca… |
 |---|---|---|
@@ -1892,8 +1895,8 @@ apuntando a otra parte del cielo ([su guía](https://github.com/morandeirachema/
   revisa y ajusta potencia; para. Menos es más — y cero luz hacia fauna o
   vecinos.
 - **Procesado de tus cielos**: el degradado verdoso del horizonte es
-  **airglow** — decide si es estética o estorbo (la opción
-  `Reduce light pollution` de Sequator lo suaviza); los satélites
+  **airglow**, luz natural del cielo — lo honesto es dejarlo; si estorba,
+  bájale un poco la saturación al editar ([noche](../retoques/09-noche.md)); los satélites
   desaparecen solos al apilar ≥10 tomas; y la Vía Láctea de noviembre, baja
   y cálida, agradece contraste local suave antes que saturación.
 
@@ -1915,7 +1918,7 @@ apuntando a otra parte del cielo ([su guía](https://github.com/morandeirachema/
 
 - Lonely Speck (nightscapes: cielo + tierra, en inglés): <https://www.lonelyspeck.com/>
 - Guía de Vía Láctea con paisaje en español (Capture the Atlas): <https://capturetheatlas.com/es/como-fotografiar-la-via-lactea/>
-- StarStaX: <https://markus-enzweiler.de/software/starstax/> · Sequator: <https://sites.google.com/view/sequator/>
+- StarStaX: <https://starstax.net/> · Starry Landscape Stacker (macOS): <https://sites.google.com/site/starrylandscapestacker/home> · Siril (gratis): <https://siril.org/> · Sequator (solo Windows): <https://sites.google.com/view/sequator/>
 - PhotoPills (AR y planificador): <https://www.photopills.com/> · "3 tips to use PhotoPills offline" (la RA y los cálculos funcionan sin red): <https://www.photopills.com/videos/3-tips-to-use-photopills-offline-photopills-tip-7> · Stellarium: <https://stellarium.org/>
 - Sony, Help Guide ILCE-6700 — disparo Bulb y "BULB Timer Settings" (2–900 s; no disponible con obturador electrónico): <https://helpguide.sony.net/ilc/2320/v1/en/contents/0302C_bulb.html> · <https://helpguide.sony.net/ilc/2320/v1/en/contents/211h_bulb_timer.html>
 - Declinación magnética en Namibia (WMM2025; ~13° O en Windhoek): <https://www.magnetic-declination.com/>
@@ -2565,7 +2568,24 @@ frenan.
   con la luna nueva, las Nubes de Magallanes y los cúmulos australes con
   unos 8x42 son un espectáculo por sí solos.
 
+## Polvo en el sensor: comprobarlo y limpiarlo
+
+Las fotos de Namibia tienen **manchas grises en el cielo, siempre en el mismo sitio** (arriba a la izquierda): es polvo pegado al sensor. Se ve con el diafragma cerrado (f/8–f/11) sobre zonas lisas, y con el objetivo abierto casi desaparece. En la edición se quita foto a foto ([retoques, 4](../retoques/04-flujo-base.md#rescatar-un-jpeg-difícil)); lo que ahorra trabajo es limpiarlo **antes de salir**.
+
+**Comprobar (2 minutos):** modo A, **f/16**, ISO 100, enfoque manual desenfocado; fotografía un cielo despejado o una pared blanca moviendo un poco la cámara. Mira la foto al 100 %: cada punto oscuro y borroso es una mota.
+
+**Limpiar, según la Guía de ayuda de Sony:**
+1. Batería al **51 % o más**.
+2. `MENU → Ajustes → [Opción ajustes] → [Limpieza del sensor] → [Intro]`: el sensor vibra para sacudir el polvo (hace ruido; es normal).
+3. Si siguen las manchas: quita el objetivo y, con la cámara **mirando un poco hacia abajo**, sopla con una **pera** (unos 10 €) el sensor y su alrededor. Sin meter la punta más allá de la montura, sin soplar fuerte y **nunca con aire comprimido en espray**.
+4. Apaga, monta el objetivo y repite la comprobación.
+5. Si sigue habiendo polvo, no frotes: servicio técnico o una tienda que limpie sensores.
+
+**Para que entre menos:** cambia de objetivo con la cámara apagada, mirando hacia abajo, a resguardo del viento y nunca con las ventanillas abiertas en una pista ([safari de día](08-safari-diurno.md)).
+
 ## Referencias
+
+- Limpieza del sensor, Guía de ayuda de la a6700: <https://helpguide.sony.net/ilc/2320/v1/es/contents/0601_cleaning_mode.html>
 
 - Búfer y tiempos de vaciado medidos con tarjetas UHS-I y UHS-II (Alpha Shooters): <https://www.alphashooters.com/cameras/sony-a6700/memory-cards/>
 

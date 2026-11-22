@@ -122,7 +122,10 @@ Configura la cámara como quieras que quede y guárdala con
 
 - **MR1 — Safari diurno**: M, 1/1000 s, apertura mínima del zoom,
   ISO Auto (100–12800), AF-C, reconocimiento de sujeto **Animal**, área
-  Zona, ráfaga Hi+ (11 fps), RAW.
+  Zona, ráfaga Hi+ (11 fps), RAW, balance de blancos **Luz de día**
+  (compruébalo antes de guardar: si se queda el Kelvin de la noche, todo
+  el safari sale azulado; y a la sombra o con el sol ya puesto, cámbialo
+  a Sombra o Nublado — [balance de blancos](../conceptos/04-balance-de-blancos.md)).
 - **MR2 — Astro**: M, 20 s, **f/1.8**, ISO 1600, balance de blancos K 3900,
   enfoque manual, temporizador 2 s, SteadyShot OFF, RAW. Con el 11 mm la
   apertura sí se guarda en la memoria (es un objetivo con contactos): al

@@ -34,7 +34,7 @@ visible gran parte de la noche.
 | Modo | M (o directamente **MR2**, [capítulo 4](04-configuracion-basica.md)) |
 | Apertura | **f/1.8** — la máxima del 11 mm, y se pone con la rueda de la cámara como en cualquier objetivo (si las estrellas de las esquinas salen con "alitas", cierra a f/2.8) |
 | Obturación | 20 s con el 11 mm (16,5 mm eq) |
-| ISO | 1600; sube a 3200 si queda oscura |
+| ISO | 1600; sube a 3200 si queda oscura (mira el histograma: la montaña no debe estar pegada al borde izquierdo) |
 | Balance de blancos | 3900 K (elige el modo **K** dentro del menú de balance de blancos y ajusta ahí el número) |
 | Formato | RAW |
 | Enfoque | Manual: interruptor **AF/MF del objetivo en MF** (el AF no engancha estrellas en serio) |
@@ -145,8 +145,8 @@ para un novato: círculos de estrellas girando sobre el paisaje.
    tomas 90–180.
 4. **90–180 tomas** (45–90 minutos; cuanto más tiempo, más largos los arcos).
    Batería llena al empezar y no toques nada hasta el final.
-5. En casa se apilan con StarStaX (<https://markus-enzweiler.de/software/starstax/>),
-   explicado en la [guía de edición](../retoques/README.md).
+5. En casa se apilan con StarStaX (<https://starstax.net/>): mira la
+   [guía de edición](../retoques/09-noche.md#apilar-una-serie-fuera-de-luminar).
 
 ## Apilado en casa
 
@@ -156,7 +156,7 @@ día editas en Windows, la alternativa gratuita es Sequator
 (<https://sites.google.com/view/sequator/>). Los RAW
 (.ARW) entran directamente. Es la diferencia entre un cielo ruidoso y uno
 limpio a ISO 1600–3200 — el paso a paso está en la
-[guía de edición](../retoques/README.md).
+[guía de edición](../retoques/09-noche.md#apilar-una-serie-fuera-de-luminar).
 
 ## El intervalómetro integrado y la película time-lapse
 
@@ -209,9 +209,9 @@ planificador sobre mapa.
 3. Ejecuta la receta y el enfoque a estrella de este capítulo, y las **10
    tomas para apilar** — con cielo de luna nueva es cuando el apilado más luce.
 4. Si el resplandor de las farolas mancha el cielo bajo, encuadra más alto o
-   inclúyelo asumido como "amanecer falso" naranja en el horizonte; la opción
-   `Reduce light pollution` de Sequator ([edición](../retoques/README.md))
-   limpia bastante el degradado.
+   inclúyelo asumido como "amanecer falso" naranja en el horizonte; al
+   apilar, la extracción de fondo (*Background extraction*) de Siril
+   ([edición](../retoques/09-noche.md#apilar-una-serie-fuera-de-luminar)) suaviza el degradado.
 5. Remata la noche en el mirador de la charca ([capítulo 9](09-safari-nocturno-charcas.md)):
    astro y rinocerontes en la misma salida.
 

@@ -73,7 +73,7 @@ Una convención sencilla ahorra búsquedas: `AAAA-MM-DD_lugar_tema_numero.jpg`. 
 
 *Cuentas redondeadas al centímetro.*
 
-**Si te quedas corto:** **Upscale** al final de la edición (empieza por 2×; [sección 12.4](12-varias-fotos.md)), y revisa al 100 % que no invente textura en el pelo o las plumas. Pide una **prueba pequeña** antes de la copia grande.
+**Si te quedas corto:** **Upscale** casi al final de la edición, con el ruido ya quitado y el enfoque suave después (empieza por 2×; [sección 12.4](12-varias-fotos.md)), y revisa al 100 % que no invente textura en el pelo o las plumas. Pide una **prueba pequeña** antes de la copia grande.
 
 **Para la familia:** elige pocas y buenas. Una selección de 20–30 fotos editadas con el mismo estilo ([sección 11](11-trabajar-en-serie.md)) se disfruta más que 300 sin elegir.
 

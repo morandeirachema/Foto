@@ -148,8 +148,8 @@ atrás o asume el tamaño.
 Receta de la noche 1 tal cual. En noche sin luna **no hay luz para la
 tierra: el objeto sale negro y ESA es la estética** — no subas el ISO "para
 sacar el árbol", solo lavarías el cielo. Las 10 tomas para apilar, también
-igual (en Sequator, marca `Freeze ground`: apila las estrellas sin
-emborronar tu objeto).
+igual (en Starry Landscape Stacker, pinta la máscara del cielo: apila las
+estrellas y deja quieto el suelo, sin emborronar tu objeto).
 
 ¿Y con algo de luna? Regalo: la luna ilumina la tierra gratis. Baja a ISO
 800–1600 y tendrás objeto CON volumen y estrellas — en el viaje, eso pasa
@@ -160,7 +160,7 @@ solo los días 11–14.
 | Objeto borroso, estrellas bien | Está a menos de 4 m: atrás con el trípode |
 | Estrellas borrosas, objeto bien | Reenfocaste al objeto: enfoque a estrella otra vez |
 | Silueta con halo naranja | Farola detrás: muévete hasta cielo limpio |
-| Suelo emborronado al apilar | `Freeze ground` en Sequator |
+| Suelo emborronado al apilar | Repasa la máscara del cielo en Starry Landscape Stacker: el suelo tiene que quedar fuera |
 | El objeto "no se lee" | Mal elegido: perfil simple y suelto, decidido de día |
 
 **Nivel extra, para cuando lo anterior aburra**: tierra con textura sin
@@ -273,7 +273,7 @@ Y la dirección decide el dibujo:
    la serie no te necesita.
 5. En casa: **StarStaX** (gratis, modo Lighten, `Gap filling` si hay
    microhuecos), con tu primera toma como base
-   ([edición](../retoques/README.md)).
+   ([edición](../retoques/09-noche.md#apilar-una-serie-fuera-de-luminar)).
 
 | Si los círculos salen… | Causa | Toca… |
 |---|---|---|
@@ -326,8 +326,8 @@ apuntando a otra parte del cielo ([su guía](https://github.com/morandeirachema/
   revisa y ajusta potencia; para. Menos es más — y cero luz hacia fauna o
   vecinos.
 - **Procesado de tus cielos**: el degradado verdoso del horizonte es
-  **airglow** — decide si es estética o estorbo (la opción
-  `Reduce light pollution` de Sequator lo suaviza); los satélites
+  **airglow**, luz natural del cielo — lo honesto es dejarlo; si estorba,
+  bájale un poco la saturación al editar ([noche](../retoques/09-noche.md)); los satélites
   desaparecen solos al apilar ≥10 tomas; y la Vía Láctea de noviembre, baja
   y cálida, agradece contraste local suave antes que saturación.
 
@@ -349,7 +349,7 @@ apuntando a otra parte del cielo ([su guía](https://github.com/morandeirachema/
 
 - Lonely Speck (nightscapes: cielo + tierra, en inglés): <https://www.lonelyspeck.com/>
 - Guía de Vía Láctea con paisaje en español (Capture the Atlas): <https://capturetheatlas.com/es/como-fotografiar-la-via-lactea/>
-- StarStaX: <https://markus-enzweiler.de/software/starstax/> · Sequator: <https://sites.google.com/view/sequator/>
+- StarStaX: <https://starstax.net/> · Starry Landscape Stacker (macOS): <https://sites.google.com/site/starrylandscapestacker/home> · Siril (gratis): <https://siril.org/> · Sequator (solo Windows): <https://sites.google.com/view/sequator/>
 - PhotoPills (AR y planificador): <https://www.photopills.com/> · "3 tips to use PhotoPills offline" (la RA y los cálculos funcionan sin red): <https://www.photopills.com/videos/3-tips-to-use-photopills-offline-photopills-tip-7> · Stellarium: <https://stellarium.org/>
 - Sony, Help Guide ILCE-6700 — disparo Bulb y "BULB Timer Settings" (2–900 s; no disponible con obturador electrónico): <https://helpguide.sony.net/ilc/2320/v1/en/contents/0302C_bulb.html> · <https://helpguide.sony.net/ilc/2320/v1/en/contents/211h_bulb_timer.html>
 - Declinación magnética en Namibia (WMM2025; ~13° O en Windhoek): <https://www.magnetic-declination.com/>

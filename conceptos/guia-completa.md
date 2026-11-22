@@ -1904,7 +1904,7 @@ español e inglés, en el [capítulo 4](../manejo-a6700/04-configuracion-basica.
 | **Star trails** | Los círculos que dibujan las estrellas en una serie larga de fotos apiladas |
 | **Circumpolar** | Lo que gira alrededor del polo celeste sin ponerse nunca |
 | **Polo sur celeste** | El centro de giro del cielo austral. No tiene estrella brillante; en Etosha queda a ~19° sobre el sur |
-| **Apilado** (*stacking*) | Fundir muchas tomas iguales para bajar el ruido (Sequator) o alargar los arcos (StarStaX) |
+| **Apilado** (*stacking*) | Fundir muchas tomas iguales para bajar el ruido (Starry Landscape Stacker en Mac) o alargar los arcos (StarStaX) |
 | **Intervalómetro** | El disparador automático a intervalos. En la a6700 va **integrado** (`Func. capt. interv.`) |
 | **Timelapse** | Muchas fotos espaciadas montadas como vídeo: el tiempo acelerado |
 | **Escala Bortle** | Cuánta contaminación lumínica tiene un cielo, de 1 (perfecto) a 9 (ciudad). Namibia es **1–2** |

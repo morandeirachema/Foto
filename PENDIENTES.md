@@ -7,6 +7,7 @@ Cosas que el repo **no puede verificar por sí solo**: hacen falta tu cámara, t
 Las fotos de Namibia salieron **solo en JPEG** por un error de configuración. Antes de la próxima salida:
 
 - [ ] `Toma → [Calid. img/grab.] → [Formato archivo]` = **RAW**, con `Tipo archivo RAW` = comprimido sin pérdida ([configuración básica](manejo-a6700/04-configuracion-basica.md)).
+- [ ] Carga **MR1** y mira su **balance de blancos**: tiene que ser Luz de día, no el Kelvin de la noche. El 91 % de las fotos del viaje se hizo con un balance fijo y las de sombra y anochecer salieron azuladas; dime cuál tenías puesto.
 - [ ] Carga **MR1** y comprueba otra vez el formato. Haz lo mismo con **MR2**. Si alguna vuelve a JPEG, pon RAW y **vuelve a guardar esa memoria** (`Toma → [Modo de toma] → [Mem. ajustes cám]`).
 - [ ] Foto de prueba → al ordenador: tiene que haber un archivo **`.ARW`**.
 - [ ] Si quieres saber **qué falló** en Namibia: abre una foto del viaje en la cámara o en el ordenador y anota qué formato y qué tamaño tiene. Así sabremos si fue el formato, una memoria o un reinicio de ajustes.
@@ -48,6 +49,7 @@ La auditoría confirmó las 79 rutas, pero estos nombres no se pudieron localiza
 - [ ] **El tamaño de tus JPEG de Namibia:** en Luminar, pestaña **Info** (**`I`**). Si es **6192 × 4128**, la cámara estaba en **L (26M)** y valen las cuentas de impresión de [retoques 13.5](retoques/13-exportar.md#135-tus-fotos-compartir-con-la-familia-e-imprimir).
 - [ ] **Atajos con teclado español:** ¿responden en tu Mac **`⌥º`** (ver el original), **`⇧7`** (mostrar la máscara), **`⇧,`** (comparar) y **`⌥`** + las teclas de **`[`** **`]`** (tamaño del pincel)? Dime también si tu teclado es español o de EE. UU. ([retoques, 17](retoques/17-atajos.md#si-tu-teclado-es-español)).
 - [ ] **Apilado en Mac:** ¿acepta JPEG la versión de prueba de [Starry Landscape Stacker](https://sites.google.com/site/starrylandscapestacker/home)? ¿Tienes series de fotos nocturnas iguales y seguidas para apilar? ([retoques, 9.2](retoques/09-noche.md#apilar-una-serie-fuera-de-luminar))
+- [ ] **HEIF:** haz una foto con `Conm JPEG/HEIF` en `HEIF(4:2:2)` y ábrela en Luminar. ¿La abre? ([retoques, 15.4](retoques/15-disparar-mejores-jpeg.md#154-lo-que-enseñan-tus-fotos-de-namibia))
 - [ ] **Exportar a TIFF:** ¿ofrece Luminar 16 bits? Y en **Sharpen**, ¿qué niveles aparecen?
 - [ ] **Polvo del sensor:** tus fotos de día tienen manchas arriba a la izquierda del cielo. ¿Se puede copiar o sincronizar **Remove Dust Spots** entre fotos? (Skylum dice que Erase no se sincroniza.) Y limpia el sensor antes de la próxima salida.
 - [ ] **Charca con focos:** prueba las tres salidas de [retoques, 9.3](retoques/09-noche.md#animales-en-una-charca-iluminada-con-focos) con una foto de elefantes y dime cuál te convence.

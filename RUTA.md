@@ -80,6 +80,8 @@ flowchart LR
 | 📷 Hacer | **Recetas por escena**: astro, safari de día, charcas de noche | [Manejo 6](manejo-a6700/06-astrofotografia-namibia.md) · [7](manejo-a6700/07-estrellas-con-tierra.md) · [8](manejo-a6700/08-safari-diurno.md) · [9](manejo-a6700/09-safari-nocturno-charcas.md) |
 | 📷 Hacer | **Tus objetivos**: cuándo cada uno | [Manejo 10](manejo-a6700/10-equipo-accesorios.md) · [11 · Viltrox 25 mm](manejo-a6700/11-viltrox-25mm.md) |
 | 🎨 Retocar | **El flujo base**: los 10 pasos de cualquier foto | [Retoques 4](retoques/04-flujo-base.md) |
+| 🎨 Retocar | **¿Qué hay en tu foto?** Qué pasos pesan según el contenido: animal, dunas, contraluz, estrellas, fuego | [Retoques 4 · La ruta según el contenido](retoques/04-flujo-base.md#qué-hay-en-tu-foto-la-ruta-según-el-contenido) |
+| 🎨 Retocar | **¿Me he pasado?** Cinco pruebas antes de exportar | [Retoques 16.3](retoques/16-errores-y-lista.md#163-me-he-pasado-la-prueba-de-dos-minutos) |
 | 🎨 Retocar | **Ajustes locales**: aclarar los ojos, abrir una sombra, oscurecer el cielo | [Retoques 5](retoques/05-ajustes-locales.md) |
 | 🎨 Retocar | **Rescatar un JPEG difícil**: oscura, quemada, movida, con ruido, muy recortada | [Retoques 4 · Rescatar](retoques/04-flujo-base.md#rescatar-un-jpeg-difícil) |
 | 🎨 Retocar | **Compartir con la familia e imprimir**: qué exportar y hasta qué tamaño imprimir | [Retoques 13.5](retoques/13-exportar.md#135-tus-fotos-compartir-con-la-familia-e-imprimir) |

@@ -86,6 +86,8 @@ Este es el esqueleto que usarás en todas las fotos. Las secciones de safari, pa
 - **Structure AI:** +10 a +25. Contraste local "inteligente" que protege las caras.
 - **Details:** **Small Details** para pelo y plumas; **Medium Details** para texturas; **Large Details** con mucho cuidado (es el que más halos crea). **Sharpen** bajo.
 - **Details Masking** y **Sharpening Masking:** limitan el enfoque a los bordes y lo apartan de zonas lisas como el cielo. Para **Sharpening Masking**, Skylum recomienda valores de 30–70.
+- **Details Protection** (en Details Masking) evita que las zonas ya detalladas queden sobreprocesadas.
+- **Develop → Sharpness** tiene su propio enfoque (**Sharpen**, **Radius**, **Masking**). Tus JPEG ya vienen enfocados por la cámara: déjalo a cero y, si hace falta nitidez, usa solo **Details**, con poco.
 - **Comprobación:** al 100 %, mira un borde entre el sujeto y el cielo. Si ves una línea clara o un contorno, has enfocado de más.
 
 ### Paso 9 · Ajustes locales: máscaras
@@ -106,7 +108,7 @@ Aquí se trabaja por zonas: **Dodge & Burn** para aclarar u oscurecer pintando, 
 - **Clone** (**`⌘J`**): cuando Erase no acierta, Clone copia píxeles de otra zona. **`⌥`**-clic elige el origen; **Radius**, **Softness** y **Opacity** controlan el pincel. Mejor muchos toques cortos con poca opacidad.
 - **Vignette:** −10 a −20, si encaja. **Choose Subject** coloca el centro del viñeteado sobre el sujeto.
 - **Film Grain:** **Amount** 5–10 si ves bandas en el cielo.
-- **`\`** (mantener) para comparar con el original. Revisa al 100 %, descansa 5 minutos y **baja lo que sobre**.
+- **`\`** (mantener) para comparar con el original. Revisa al 100 %, descansa 5 minutos y **baja lo que sobre**. Para saber cuánto sobra: [¿Me he pasado? La prueba de dos minutos](16-errores-y-lista.md#163-me-he-pasado-la-prueba-de-dos-minutos).
 - **Exportar** (**`⇧⌘E`**): sección 13.
 
 **La regla del descanso.** Tras un rato mirando una foto, el ojo se acostumbra a la saturación y al contraste, y siempre parece que "falta un poco más". Por eso las fotos editadas de un tirón suelen verse exageradas al día siguiente. Descansa, vuelve a mirarlas y baja lo que sobre.
@@ -147,7 +149,7 @@ Con un JPEG no hay RAW al que volver, pero Luminar tiene herramientas para casi 
 | **Muy oscura** | Develop: Exposure **+0,5 a +1**, Shadows **+30 a +50**; antes, **Noiseless AI** (nivel propuesto o uno más) | Se arregla bastante; el límite lo pone el ruido que aparece en las sombras |
 | **Cielo quemado (blanco puro)** | Highlights **−50 a −60** suaviza el borde. Para tener cielo: ✳️ **Sky AI** (sustituye el cielo) | Sin Sky AI **no se recupera**: no hay información. Con Sky AI, cielo nuevo |
 | **Mucho ruido** (ISO alto, noche) | **Noiseless AI** en **High**; Color Denoise alto; Details **+10** para no perder pelo | Muy buen resultado; revisa al 100 % que el pelo o las estrellas no parezcan de plástico |
-| **Algo movida o blanda** | **Supersharp AI**, modo **Motion Blur**, nivel **Low** (sube a Middle si no basta) | Mejora un movimiento ligero; una foto muy movida no se salva |
+| **Algo movida o blanda** | **Supersharp AI**, modo **Motion Blur**, nivel **Low** (sube a Middle si no basta). Si solo está blanda una zona, limítalo a ella con una máscara **Brush** | Mejora un movimiento ligero; una foto muy movida no se salva |
 | **Desenfocada** (el foco se fue al fondo) | Supersharp AI, modo **Universal**, nivel **Low** | Mejora poco: el desenfoque real no se puede reconstruir |
 | **Animal muy pequeño** (recorte fuerte) | Recorta, quita el ruido y después ✳️ **Upscale** (2×, 4× o 6×; empieza por 2×); el enfoque suave, al final | Válida para pantalla o una copia pequeña; revisa al 100 % que no invente textura |
 | **Color raro** (dominante) | **Remove Color Cast**; si no basta, Temperature y Tint **±10**; dominante solo en las sombras: Color Harmony → Color Balance | Se corrige bien si no es extrema |

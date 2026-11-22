@@ -287,6 +287,34 @@ Porque el papel **refleja** la luz y no la emite: la copia suele verse **más os
 → [Retoques 13.6](retoques/13-exportar.md#136-consejos-para-las-fotos-que-vas-a-imprimir)
 </details>
 
+**L8. Has terminado de editar una foto. ¿Cómo compruebas que no te has pasado?**
+<details><summary>Respuesta</summary>
+
+Con pruebas que no dependen del ojo cansado: **antes y después** (**`\`**), **de lejos** (**`⌘0`**: ¿el ojo va al sujeto o a un color o un halo?), **de cerca** (**`⌘1`** en el borde del sujeto, el cielo y el pelo), **los límites** (**`J`**: ¿hay más zonas recortadas que al empezar?) y **a la mitad** (baja a la mitad el deslizador que más has movido: si la foto no empeora, déjalo ahí). Y vuelve a mirarla al día siguiente.
+→ [Retoques 16.3](retoques/16-errores-y-lista.md#163-me-he-pasado-la-prueba-de-dos-minutos)
+</details>
+
+**L9. En varias fotos de día aparecen manchas grises en el cielo, siempre en el mismo sitio. ¿Qué son y qué haces?**
+<details><summary>Respuesta</summary>
+
+**Polvo en el sensor.** En Luminar: **Remove Dust Spots** y Erase en las que queden, **foto a foto** (Erase no se sincroniza), y vuelve a mirar el cielo después de Dehaze. En la cámara: limpia el sensor antes de la próxima salida.
+→ [Retoques 4 · Rescatar un JPEG](retoques/04-flujo-base.md#rescatar-un-jpeg-difícil) · [Manejo 10 · Polvo en el sensor](manejo-a6700/10-equipo-accesorios.md#polvo-en-el-sensor-comprobarlo-y-limpiarlo)
+</details>
+
+**L10. Un elefante de noche bajo el foco de la charca sale todo naranja, a ISO 12800. ¿Puedes dejarlo con colores neutros?**
+<details><summary>Respuesta</summary>
+
+**No:** bajo esa luz casi toda la información está en el canal rojo, y un JPEG no guarda más. Tres salidas: corregir **solo a medias** con Temperature, **bajar la saturación del naranja** en HSL o pasarla a **blanco y negro**. El fondo se queda negro y la foto se comparte a tamaño pequeño.
+→ [Retoques 9.3 · Charca con focos](retoques/09-noche.md#animales-en-una-charca-iluminada-con-focos)
+</details>
+
+**L11. Tienes diez fotos iguales y seguidas de la Vía Láctea. ¿Qué haces antes de editarlas?**
+<details><summary>Respuesta</summary>
+
+**Apilarlas**, sin editarlas antes, en un programa aparte (Luminar no lo hace): en Mac, Starry Landscape Stacker o Siril. El resultado, un TIFF de 16 bits con mucho menos ruido, es el que editas en Luminar.
+→ [Retoques 9.2 · Apilar una serie](retoques/09-noche.md#apilar-una-serie-fuera-de-luminar)
+</details>
+
 ---
 
 ## Etapa 3 · Avanzado

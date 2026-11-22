@@ -25,7 +25,7 @@ En fotografía documental, de naturaleza y de viaje, la línea general es: **pue
 
 ## 14.2. Herramientas que crean contenido
 
-**GenErase**, **GenSwap**, **GenExpand**, **Sky AI**, **Atmosphere AI** y la luz **Dawn** de **Twilight Enhancer AI** añaden o inventan elementos. Son útiles en fotos creativas, pero:
+**GenErase**, **GenSwap**, **GenExpand**, **Sky AI**, **Sunrays** (añade un sol que no estaba), **Atmosphere AI** y la luz **Dawn** de **Twilight Enhancer AI** añaden o inventan elementos. Son útiles en fotos creativas, pero:
 - Convierten una foto documental en una ilustración.
 - Suelen estar prohibidas en concursos de naturaleza y en fotoperiodismo.
 - Si compartes una foto con contenido generado o sustituido, **dilo**.
