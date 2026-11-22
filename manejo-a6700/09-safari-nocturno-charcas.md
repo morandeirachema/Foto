@@ -158,7 +158,7 @@ Con **Visión Nocturna**, apoyado en el murete y **sin flash jamás**, hace lo
 que la Sony no está haciendo: el ambiente — el foco sobre el agua, la gente
 en el murete, el reflejo, la luna —, y el clip de vídeo del rino si está
 quieto y cerca. Lo que no: el animal moviéndose bajo el foco, que sale
-movido siempre ([la guía del Pixel](https://github.com/morandeirachema/a6700-namibia/blob/main/tecnica/pixel-10-pro.md)).
+movido siempre ([la guía del Pixel](../manejo-pixel-10-pro/README.md)).
 
 ## Combinar con astro
 

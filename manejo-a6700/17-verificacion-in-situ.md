@@ -65,7 +65,7 @@ en lugar de descubrirlos en Etosha:
   una mirrorless el AF mide en el propio sensor — no existe descalibración
   de fase que lo excuse. Si la nitidez baila, el ejemplar tiene un problema
   → avisa al dueño y decide con tiempo: otro ejemplar en [mpb](https://www.mpb.com/) o el
-  [Pixel de día](https://github.com/morandeirachema/a6700-namibia/blob/main/tecnica/pixel-10-pro-de-dia.md) como tele.
+  [Pixel de día](../manejo-pixel-10-pro/07-lo-que-se-mueve.md) como tele.
 - [ ] **Bloqueo de zoom**: recoge a 70 mm, échalo, y comprueba que el zoom
   no se desliza al colgar la cámara boca abajo.
 - [ ] Actualiza su **firmware** con él montado en la cámara
@@ -106,7 +106,7 @@ asimétricas, ese ejemplar está descentrado.
   *Por qué:* el leopardo aparece 4 segundos y no espera tapas.
 - [ ] **El Pixel** cargado, con hueco y en el bolsillo (no en el
   salpicadero al sol): es tu segunda cámara
-  ([su guía](https://github.com/morandeirachema/a6700-namibia/blob/main/tecnica/pixel-10-pro.md)).
+  ([su guía](../manejo-pixel-10-pro/README.md)).
 
 ## 4 · Al llegar a una escena de fauna (10 s, de memoria)
 
@@ -252,7 +252,7 @@ El repaso que separa "creo que la tengo" de "la tengo":
 - [ ] [Lista de tomas](https://github.com/morandeirachema/a6700-namibia/blob/main/plan/lista-de-tomas.md): marca conseguidas, elige
   el objetivo de mañana.
 - [ ] Pixel al cargador; sus fotos y clips se quedan en el móvil
-  ([su guía](https://github.com/morandeirachema/a6700-namibia/blob/main/tecnica/pixel-10-pro.md)).
+  ([su guía](../manejo-pixel-10-pro/README.md)).
 - [ ] Pera sopladora a cuerpo y lentes; todo a la bolsa **cerrada** (*por
   qué:* del frío exterior al cuarto caliente, el equipo suda; dentro de la
   bolsa se aclimata sin condensación).

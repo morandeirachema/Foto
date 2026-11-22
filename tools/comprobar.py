@@ -3,9 +3,9 @@
 
 - Enlaces relativos: el archivo existe y, si llevan #ancla, el encabezado también.
 - Bloques de código: ninguna valla ``` sin cerrar (en GitHub ocultaría el resto).
-- Capítulos: en conceptos/, manejo-a6700/ y retoques/, el H1 de NN-*.md empieza por "# N.".
+- Capítulos: en conceptos/, manejo-a6700/, manejo-pixel-10-pro/ y retoques/, el H1 de NN-*.md empieza por "# N.".
 - Navegación: cada capítulo tiene sus bloques <!-- nav --> (los genera pdf/generar-guia.sh).
-- Hoja de campo: la chuleta cabe en una cara (si existe pdfinfo).
+- Hojas de campo: cada chuleta cabe en una cara (si existe pdfinfo).
 
 Sale con código 1 si encuentra algún problema.
 """
@@ -18,7 +18,7 @@ import sys
 import unicodedata
 
 os.chdir(os.path.join(os.path.dirname(os.path.abspath(__file__)), ".."))
-SECCIONES = ("conceptos", "manejo-a6700", "retoques")
+SECCIONES = ("conceptos", "manejo-a6700", "manejo-pixel-10-pro", "retoques")
 problemas = []
 
 
@@ -78,11 +78,12 @@ for d in SECCIONES:
         if not h1.startswith(f"# {n}. "):
             problemas.append(f"{f}: el H1 no empieza por '# {n}.' -> {h1[:60]}")
 
-if shutil.which("pdfinfo") and os.path.exists("pdf/chuleta.pdf"):
-    salida = subprocess.run(["pdfinfo", "pdf/chuleta.pdf"], capture_output=True, text=True).stdout
-    paginas = re.search(r"Pages:\s+(\d+)", salida)
-    if paginas and paginas.group(1) != "1":
-        problemas.append(f"pdf/chuleta.pdf: {paginas.group(1)} páginas (debe caber en una)")
+for hoja in ("pdf/chuleta.pdf", "pdf/chuleta-pixel.pdf"):
+    if shutil.which("pdfinfo") and os.path.exists(hoja):
+        salida = subprocess.run(["pdfinfo", hoja], capture_output=True, text=True).stdout
+        paginas = re.search(r"Pages:\s+(\d+)", salida)
+        if paginas and paginas.group(1) != "1":
+            problemas.append(f"{hoja}: {paginas.group(1)} páginas (debe caber en una)")
 
 capitulos = {d: len(glob.glob(f"{d}/[0-9][0-9]-*.md")) - 1 for d in SECCIONES}
 print("Capítulos (sin la introducción):", ", ".join(f"{d} {n}" for d, n in capitulos.items()),

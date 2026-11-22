@@ -13,7 +13,7 @@ Situación de partida de este viaje: se empieza casi de cero y el kit son
 paisaje, comprados, y el tele de fauna, prestado — elegidos para cubrir safari, charcas nocturnas y cielo con el
 mínimo dinero razonable. La cuarta cámara-que-ya-tienes, el **Pixel 10 Pro**,
 cubre el hueco de en medio
-([su guía](https://github.com/morandeirachema/a6700-namibia/blob/main/tecnica/pixel-10-pro.md)). Ventaja de la montura E de Sony: es la
+([su guía](../manejo-pixel-10-pro/README.md)). Ventaja de la montura E de Sony: es la
 que más fabricantes terceros tiene (Sigma, Tamron, Samyang, Viltrox…) y un
 mercado de segunda mano enorme (<https://www.mpb.com/>), donde casi todo baja
 un 20–40 %.
@@ -128,13 +128,13 @@ Etosha y una sola bolsa vale oro.
 - **Empieza en 70 mm** (105 eq): entre el 11 mm y el tele queda un hueco que
   ningún objetivo tuyo cubre. Ese tramo — el retrato, el grupo, el coche en
   la pista, el animal pegado al coche — es del
-  [Pixel](https://github.com/morandeirachema/a6700-namibia/blob/main/tecnica/pixel-10-pro.md), y se resuelve sin desmontar nada en un
+  [Pixel](../manejo-pixel-10-pro/README.md), y se resuelve sin desmontar nada en un
   sitio con polvo en suspensión.
 
 Y algo que **no** tiene: modo macro. Su ampliación máxima es 0,23x a 350 mm
 — vale para texturas y flores grandes, no para insectos; el macro de verdad
 de este viaje lo hace el móvil, que enfoca a 3 cm
-([la guía del Pixel](https://github.com/morandeirachema/a6700-namibia/blob/main/tecnica/pixel-10-pro.md)).
+([la guía del Pixel](../manejo-pixel-10-pro/README.md)).
 
 ## Accesorios
 
@@ -229,7 +229,7 @@ frenan.
   (~20–30 €) solo para el tele: en el 11 mm oscurece el cielo a trozos.
   (Ojo: con el step-up montado no entra el parasol del 11 mm.)
 - **Mini trípode o pinza de móvil (~10–15 €)**: para el modo astro y los
-  timelapses del [Pixel](https://github.com/morandeirachema/a6700-namibia/blob/main/tecnica/pixel-10-pro.md) — una piedra también
+  timelapses del [Pixel](../manejo-pixel-10-pro/README.md) — una piedra también
   vale, pero la pinza apunta donde tú quieres.
 - **Pera sopladora y paño de microfibra**: el polvo de Etosha es fino y
   omnipresente. Cambia de objetivo solo dentro del coche o de la bolsa — en

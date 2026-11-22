@@ -7,14 +7,14 @@
 ![Sony a6700](https://img.shields.io/badge/cámara-Sony%20a6700-1D1D1F)
 ![Luminar for Desktop 1.29.x](https://img.shields.io/badge/retoque-Luminar%201.29.x-B4561C)
 ![Idioma: español](https://img.shields.io/badge/idioma-español-5F6368)
-![48 capítulos](https://img.shields.io/badge/capítulos-48-2E7D32)
-![PDF para imprimir](https://img.shields.io/badge/PDF-6%20para%20imprimir-5F6368)
+![61 capítulos](https://img.shields.io/badge/capítulos-61-2E7D32)
+![PDF para imprimir](https://img.shields.io/badge/PDF-8%20para%20imprimir-5F6368)
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Elephants_rushing_to_water_%28Etosha%2C_2013%29.jpg/1920px-Elephants_rushing_to_water_%28Etosha%2C_2013%29.jpg" alt="Elefantes corriendo hacia una charca en Etosha" width="100%">
 
 <sub>Elefantes hacia el agua, Etosha. Foto de [Yathin S. Krishnappa](https://commons.wikimedia.org/wiki/File:Elephants_rushing_to_water_(Etosha,_2013).jpg), CC BY-SA 3.0, vía Wikimedia Commons</sub>
 
-**[🧭 Ruta de aprendizaje](RUTA.md)** · **[🎓 Autoevaluación](AUTOEVALUACION.md)** ([test interactivo](https://claude.ai/artifact/1yTeKxkdNnTppF4gxWEkky)) · **[✅ Pendientes](PENDIENTES.md)** · **[🧠 Conceptos](#conceptos)** · **[🎛️ Manejo de la a6700](#manejo-a6700)** · **[🎨 Retoques](#retoques)** · **[🖨️ Para imprimir](#para-imprimir)** · **[🧭 Por dónde empiezo](#por-donde-empiezo)**
+**[🧭 Ruta de aprendizaje](RUTA.md)** · **[🎓 Autoevaluación](AUTOEVALUACION.md)** ([test interactivo](https://claude.ai/artifact/1yTeKxkdNnTppF4gxWEkky)) · **[✅ Pendientes](PENDIENTES.md)** · **[🧠 Conceptos](#conceptos)** · **[🎛️ Manejo de la a6700](#manejo-a6700)** · **[📱 Manejo del Pixel 10 Pro](#manejo-pixel-10-pro)** · **[🎨 Retoques](#retoques)** · **[🖨️ Para imprimir](#para-imprimir)** · **[🧭 Por dónde empiezo](#por-donde-empiezo)**
 
 </div>
 
@@ -37,10 +37,11 @@ flowchart LR
 | [`conceptos/`](conceptos/) | Lo que vale para cualquier cámara: la luz, el modelo técnico, el histograma, el balance de blancos, la composición y la mirada | 11 |
 | [`manejo-a6700/`](manejo-a6700/) | La cámara: del móvil a la a6700, menús, diales, configuración, recetas por escenario, equipo y referencia completa de ajustes | 17 |
 | [`retoques/`](retoques/) | La guía de Luminar en 20 capítulos, desde cero y con números concretos, verificada con la documentación oficial de Skylum | 20 |
-| [`pdf/`](pdf/) | Las tres hojas imprimibles y cada sección completa (conceptos, manejo, retoques), maquetadas en A4 | 6 PDF |
+| [`manejo-pixel-10-pro/`](manejo-pixel-10-pro/) | El móvil: qué foto es suya y cuál de la a6700, la aplicación Cámara, el zoom, recetas por escena, controles Pro, la IA y la referencia de ajustes | 13 |
+| [`pdf/`](pdf/) | Las cuatro hojas imprimibles y cada sección completa (conceptos, los dos manejos, retoques), maquetadas en A4 | 8 PDF |
 | [`sources/`](sources/) | Material de origen: la **edición completa en PDF** de a6700-namibia (264 páginas), con la configuración de la cámara y el anexo de verificación de menús | 1 PDF |
 
-Las tres secciones tienen la **misma estructura**: capítulos numerados (`NN-nombre.md`, número de archivo = número de capítulo) agrupados en partes, una introducción (`00-introduccion.md`), un índice (`README.md`), navegación anterior/siguiente en cada capítulo y la sección entera en un archivo (`guia-completa.md`) y en PDF.
+Las cuatro secciones tienen la **misma estructura**: capítulos numerados (`NN-nombre.md`, número de archivo = número de capítulo) agrupados en partes, una introducción (`00-introduccion.md`), un índice (`README.md`), navegación anterior/siguiente en cada capítulo y la sección entera en un archivo (`guia-completa.md`) y en PDF.
 
 Cada guía de conceptos y de manejo abre con su **nivel**: 🟢 **Iniciación** (nunca has manejado una cámara en serio) · 🔵 **Básico** (las recetas) · 🔴 **Avanzado** (el porqué y la foto que no es correcta, sino buena). En cada una se indica qué da por sabido y qué te desbloquea.
 
@@ -106,6 +107,30 @@ Las capturas de pantalla de los menús tienen su guion en [`manejo-a6700/img/men
 
 > **Datos de la cámara que conviene saber** (verificados con la Guía de ayuda de Sony): **una sola ranura** SD (UHS-II), sin copia automática; el búfer aguanta unas **23 fotos en RAW comprimido sin pérdida** (unos 2 s de ráfaga); la caja **no trae cargador** (carga por USB-C); la compensación de exposición **funciona en M con ISO Auto** (±5 EV); el intervalómetro va **integrado** (`Func. capt. interv.`).
 
+<a id="manejo-pixel-10-pro"></a>
+
+## 📱 Manejo del Pixel 10 Pro
+
+La segunda cámara: la que ya está en el bolsillo. Escrita el 22 de noviembre de 2026 con la ayuda de Google en español; lo que no está documentado se marca y se apunta en [PENDIENTES](PENDIENTES.md).
+
+| Nivel | Guía | Qué resuelve |
+|:---:|---|---|
+| 🟢 | [**1 · De la a6700 al Pixel**](manejo-pixel-10-pro/01-de-la-a6700-al-pixel.md) | La ficha verificada, la traducción a tus objetivos y qué foto es de cada cámara |
+| 🟢 | [**2 · La aplicación Cámara y el primer día**](manejo-pixel-10-pro/02-la-aplicacion-camara.md) | El mapa de la pantalla, los ajustes de una vez y los cuatro gestos |
+| 🟢 | [**3 · Las tres lentes y el zoom**](manejo-pixel-10-pro/03-las-tres-lentes-y-el-zoom.md) | Óptica, recorte o IA en cada aumento, y cómo fijar la lente |
+| 🔵 | [**4 · Paisaje**](manejo-pixel-10-pro/04-paisaje.md) | El ultra gran angular, los 50 MP, la panorámica y las siluetas |
+| 🔵 | [**5 · La noche**](manejo-pixel-10-pro/05-la-noche.md) | Visión nocturna y Astrofotografía paso a paso |
+| 🔵 | [**6 · Personas**](manejo-pixel-10-pro/06-personas.md) | Retrato, Inclúyeme y Mejor toma |
+| 🔵 | [**7 · Lo que se mueve**](manejo-pixel-10-pro/07-lo-que-se-mueve.md) | Larga exposición, Barrido de movimiento y la fauna cercana |
+| 🟢 | [**8 · Lo pequeño**](manejo-pixel-10-pro/08-macro-y-documentos.md) | Enfoque macro y documentos |
+| 🔴 | [**9 · Controles Pro, 50 MP y RAW**](manejo-pixel-10-pro/09-controles-pro-50-mp-y-raw.md) | Cuándo quitarle el mando al móvil |
+| 🔴 | [**10 · La IA de la cámara**](manejo-pixel-10-pro/10-la-ia-de-la-camara.md) | Qué es foto y qué es dibujo; Zoom Pro; el Asistente de cámara |
+| 🟢 | [**11 · Todos los ajustes**](manejo-pixel-10-pro/11-todos-los-ajustes.md) | Cada ajuste con su ruta y su valor |
+| ✅ | [**12 · Verificación**](manejo-pixel-10-pro/12-verificacion.md) | Fuentes, discrepancias y lo que queda por confirmar |
+| 📋 | [**13 · Chuleta**](manejo-pixel-10-pro/13-chuleta.md) | Las recetas en una cara ([PDF](pdf/chuleta-pixel.pdf)) |
+
+Índice: [`manejo-pixel-10-pro/README.md`](manejo-pixel-10-pro/README.md) · Todo en un archivo: [`guia-completa.md`](manejo-pixel-10-pro/guia-completa.md) · [PDF](pdf/guia-manejo-pixel-10-pro.pdf)
+
 <a id="retoques"></a>
 
 ## 🎨 3 · Retoques con Luminar
@@ -138,10 +163,12 @@ flowchart LR
 | Hoja | Para qué | PDF |
 |---|---|---|
 | 📋 [Chuleta de la a6700](manejo-a6700/16-chuleta.md) | Todas las recetas de cámara en una cara | [chuleta.pdf](pdf/chuleta.pdf) |
+| 📋 [Chuleta del Pixel 10 Pro](manejo-pixel-10-pro/13-chuleta.md) | Las recetas del móvil en una cara | [chuleta-pixel.pdf](pdf/chuleta-pixel.pdf) |
 | ✅ [Verificación in situ](manejo-a6700/17-verificacion-in-situ.md) | Comprobaciones por momento del día | [verificacion-in-situ.pdf](pdf/verificacion-in-situ.pdf) |
 | ✏️ [Cuaderno de composición](conceptos/08-cuaderno-de-composicion.md) | 20 ejercicios para tachar | [cuaderno-de-composicion.pdf](pdf/cuaderno-de-composicion.pdf) |
 | 🧠 [Conceptos completo](conceptos/guia-completa.md) | Los 11 capítulos de conceptos | [guia-conceptos.pdf](pdf/guia-conceptos.pdf) |
 | 🎛️ [Manejo de la a6700 completo](manejo-a6700/guia-completa.md) | Los 17 capítulos de la cámara | [guia-manejo-a6700.pdf](pdf/guia-manejo-a6700.pdf) |
+| 📱 [Manejo del Pixel 10 Pro completo](manejo-pixel-10-pro/guia-completa.md) | Los 13 capítulos del móvil | [guia-manejo-pixel-10-pro.pdf](pdf/guia-manejo-pixel-10-pro.pdf) |
 | 🎨 [Retoques completo](retoques/guia-completa.md) | Los 20 capítulos de Luminar | [guia-retoques.pdf](pdf/guia-retoques.pdf) |
 
 <a id="por-donde-empiezo"></a>
@@ -175,9 +202,9 @@ flowchart LR
 
 ```sh
 python3 tools/comprobar.py                # comprueba enlaces, anclas, bloques de código, numeración y la chuleta
-./pdf/generar.sh                          # regenera todo: navegación, guías completas y los 6 PDF
-./pdf/generar.sh chuleta                  # uno solo: chuleta · verificacion-in-situ · cuaderno-de-composicion
-                                          #           guia-conceptos · guia-manejo-a6700 · guia-retoques
+./pdf/generar.sh                          # regenera todo: navegación, guías completas y los 8 PDF
+./pdf/generar.sh chuleta                  # uno solo: chuleta · chuleta-pixel · verificacion-in-situ · cuaderno-de-composicion
+                                          #           guia-conceptos · guia-manejo-a6700 · guia-manejo-pixel-10-pro · guia-retoques
 ./pdf/generar-guia.sh retoques --no-pdf   # una sección: navegación + guia-completa.md, sin PDF
 ```
 

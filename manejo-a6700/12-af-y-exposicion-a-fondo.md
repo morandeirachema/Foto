@@ -120,7 +120,7 @@ El metaconsejo: no memorices combinaciones — mete estos tres ajustes en
 - **El bonus de acercamiento**: 0,23x a 350 mm (enfoca desde 1,5 m) — da
   para texturas de corteza, flores grandes y el detalle del desayuno, pero
   **no es un macro**. El macro de verdad del viaje lo hace el móvil, a 3 cm
-  ([Pixel](https://github.com/morandeirachema/a6700-namibia/blob/main/tecnica/pixel-10-pro.md)).
+  ([Pixel](../manejo-pixel-10-pro/README.md)).
 - **Su firmware** se actualiza con el objetivo montado en la cámara, desde
   la web de soporte de Sony: <https://www.sony.es/electronics/support>
 

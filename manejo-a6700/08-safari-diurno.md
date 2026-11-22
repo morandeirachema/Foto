@@ -197,10 +197,10 @@ En el bolsillo, hace la foto *de alrededor* y el vídeo: el elefante junto al
 coche con el paisaje entero, el interior del coche a 0.5x, la gente, los
 clips de 4K del recuerdo y el timelapse de la espera en la charca apoyado en
 el salpicadero. Lo que **no** le pidas: el animal lejano a 20x — ahí inventa
-detalle, y para eso está el tele ([la guía del Pixel](https://github.com/morandeirachema/a6700-namibia/blob/main/tecnica/pixel-10-pro.md)).
+detalle, y para eso está el tele ([la guía del Pixel](../manejo-pixel-10-pro/README.md)).
 Y si el tele **no está** —no ha llegado, falla o se quedó en la bolsa— el
 móvil a 5x es un 70 mm de bolsillo: hasta dónde llega y qué le pides con cada
-animal, en [el Pixel de día](https://github.com/morandeirachema/a6700-namibia/blob/main/tecnica/pixel-10-pro-de-dia.md).
+animal, en [el Pixel de día](../manejo-pixel-10-pro/07-lo-que-se-mueve.md).
 
 ## Referencias
 

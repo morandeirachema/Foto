@@ -134,7 +134,7 @@ La lección: el tele de fauna ve cosas que tu móvil jamás ha visto. Al
 principio te costará *encontrar* al animal por el visor a 350 mm — es normal,
 se entrena (deberes, abajo). Y el móvil no se jubila: lo que le sigues
 pidiendo en el viaje (0.5x, macro, modo astro, panorámicas) está en
-[la guía del Pixel 10 Pro](https://github.com/morandeirachema/a6700-namibia/blob/main/tecnica/pixel-10-pro.md).
+[la guía del Pixel 10 Pro](../manejo-pixel-10-pro/README.md).
 
 ## La cámara en la mano
 
@@ -303,7 +303,7 @@ edición está explicada en la [guía de edición](../retoques/README.md).
 Cuando estas siete salgan solas: [Safari a fondo](https://github.com/morandeirachema/a6700-namibia/blob/main/mejora/safari-a-fondo.md)
 propone tres tardes monográficas más (contraluces, barridos y fondos). Y la
 segunda cámara del viaje, el Pixel 10 Pro, tiene sus diez minutos de puesta a
-punto en [su guía](https://github.com/morandeirachema/a6700-namibia/blob/main/tecnica/pixel-10-pro.md).
+punto en [su guía](../manejo-pixel-10-pro/README.md).
 
 ## Y ahora, ¿qué?
 
@@ -1543,7 +1543,7 @@ cielo, hace su foto astro de cuatro minutos y te deja además un
 mini-timelapse — sin que lo mires y sin robarte un solo ajuste de la Sony.
 Es la segunda vía del [plan noche a noche](https://github.com/morandeirachema/a6700-namibia/blob/main/plan/cielo-del-viaje.md), la
 de "pon y olvida", y su receta completa está en
-[la guía del Pixel](https://github.com/morandeirachema/a6700-namibia/blob/main/tecnica/pixel-10-pro.md).
+[la guía del Pixel](../manejo-pixel-10-pro/README.md).
 
 ## Ejercicio antes de volar (dos noches, aunque tu cielo sea malo)
 
@@ -1864,7 +1864,7 @@ recolocas el trípode al sur, lanzas la serie de círculos **y te vas** — a la
 charca de los rinos o a la cama. El reparto exacto por noche está en
 [el cielo del viaje](https://github.com/morandeirachema/a6700-namibia/blob/main/plan/cielo-del-viaje.md) y el plan hora a hora en
 [el nivel avanzado del final de esta guía](#nivel-avanzado--cuando-las-tres-noches-ya-salgan-solas). El Pixel, mientras, hace su propia versión
-apuntando a otra parte del cielo ([su guía](https://github.com/morandeirachema/a6700-namibia/blob/main/tecnica/pixel-10-pro.md)).
+apuntando a otra parte del cielo ([su guía](../manejo-pixel-10-pro/README.md)).
 
 ## Nivel avanzado — cuando las tres noches ya salgan solas
 
@@ -2121,10 +2121,10 @@ En el bolsillo, hace la foto *de alrededor* y el vídeo: el elefante junto al
 coche con el paisaje entero, el interior del coche a 0.5x, la gente, los
 clips de 4K del recuerdo y el timelapse de la espera en la charca apoyado en
 el salpicadero. Lo que **no** le pidas: el animal lejano a 20x — ahí inventa
-detalle, y para eso está el tele ([la guía del Pixel](https://github.com/morandeirachema/a6700-namibia/blob/main/tecnica/pixel-10-pro.md)).
+detalle, y para eso está el tele ([la guía del Pixel](../manejo-pixel-10-pro/README.md)).
 Y si el tele **no está** —no ha llegado, falla o se quedó en la bolsa— el
 móvil a 5x es un 70 mm de bolsillo: hasta dónde llega y qué le pides con cada
-animal, en [el Pixel de día](https://github.com/morandeirachema/a6700-namibia/blob/main/tecnica/pixel-10-pro-de-dia.md).
+animal, en [el Pixel de día](../manejo-pixel-10-pro/07-lo-que-se-mueve.md).
 
 ## Referencias
 
@@ -2291,7 +2291,7 @@ Con **Visión Nocturna**, apoyado en el murete y **sin flash jamás**, hace lo
 que la Sony no está haciendo: el ambiente — el foco sobre el agua, la gente
 en el murete, el reflejo, la luna —, y el clip de vídeo del rino si está
 quieto y cerca. Lo que no: el animal moviéndose bajo el foco, que sale
-movido siempre ([la guía del Pixel](https://github.com/morandeirachema/a6700-namibia/blob/main/tecnica/pixel-10-pro.md)).
+movido siempre ([la guía del Pixel](../manejo-pixel-10-pro/README.md)).
 
 ## Combinar con astro
 
@@ -2336,7 +2336,7 @@ Situación de partida de este viaje: se empieza casi de cero y el kit son
 paisaje, comprados, y el tele de fauna, prestado — elegidos para cubrir safari, charcas nocturnas y cielo con el
 mínimo dinero razonable. La cuarta cámara-que-ya-tienes, el **Pixel 10 Pro**,
 cubre el hueco de en medio
-([su guía](https://github.com/morandeirachema/a6700-namibia/blob/main/tecnica/pixel-10-pro.md)). Ventaja de la montura E de Sony: es la
+([su guía](../manejo-pixel-10-pro/README.md)). Ventaja de la montura E de Sony: es la
 que más fabricantes terceros tiene (Sigma, Tamron, Samyang, Viltrox…) y un
 mercado de segunda mano enorme (<https://www.mpb.com/>), donde casi todo baja
 un 20–40 %.
@@ -2451,13 +2451,13 @@ Etosha y una sola bolsa vale oro.
 - **Empieza en 70 mm** (105 eq): entre el 11 mm y el tele queda un hueco que
   ningún objetivo tuyo cubre. Ese tramo — el retrato, el grupo, el coche en
   la pista, el animal pegado al coche — es del
-  [Pixel](https://github.com/morandeirachema/a6700-namibia/blob/main/tecnica/pixel-10-pro.md), y se resuelve sin desmontar nada en un
+  [Pixel](../manejo-pixel-10-pro/README.md), y se resuelve sin desmontar nada en un
   sitio con polvo en suspensión.
 
 Y algo que **no** tiene: modo macro. Su ampliación máxima es 0,23x a 350 mm
 — vale para texturas y flores grandes, no para insectos; el macro de verdad
 de este viaje lo hace el móvil, que enfoca a 3 cm
-([la guía del Pixel](https://github.com/morandeirachema/a6700-namibia/blob/main/tecnica/pixel-10-pro.md)).
+([la guía del Pixel](../manejo-pixel-10-pro/README.md)).
 
 ## Accesorios
 
@@ -2552,7 +2552,7 @@ frenan.
   (~20–30 €) solo para el tele: en el 11 mm oscurece el cielo a trozos.
   (Ojo: con el step-up montado no entra el parasol del 11 mm.)
 - **Mini trípode o pinza de móvil (~10–15 €)**: para el modo astro y los
-  timelapses del [Pixel](https://github.com/morandeirachema/a6700-namibia/blob/main/tecnica/pixel-10-pro.md) — una piedra también
+  timelapses del [Pixel](../manejo-pixel-10-pro/README.md) — una piedra también
   vale, pero la pinza apunta donde tú quieres.
 - **Pera sopladora y paño de microfibra**: el polvo de Etosha es fino y
   omnipresente. Cambia de objetivo solo dentro del coche o de la bolsa — en
@@ -2818,7 +2818,7 @@ El metaconsejo: no memorices combinaciones — mete estos tres ajustes en
 - **El bonus de acercamiento**: 0,23x a 350 mm (enfoca desde 1,5 m) — da
   para texturas de corteza, flores grandes y el detalle del desayuno, pero
   **no es un macro**. El macro de verdad del viaje lo hace el móvil, a 3 cm
-  ([Pixel](https://github.com/morandeirachema/a6700-namibia/blob/main/tecnica/pixel-10-pro.md)).
+  ([Pixel](../manejo-pixel-10-pro/README.md)).
 - **Su firmware** se actualiza con el objetivo montado en la cámara, desde
   la web de soporte de Sony: <https://www.sony.es/electronics/support>
 
@@ -4042,7 +4042,7 @@ en lugar de descubrirlos en Etosha:
   una mirrorless el AF mide en el propio sensor — no existe descalibración
   de fase que lo excuse. Si la nitidez baila, el ejemplar tiene un problema
   → avisa al dueño y decide con tiempo: otro ejemplar en [mpb](https://www.mpb.com/) o el
-  [Pixel de día](https://github.com/morandeirachema/a6700-namibia/blob/main/tecnica/pixel-10-pro-de-dia.md) como tele.
+  [Pixel de día](../manejo-pixel-10-pro/07-lo-que-se-mueve.md) como tele.
 - [ ] **Bloqueo de zoom**: recoge a 70 mm, échalo, y comprueba que el zoom
   no se desliza al colgar la cámara boca abajo.
 - [ ] Actualiza su **firmware** con él montado en la cámara
@@ -4083,7 +4083,7 @@ asimétricas, ese ejemplar está descentrado.
   *Por qué:* el leopardo aparece 4 segundos y no espera tapas.
 - [ ] **El Pixel** cargado, con hueco y en el bolsillo (no en el
   salpicadero al sol): es tu segunda cámara
-  ([su guía](https://github.com/morandeirachema/a6700-namibia/blob/main/tecnica/pixel-10-pro.md)).
+  ([su guía](../manejo-pixel-10-pro/README.md)).
 
 ## 4 · Al llegar a una escena de fauna (10 s, de memoria)
 
@@ -4229,7 +4229,7 @@ El repaso que separa "creo que la tengo" de "la tengo":
 - [ ] [Lista de tomas](https://github.com/morandeirachema/a6700-namibia/blob/main/plan/lista-de-tomas.md): marca conseguidas, elige
   el objetivo de mañana.
 - [ ] Pixel al cargador; sus fotos y clips se quedan en el móvil
-  ([su guía](https://github.com/morandeirachema/a6700-namibia/blob/main/tecnica/pixel-10-pro.md)).
+  ([su guía](../manejo-pixel-10-pro/README.md)).
 - [ ] Pera sopladora a cuerpo y lentes; todo a la bolsa **cerrada** (*por
   qué:* del frío exterior al cuarto caliente, el equipo suda; dentro de la
   bolsa se aclimata sin condensación).

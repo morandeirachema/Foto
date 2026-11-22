@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-# Construye una sección del repo (conceptos, manejo-a6700 o retoques) a partir de sus capítulos:
+# Construye una sección del repo (conceptos, manejo-a6700, manejo-pixel-10-pro o retoques) a partir de sus capítulos:
 #   1. actualiza el bloque de navegación anterior/índice/siguiente de cada capítulo (<carpeta>/NN-*.md),
 #   2. une todos los capítulos (sin la navegación) en <carpeta>/guia-completa.md,
 #   3. convierte ese archivo en un PDF A4, pdf/guia-<carpeta>.pdf, con pandoc y Chrome sin interfaz.
@@ -8,10 +8,11 @@
 set -euo pipefail
 cd "$(dirname "$0")/.."
 
-dir="${1:?uso: ./pdf/generar-guia.sh <conceptos|manejo-a6700|retoques> [--no-pdf]}"
+dir="${1:?uso: ./pdf/generar-guia.sh <conceptos|manejo-a6700|manejo-pixel-10-pro|retoques> [--no-pdf]}"
 case "$dir" in
   conceptos)    title="Conceptos de fotografía" ;;
   manejo-a6700) title="Manejo de la Sony a6700" ;;
+  manejo-pixel-10-pro) title="Manejo del Pixel 10 Pro" ;;
   retoques)     title="Mejorar JPEG de safari, paisaje y fotografía nocturna con Luminar" ;;
   *) echo "Carpeta desconocida: $dir" >&2; exit 1 ;;
 esac

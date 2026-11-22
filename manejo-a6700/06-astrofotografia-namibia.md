@@ -236,7 +236,7 @@ cielo, hace su foto astro de cuatro minutos y te deja además un
 mini-timelapse — sin que lo mires y sin robarte un solo ajuste de la Sony.
 Es la segunda vía del [plan noche a noche](https://github.com/morandeirachema/a6700-namibia/blob/main/plan/cielo-del-viaje.md), la
 de "pon y olvida", y su receta completa está en
-[la guía del Pixel](https://github.com/morandeirachema/a6700-namibia/blob/main/tecnica/pixel-10-pro.md).
+[la guía del Pixel](../manejo-pixel-10-pro/README.md).
 
 ## Ejercicio antes de volar (dos noches, aunque tu cielo sea malo)
 

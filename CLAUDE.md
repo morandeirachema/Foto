@@ -13,6 +13,7 @@ Este archivo orienta a Claude Code (claude.ai/code) cuando trabaja en este repos
 | `conceptos/` | Conceptos, de los fundamentos al dominio, en 11 capítulos: I luz y exposición (01 luz, 02 exposición, 03 histograma, 04 balance de blancos) · II óptica y composición (05 óptica, 06 composición básica, 07 atlas, 08 cuaderno) · III a fondo (09 por qué funciona, 10 la mirada) · IV glosario (11). Propios: 01, 02, 05, 06 | El resto, copiado de `a6700-namibia` (nov. 2026) |
 | `manejo-a6700/` | Manejo de la Sony a6700 en 17 capítulos: primeros pasos, recetas por escena, equipo y objetivos, referencia de ajustes y menús, hojas de campo. Añadidos propios: `05-enfocar-el-11mm.md`, `11-viltrox-25mm.md`, `15-verificacion-de-menus.md` | Copiado en su mayor parte de `a6700-namibia` (nov. 2026) |
 | `retoques/` | Edición **solo en Luminar** (20 capítulos + introducción), comprobada con la documentación de Skylum. El capítulo 3 es la ficha de cada herramienta, con valores de partida concretos; el 4 incluye "¿Qué hay en tu foto?" y termina con "Rescatar un JPEG difícil"; 13.5 trata de compartir con la familia y de los tamaños de impresión; 16.3 es la prueba "¿Me he pasado?" | Propio de este repo |
+| `manejo-pixel-10-pro/` | Manejo del Pixel 10 Pro en 13 capítulos: qué foto es de cada cámara, la aplicación Cámara, el zoom, recetas por escena, controles Pro, la IA, referencia de ajustes, verificación y chuleta | Propio (22 de noviembre de 2026), escrito con la ayuda de Google en español; las dos páginas del Pixel de `a6700-namibia` se leyeron como punto de partida, no se copiaron |
 | `pdf/` | Los PDF generados, sus CSS y los scripts que los generan | — |
 | `sources/` | Material de origen, tal cual: `Namibia-a6700-edicion-completa.pdf` (264 pp., a6700-namibia en `a5252c3` + Anexo A, la auditoría de menús) | Añadido por el dueño |
 | `informes/` y `notas-de-investigacion/` | El informe de la investigación del 22 de noviembre de 2026 sobre edición de JPEG y las notas en que se apoya | Propios |
@@ -36,7 +37,7 @@ La versión interactiva es un artefacto privado de claude.ai, **Test de fotograf
 
 ## Estructura (la misma en las tres secciones)
 
-`conceptos/`, `manejo-a6700/` y `retoques/` comparten una estructura:
+`conceptos/`, `manejo-a6700/`, `manejo-pixel-10-pro/` y `retoques/` comparten una estructura:
 - `00-introduccion.md` y después los capítulos `NN-slug.md`. **Número de capítulo = número de archivo**: el H1 es `# N. Título`, y el generador recoge los capítulos con el patrón `NN-*.md`.
 - Cada capítulo empieza con la etiqueta de su parte (`*Parte II · …*`) antes del H1. Los capítulos de conceptos y manejo conservan su línea de nivel (`> 🟢/🔵/🔴 **Nivel** · …`) justo debajo del H1.
 - `README.md` es el índice de la sección, una tabla de partes y capítulos. Mantenlo sincronizado con `00-introduccion.md` y con las tablas y recuentos del README de la raíz.
@@ -48,13 +49,22 @@ La versión interactiva es un artefacto privado de claude.ai, **Test de fotograf
 
 ```sh
 python3 tools/comprobar.py       # comprobación del repo: enlaces y anclas, vallas sin cerrar, numeración NN/H1, bloques nav, chuleta = 1 página. Ejecútalo antes de cada commit
-./pdf/generar.sh                 # todo: bloques nav, los 3 guia-completa.md y los 6 PDF
-./pdf/generar.sh <nombre>        # chuleta | verificacion-in-situ | cuaderno-de-composicion | guia-conceptos | guia-manejo-a6700 | guia-retoques
+./pdf/generar.sh                 # todo: bloques nav, los 4 guia-completa.md y los 8 PDF
+./pdf/generar.sh <nombre>        # chuleta | chuleta-pixel | verificacion-in-situ | cuaderno-de-composicion | guia-conceptos | guia-manejo-a6700 | guia-manejo-pixel-10-pro | guia-retoques
 ./pdf/generar-guia.sh <carpeta> [--no-pdf]   # una sección: nav + <carpeta>/guia-completa.md (+ pdf/guia-<carpeta>.pdf)
 pdfinfo pdf/<nombre>.pdf         # comprobar el número de páginas
 ```
 
 Los dos scripts usan pandoc (instalado con Homebrew el 22 de noviembre de 2026) y Google Chrome sin interfaz. Regenera después de editar un origen y haz commit de los resultados a la vez. `manejo-a6700/16-chuleta.md` **tiene que caber en una página A4** (usa `pdf/compacto.css`). Los PDF de las hojas de campo quitan los bloques nav. En los PDF de las secciones, los diagramas Mermaid se sustituyen por una nota breve de "se ve en GitHub" (no hay ningún renderizador de Mermaid instalado, y no se instala nada sin preguntar) y los enlaces a archivos del repo pasan a texto. Estilos: `pdf/guia.css` para las secciones y `pdf/estilo.css` (+ `compacto.css`) para las hojas. Para revisar la maquetación, renderiza páginas con `pdftoppm -png -r 50 -f N -l N`. Comprueba los enlaces relativos después de mover archivos: basta un script rápido de Python sobre todos los destinos `](...)`.
+
+## Reglas de manejo-pixel-10-pro
+
+- **Pedida por el dueño el 22 de noviembre de 2026** («haz una guía parecida a la a6700 para el pixel 10 pro»). Sustituye, solo para el Pixel, la decisión de no traer nada del móvil desde `a6700-namibia`; sigue **sin vídeo**.
+- **Nadie la ha probado en el teléfono.** Los nombres y las rutas son los de la Ayuda de Cámara Pixel en español (`support.google.com/pixelcamera/...?hl=es`) y la ficha de `support.google.com/pixelphone/answer/7158570?hl=es`, leídas ese día; las notas están en `notas-de-investigacion/pixel-10-pro/ayuda-de-google.md` y el recuento, en `manejo-pixel-10-pro/12-verificacion.md`. Lo que Google no documenta se dice en el texto y va a PENDIENTES § 9. No lo «completes» de memoria.
+- **Nombres como en pantalla, en español:** `Visión nocturna`, `Astrofotografía`, `Inclúyeme` (no «Añádeme»), `Barrido de movimiento`, `Larga exposición`, `Mejor toma`, `Mejor versión automática`, `Asistente de cámara` (no «Camera Coach»), `Zoom Pro`, `Enfoque macro`, `Selección de lente`, `Sugerencias de encuadre`. Rutas: `Ajustes → [Grupo] → [Ajuste]`.
+- **Datos que no hay que «corregir»:** Astrofotografía solo desde 1x; por encima de 30 aumentos el Zoom Pro usa IA generativa y guarda dos imágenes; el Asistente de cámara necesita Internet; Google no publica focales en milímetros (los ~12/25/111 mm son un cálculo de la guía a partir del ángulo de visión).
+- `13-chuleta.md` **tiene que caber en una página A4** (`pdf/chuleta-pixel.pdf`); `tools/comprobar.py` lo comprueba.
+- En esta sección, «capítulo N» es el capítulo N de **manejo-pixel-10-pro**, y las referencias a la a6700 van siempre con enlace.
 
 ## Reglas de retoques (Luminar)
 

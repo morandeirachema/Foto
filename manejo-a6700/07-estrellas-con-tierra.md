@@ -295,7 +295,7 @@ recolocas el trípode al sur, lanzas la serie de círculos **y te vas** — a la
 charca de los rinos o a la cama. El reparto exacto por noche está en
 [el cielo del viaje](https://github.com/morandeirachema/a6700-namibia/blob/main/plan/cielo-del-viaje.md) y el plan hora a hora en
 [el nivel avanzado del final de esta guía](#nivel-avanzado--cuando-las-tres-noches-ya-salgan-solas). El Pixel, mientras, hace su propia versión
-apuntando a otra parte del cielo ([su guía](https://github.com/morandeirachema/a6700-namibia/blob/main/tecnica/pixel-10-pro.md)).
+apuntando a otra parte del cielo ([su guía](../manejo-pixel-10-pro/README.md)).
 
 ## Nivel avanzado — cuando las tres noches ya salgan solas
 

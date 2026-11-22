@@ -72,7 +72,7 @@ La lección: el tele de fauna ve cosas que tu móvil jamás ha visto. Al
 principio te costará *encontrar* al animal por el visor a 350 mm — es normal,
 se entrena (deberes, abajo). Y el móvil no se jubila: lo que le sigues
 pidiendo en el viaje (0.5x, macro, modo astro, panorámicas) está en
-[la guía del Pixel 10 Pro](https://github.com/morandeirachema/a6700-namibia/blob/main/tecnica/pixel-10-pro.md).
+[la guía del Pixel 10 Pro](../manejo-pixel-10-pro/README.md).
 
 ## La cámara en la mano
 
@@ -241,7 +241,7 @@ edición está explicada en la [guía de edición](../retoques/README.md).
 Cuando estas siete salgan solas: [Safari a fondo](https://github.com/morandeirachema/a6700-namibia/blob/main/mejora/safari-a-fondo.md)
 propone tres tardes monográficas más (contraluces, barridos y fondos). Y la
 segunda cámara del viaje, el Pixel 10 Pro, tiene sus diez minutos de puesta a
-punto en [su guía](https://github.com/morandeirachema/a6700-namibia/blob/main/tecnica/pixel-10-pro.md).
+punto en [su guía](../manejo-pixel-10-pro/README.md).
 
 ## Y ahora, ¿qué?
 

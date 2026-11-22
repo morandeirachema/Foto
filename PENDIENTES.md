@@ -89,3 +89,21 @@ El [informe de verificación](informes/verificacion-de-datos.md) revisó todo el
 - [ ] **Datos sin fuente** (tabla «Prioridad 3» del informe): los Kelvin de los preajustes de Sony (5200/6000/7000 K), lo que guardan las memorias MR, valores de fábrica, horarios de fauna en las charcas y precios. Dime cuáles compruebas en la cámara y los fijo o los quito.
 - [x] **Imprecisiones menores** (tabla «Prioridad 2»): aplicadas el 22 de noviembre de 2026, salvo tres que se dejan a propósito (lo explica la nota inicial del informe).
 - [ ] **Nada se ha probado dentro de Luminar ni en la cámara:** toda la verificación es documental o de cálculo.
+
+## 9 · El Pixel 10 Pro
+
+La [guía del Pixel](manejo-pixel-10-pro/README.md) se escribió el 22 de noviembre de 2026 con la ayuda de Google, sin el teléfono delante ([verificación](manejo-pixel-10-pro/12-verificacion.md)). Con el móvil en la mano:
+
+- [ ] Anota la **versión** de la aplicación Cámara y de Android.
+- [ ] `Ajustes → [Pro]`: ¿existen los **controles Pro**? ¿Qué deslizadores hay (enfoque, obturación, ISO; ¿**balance de blancos**?) y entre qué valores se mueven?
+- [ ] ¿Cómo se llaman en pantalla los **botones de zoom** (0,5x, 1x, 2x, 5x, 10x)? ¿Aparece el 10x?
+- [ ] ¿Está instalado **`Zoom Pro`** (`Ajustes → [Más] → [Descarga de modelos]`)? A más de 30 aumentos, ¿se guardan dos imágenes?
+- [ ] Modo `Movimiento`: ¿ofrece `Larga exposición` **y** `Barrido de movimiento`?
+- [ ] Cronometra una foto de **`Astrofotografía`**: ¿cuántos minutos dura?
+- [ ] ¿A qué distancia salta la flor del **`Enfoque macro`**?
+- [ ] ¿Se puede disparar con las **teclas de volumen**? ¿Abre la cámara la **doble pulsación** del botón de encendido? ¿Qué valores tiene el **temporizador**?
+- [ ] ¿Qué **tipos de cuadrícula** y qué opciones de **flash** hay?
+- [ ] ¿En qué **formato** guarda (JPEG, HEIF, Ultra HDR)? ¿Abre Luminar el **DNG** de `RAW + JPEG`?
+- [ ] `Brillo` y `Sombras`: ¿están donde dice el [capítulo 2](manejo-pixel-10-pro/02-la-aplicacion-camara.md)?
+- [ ] Las **Credenciales de Contenido**: ¿qué anota en una foto normal y en una de Zoom Pro?
+- [ ] **Decisión:** ¿quieres preguntas del Pixel en la autoevaluación y en el test interactivo? Ahora no las hay.

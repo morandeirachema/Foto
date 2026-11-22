@@ -143,6 +143,7 @@ No es "hacer más fotos": es subir **un escalón cada vez**. El método está en
 
 - Revisa tus fotos con la [lista de errores típicos](retoques/16-errores-y-lista.md).
 - Edita en serie con coherencia ([retoques 11](retoques/11-trabajar-en-serie.md)).
+- Aprende a usar **la segunda cámara**: el [Pixel 10 Pro](manejo-pixel-10-pro/README.md) hace lo que la a6700 no hace o no tiene a mano (lo muy ancho, el macro, la foto de grupo). Empieza por [qué foto es de cada cámara](manejo-pixel-10-pro/01-de-la-a6700-al-pixel.md); queda fuera de las etapas 0–3 y de la autoevaluación.
 - Imprime una foto tuya a buen tamaño ([retoques 13.3](retoques/13-exportar.md#133-imprimir)): en papel se ve todo lo que la pantalla perdona.
 
 ---
