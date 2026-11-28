@@ -6,6 +6,8 @@
 
 # 17. Atajos de teclado (macOS)
 
+> 📋 **Referencia** · Da por sabido: nada · Te desbloquea: editar sin buscar en los menús.
+
 Atajos de **macOS**, según la documentación oficial de Skylum. Esta guía no cubre Windows.
 
 ## Los símbolos de las teclas del Mac

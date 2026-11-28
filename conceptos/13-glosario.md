@@ -57,7 +57,7 @@ español e inglés, en el [capítulo 4](../manejo-a6700/04-configuracion-basica.
 | **Apertura variable** | Los zoom baratos y ligeros pierden luz al alargarse: el 70-350 va de f/4.5 a f/6.3 según la focal |
 | **Profundidad de campo** | Cuánto sale nítido delante y detrás de donde enfocaste. Depende de la distancia, la focal y la apertura; a igual tamaño del sujeto en el encuadre, casi solo de la apertura |
 | **Hiperfocal** | La distancia a la que enfocar para que todo salga nítido desde su mitad hasta el infinito. Con el 11 mm a f/8: enfoca a 0,8 m; con el 25 mm a f/8, a 3,9 m ([explicada a fondo](05-optica.md#5--la-hiperfocal-todo-nítido-de-cerca-al-infinito)) |
-| **Enfoque por zonas** | Dejar el enfoque puesto a una distancia y cerrar el diafragma para que todo lo que pase por una franja salga nítido. Con el 25 mm a f/8 enfocado a 3 m: de 1,7 a 12,7 m ([calle](../manejo-a6700/12-calle-y-arquitectura.md#enfocar-sin-mirar-el-enfoque-por-zonas)) |
+| **Enfoque por zonas** | Dejar el enfoque puesto a una distancia y cerrar el diafragma para que todo lo que pase por una franja salga nítido. Con el 25 mm a f/8 enfocado a 3 m: de 1,7 a 12,7 m ([calle](../manejo-a6700/13-calle-y-arquitectura.md#enfocar-sin-mirar-el-enfoque-por-zonas)) |
 | **Regla del doble** | Sin tabla: enfoca al doble de la distancia de lo más cercano que quieres nítido, y cierra hasta que su hiperfocal quede por debajo |
 | **Círculo de confusión** | El tamaño a partir del cual un punto desenfocado "se nota". En la a6700 se usa 0,020 mm, unos 5 píxeles: nítido en pantalla y en copias pequeñas, justo al 100 % |
 | **Verticales que se caen** | Las aristas de un edificio que se juntan hacia arriba porque la cámara apunta hacia arriba. Es perspectiva, no defecto del objetivo: cámara a nivel, o **Develop → Transform → Vertical** en Luminar |
@@ -92,8 +92,8 @@ español e inglés, en el [capítulo 4](../manejo-a6700/04-configuracion-basica.
 | **Kelvin (K)** | La escala de la temperatura de la luz: 3200 K naranja, ~5200 K día, ~7000 K sombra azulada. En este repo, **siempre fijo** — en K o en un preajuste (Luz de día, Nublado, Sombra) —; el automático, como mucho a mediodía ([balance de blancos](04-balance-de-blancos.md)) |
 | **Hora dorada / hora azul** | La hora de luz cálida y rasante tras el amanecer o antes del ocaso; y el rato azulado anterior al amanecer y posterior al ocaso |
 | **Contraluz** | El sol detrás del sujeto: siluetas, bordes encendidos y polvo dorado |
-| **Clave alta** | Foto deliberadamente muy clara, casi sin sombras. La estrategia del mediodía en la calcreta blanca |
-| **Clave baja** | Lo contrario: foto deliberadamente oscura, con el sujeto iluminado sobre un fondo casi negro ([fotos en casa](../manejo-a6700/13-fotos-en-casa.md)) |
+| **Clave alta** | Foto deliberadamente muy clara, casi sin sombras. La estrategia del mediodía sobre un suelo blanco |
+| **Clave baja** | Lo contrario: foto deliberadamente oscura, con el sujeto iluminado sobre un fondo casi negro ([fotos en casa](../manejo-a6700/14-fotos-en-casa.md)) |
 | **ISO base** | El ISO de máxima calidad del sensor: **100** en la a6700 |
 | **ISO invariante** | Que dé casi igual subir el ISO en cámara o levantar la exposición en revelado. Tu cámara lo es a partir de ~320–400, en RAW |
 | **Ruido de lectura** | El ruido que añade la propia electrónica al leer el sensor, independiente de la luz |
@@ -108,11 +108,11 @@ español e inglés, en el [capítulo 4](../manejo-a6700/04-configuracion-basica.
 | **Nubes de Magallanes** | Dos galaxias satélite visibles a simple vista desde el sur. Las protagonistas de tu cielo |
 | **Star trails** | Los círculos que dibujan las estrellas en una serie larga de fotos apiladas |
 | **Circumpolar** | Lo que gira alrededor del polo celeste sin ponerse nunca |
-| **Polo sur celeste** | El centro de giro del cielo austral. No tiene estrella brillante; en Etosha queda a ~19° sobre el sur |
-| **Apilado** (*stacking*) | Fundir muchas tomas iguales para bajar el ruido (Starry Landscape Stacker en Mac) o alargar los arcos (StarStaX). Con el modo **aclarar** (*Lighten*), también suma estelas de coches ([estelas de tráfico](../manejo-a6700/11-estelas-de-trafico.md)) |
+| **Polo celeste** | El centro de giro del cielo, a tantos grados sobre el horizonte como tu latitud. El norte lo marca la Estrella Polar; el sur no tiene estrella brillante (en Botswana, a unos 20° sobre el sur) |
+| **Apilado** (*stacking*) | Fundir muchas tomas iguales para bajar el ruido (Starry Landscape Stacker en Mac) o alargar los arcos (StarStaX). Con el modo **aclarar** (*Lighten*), también suma estelas de coches ([estelas de tráfico](../manejo-a6700/12-estelas-de-trafico.md)) |
 | **Intervalómetro** | El disparador automático a intervalos. En la a6700 va **integrado** (`Func. capt. interv.`) |
-| **Timelapse** | Muchas fotos espaciadas montadas como vídeo: el tiempo acelerado ([time-lapse del cielo](../manejo-a6700/10-time-lapse-del-cielo.md)) |
-| **Escala Bortle** | Cuánta contaminación lumínica tiene un cielo, de 1 (perfecto) a 9 (ciudad). Namibia es **1–2** |
+| **Timelapse** | Muchas fotos espaciadas montadas como vídeo: el tiempo acelerado ([time-lapse del cielo](../manejo-a6700/11-time-lapse-del-cielo.md)) |
+| **Escala Bortle** | Cuánta contaminación lumínica tiene un cielo, de 1 (perfecto) a 9 (ciudad). Los sitios de safari lejos de las ciudades suelen ser **1–2** |
 | **Airglow** | Bandas verdosas o rojizas naturales de la alta atmósfera. Salen en tus fotos y **no es un fallo del sensor** |
 | **Luz zodiacal** | Cono de luz lechosa sobre el horizonte tras el ocaso: polvo del sistema solar iluminado |
 | **Bulb** | Exposición que dura lo que tú mantengas. Solo con obturador **mecánico** |
@@ -124,11 +124,11 @@ español e inglés, en el [capítulo 4](../manejo-a6700/04-configuracion-basica.
 | **Bean bag** | Saco de arroz o alubias que apoyas en la ventanilla del coche: el trípode del safari |
 | **Hide** | Escondite o mirador para fotografiar fauna sin que te vea |
 | **Game drive** | Salida de safari en vehículo; la nocturna va con foco y guía |
-| **Charca** (*waterhole*) | El punto de agua donde la fauna acude a beber: el escenario número uno de Etosha |
-| **Calcreta** | La costra caliza blanquísima del suelo de Etosha. Engaña al medidor y ensucia la lente |
+| **Charca** (*waterhole*) | El punto de agua donde la fauna acude a beber: el escenario número uno de un safari en estación seca |
+| **Hide** | Escondite (caseta, muro con mirilla, tienda) desde el que la fauna no te ve. En España hay públicos y de pago ([aves](../manejo-a6700/08-aves.md)) |
 | **Heat haze** | El temblor del aire caliente que emborrona a lo lejos a mediodía. No es la cámara |
-| **Pan** | La gran llanura salina blanca de Etosha |
-| **Mopane** | El árbol dominante de la zona de Halali y Namutoni; su sombra es donde vive el dik-dik |
+| **Pan** | Llanura salina blanca. Engaña al medidor como la nieve |
+| **Mokoro** | Canoa estrecha y baja de los deltas de Botswana: el punto de vista a ras de agua |
 
 ## Referencias
 

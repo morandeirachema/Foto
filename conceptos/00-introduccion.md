@@ -38,7 +38,7 @@
 - **En orden, de la 1 a la 12:** cada capítulo se apoya en los anteriores. Las partes I y II son los fundamentos (🟢 y 🔵); la parte III, el dominio (🔴).
 - **Cada capítulo abre con su nivel:** 🟢 **Iniciación** (nunca has manejado una cámara en serio) · 🔵 **Básico** (las recetas) · 🔴 **Avanzado** (el porqué, y la foto que no es correcta sino buena). Debajo indica qué da por sabido y qué te desbloquea.
 - **Cada capítulo (salvo el glosario) termina con un ejercicio** de una tarde o menos, con criterio de aprobado.
-- **Los ejemplos son de un viaje real** (safari, paisaje y cielos nocturnos en Namibia), pero los conceptos valen en cualquier sitio.
+- **Los ejemplos salen de viajes reales** (safari, paisaje y cielos nocturnos), pero los conceptos valen en cualquier sitio.
 - **"Capítulo N"** en un capítulo de conceptos se refiere a [Manejo de la a6700](../manejo-a6700/00-introduccion.md), salvo que el enlace diga otra cosa.
 - **El orden de todo el repo**, combinando conceptos con la cámara y el retoque, está en la [ruta de aprendizaje](../RUTA.md), con una [autoevaluación](../AUTOEVALUACION.md) por etapa.
 

@@ -6,6 +6,8 @@
 
 # 11. Trabajar en serie
 
+> 🔵 **Básico** · Da por sabido: el [flujo base](04-flujo-base.md) · Te desbloquea: editar cientos de fotos coherentes entre sí: seleccionar, sincronizar y presets.
+
 Tras un safari puedes volver con miles de fotos. Editarlas una a una es inviable.
 
 ## 11.1. Sincronizar ajustes (Sync Adjustments)

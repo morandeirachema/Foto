@@ -36,7 +36,7 @@
 - **En orden, de la 1 a la 12:** cada capítulo se apoya en los anteriores. Las partes I y II son los fundamentos (🟢 y 🔵); la parte III, el dominio (🔴).
 - **Cada capítulo abre con su nivel:** 🟢 **Iniciación** (nunca has manejado una cámara en serio) · 🔵 **Básico** (las recetas) · 🔴 **Avanzado** (el porqué, y la foto que no es correcta sino buena). Debajo indica qué da por sabido y qué te desbloquea.
 - **Cada capítulo (salvo el glosario) termina con un ejercicio** de una tarde o menos, con criterio de aprobado.
-- **Los ejemplos son de un viaje real** (safari, paisaje y cielos nocturnos en Namibia), pero los conceptos valen en cualquier sitio.
+- **Los ejemplos salen de viajes reales** (safari, paisaje y cielos nocturnos), pero los conceptos valen en cualquier sitio.
 - **"Capítulo N"** en un capítulo de conceptos se refiere a [Manejo de la a6700](../manejo-a6700/00-introduccion.md), salvo que el enlace diga otra cosa.
 - **El orden de todo el repo**, combinando conceptos con la cámara y el retoque, está en la [ruta de aprendizaje](../RUTA.md), con una [autoevaluación](../AUTOEVALUACION.md) por etapa.
 
@@ -211,7 +211,7 @@ Un **paso** (*stop*) es **el doble o la mitad de luz**. Es la misma unidad en lo
 
 - **Rápida** (1/1000 s o más): **congela** el movimiento. Un ave en vuelo o un animal corriendo salen nítidos.
 - **Media** (1/125 a 1/250 s): suficiente para personas caminando o animales tranquilos.
-- **Lenta** (1/30 s o menos): el agua se vuelve **sedosa**, las luces dejan estelas ([estelas de tráfico](../manejo-a6700/11-estelas-de-trafico.md)). A pulso, la foto sale **movida**: hace falta apoyo o trípode.
+- **Lenta** (1/30 s o menos): el agua se vuelve **sedosa**, las luces dejan estelas ([estelas de tráfico](../manejo-a6700/12-estelas-de-trafico.md)). A pulso, la foto sale **movida**: hace falta apoyo o trípode.
 - **Muy lenta** (segundos): fotografía nocturna y de estrellas, siempre con trípode.
 
 **Dos borrosidades distintas** que conviene no confundir:
@@ -288,6 +288,55 @@ noche). Regla universal: **el borde derecho es sagrado** — lo que lo toca es
 blanco quemado irrecuperable; el izquierdo perdona más, porque el RAW levanta
 sombras. A partir de ahí, cada escenario tiene su forma "buena".
 
+## Acabas de disparar: qué mirar en 10 segundos
+
+La pantalla sola engaña: al sol parece oscura, de noche parece clara, y a ese
+tamaño todo parece nítido. Con **la primera foto de cada escena** (no con
+todas), cuatro miradas en este orden:
+
+1. **El histograma** (2 s). Pulsa ▶ y **DISP** hasta la vista con histograma.
+   - ¿**Toca el borde derecho**? Si lo que toca tiene detalle (cielo, plumas,
+     piel, nieve), la siguiente con **−0,3 a −0,7**. Si es el sol, una farola o
+     un reflejo, da igual.
+   - ¿**Parpadea** algo? En esta vista, las zonas quemadas y las empastadas
+     parpadean sobre la foto: mira **qué** parpadea.
+   - ¿La montaña está **donde toca para esta escena**? (las formas de abajo).
+     Toda a la izquierda sin ser de noche ni una silueta: **+0,7**.
+2. **La nitidez al 100 %** (3 s). **Gira la rueda de control**: la cámara
+   amplía sola **sobre el punto donde enfocó**. Mira el ojo, la estrella o el
+   cartel:
+   - **Desenfocada**: otra cosa está nítida (una rama, la oreja) → el AF.
+   - **Movida**: bordes dobles o arrastrados en una dirección → más velocidad.
+   - **Toda blanda**: el trípode vibró, f/16 (difracción) o algo en el
+     objetivo.
+   - Con el **dial delantero o el trasero** pasas a la foto siguiente **sin
+     perder la ampliación**: una ráfaga entera, revisada en diez segundos.
+3. **Los bordes** (2 s). Vuelve a la vista completa: ¿una rama que sale de una
+   cabeza? ¿el horizonte torcido? ¿algo cortado (las patas, la trompa, la
+   torre)? ¿una mancha oscura fija en el cielo (polvo)?
+4. **El color y el momento** (2 s). ¿El color es el de la escena o la luz lo
+   ha teñido (balance de blancos)? ¿El gesto está en su punto (ojos abiertos,
+   ala arriba, pie en el aire)?
+
+**Lo que cambia según la foto:**
+
+| Foto | Mira sobre todo | Si falla |
+|---|---|---|
+| Fauna y aves | El **ojo al 100 %**; el fondo claro, sin tocar la derecha | `Punto` en el ojo; +0,7 con fondo claro |
+| Fauna de noche con focos | **Franjas** al 100 %; el animal sin quemar; el color | Obturador mecánico; −0,7; Kelvin |
+| Estrellas | **Una estrella al 100 %**: un punto; la montaña en el primer tercio | Reenfocar con la lupa; ISO 3200 |
+| Estelas y hora azul | Los **edificios** nítidos al 100 %; el cielo sin tocar la derecha | Temporizador de 2 s; menos tiempo o ND |
+| Calle | La persona **dentro de la zona**: ¿nítida? | Zona a otra distancia, o f/11 |
+| Arquitectura | Las **verticales** contra la cuadrícula; las ventanas que parpadean | El nivel; horquillado |
+| Time-lapse | **La primera foto entera**, antes de lanzar la serie | Corrígelo ya: luego no se puede |
+| Paisaje | El primer plano **y** el horizonte al 100 % | Enfoca algo más lejos (la [hiperfocal](05-optica.md#5--la-hiperfocal-todo-nítido-de-cerca-al-infinito)) |
+
+**Y tres costumbres:** revisa la primera de cada escena y vuelve a mirar a la
+cámara, no a la pantalla; marca las buenas con `Valoración` para encontrarlas
+luego ([el primer día](../manejo-a6700/02-menus-y-primer-dia.md)); y **no
+borres en la cámara**: la criba se hace en casa, en una pantalla grande
+([cómo mejorar](12-como-mejorar.md#el-método-el-bucle-de-una-semana)).
+
 ## Safari diurno
 
 ```
@@ -298,7 +347,7 @@ sombras. A partir de ahí, cada escenario tiene su forma "buena".
 ```
 
 - Montaña ancha por el centro, **sin tocar ningún borde**.
-- Caso típico de Etosha: animal oscuro sobre calcreta clara → **dos jorobas**
+- Caso típico de safari: animal oscuro sobre suelo claro (arena, sal, barro seco) → **dos jorobas**
   (animal a la izquierda, fondo a la derecha). Expón para que la joroba
   derecha se acerque al borde **sin tocarlo** (compensación +0.7/+1): el
   animal quedará levantable en edición.
@@ -315,9 +364,10 @@ sombras. A partir de ahí, cada escenario tiene su forma "buena".
 
 - Montaña que **usa casi todo el ancho** sin tocar bordes: la escena tiene
   negros, medios y blancos. Es el histograma "de libro".
-- Amanecer en Deadvlei o interior de Kolmanskop: si para no quemar la derecha
+- Amanecer con el cielo encendido y el suelo en sombra, o un interior con
+  ventanas: si para no quemar la derecha
   tienes que empotrar la izquierda (no cabe todo), la escena supera al sensor
-  → **horquillado ±2 EV** ([guía de paisaje](https://github.com/morandeirachema/a6700-namibia/blob/main/tecnica/paisaje-namibia.md)).
+  → **horquillado ±2 EV** y HDR Merge ([retoques 12.1](../retoques/12-varias-fotos.md#121-hdr-merge)).
 - **Excepción deliberada — siluetas al atardecer**: pico pegado al borde
   izquierdo (las siluetas negras) + joroba a la derecha (el cielo). Aquí el
   amontonamiento a la izquierda no es un error, es la foto.
@@ -375,7 +425,7 @@ sombras. A partir de ahí, cada escenario tiene su forma "buena".
 - **Con polvo a contraluz** el pico izquierdo se ensancha y sube hacia el
   centro: es la luz atravesando las partículas. Perfecto.
 
-## Clave alta: mediodía sobre la calcreta
+## Clave alta: mediodía sobre un suelo blanco
 
 ```
 │              ▄▄███████│
@@ -385,10 +435,10 @@ sombras. A partir de ahí, cada escenario tiene su forma "buena".
 ```
 
 - **Casi todo amontonado a la derecha, sin llegar a tocar el borde.** Es el
-  histograma que parece "mal expuesto" y no lo es: el pan de Etosha **es**
-  blanco.
+  histograma que parece "mal expuesto" y no lo es: una llanura de sal o
+  de arena blanca **es** blanca.
 - El medidor querrá oscurecerlo hasta gris: compensa **+2/3 a +1** y
-  comprueba con el **Zebra 100+** que la calcreta raya solo en los brillos
+  comprueba con el **Zebra 100+** que el suelo raya solo en los brillos
   puntuales, no en toda la superficie.
 - Es la receta de la foto en clave alta que luego se convierte a blanco y
   negro ([edición](../retoques/README.md)).
@@ -428,8 +478,8 @@ sombras. A partir de ahí, cada escenario tiene su forma "buena".
 | Tipo de foto | Dónde va la masa | Compensación de partida |
 |---|---|---|
 | Safari, luz normal | Centro ancho, sin tocar bordes | 0 |
-| Animal oscuro sobre calcreta | Dos jorobas; la derecha cerca del borde | **+0.7 / +1** |
-| Mediodía en el pan (clave alta) | Casi todo a la derecha | **+2/3 a +1** |
+| Animal oscuro sobre suelo claro | Dos jorobas; la derecha cerca del borde | **+0.7 / +1** |
+| Mediodía sobre suelo blanco (clave alta) | Casi todo a la derecha | **+2/3 a +1** |
 | Silueta y contraluz | Dos picos, valle en medio | **−1 / −1.7** |
 | Ave contra cielo claro | Pico del cielo a la derecha | **+1** |
 | Retrato de persona | La piel en el centro-derecha | **+0.7 / +1** |
@@ -493,14 +543,14 @@ práctica: **de día, un preajuste fijo; de noche, Kelvin a mano.**
 | Escena | WB | Por qué |
 |---|---|---|
 | Safari a pleno sol | **Luz de día (5200 K)** | El estándar; deja los tonos como son |
-| Nublado / cielo de tormenta de noviembre | **Nublado (6000 K)** | Quita el azulado de la luz tapada |
+| Nublado / cielo de tormenta | **Nublado (6000 K)** | Quita el azulado de la luz tapada |
 | Animal en sombra (bajo un árbol, hide) | **Sombra (7000 K)** | La sombra abierta es muy azul |
 | **Amanecer y atardecer** | **Fijo en Luz de día (5200 K)** — nunca AWB | El AWB "corrige" el dorado y te roba justo lo que viniste a buscar; con 5200 K fijo, la luz cálida se queda en la foto |
 | Contraluz con polvo dorado | Luz de día (5200 K), o Nublado si lo quieres aún más cálido | Mismo motivo: conservar el oro |
-| Charca nocturna con focos | **K a mano: empieza en 3500** y ajusta por prueba entre **2800–4000** | Cada campamento tiene focos distintos (los de sodio, de unos 2000–2700 K, seguirán naranjas incluso al mínimo: baja a 2800 y asume el tono, o pasa a blanco y negro; ver la prueba de color del [capítulo 7](../manejo-a6700/07-safari-nocturno-charcas.md)) |
+| Charca nocturna con focos | **K a mano: empieza en 3500** y ajusta por prueba entre **2800–4000** | Cada campamento tiene focos distintos (los de sodio, de unos 2000–2700 K, seguirán naranjas incluso al mínimo: baja a 2800 y asume el tono, o pasa a blanco y negro; ver la prueba de color del [capítulo 7](../manejo-a6700/07-fauna-de-noche.md)) |
 | Game drive con foco | **K ≈ 3200–3800** | Focos halógenos, cálidos |
 | Astro / Vía Láctea | **K = 3900** (rango útil 3800–4200) | Cielo neutro sin ponerse naranja ni azul eléctrico |
-| Hide de Olifantsrus (focos rojos) | Da igual el valor: la luz ES roja | No luches contra ella: asume la foto monocroma rojiza o pasa a B/N en edición |
+| Mirador con focos rojos | Da igual el valor: la luz ES roja | No luches contra ella: asume la foto monocroma rojiza o pasa a B/N en edición |
 
 ## Dos avisos
 
@@ -637,7 +687,7 @@ Ninguno de tus objetivos tiene escala de distancias, así que la distancia se po
 1. Elige la apertura (f/8 es el punto dulce: más cerrado, la difracción ablanda toda la foto, [por qué funciona §4](09-por-que-funciona.md#4--difracción-por-qué-f16-no-es-más-nítido)).
 2. Busca algo a la distancia de la tabla: tu mochila, una piedra, el pie del trípode. **Mide con el cuerpo**: un paso normal son unos 0,75 m y un brazo estirado, unos 0,6 m.
 3. Enfoca ahí con **AF-ON** (el pulgar) y **suelta**. Con `AF c/obturador` desactivado ([configuración básica](../manejo-a6700/04-configuracion-basica.md)), el disparador ya no vuelve a enfocar: el foco se queda donde lo dejaste.
-4. Para no tocarlo sin querer, pasa a **MF**: en el 11 mm con su interruptor; en el Viltrox con `Modo de enfoque` → `Enfoque man.` (no tiene interruptor, [su guía](../manejo-a6700/15-viltrox-25mm.md)).
+4. Para no tocarlo sin querer, pasa a **MF**: en el 11 mm con su interruptor; en el Viltrox con `Modo de enfoque` → `Enfoque man.` (no tiene interruptor, [su guía](../manejo-a6700/16-viltrox-25mm.md)).
 5. Compón y dispara sin volver a enfocar.
 
 **Sin tabla, la regla del doble.** ¿Lo más cercano que quieres nítido está a 0,5 m? **Enfoca al doble (1 m)** y cierra hasta la apertura cuya hiperfocal sea 1 m o menos (con el 11 mm, f/5.6 o f/8). Funciona con cualquier objetivo y no hay que memorizar nada.
@@ -646,7 +696,7 @@ Ninguno de tus objetivos tiene escala de distancias, así que la distancia se po
 
 - **"Nítido" no es "lo más nítido posible".** La hiperfocal deja el infinito en el **borde** de la zona nítida: aceptable, no perfecto. Para una copia grande o si vas a mirar al 100 %, **enfoca donde dice la fila de dos pasos más abierta**: a f/8, enfoca a la distancia de f/4 (1,5 m con el 11 mm). Lo nítido empieza entonces en ~0,75 m, y el fondo y el horizonte ganan detalle.
 - **Si te quedas corto, lo que sufre es el fondo.** Enfocar **por delante** de la hiperfocal saca el infinito de la zona nítida y las montañas se ablandan. Enfocar un poco **por detrás** solo te cuesta unos centímetros delante. En la duda, **pásate, no te quedes corto**.
-- **No sirve para todo.** Si lo importante es una cara o un animal, se enfoca a la cara o al animal. La hiperfocal es para cuando **todo** importa: un paisaje con algo cerca, una calle donde no sabes dónde aparecerá la gente ([enfoque por zonas](../manejo-a6700/12-calle-y-arquitectura.md#enfocar-sin-mirar-el-enfoque-por-zonas)) o la noche.
+- **No sirve para todo.** Si lo importante es una cara o un animal, se enfoca a la cara o al animal. La hiperfocal es para cuando **todo** importa: un paisaje con algo cerca, una calle donde no sabes dónde aparecerá la gente ([enfoque por zonas](../manejo-a6700/13-calle-y-arquitectura.md#enfocar-sin-mirar-el-enfoque-por-zonas)) o la noche.
 
 ### Con las estrellas, al revés
 
@@ -844,7 +894,7 @@ mirada, no de identificar la especie.
 - **Cámara**: 350 mm a tope · 1/500 · **el ojo enfocado o no hay foto**.
 - **La clave**: cortar **por dentro** de la figura es válido y deliberado.
   Los dos ojos, o uno solo bien colocado.
-- **Dónde**: elefantes en Nebrownii y Kalkheuwel, que se acercan de verdad.
+- **Dónde**: elefantes en una charca pequeña o cruzando un río, que se acercan de verdad.
 - **El error que lo mata**: quedarse a medias — cortar solo un poquito las
   orejas parece un despiste; cortar de verdad parece una decisión.
 
@@ -864,11 +914,11 @@ El opuesto exacto del anterior: el bicho diminuto y el sitio enorme. Cuenta
 ```
 
 - **Cámara**: 70–135 mm (o el 11 mm si estás cerca) · 1/1000 · **+1 de
-  compensación** si el fondo es calcreta o arena.
+  compensación** si el fondo es arena, sal o barro seco.
 - **La clave**: que el animal ocupe **menos de un décimo** del encuadre y
   esté descentrado. Y que el espacio vacío se vea limpio.
-- **Dónde**: el pan de Etosha (Okondeka, Salvadora), las llanuras de
-  Namutoni, el órix en las dunas de Sossusvlei.
+- **Dónde**: las llanuras abiertas, las playas de arena de un río, las
+  láminas de agua de un delta, las dunas.
 - **El error que lo mata**: dejarlo demasiado grande. Si dudas, está grande.
 
 ## 4 · La silueta
@@ -890,8 +940,8 @@ y en ninguna más.
 - **La clave**: la silueta tiene que ser **legible sola**. Perfil, no de
   frente; patas separadas del cuerpo; cuernos o trompa recortados contra el
   cielo, nunca contra el monte.
-- **Dónde**: Klein Namutoni y Namutoni a contraluz al ocaso; Okaukuejo desde
-  el mirador.
+- **Dónde**: cualquier horizonte limpio a contraluz al ocaso: una charca,
+  una orilla, la cresta de una loma.
 - **El error que lo mata**: un fondo que no es cielo. Una silueta contra
   matorral es una mancha.
 
@@ -913,8 +963,9 @@ Simetría gratis, y solo en las charcas quietas de primera hora.
   murete o del marco de la ventanilla) · 1/500.
 - **La clave**: animal **y** reflejo enteros, con la línea del agua en el
   centro. O solo el reflejo, que luego se gira en edición y nadie lo sabe.
-- **Dónde**: Chudop y Klein Namutoni al amanecer, sin viento. Y de noche,
-  Okaukuejo, donde el foco hace el trabajo.
+- **Dónde**: charcas, remansos y canales al amanecer, sin viento; desde una
+  barca, el reflejo está a ras de agua. Y de noche, una charca con focos,
+  donde el foco hace el trabajo.
 - **El error que lo mata**: cortar el reflejo. O disparar desde alto, que lo
   hace desaparecer.
 
@@ -984,7 +1035,7 @@ desdibujado detrás.
 - **La clave**: **tres planos**, no dos. Hierba desenfocada delante, animal
   nítido, monte azulado detrás.
 - **Dónde**: manadas en profundidad, la fila india hacia el agua, las capas
-  de sierra desde Spreetshoogte.
+  de sierra desde un mirador alto.
 - **El error que lo mata**: que los tres planos estén igual de nítidos. Si
   cierras el diafragma, se acabó el efecto.
 
@@ -1037,7 +1088,7 @@ Dos animales que se relacionan. Vale más que dos retratos.
 
 ## 11 · El contraluz con polvo
 
-El truco más agradecido del atardecer en Etosha, y el más fácil de fallar.
+El truco más agradecido del atardecer en un safari, y el más fácil de fallar.
 
 ```
 ┌──────────────────────────────┐
@@ -1053,8 +1104,8 @@ El truco más agradecido del atardecer en Etosha, y el más fácil de fallar.
   parasol puesto y limpio.
 - **La clave**: necesitas **polvo o pelo** en el aire para que la luz se vea.
   Sin partículas no hay foto: espera a que el grupo camine.
-- **Dónde**: la última hora en cualquier charca, y Okaukuejo, donde el
-  atardecer es a contraluz desde el mirador.
+- **Dónde**: la última hora en cualquier charca o pista con polvo, o sobre
+  el agua salpicada de un río.
 - **El error que lo mata**: un destello por luz parásita. Tapa el sol con el
   propio animal o con una rama.
 
@@ -1079,7 +1130,7 @@ Existe, y casi nadie lo usa.
 - **La clave**: cuellos, troncos y árboles piden vertical. De cada escena
   buena, saca la horizontal **y** la vertical.
 - **Dónde**: jirafa bebiendo o de cuerpo entero, leopardo en rama, elefante
-  de frente, las acacias de Deadvlei.
+  de frente, un árbol aislado.
 - **El error que lo mata**: no hacerla. Se te olvidará; ponlo en la rutina.
 
 ## 13 · A ras de suelo
@@ -1135,8 +1186,8 @@ guardado la cámara.
 
 ## 15 · La banda diagonal
 
-La composición de Vía Láctea que encaja con **tu** noviembre, en el que el
-núcleo sale bajo y tumbado.
+La composición de Vía Láctea para cuando el núcleo sale bajo y tumbado: fuera
+de temporada, o desde latitudes altas como España.
 
 ```
 ┌──────────────────────────────┐
@@ -1151,7 +1202,8 @@ núcleo sale bajo y tumbado.
 - **Cámara**: 11 mm · 20 s · f/1.8 · ISO 1600 · WB 3900 K.
 - **La clave**: la banda **entra por una esquina y no corta** tu silueta.
   Primer plano a un lado, cielo fluyendo al otro.
-- **Dónde**: Spreetshoogte las noches 1 y 2, y Hoada la 8, con el granito.
+- **Dónde**: un mirador con el horizonte despejado hacia donde sale o se pone
+  el núcleo.
 - **El error que lo mata**: poner la banda vertical en el centro. Parte la
   foto en dos.
 
@@ -1171,9 +1223,9 @@ Cielo con tierra dentro, en su versión más simple y más segura.
 
 - **Cámara**: 11 mm · 20 s · f/1.8 · horizonte en el **tercio inferior**.
 - **La clave**: **un quinto de suelo, cuatro quintos de cielo**. Y el objeto
-  a un lado, con perfil simple y suelto: un árbol aislado, el depósito de
-  agua de Okaukuejo, la muralla del fuerte de Namutoni.
-- **Dónde**: todas las noches del viaje. Es la postal.
+  a un lado, con perfil simple y suelto: un árbol aislado, un depósito de
+  agua, una muralla, una cabaña.
+- **Dónde**: cualquier noche oscura de un viaje. Es la postal.
 - **El error que lo mata**: elegir el objeto de noche. Se elige **de día**,
   con luz, y se vuelve luego.
 
@@ -1193,10 +1245,12 @@ Star trails con el polo dentro del encuadre.
 
 - **Cámara**: 11 mm · serie de 90–180 tomas de 30 s · f/2.8 · ISO 800–1600 ·
   intervalo 31 s.
-- **La clave**: el polo sur celeste queda a solo **~19° de altura** en
-  Etosha, así que el centro de giro cae **bajo** — hay sitio de sobra para
-  meter un objeto debajo. Cámara nivelada y horizonte en el tercio bajo.
-- **Dónde**: Namutoni (la muralla blanca), Hoada (el granito).
+- **La clave**: el polo celeste queda a **tantos grados de altura como tu
+  latitud** (unos 20° en Botswana o en el Pantanal, unos 40° en España), así
+  que cerca del ecuador el centro de giro cae **bajo** y hay sitio de sobra
+  para meter un objeto debajo. Cámara nivelada y horizonte en el tercio bajo.
+- **Dónde**: una muralla, un árbol o una roca en el lado del polo (el sur en
+  el hemisferio sur, el norte en España).
 - **El error que lo mata**: el objeto tapando el centro de giro. Ponlo
   debajo o a un lado, nunca encima.
 
@@ -1223,7 +1277,8 @@ Cuando el cielo es más ancho que el 11 mm.
 
 ## 19 · Las dos Nubes con tierra
 
-La foto que solo puedes hacer en el hemisferio sur, y noviembre es su mes.
+La foto que solo puedes hacer en el hemisferio sur; las noches de octubre a
+febrero son las mejores.
 
 ```
 ┌──────────────────────────────┐
@@ -1261,9 +1316,9 @@ más de cuatro metros, que a f/1.8 es "cerca".
 - **Cámara**: 11 mm · enfoca a las **estrellas**, no al primer plano ·
   el objeto a **más de 4 metros** para que entre en la profundidad de campo
   a f/1.8.
-- **La clave**: da escala y profundidad de golpe. Una roca, una bola de
-  granito de Hoada, la rueda del coche.
-- **Dónde**: Hoada y Spreetshoogte, donde hay roca cerca.
+- **La clave**: da escala y profundidad de golpe. Una roca, un tronco,
+  la rueda del coche.
+- **Dónde**: donde haya roca o árboles cerca del sitio desde el que disparas.
 - **El error que lo mata**: poner el objeto a menos de cuatro metros — sale
   borroso y no hay arreglo (el porqué, en [por qué funciona](09-por-que-funciona.md)).
 
@@ -1310,10 +1365,12 @@ práctica, en el [cuaderno de composición](08-cuaderno-de-composicion.md).
 
 # 8. Cuaderno de composición — 20 ejercicios, para imprimir y tachar
 
+> 🔵 **Básico** · Da por sabido: [composición](06-composicion.md) y [el atlas](07-atlas-de-encuadres.md) · Te desbloquea: veinte ejercicios en escalera para entrenar la mirada, para imprimir y tachar.
+
 Veinte ejercicios en escalera, del más tonto al más difícil. Cada uno tiene
 un **criterio de aprobado**: o lo cumples o no, sin opinión. Se hacen con
 cualquier bicho —un pato del parque, el perro de un amigo, las gaviotas del
-puerto— y ninguno necesita Namibia.
+puerto— y ninguno necesita un safari.
 
 **Cómo se usa**: uno o dos por sesión, en orden. No pases al siguiente
 bloque hasta tener el anterior entero. Los encuadres numerados son los del
@@ -1460,11 +1517,11 @@ recuperar donde el sensor saturó.
 **La decisión**: empuja el histograma a la derecha **sin que toque el
 borde**. En la práctica de este viaje:
 
-- Fondo de calcreta blanca o cielo → **+0.7 / +1** y vigila el **Zebra 100+**:
+- Fondo de suelo claro, agua brillante o cielo → **+0.7 / +1** y vigila el **Zebra 100+**:
   si parpadea sobre algo que debe tener detalle, baja.
 - Un animal oscuro sobre fondo claro no es un problema de exposición: es un
   problema de **medición** (medición puntual vinculada al punto de enfoque,
-  [AF y exposición a fondo](../manejo-a6700/16-af-y-exposicion-a-fondo.md)).
+  [AF y exposición a fondo](../manejo-a6700/17-af-y-exposicion-a-fondo.md)).
 - **Dónde NO se aplica**: en astro no hay derecha a la que exponer — el cielo
   es oscuro de verdad. Ahí la montaña del histograma va en el **primer
   tercio**, separada del borde izquierdo, y punto.
@@ -1557,8 +1614,8 @@ te permite estar lejos y aun así llenar el encuadre.
   esa foto no existe con ninguna focal.
 - **El retrato de fauna que no deforma**: no te acerques más — **aléjate y
   zoomea**. Cerca y con angular, la nariz del animal se hincha.
-- **Las capas azuladas de Spreetshoogte**: la compresión de sierras que hace
-  bonito el mirador es distancia pura; el 70-350 solo la recorta.
+- **Las capas azuladas de una sierra**: la compresión que hace bonito un
+  mirador es distancia pura; el 70-350 solo la recorta.
 
 ---
 
@@ -1586,7 +1643,7 @@ levantar la exposición después en el revelado dan casi el mismo resultado.
   entre quemar la orilla iluminada o dejar la foto un poco oscura: **déjala
   oscura y levántala en revelado**. Lo quemado no vuelve; el ruido que añades
   al levantar es pequeño y la reducción por IA se lo come.
-- Y antes de cruzar ningún techo de ISO, el orden del [capítulo 7](../manejo-a6700/07-safari-nocturno-charcas.md)
+- Y antes de cruzar ningún techo de ISO, el orden del [capítulo 7](../manejo-a6700/07-fauna-de-noche.md)
   sigue mandando: con trípode y animal quieto, **baja la obturación primero**.
   Eso es luz gratis; el ISO nunca lo es.
 
@@ -1604,7 +1661,7 @@ Y hay un número que lo explica casi todo: la ficha de Sony da sensibilidad de
 AF **de −3 EV a +20 EV**, medida **a f/2.0**. El 70-350 abre a **f/6.3**: son
 algo más de **tres pasos** (3,3) menos de luz llegando al sensor. El AF que
 en el papel ve a −3 EV, con el tele puesto se queda alrededor de **+0,3 EV** — que
-es, exactamente, la penumbra de la charca de Okaukuejo.
+es, exactamente, la penumbra de una charca con focos.
 
 **Las decisiones**:
 
@@ -1629,7 +1686,7 @@ IBIS), rosca de 55 mm.
   sufre** en astro: las estrellas del borde pueden salir con "alitas" (coma).
   Si te pasa, cierra a **f/2.2–f/2.8** y sube el ISO un paso: pierdes menos
   que ganas. Compruébalo en casa con la prueba de punto de luz de la
-  [hoja de verificación](../manejo-a6700/21-verificacion-in-situ.md), no en Namibia.
+  [hoja de verificación](../manejo-a6700/23-verificacion-in-situ.md), no en el viaje.
 - Para paisaje, f/8 con la hiperfocal de la tabla del punto 3.
 
 **Sony E 70-350mm F4.5-6.3 G OSS** — 105–525 mm equivalentes, y el objetivo
@@ -1653,7 +1710,7 @@ sin estabilizador propio y **sin interruptor AF/MF**.
   misma cuenta del punto 3): el fondo se va, pero un paso en falso también.
 - La hiperfocal pide cerrar mucho más que con el 11 mm: a f/8 se enfoca a
   ~3,9 m y queda nítido desde ~2 m. Tabla completa y receta en
-  [su guía](../manejo-a6700/15-viltrox-25mm.md).
+  [su guía](../manejo-a6700/16-viltrox-25mm.md).
 
 ---
 
@@ -1670,11 +1727,11 @@ se ve congelado; por encima, movido. Con los números de tu equipo:
 |---|---|---|---|
 | León caminando (1,5 m/s) a 30 m, 350 mm | 1,5 mm en 1/1000 s | **~5 px** a 1/1000 · ~18 px a 1/250 | 1/1000 al caminar: es la fila de la [receta de safari](../manejo-a6700/06-safari-diurno.md#receta-por-escena-solo-tocas-la-rueda-delantera) |
 | Persona que cruza la calle (1,4 m/s) a 3 m, 25 mm | 5,6 mm en 1/250 s | ~12 px a 1/250 · **~6 px a 1/500** | **1/500** si cruza; 1/250 basta si viene hacia ti |
-| Ciclista (5 m/s) a 4 m, 25 mm | 5 mm en 1/1000 s | **~8 px** a 1/1000 · ~16 px a 1/500 | 1/1000, o el barrido de la [calle](../manejo-a6700/12-calle-y-arquitectura.md) |
-| Coche por la ciudad (14 m/s, 50 km/h) | 280 m en 20 s | Cruza el encuadre entero | La estela es el coche: [estelas de tráfico](../manejo-a6700/11-estelas-de-trafico.md) |
+| Ciclista (5 m/s) a 4 m, 25 mm | 5 mm en 1/1000 s | **~8 px** a 1/1000 · ~16 px a 1/500 | 1/1000, o el barrido de la [calle](../manejo-a6700/13-calle-y-arquitectura.md) |
+| Coche por la ciudad (14 m/s, 50 km/h) | 280 m en 20 s | Cruza el encuadre entero | La estela es el coche: [estelas de tráfico](../manejo-a6700/12-estelas-de-trafico.md) |
 | Estrellas (la Tierra gira 15° por hora) | 1/4 de grado por minuto | Con el 11 mm a f/1.8, ~16 s antes de que se note al 100 % | 15–20 s con el 11 mm; ~7 s al 100 % con el 25 mm (10–13 s si la ves a tamaño pantalla) |
-| El cielo entero en una serie | 15° por hora, durante horas | Cada foto, un punto; todas juntas, un arco | 30 min = un arco de 7,5°: [star trails](../manejo-a6700/08-estrellas-con-tierra.md) |
-| Nubes en un time-lapse | Mucho en minutos | Entre foto y foto, no en cada foto | El **intervalo** decide la velocidad del vídeo: 2–5 s para nubes, 17 s para estrellas ([time-lapse](../manejo-a6700/10-time-lapse-del-cielo.md#la-cuenta-antes-de-salir)) |
+| El cielo entero en una serie | 15° por hora, durante horas | Cada foto, un punto; todas juntas, un arco | 30 min = un arco de 7,5°: [star trails](../manejo-a6700/09-estrellas-con-tierra.md) |
+| Nubes en un time-lapse | Mucho en minutos | Entre foto y foto, no en cada foto | El **intervalo** decide la velocidad del vídeo: 2–5 s para nubes, 17 s para estrellas ([time-lapse](../manejo-a6700/11-time-lapse-del-cielo.md#la-cuenta-antes-de-salir)) |
 
 **De dónde sale el tiempo de las estrellas.** La famosa **regla del 500**
 (500 ÷ focal equivalente) da 30 s con el 11 mm: es de la época del carrete y
@@ -1760,18 +1817,16 @@ demás.
 
 > Sus fotos, una a una, con por qué funcionan y qué decisión copiarles (y los
 > de calle, arquitectura, cielo nocturno y el tiempo): [los maestros](11-los-maestros.md).
-> La lista del viaje, con trece fotógrafos: [fotógrafos de referencia](https://github.com/morandeirachema/a6700-namibia/blob/main/mejora/fotografos-de-referencia.md).
 
-Investigamos a grandes de la fauna africana — Frans Lanting, Marsel van
-Oosten y Peter Delaney en Namibia; Nick Brandt en África oriental — y todos
-convergen en lo mismo:
+Los grandes de la fauna (Lanting, van Oosten, Brandt, Nichols, du Toit)
+trabajan en sitios muy distintos y convergen en lo mismo:
 
 1. **La foto se planifica antes de que ocurra.** Van Oosten: "la mayoría de
-   mis fotos de Namibia las he previsualizado en casa". Tu versión: la
-   [lista de tomas](https://github.com/morandeirachema/a6700-namibia/blob/main/plan/lista-de-tomas.md) repasada cada noche, y el
-   plan de charcas de abajo decidido la víspera.
-2. **Volumen en el momento bueno.** Lanting disparó 321 tomas a los árboles
-   muertos de Sossusvlei y Deadvlei. Cuando la luz se abra, no hagas 3 fotos y te vayas: trabaja
+   mis fotos de Namibia las he previsualizado en casa". Tu versión: una lista
+   de tomas para cada destino (qué animal, qué gesto, qué luz), repasada cada
+   noche, y el plan por luz y hora de abajo decidido la víspera.
+2. **Volumen en el momento bueno.** Lanting disparó 321 tomas a los mismos árboles
+   muertos para un solo reportaje. Cuando la luz se abra, no hagas 3 fotos y te vayas: trabaja
    la escena en variaciones hasta que se cierre.
 3. **Retrato, no solo acción** (Brandt): espera el momento en que el animal
    se queda **quieto y solemne** — la mirada sostenida vale más que cien
@@ -1780,90 +1835,86 @@ convergen en lo mismo:
    salieron de observar la manada dos semanas y esperar a que terminara su
    baño de barro de la tarde. La foto era estar allí.
 
-## Safari: el plan de charcas por luz y hora (Etosha)
+## Safari: el plan por luz y hora
 
-La luz decide la charca. Con fuentes de fotógrafos que las trabajan:
+La luz decide dónde ponerte. Vale igual para una sabana, un delta o un bosque;
+lo que cambia es dónde está **el agua** y dónde está **la luz**:
 
-| Momento | Dónde | Por qué |
+| Momento | Dónde ponerte | Por qué |
 |---|---|---|
-| Amanecer (puertas ~06:15) | **Chudop** (reflejos entre acacias, agua quieta) o **Klein Namutoni** (de cara al alba) — zona Namutoni; **Salvadora** en el borde del pan — zona centro | Luz frontal limpia y agua espejo |
-| Mañana | **Okaukuejo** (los bancos miran al oeste: sol a tu espalda, animales iluminados de frente) y **Nebrownii** al lado (pequeña: los elefantes entran cerca) | La ventana "fácil" del día |
-| Mediodía (calor) | Cualquier charca abierta: en noviembre el calor **obliga** a beber a todas horas — elefantes, cebras y jirafas en pleno día | Congregación por sed; luz dura → clave alta B/N (abajo) |
-| Tarde | **Okondeka** (borde del pan: animales contra el vacío blanco, y manada de leones residente emboscando), **Gemsbokvlakte**, **Goas** (leones 16:00–18:00) | Mejor luz de tarde documentada |
-| Última hora | Vuelta hacia el campamento con margen; **Klein Namutoni y Namutoni a contraluz = siluetas** | Puertas cierran con el sol (~19:05) |
-| Noche | Mirador de **Okaukuejo**: rinos negros 21:00–24:00 casi garantizados; **Moringa** (Halali) para rino/hiena/leopardo al anochecer; **King Nehale**, junto al fuerte de Namutoni; y la última noche de safari, la charca iluminada de **Onguma Tamboti**, ya fuera del parque | [Capítulo 7](../manejo-a6700/07-safari-nocturno-charcas.md) |
+| Amanecer | Agua quieta (una charca, un remanso del río, un canal del delta) con el sol de frente o de lado | Agua espejo, luz suave y animales que bajan a beber |
+| Mañana | Con el **sol a tu espalda**: elige la orilla o el lado de la pista según hacia dónde sale el sol | La ventana fácil del día: animales iluminados de frente |
+| Mediodía | Junto al agua, a la sombra, motor apagado | El calor obliga a beber a todas horas; luz dura → siluetas o blanco y negro (abajo) |
+| Tarde | Las zonas abiertas y las orillas, donde los depredadores empiezan a moverse | La mejor luz de la tarde, y la caza empieza |
+| Última hora | De cara al sol: **contraluz** sobre el polvo o el agua | Siluetas y bordes de luz |
+| Noche | El mirador, la salida nocturna o la barca | [Fauna de noche](../manejo-a6700/07-fauna-de-noche.md) |
 
-- **Kalkheuwel** aparece citada como "la mejor charca para muchos
-  fotógrafos" (mopane, elefantes, jirafas, rapaces): métela en ruta.
-- Espía las charcas antes del viaje: hay **webcam en directo de la charca de
-  Okaukuejo** (busca "Okaukuejo waterhole live cam") — sirve para calibrar
-  expectativas y horas.
-- Y el consejo de reserva que se deduce de toda esta guía: tu única noche en
-  Okaukuejo (el 9, con luna nueva) es **la noche clave** — la charca de los
-  rinos queda a un paseo de tu cama. Si el itinerario aún admite cambios,
-  una segunda noche allí es lo que más rinde; en noviembre ya es temporada
-  baja (más fácil y más barato). Reservas: <https://www.nwr.com.na/>
+- **Por tipo de destino**: en un **delta o un río** (Botswana, el Pantanal),
+  el plan se hace desde el agua y por la orilla en sombra o al sol; en un
+  **bosque** (Sri Lanka), por los claros, las pistas y las rocas, que es donde
+  los animales salen a la luz.
+- **Estudia el sitio antes**: guías, informes de viaje y, si existen, cámaras
+  en directo de charcas o ríos. Sirven para calibrar horas y expectativas.
+- **Los días clave**: si un animal concreto es el objetivo, dale varios días
+  en el mismo sitio en vez de cambiar de campamento cada noche.
 
 ## Comportamiento que puedes anticipar (= fotos que puedes esperar)
 
-- **Rinoceronte negro**: Okaukuejo de noche, ventana 21:00–24:00, patrón
-  fiable desde hace décadas y vigente en noviembre.
-- **Elefantes**: oleadas a media mañana y ~30 min antes del atardecer; tras
-  el baño de barro, la arcilla blanca de la zona los deja **blancos**
-  ("elefantes fantasma") — la foto es cuando abandonan la charca.
-- **Jirafa bebiendo**: abre las patas en compás — su momento más vulnerable
-  y TU foto. Se lo piensa minutos: ten el encuadre listo antes.
-- **Cebras y springboks**: se acercan al agua en tandas nerviosas por miedo
-  a emboscadas — la tensión de la fila india ES la foto de anticipación.
-- **Gangas (sandgrouse)**: llegan a beber **~2 horas después del amanecer**
-  con puntualidad de reloj — vuelo rápido y bajo: 1/2500 s esperándolas.
-- **Leones**: emboscada clásica en Okondeka (ocultos en las gateras del
-  pan); actividad en Goas al final de la tarde.
-- **Noviembre**: llegan los migratorios — mejor mes de rapaces y abejarucos
-  europeos en cables y ramas.
+- **Elefantes**: llegan al agua en oleadas, a media mañana y antes del
+  atardecer; el baño de barro y la salida del agua son la foto. Si cruzan un
+  río, el momento es la trompa fuera del agua.
+- **Jirafa bebiendo**: abre las patas en compás, su momento más vulnerable y
+  tu foto. Se lo piensa minutos: ten el encuadre listo antes.
+- **Cebras y antílopes**: se acercan al agua en tandas nerviosas por miedo a
+  emboscadas. La tensión de la fila es la foto.
+- **Grandes felinos**: activos al principio y al final del día, quietos en las
+  horas de calor. El **leopardo** sale a las rocas y las ramas; el **jaguar**
+  patrulla las orillas y cruza el río a nado; el **león** descansa a la sombra
+  y caza al anochecer. La foto es cuando se levantan.
+- **Aves acuáticas**: a primera hora, pescando en las orillas; los vuelos de
+  ida y vuelta a los dormideros, al amanecer y al anochecer, con 1/2500
+  ([aves](../manejo-a6700/08-aves.md)).
+- **Migratorios**: en el cambio de estación llegan rapaces y abejarucos; en
+  España, las migraciones de primavera y otoño llenan los humedales.
 
-La lista completa, especie por especie y con los ajustes de cada una:
-[la fauna, animal por animal](https://github.com/morandeirachema/a6700-namibia/blob/main/tecnica/fauna-de-namibia.md).
+## La estrategia de un viaje
 
-## Noviembre: tu estrategia de quincena
-
-1. **Los días antes de la primera tormenta gorda valen doble.** Hasta que
-   rompan las lluvias, las charcas concentran caza mayor a niveles de
-   temporada alta; tras la primera lluvia general, la fauna se dispersa **en
-   días**. Traducción: exprime las charcas desde tu primer día en Etosha (el 9) — no "ya iré".
-2. **La tormenta es un regalo fotográfico**: nubes negras + luz lateral
-   sobre la sabana ("storm light"), atardeceres vívidos y, si llueve, olor a
-   tierra y polvo asentado. Subexpón −2/3 y busca fauna contra ese cielo
-   ([extra 14 de la lista](https://github.com/morandeirachema/a6700-namibia/blob/main/plan/lista-de-tomas.md)).
-3. **El calor manda el ritmo**: 33–36 °C. Madruga con las puertas, siesta
-   táctica vigilando una charca a mediodía (a la sombra, motor apagado), y
-   última salida 16:00–cierre. El *heat haze* castigará el tele a mediodía a
-   más de ~30 m: acepta la foto ambiental o acércate.
-4. **El mediodía no se tira**: luz dura + calcreta blanca = **clave alta en
-   blanco y negro**. Receta de clave alta (al estilo de Peter Delaney; los valores son de esta guía): mide, compensa **+2/3 a +1** (el
-   medidor oscurece lo blanco), deja el fondo blanco puro y convierte en
-   edición ([flujo B/N](../retoques/README.md)). El "defecto" del
-   mediodía se vuelve estilo.
-5. **Contraluz con polvo al atardecer**: sol detrás del animal, −1 EV, y el
-   polvo en suspensión se enciende dorado. En Okaukuejo, el atardecer ES a
-   contraluz desde el mirador: siluetas y reflejos.
+1. **La estación decide.** En la seca, el agua concentra a los animales y la
+   vegetación clarea: más avistamientos. En la de lluvias, el paisaje es verde,
+   hay crías y aves, y los animales se dispersan. Elige la estación por lo que
+   quieres fotografiar.
+2. **La tormenta es un regalo fotográfico**: nubes negras y luz lateral sobre
+   el paisaje, atardeceres vivos y el polvo asentado. Subexpón −2/3 y busca
+   fauna contra ese cielo.
+3. **El calor manda el ritmo**: madruga, haz una siesta táctica vigilando el
+   agua a mediodía (a la sombra, motor apagado) y vuelve a salir a media tarde.
+   El *heat haze* castiga el tele a mediodía a más de ~30 m: acepta la foto
+   ambiental o acércate. Con humedad, deja que la cámara se adapte en una bolsa
+   cerrada al salir del aire acondicionado, o el objetivo se empañará.
+4. **El mediodía no se tira**: luz dura sobre un suelo claro es **clave alta en
+   blanco y negro**. Mide, compensa **+2/3 a +1** (el medidor oscurece lo
+   blanco), deja el fondo blanco puro y convierte en edición ([flujo B/N](../retoques/06-herramientas-avanzadas.md#66-black--white-essentials)).
+   El "defecto" del mediodía se vuelve estilo.
+5. **Contraluz con polvo o con agua al atardecer**: sol detrás del animal,
+   −1 EV, y el polvo en suspensión o las gotas se encienden doradas.
 
 ## Y de noche, en una pantalla
 
-El catálogo completo de tu cielo —qué hay cada noche, en qué dirección y con
-qué receta— vive en [el cielo del viaje](https://github.com/morandeirachema/a6700-namibia/blob/main/plan/cielo-del-viaje.md), y la
-técnica desde cero en [estrellas con la tierra dentro](../manejo-a6700/08-estrellas-con-tierra.md).
+La técnica, desde cero, está en [estrellas con la tierra dentro](../manejo-a6700/09-estrellas-con-tierra.md)
+y la noche completa, en [astrofotografía](../manejo-a6700/10-astrofotografia.md).
 Lo que importa para **la mirada**, en cinco líneas:
 
-- **Tus fechas son buenas de verdad**: luna nueva el 9 de noviembre, cielos
-  Bortle 1–2 y oscuridad total de ~20:25 a ~04:55.
-- **Tu cielo no es el de las postales de agosto**: el núcleo de la Vía Láctea
-  sale bajo y tumbado al oeste, y dura 45–75 minutos. Composición de
-  panorámica o de banda diagonal, no de arco cenital.
-- **Las protagonistas son las Nubes de Magallanes**, al sur, toda la noche —
-  y noviembre es su mejor mes.
+- **La luna decide la noche**: la Vía Láctea pide luna nueva (o cinco días
+  alrededor); con cuarto de luna, el paisaje sale iluminado y la foto es otra.
+- **Tu cielo depende de la latitud.** El núcleo de la Vía Láctea culmina a
+  unos **80°** en Botswana, unos **55°** en Sri Lanka y solo unos **20°** en el
+  centro de España. Desde el hemisferio sur, las **Nubes de Magallanes** se ven
+  buena parte de la noche (hasta unos 40° de altura, mejor de octubre a
+  febrero); desde Sri Lanka apenas asoman sobre el horizonte.
+- **La temporada del núcleo** va, al anochecer, de abril a septiembre; fuera
+  de ella, sale de madrugada o no sale.
 - **El valor seguro es el star trails**: no depende de la luna ni de tu
-  puntería, y de regalo caza bólidos de las Táuridas.
+  puntería.
 - **La decisión de la mirada**: elige la silueta **de día**, con luz, y
   vuelve de noche. Nadie compone un primer plano a oscuras.
 
@@ -1883,7 +1934,7 @@ la escalera de cada tema y un plan de doce semanas están en
 2. **Veinte de la misma cosa.** Un solo sujeto (un perro, un pato del parque,
    una farola), veinte fotos **distintas**: cerca, lejos, alto, bajo, a
    contraluz, detalle, contexto. Obliga a agotar una escena, que es lo que
-   harás en Etosha cuando la luz se abra.
+   harás en un safari cuando la luz se abra.
 3. **La criba de tres.** De esas veinte, quédate con tres y escribe una línea
    por cada descarte. Es el método de arriba, en pequeño.
 4. **El fondo primero.** Una tarde entera eligiendo el **fondo** antes que el
@@ -1893,8 +1944,6 @@ la escalera de cada tema y un plan de doce semanas están en
 
 ## Referencias
 
-- Reservas y campamentos de Etosha (NWR): <https://www.nwr.com.na/>
-- Charcas y fauna de Etosha: <https://www.etoshanationalpark.org/>
 - Calendario de lluvias de meteoros (AMS): <https://www.amsmeteors.org/meteor-showers/meteor-shower-calendar/>
 - Stellarium, para ensayar tu cielo desde casa: <https://stellarium.org/>
 
@@ -1907,10 +1956,15 @@ la escalera de cada tema y un plan de doce semanas están en
 > 🔴 **Avanzado** · Da por sabido: [la luz](01-la-luz.md), [la composición](06-composicion.md) y [por qué funciona](09-por-que-funciona.md) · Te desbloquea: mirar una gran foto y ver **las decisiones** que la hicieron, y copiar la decisión, no la foto.
 
 Una foto buena no lo es por suerte: detrás hay **cuatro o cinco decisiones**
-que se pueden nombrar. Este capítulo las nombra en las fotos de **cinco
-fotógrafos de fauna, cinco de cielo nocturno, cinco de calle y cinco de
-arquitectura**, más tres de paisaje y tres que fotografían **el tiempo**: los
-temas de este repo. De cada uno, dos o tres fotos.
+que se pueden nombrar. Este capítulo las nombra tema a tema (fauna, aves,
+cielo nocturno, calle, arquitectura, paisaje y el tiempo) de dos maneras:
+
+- **Primero, fotos recientes hechas con cámaras digitales corrientes**, a ser
+  posible con sus ajustes publicados, que puedes **intentar** con tu equipo.
+  Varias son de fotógrafos aficionados y de chavales de Cádiz.
+- **Después, los grandes de cada tema**, con dos o tres fotos de cada uno.
+  Los clásicos de calle, arquitectura y paisaje se hicieron en película: su
+  técnica no se copia, su **mirada** sí.
 
 **Cómo está hecho.** Las fotos **no se reproducen aquí** (tienen derechos):
 cada una lleva el enlace a la página del museo, del concurso o del archivo
@@ -1933,23 +1987,79 @@ selección es de esta guía: no es un ranking oficial.
 | **La edición** | Lo que se hizo después, si está documentado: laboratorio, recorte, fusión de fotos |
 | **Cópiale la decisión** | Cómo se hace con tu a6700, tu 11 mm y tu 25 mm (y el 70-350 prestado), y en Luminar |
 
+**¿La puedes hacer tú?** Cada foto lleva una marca:
+
+| Marca | Qué quiere decir |
+|---|---|
+| ✅ | Con lo que tienes y cerca de casa |
+| 🟡 | Con un viaje, un *hide* o una compra pequeña |
+| 🔴 | Fuera de alcance: te quedas con la idea, y abajo tienes tu versión |
+| 📷 / 🎞️ | Hecha con cámara digital / en película (si la fuente lo dice) |
+
 > **La lección de los seis minutos.** Antes de leer el análisis de cada foto,
 > mírala un minuto y contesta tú las preguntas. Luego compara. Es el mejor
 > entrenamiento de la mirada que existe, y es gratis.
 
 ---
 
+## Fotos que puedes hacer tú
+
+Una por tema para empezar esta temporada, con la foto que la inspira y la
+receta del repo:
+
+| Tema | La foto | Te inspira | Con qué |
+|---|---|---|---|
+| 🐦 Aves | Un pájaro posado desde la ventanilla del coche, con el fondo lejano | [*Free as a Bird*](#free-as-a-bird-cádiz-wpy-2024) | 70-350 a 350 mm, `Ave`, +1 si el fondo es claro ([aves](../manejo-a6700/08-aves.md)) |
+| 🐦 Aves | Un ave sobre un reflejo de la ciudad | [*City Gull*](#city-gull-londres-wpy-2012) | Un estanque o un puerto, a pie |
+| 🦁 Fauna | Un animal a través de la hierba, que se disuelve en primer plano | [*Keep Looking*](#keep-looking-kalahari-central-wpy-2020) | 70-350 a 350 mm y `Punto` en el ojo; un perro en un prado sirve |
+| 🦁 Fauna | Un animal oscuro sobre fondo claro, en blanco y negro | [*Dog's Dinner*](#dogs-dinner-mana-pools-zimbabue-wpy-2017) | +1 y conversión en Luminar |
+| 🌌 Cielo | Círculos de estrellas sobre un árbol, desde el suelo | [*Botswana Star Trail*](#botswana-star-trail-botswana-apoy-2026) | 11 mm, trípode bajo o GorillaPod, `Func. capt. interv.` y StarStaX |
+| 🌌 Cielo | Una silueta con la Vía Láctea | [*Milky Way and Stone Tree*](#milky-way-and-stone-tree-tenerife-apod-29-de-abril-de-2013) | La [noche 2](../manejo-a6700/09-estrellas-con-tierra.md#noche-2--añade-la-tierra-la-postal) |
+| 🚶 Calle | Tres personas que hacen lo mismo en el mismo instante | [*Focus In*](#focus-in-san-francisco-tokyo-foto-awards-2025) | 25 mm, zona a 3 m, f/8 y 1/500 ([calle](../manejo-a6700/13-calle-y-arquitectura.md)) |
+| 🚶 Calle | Una persona que cruza una mancha de sol | [Fan Ho](#fan-ho--la-luz-como-escenario) | −0,7 o −1 y esperar en el sitio |
+| 🏛️ Arquitectura | Un haz de luz y una persona sola en una escalera | [*Concrete Memento*](#concrete-memento-uji-japón-apa-2025) | Expón para la luz y espera al actor |
+| 🏛️ Arquitectura | Un edificio encendido en la hora azul | [*Architectural Minimalism*](#architectural-minimalism-hamburgo-apa-2025) | Trípode, ISO 100, f/8 |
+| 🏞️ Paisaje | La luna llena saliendo sobre una sierra al atardecer | [*Moonrise Perfection Over the Dolomites*](#moonrise-perfection-over-the-dolomites-italia-apoy-2025) | PhotoPills para la hora y el sitio |
+| ⏱️ El tiempo | El mar o un lago liso con el horizonte en el centro | [Sugimoto](#caribbean-sea-jamaica-serie-seascapes-desde-1980) | ND1000 y trípode ([mejoras de equipo](../manejo-a6700/18-mejoras-de-equipo.md#lo-que-te-falta-campo-por-campo)) |
+| ⏱️ El tiempo | Una pila de nubes de un atardecer | [*Sunset Spectrum*](#sunset-spectrum-timestack) | Tu time-lapse y StarStaX |
+
+---
+
 ## Fauna
 
-### Frans Lanting · ponerse a su altura
+### Para empezar: una foto reciente que puedes intentar
+
+#### *Race for Life*, Pantanal (WPY 2013)
+
+**[Ver la foto](https://www.nhm.ac.uk/wpy/gallery/2013-race-for-life)** · **Para ti:** 🟡 📷 en tu viaje al Pantanal, desde barca
+
+- **Datos:** Nikon D300s (APS-C, como la tuya) · 200–400 mm f/4 · 1/800 s ·
+  f/4 · ISO 640.
+- **Qué se ve:** un jaguar persigue a un capibara que huye hacia el río; el
+  capibara ya está en la orilla de arena, a punto de saltar al agua.
+- **Cómo se hizo:** Zig Koch, brasileño, seguía a una hembra de jaguar desde
+  una barca en el río Cuiabá desde el amanecer. Vio al capibara en la orilla y
+  le dio tiempo justo a prepararse antes de que el jaguar saliera de la
+  vegetación.
+- **Por qué funciona:** el **momento** (la persecución, dos animales en
+  tensión), 1/800 que los congela a los dos y una orilla limpia de fondo.
+- **Con tu equipo:** el 70-350 a 350 mm (525 mm eq) llega a un encuadre
+  parecido. Tu f/6.3 recoge algo más de un paso menos que su f/4: con la
+  misma luz, unos **ISO 1600**. Con la barca parada, 1/800–1/1000 como aquí;
+  si la barca se mueve, 1/2000 ([safari, la barca](../manejo-a6700/06-safari-diurno.md#el-vehículo-coche-cerrado-todoterreno-abierto-o-barca)).
+
+### Los grandes de la fauna
+
+
+#### Frans Lanting · ponerse a su altura
 
 Holandés, décadas en National Geographic y premio a toda una carrera en el
 Wildlife Photographer of the Year de 2018. Su lección: **el punto de vista y
 la paciencia valen más que el objetivo**.
 
-#### *Elephants at Twilight*, Botswana
+##### *Elephants at Twilight*, Botswana
 
-**[Ver la foto](https://www.nhm.ac.uk/wpy/gallery/2018-elephants-at-twilight)**
+**[Ver la foto](https://www.nhm.ac.uk/wpy/gallery/2018-elephants-at-twilight)** · **Para ti:** 🟡 en un safari con agua (Botswana, el Pantanal): desde una barca o una orilla, lo más bajo posible
 - **Qué se ve:** un grupo de elefantes al anochecer, reflejados en el agua
   de una charca, con la luna llena en un cielo rosa.
 - **Por qué es buena:** Lanting **se metió en la charca** para bajar la
@@ -1966,9 +2076,9 @@ la paciencia valen más que el objetivo**.
   Y en tu ciudad, cualquier charco tras la lluvia, con la cámara a dos dedos
   del agua y el 11 mm.
 
-#### *Eyes of the Night*, Botswana
+##### *Eyes of the Night*, Botswana
 
-**[Ver la foto](https://www.nhm.ac.uk/wpy/gallery/2018-eyes-of-the-night)**
+**[Ver la foto](https://www.nhm.ac.uk/wpy/gallery/2018-eyes-of-the-night)** · **Para ti:** 🟡 en un safari: quedarte con la misma manada al anochecer
 - **Qué se ve:** leonas al anochecer, con los ojos y las orejas escaneando el
   monte, despiertas y listas para cazar.
 - **Por qué es buena:** siguió a la manada **varias semanas**. La foto no es
@@ -1981,9 +2091,9 @@ la paciencia valen más que el objetivo**.
   avistamiento en avistamiento. Diez minutos con una manada dormida valen la
   espera si sabes qué gesto llega al despertar.
 
-#### Los árboles de Deadvlei, Namibia (National Geographic, 2011)
+##### Los árboles de Deadvlei, Namibia (National Geographic, 2011)
 
-**[Ver la foto y su historia](https://www.nationalgeographic.com/magazine/article/frans-lanting-behind-the-photo)**
+**[Ver la foto y su historia](https://www.nationalgeographic.com/magazine/article/frans-lanting-behind-the-photo)** · **Para ti:** ✅ ya estuviste allí: el 70-350 desde lejos y un degradado en Luminar
 - **Qué se ve:** esqueletos de acacias en primer plano, casi en silueta,
   contra una duna roja enorme encendida por el sol. El suelo de arcilla
   blanca refleja el cielo y parece azul. Mucha gente la tomó por una pintura.
@@ -2002,15 +2112,15 @@ la paciencia valen más que el objetivo**.
   pasos, en Luminar, es un **Linear Gradient** que baja la exposición del
   cielo o de la duna ([retoques 5](../retoques/05-ajustes-locales.md#52-cómo-funcionan-las-máscaras-en-luminar)).
 
-### Nick Brandt · retratos, no fotos de fauna
+#### Nick Brandt · retratos, no fotos de fauna
 
 Británico, fotografió el este de África en película de medio formato, en
 blanco y negro, **sin teleobjetivo ni zoom**. Su lección: **la cercanía cambia
 la relación con el animal**.
 
-#### *Elephant with Exploding Dust, Amboseli*, 2004
+##### *Elephant with Exploding Dust, Amboseli*, 2004
 
-**[Ver la foto y su historia](https://blog.photoeye.com/2014/09/nick-brandt-behind-photo-elephant-with.html)**
+**[Ver la foto y su historia](https://blog.photoeye.com/2014/09/nick-brandt-behind-photo-elephant-with.html)** · **Para ti:** 🔴 🎞️ medio formato y mucha cercanía: quédate con la lección de la luz dura
 - **Qué se ve:** un gran macho que camina por la llanura sacudiéndose el
   polvo; la nube de polvo ocupa el cielo despejado.
 - **Por qué es buena:** era la luz que **nadie quiere**, el sol duro de
@@ -2025,9 +2135,9 @@ la relación con el animal**.
   **lo que la luz dura sí da**: polvo, siluetas, sombras. Y pruébalo en
   **blanco y negro** en Luminar ([retoques 6.6](../retoques/06-herramientas-avanzadas.md#66-black--white-essentials)).
 
-#### *Lion Before Storm II – Sitting Profile, Maasai Mara*, 2006
+##### *Lion Before Storm II – Sitting Profile, Maasai Mara*, 2006
 
-**[Ver la foto y su historia](https://blog.photoeye.com/2014/07/nick-brandt-behind-photo-lion-before.html)**
+**[Ver la foto y su historia](https://blog.photoeye.com/2014/07/nick-brandt-behind-photo-lion-before.html)** · **Para ti:** 🔴 🎞️ dieciocho días con un león: la idea es volver al mismo animal
 - **Qué se ve:** un león sentado de perfil, de cara al viento que precede a
   una tormenta.
 - **Por qué es buena:** **diecisiete días** con el mismo león esperando la
@@ -2040,15 +2150,15 @@ la relación con el animal**.
 - **Cópiale la decisión:** **el animal que ya conoces** vale más que el
   siguiente. Vuelve a la misma charca a la misma hora.
 
-### Michael «Nick» Nichols · ir a su nivel, aunque sea con un robot
+#### Michael «Nick» Nichols · ir a su nivel, aunque sea con un robot
 
 Estadounidense, National Geographic; pasó temporadas largas entre 2011 y 2013
 con los leones del Serengeti. Su lección: **si no puedes estar ahí, manda la
 cámara**, y elige la luz que el animal no ve.
 
-#### *Intimacy*, Serengeti (WPY 2014)
+##### *Intimacy*, Serengeti (WPY 2014)
 
-**[Ver la foto](https://www.nhm.ac.uk/wpy/gallery/2014-intimacy)**
+**[Ver la foto](https://www.nhm.ac.uk/wpy/gallery/2014-intimacy)** · **Para ti:** 🔴 📷 robot y cámara infrarroja: tu versión es el GorillaPod a ras de suelo con el intervalómetro
 - **Datos:** Canon EOS 5D Mark III · **24 mm** · 1/180 s · f/8 · ISO 200 ·
   cámara sobre un **robot teledirigido**.
 - **Qué se ve:** el macho C-Boy descansa mientras una hembra le pide
@@ -2063,9 +2173,9 @@ cámara**, y elige la luz que el animal no ve.
   parque, los patos, tu perro), deja el 11 mm en el suelo con el disparo a
   intervalos (`Func. capt. interv.`) y aléjate.
 
-#### La manada de Vumbi sale a cazar, Serengeti (National Geographic, 2013)
+##### La manada de Vumbi sale a cazar, Serengeti (National Geographic, 2013)
 
-**[Ver la foto](https://www.nationalgeographic.com/photo-of-the-day/photo/lions-pride-serengeti-nichols)**
+**[Ver la foto](https://www.nationalgeographic.com/photo-of-the-day/photo/lions-pride-serengeti-nichols)** · **Para ti:** 🟡 📷 la última media hora de luz de cualquier safari
 - **Qué se ve:** la manada al anochecer, con la luna saliendo, cuando las
   leonas despiertan de la siesta, juegan en la hierba y salen a cazar.
 - **Por qué es buena:** la última luz natural y la luna en el mismo encuadre:
@@ -2076,16 +2186,16 @@ cámara**, y elige la luz que el animal no ve.
 - **Cópiale la decisión:** **la última media hora** es la buena: no
   recojas al ponerse el sol ([las horas](../manejo-a6700/06-safari-diurno.md#horarios)).
 
-### Marsel van Oosten · la foto ya está en la cabeza
+#### Marsel van Oosten · la foto ya está en la cabeza
 
 Holandés, ganador absoluto del Wildlife Photographer of the Year de 2018 y
 conocido por planificar sus fotos de Namibia antes de salir de casa
 ([la mirada](10-la-mirada.md#la-mentalidad-que-separa-las-fotos-buenas-lo-que-hacen-los-maestros)).
 Su lección: **planificar no es lo contrario de sorprenderse**.
 
-#### *The Golden Couple*, montes Qinling, China (WPY 2018)
+##### *The Golden Couple*, montes Qinling, China (WPY 2018)
 
-**[Ver la foto](https://nhm.ac.uk/wpy/gallery/2018-the-golden-couple)**
+**[Ver la foto](https://nhm.ac.uk/wpy/gallery/2018-the-golden-couple)** · **Para ti:** 🟡 📷 el 11 mm o el 25 mm cuando un animal está cerca, en tu próximo safari
 - **Datos:** Nikon D810 · 24–70 mm **a 24 mm** · 1/320 s · f/8 · ISO 1600 ·
   flash SB-910.
 - **Qué se ve:** una pareja de monos dorados de nariz chata descansando, con
@@ -2102,9 +2212,9 @@ Su lección: **planificar no es lo contrario de sorprenderse**.
   tele. La próxima vez, cuando un animal esté cerca del coche, **cambia al
   11 mm o al 25 mm** ([cómo mejorar](12-como-mejorar.md#tu-diagnóstico-lo-que-dicen-tus-2731-fotos)).
 
-#### *Resurrection*, Deadvlei, Namibia (WPY 2013)
+##### *Resurrection*, Deadvlei, Namibia (WPY 2013)
 
-**[Ver la foto](https://www.nhm.ac.uk/wpy/gallery/2013-resurrection)**
+**[Ver la foto](https://www.nhm.ac.uk/wpy/gallery/2013-resurrection)** · **Para ti:** 🟡 📷 trípode, 15 s y una linterna; la niebla, si la encuentras
 - **Datos:** Nikon D4 · 24–70 mm · **15 s · f/8 · ISO 400** · trípode ·
   **linterna** detrás del tronco.
 - **Qué se ve:** una acacia muerta de Deadvlei con la niebla del amanecer y
@@ -2117,18 +2227,18 @@ Su lección: **planificar no es lo contrario de sorprenderse**.
 - **La edición:** no documentada. La luz es de la toma: una linterna
   encendida durante la exposición.
 - **Cópiale la decisión:** tienes la receta: es **pintar con luz**
-  ([fotos en casa, idea 7](../manejo-a6700/13-fotos-en-casa.md#7--pintar-con-luz))
+  ([fotos en casa, idea 7](../manejo-a6700/14-fotos-en-casa.md#7--pintar-con-luz))
   con un árbol en vez de un objeto. Y la lección grande: **elige el sujeto de
   día y vuelve con la luz que quieres** ([la mirada](10-la-mirada.md)).
 
-### Greg du Toit · la regla, rota a propósito
+#### Greg du Toit · la regla, rota a propósito
 
 Sudafricano, ganador absoluto del Wildlife Photographer of the Year de 2013.
 Su lección: **cuando conoces la receta, puedes romperla con intención**.
 
-#### *Essence of Elephants*, Northern Tuli, Botswana (WPY 2013)
+##### *Essence of Elephants*, Northern Tuli, Botswana (WPY 2013)
 
-**[Ver la foto](https://www.nhm.ac.uk/wpy/gallery/2013-essence-of-elephants)**
+**[Ver la foto](https://www.nhm.ac.uk/wpy/gallery/2013-essence-of-elephants)** · **Para ti:** 🟡 📷 en un lodge con escondite a ras de agua (este estaba en Botswana); el flash, más adelante
 - **Datos:** Nikon D3s · 16–35 mm · polarizador · **1/30 s a f/22** · ISO 800 ·
   flash SB-900 al final de la exposición · minitrípode.
 - **Qué se ve:** elefantes en una charca, desde un escondite hundido a ras
@@ -2148,9 +2258,9 @@ Su lección: **cuando conoces la receta, puedes romperla con intención**.
 - **Cópiale la decisión:** en el [cuaderno de composición](08-cuaderno-de-composicion.md),
   haz una foto que rompa una regla del repo, y escribe por qué.
 
-#### *Keep Looking*, Kalahari central (WPY 2020)
+##### *Keep Looking*, Kalahari central (WPY 2020)
 
-**[Ver la foto](https://www.nhm.ac.uk/wpy/gallery/2020-keep-looking)**
+**[Ver la foto](https://www.nhm.ac.uk/wpy/gallery/2020-keep-looking)** · **Para ti:** ✅ 📷 tu 70-350 a 350 mm y la hierba de delante: vale un perro en un prado
 - **Datos:** Nikon D500 (APS-C, como la tuya) · 80–400 mm **a 400 mm** ·
   1/400 s · f/11 · ISO 800.
 - **Qué se ve:** un león que devuelve la mirada a través de una cortina de
@@ -2163,12 +2273,12 @@ Su lección: **cuando conoces la receta, puedes romperla con intención**.
   sostiene todo.
 - **La edición:** no documentada.
 - **Cópiale la decisión:** es tu 70-350 a 350 mm. Cuando la hierba robe el
-  foco, pon **punto único en el ojo** ([AF a fondo](../manejo-a6700/16-af-y-exposicion-a-fondo.md))
+  foco, pon **punto único en el ojo** ([AF a fondo](../manejo-a6700/17-af-y-exposicion-a-fondo.md))
   y deja que la hierba haga de marco.
 
-#### *Dog's Dinner*, Mana Pools, Zimbabue (WPY 2017)
+##### *Dog's Dinner*, Mana Pools, Zimbabue (WPY 2017)
 
-**[Ver la foto](https://nhm.ac.uk/wpy/gallery/2017-dogs-dinner)**
+**[Ver la foto](https://nhm.ac.uk/wpy/gallery/2017-dogs-dinner)** · **Para ti:** ✅ 📷 +1 y blanco y negro con cualquier animal oscuro sobre fondo claro
 - **Datos:** Nikon D4S · 80–400 mm a 290 mm · 1/320 s · f/8 · **+1 EV** ·
   ISO 3200 · blanco y negro.
 - **Qué se ve:** un licaón sobre su presa, antes de que llegue el resto de la
@@ -2182,17 +2292,138 @@ Su lección: **cuando conoces la receta, puedes romperla con intención**.
 
 ---
 
+## Aves
+
+Cuatro fotos premiadas en el Wildlife Photographer of the Year, de fotógrafos
+**jóvenes**, tres de ellos de Cádiz, con cámaras y teles corrientes. Son la
+mejor prueba de que la foto de aves está a tu alcance: lo que las hace buenas
+es el sitio, la paciencia y el fondo, no el equipo.
+
+#### *Free as a Bird*, Cádiz (WPY 2024)
+
+**[Ver la foto](https://nhm.ac.uk/wpy/gallery/2024-free-as-a-bird)** · **Para ti:** ✅ 📷
+
+- **Datos:** Olympus OM-D E-M1 Mark III · 100–400 mm a 400 mm · 1/640 s ·
+  f/6.3 · **+1 EV** (el ISO no se publica).
+- **Qué se ve:** una tarabilla joven posada junto a una cadena oxidada; la
+  cadena y la valla la enmarcan, y la luz del verano repite los colores del
+  metal, del plumaje y de la hierba seca.
+- **Cómo se hizo:** Alberto Román Gómez, de **diez años**, desde la
+  ventanilla del coche de su padre, junto al parque natural de la Sierra de
+  Grazalema. El pájaro iba y venía cazando insectos.
+- **Por qué funciona:** un **marco** dentro del encuadre (la cadena), la
+  **armonía de color** y un fondo lejano y liso. El +1 compensa el fondo claro
+  ([el gris medio](01-la-luz.md#por-qué-la-cámara-se-equivoca-el-gris-medio)).
+- **Con tu equipo:** su cámara multiplica la focal por 2 (400 mm son unos
+  800 mm eq); tu 350 mm son 525 mm eq, así que necesitas estar **más cerca**:
+  el coche como *hide* lo permite ([aves](../manejo-a6700/08-aves.md#en-el-campo-sin-hide)).
+
+#### *Sunflower Songbird*, Cádiz (WPY 2021)
+
+**[Ver la foto](https://nhm.ac.uk/wpy/gallery/2021-sunflower-songbird)** · **Para ti:** ✅ 📷
+
+- **Datos:** Fujifilm X-H1 (APS-C, como la tuya) · XF 100–400 mm · 1/280 s ·
+  f/5.6 · **−1 EV** · ISO 400.
+- **Qué se ve:** un zarcero políglota saltando de girasol en girasol, con la
+  luz que cae al final de una tarde de mayo.
+- **Cómo se hizo:** Andrés Luis Domínguez Blanco, en Arcos de la Frontera,
+  desde un *hide* montado en el coche de su padre.
+- **Por qué funciona:** el **color** (el amarillo que llena el encuadre), la
+  luz baja y el −1, que evita que los pétalos se quemen.
+- **Con tu equipo:** exactamente tu receta de ave posada; un campo de
+  girasoles en flor, a última hora, desde el coche.
+
+#### *Out of the Fog*, Cádiz (WPY 2022)
+
+**[Ver la foto](https://www.nhm.ac.uk/wpy/gallery/2022-out-of-the-fog)** · **Para ti:** ✅ 📷
+
+- **Datos:** Canon EOS 7D Mark II (APS-C) · Tamron 100–400 mm · 1/8000 s ·
+  f/6.3 · ISO 800 · trípode.
+- **Qué se ve:** una escena casi monocroma: un águila pescadora posada en un
+  árbol muerto mientras se levanta la niebla.
+- **Cómo se hizo:** Ismael Domínguez Gutiérrez fue al embalse de Los Hurones a
+  por somormujos, con una visibilidad de pocos metros. Al levantarse la niebla,
+  apareció la escena.
+- **Por qué funciona:** la **niebla simplifica** (sin fondo, solo la silueta
+  del árbol y el ave) y la mirada atenta a lo que **no** había ido a buscar.
+- **Con tu equipo:** los días de niebla son días de foto: ve igual, con el
+  tele y el trípode, y expón para que la niebla quede clara (+0,7).
+
+#### *City Gull*, Londres (WPY 2012)
+
+**[Ver la foto](https://www.nhm.ac.uk/wpy/gallery/2012-city-gull)** · **Para ti:** ✅ 📷
+
+- **Datos:** Canon EOS 450D · 100 mm f/2.8 · 1/250 s · f/4.5 · ISO 200.
+- **Qué se ve:** una gaviota reidora sobre un agua que refleja, deformadas en
+  remolinos, las líneas rectas de un edificio de oficinas.
+- **Cómo se hizo:** Eve Tucker paseaba por un muelle de Canary Wharf y un ave
+  le llamó la atención.
+- **Por qué funciona:** **el fondo es la foto**: el reflejo de la ciudad
+  convierte una gaviota cualquiera en un cuadro. Ave y arquitectura a la vez.
+- **Con tu equipo:** un estanque o un puerto de tu ciudad, el 70-350 o el
+  25 mm si se acercan, y la paciencia de esperar a que el ave se coloque
+  sobre el mejor trozo de reflejo.
+
+---
+
 ## El cielo de noche
 
-### Babak Tafreshi · el cielo encima de un sitio
+### Para empezar: fotos recientes que puedes intentar
+
+#### *Botswana Star Trail*, Botswana (APOY 2026)
+
+**[Ver la galería](https://www.rmg.co.uk/whats-on/astronomy-photographer-year/galleries/skyscapes-2026)** · **Para ti:** 🟡 en tu viaje a Botswana
+
+- **Datos:** la ganadora de Skyscapes 2026. El autor cuenta que fueron **340
+  fotos en 4 horas**, unidas en una (unos 42 s por foto); sus ajustes no se
+  publican.
+- **Qué se ve:** círculos de estrellas sobre baobabs sin hojas, con la cámara
+  cerca del suelo apuntando hacia arriba entre las ramas.
+- **Cómo se hizo:** Stefano Pellegrini, en el parque nacional de Nxai Pan, en
+  agosto de 2025.
+- **Por qué funciona:** el **punto de vista bajo** convierte las ramas en un
+  marco y el cielo girando en el techo de la foto; cuatro horas dan arcos
+  largos.
+- **Con tu equipo:** el 11 mm, el GorillaPod o el trípode muy bajo, MR2 y
+  `Func. capt. interv.`, como en tu [time-lapse](../manejo-a6700/11-time-lapse-del-cielo.md#2--una-foto-de-star-trails-con-las-mismas-fotos),
+  y StarStaX. En España, con un olivo o una encina.
+
+#### *Trails at Rest*, Australia (APOY 2025)
+
+**[Ver la galería](https://www.rmg.co.uk/whats-on/astronomy-photographer-year/galleries/skyscapes-2025)** · **Para ti:** ✅
+
+- **Qué se ve:** círculos de estrellas sobre el mar, alrededor del polo sur
+  celeste, desde un barco fondeado; luz zodiacal débil antes del alba.
+- **Datos:** segunda en Skyscapes 2025; los arcos son **20 minutos** de cielo.
+- **Por qué funciona:** el agua lisa abajo y el polo a un lado: una
+  composición sencilla con mucho cielo.
+- **Con tu equipo:** 20 minutos son 60 fotos de 15 s con el intervalómetro;
+  desde un muelle o una playa, no desde un barco que se mueva.
+
+#### *I Hear the Stars*, Inglaterra (APOY 2026)
+
+**[Ver la galería](https://www.rmg.co.uk/whats-on/astronomy-photographer-year/galleries/skyscapes-2026)** · **Para ti:** ✅
+
+- **Qué se ve:** una escultura en forma de concha en una playa de guijarros,
+  con círculos de estrellas encima y un resplandor amarillo en el horizonte.
+- **Datos:** mención de honor en Skyscapes 2026 (João Yordanov Serralheiro).
+- **Por qué funciona:** **un objeto reconocible** en primer plano y el cielo
+  girando: la escultura hace de ancla.
+- **Con tu equipo:** cualquier escultura, faro o ermita de la costa española,
+  en una noche sin luna.
+
+### Los grandes del cielo de noche
+
+
+#### Babak Tafreshi · el cielo encima de un sitio
 
 Fundador de **The World at Night (TWAN)**, el proyecto que reúne a los mejores
 fotógrafos de paisaje nocturno. Su lección: **el cielo es de todos; el
 paisaje de abajo es lo que hace tuya la foto**.
 
-#### *Alborz Mountain Milky Way*, Irán (APOD, 3 de mayo de 2008)
+##### *Alborz Mountain Milky Way*, Irán (APOD, 3 de mayo de 2008)
 
-**[Ver la foto](https://science.nasa.gov/image-article/apod-2008-may-3-alborz-mountain-milky-way/)**
+**[Ver la foto](https://science.nasa.gov/image-article/apod-2008-may-3-alborz-mountain-milky-way/)** · **Para ti:** 🟡 📷 una panorámica de varias fotos con el 25 mm y Panorama Stitching
 - **Qué se ve:** una panorámica antes del amanecer con el arco de la Vía
   Láctea sobre la cordillera de Alborz, el Damavand nevado a la izquierda,
   Júpiter y Antares, y a la derecha el resplandor de la ciudad.
@@ -2203,13 +2434,13 @@ paisaje de abajo es lo que hace tuya la foto**.
   la ciudad, en vez de esconderse, cuenta que hay gente debajo.
 - **La edición:** es una panorámica, unión de varias fotos (el método no se
   detalla).
-- **Cópiale la decisión:** tu [noche 2](../manejo-a6700/08-estrellas-con-tierra.md#noche-2--añade-la-tierra-la-postal):
+- **Cópiale la decisión:** tu [noche 2](../manejo-a6700/09-estrellas-con-tierra.md#noche-2--añade-la-tierra-la-postal):
   **elige el objeto de día**. Y la panorámica, con el 25 mm y **Panorama
   Stitching** ([retoques 12.2](../retoques/12-varias-fotos.md#122-panorama-stitching)).
 
-#### *Night in the Andes Ice Forest*, Chile (APOD, 7 de septiembre de 2013)
+##### *Night in the Andes Ice Forest*, Chile (APOD, 7 de septiembre de 2013)
 
-**[Ver la foto](https://apod.nasa.gov/apod/ap130907.html)**
+**[Ver la foto](https://apod.nasa.gov/apod/ap130907.html)** · **Para ti:** ✅ 📷 una noche de cuarto de luna con algo claro delante
 - **Qué se ve:** los penitentes, agujas de hielo del altiplano de Chajnantor,
   iluminados por la **luna**, con Orión y la Gran Nube de Magallanes encima.
 - **Por qué es buena:** usa la luna, la enemiga de la Vía Láctea, **como
@@ -2221,14 +2452,14 @@ paisaje de abajo es lo que hace tuya la foto**.
 - **Cópiale la decisión:** las noches con **cuarto de luna** no son noches
   perdidas: son las de paisaje nocturno con el suelo iluminado.
 
-### Juan Carlos Casado · el Teide, de noche
+#### Juan Carlos Casado · el Teide, de noche
 
 Astrofotógrafo español de TWAN, colaborador del Instituto de Astrofísica de
 Canarias. Su lección: **el cielo profundo se suma, foto a foto**.
 
-#### *The Milky Way Over Tenerife* (APOD, 5 de abril de 2011)
+##### *The Milky Way Over Tenerife* (APOD, 5 de abril de 2011)
 
-**[Ver la foto](https://science.nasa.gov/image-article/apod-2011-april-5-the-milky-way-over-tenerife/)**
+**[Ver la foto](https://science.nasa.gov/image-article/apod-2011-april-5-the-milky-way-over-tenerife/)** · **Para ti:** 🟡 📷 nueve fotos y 360°: empieza con tres o cuatro verticales
 - **Qué se ve:** una panorámica de **360°** desde el parque nacional del
   Teide, con el volcán en el centro, la luna creciente dentro del arco de la
   Vía Láctea y el lazo de Barnard en rojo.
@@ -2239,12 +2470,12 @@ Canarias. Su lección: **el cielo profundo se suma, foto a foto**.
 - **La edición:** la NASA la describe como **la fusión de nueve fotos**.
 - **Cópiale la decisión:** el centro del encuadre **no está prohibido**
   cuando algo lo rodea ([composición §2](06-composicion.md#2--dónde-colocarlo-los-tercios-y-el-centro)).
-  Y el Teide está a dos horas de avión: Canarias es tu Namibia de cielo en
+  Y el Teide está a dos horas de avión: Canarias es tu gran cielo oscuro sin salir de
   España.
 
-#### *Deep Orion Over the Canary Islands* (APOD, 23 de enero de 2012)
+##### *Deep Orion Over the Canary Islands* (APOD, 23 de enero de 2012)
 
-**[Ver la foto](https://science.nasa.gov/image-article/apod-2012-january-23-deep-orion-over-the-canary-islands/)**
+**[Ver la foto](https://science.nasa.gov/image-article/apod-2012-january-23-deep-orion-over-the-canary-islands/)** · **Para ti:** 🟡 📷 el cielo profundo pide montura; tu versión: diez tomas apiladas
 - **Qué se ve:** los picos del Teide en primer plano, la Vía Láctea vertical,
   el cinturón de Orión y el lazo de Barnard en rojo, nubes de tormenta en el
   horizonte y las luces de un hotel a la izquierda.
@@ -2253,17 +2484,17 @@ Canarias. Su lección: **el cielo profundo se suma, foto a foto**.
 - **La edición:** la NASA dice que las nubes del horizonte se juntaron **de
   varias exposiciones**, y el cielo es una imagen profunda.
 - **Cópiale la decisión:** lo que tú puedes hacer: **10 tomas iguales
-  apiladas** para limpiar el cielo ([time-lapse, foto limpia](../manejo-a6700/10-time-lapse-del-cielo.md#3--una-foto-del-cielo-limpia-de-ruido)).
+  apiladas** para limpiar el cielo ([time-lapse, foto limpia](../manejo-a6700/11-time-lapse-del-cielo.md#3--una-foto-del-cielo-limpia-de-ruido)).
   Si mezclas fotos, dilo al compartir ([ética](../retoques/14-etica.md)).
 
-### Yuri Beletsky · una sola toma bien hecha
+#### Yuri Beletsky · una sola toma bien hecha
 
 Astrónomo y fotógrafo de ESO en el observatorio de Paranal (Chile). Su
 lección: **con buena técnica, una sola foto basta**.
 
-#### *The Planet, the Galaxy and the Laser*, Paranal (ESO, 2007)
+##### *The Planet, the Galaxy and the Laser*, Paranal (ESO, 2007)
 
-**[Ver la foto](https://www.eso.org/public/news/eso0733/)**
+**[Ver la foto](https://www.eso.org/public/news/eso0733/)** · **Para ti:** 🟡 📷 pide montura de seguimiento; sin ella, 15–20 s y más ISO
 - **Datos:** óptica de **10 mm** · montura ecuatorial · **una sola exposición
   de 5 minutos**; ESO subraya que no es un montaje.
 - **Qué se ve** (mirada directamente): el núcleo de la Vía Láctea en
@@ -2280,9 +2511,9 @@ lección: **con buena técnica, una sola foto basta**.
   ángulo. Sin montura, tu límite son 15–20 s ([por qué funciona §9](09-por-que-funciona.md#9--el-tiempo-qué-congela-y-qué-dibuja-la-velocidad)),
   y por eso subes el ISO en vez de alargar.
 
-#### *A laser beam towards the Milky Way's centre*, Paranal (ESO, 2010)
+##### *A laser beam towards the Milky Way's centre*, Paranal (ESO, 2010)
 
-**[Ver la foto](https://www.eso.org/public/images/potw1036a/)**
+**[Ver la foto](https://www.eso.org/public/images/potw1036a/)** · **Para ti:** ✅ 📷 la idea: una persona quieta para la escala
 - **Qué se ve:** el láser del VLT cruzando el cielo del sur hacia el centro
   de la galaxia, con un gran angular que abarca unos 180°.
 - **Por qué funciona:** el mismo recurso de la línea que une, ahora con
@@ -2290,16 +2521,16 @@ lección: **con buena técnica, una sola foto basta**.
 - **La edición:** no documentada.
 - **Cópiale la decisión:** **una persona** con una linterna roja apagada,
   quieta 15 s, convierte una foto de estrellas en una historia
-  ([estrellas con tierra](../manejo-a6700/08-estrellas-con-tierra.md)).
+  ([estrellas con tierra](../manejo-a6700/09-estrellas-con-tierra.md)).
 
-### Petr Horálek · el arco entero
+#### Petr Horálek · el arco entero
 
 Checo, embajador fotográfico de ESO. Su lección: **un arco necesita dos
 pilares**.
 
-#### *Under the celestial arch*, La Silla (ESO, 2018)
+##### *Under the celestial arch*, La Silla (ESO, 2018)
 
-**[Ver la foto](https://eso.org/public/images/potw1834a/)**
+**[Ver la foto](https://eso.org/public/images/potw1834a/)** · **Para ti:** 🟡 📷 una panorámica de cuatro a seis verticales con el 11 mm
 - **Datos:** imagen de 210° × 95°.
 - **Qué se ve** (mirada directamente): el arco completo de la Vía Láctea,
   con la nebulosa de Gum en rojo arriba y las dos Nubes de Magallanes y
@@ -2317,9 +2548,9 @@ pilares**.
   próxima vez, busca **dos objetos**, uno a cada lado, y haz la panorámica
   con el 11 mm en vertical.
 
-#### *A Celestial Self-Portrait*, ALMA, Chile (ESO, 2020)
+##### *A Celestial Self-Portrait*, ALMA, Chile (ESO, 2020)
 
-**[Ver la foto](https://eso.org/public/images/potw2019a/)**
+**[Ver la foto](https://eso.org/public/images/potw2019a/)** · **Para ti:** ✅ 📷 autodisparo de 10 s y tú en el encuadre
 - **Qué se ve:** él mismo, pequeño, entre las antenas de ALMA a 5000 m, bajo
   la Vía Láctea, en una panorámica de 360°.
 - **Por qué funciona:** **la persona diminuta** da la escala de todo lo
@@ -2327,14 +2558,14 @@ pilares**.
 - **Cópiale la decisión:** con el `Autodisp.(senc)` de 10 s te da tiempo a
   ponerte en el encuadre.
 
-### Daniel López · las Canarias, y la linterna
+#### Daniel López · las Canarias, y la linterna
 
 Fotógrafo de Tenerife, autor del proyecto *El Cielo de Canarias*. Su lección:
 **el primer plano también se ilumina**.
 
-#### *Milky Way and Stone Tree*, Tenerife (APOD, 29 de abril de 2013)
+##### *Milky Way and Stone Tree*, Tenerife (APOD, 29 de abril de 2013)
 
-**[Ver la foto](https://science.nasa.gov/image-article/apod-2013-april-29-milky-way-and-stone-tree/)**
+**[Ver la foto](https://science.nasa.gov/image-article/apod-2013-april-29-milky-way-and-stone-tree/)** · **Para ti:** ✅ 📷 silueta y Vía Láctea: tu noche 2
 - **Qué se ve:** el Roque Cinchado, el "árbol de piedra", en primer plano,
   con la Vía Láctea en arco a la derecha y el Teide al fondo con una nube
   lenticular.
@@ -2342,12 +2573,12 @@ Fotógrafo de Tenerife, autor del proyecto *El Cielo de Canarias*. Su lección:
   de paisaje bajo el cielo ([composición §5](06-composicion.md#5--profundidad-las-capas)).
 - **La edición:** un **mosaico de siete fotos**, del verano de 2010.
 - **Cópiale la decisión:** es tu postal con silueta
-  ([noche 2](../manejo-a6700/08-estrellas-con-tierra.md#noche-2--añade-la-tierra-la-postal)),
+  ([noche 2](../manejo-a6700/09-estrellas-con-tierra.md#noche-2--añade-la-tierra-la-postal)),
   con más fotos para abarcar más.
 
-#### *Planet of the Tajinastes*, Tenerife (APOD, 25 de mayo de 2019)
+##### *Planet of the Tajinastes*, Tenerife (APOD, 25 de mayo de 2019)
 
-**[Ver la foto](https://science.nasa.gov/image-article/apod-2019-may-25-planet-of-the-tajinastes/)**
+**[Ver la foto](https://science.nasa.gov/image-article/apod-2019-may-25-planet-of-the-tajinastes/)** · **Para ti:** ✅ 📷 una linterna al mínimo durante la exposición
 - **Qué se ve:** tajinastes rojos, plantas de hasta 3 m, entre rocas
   volcánicas, bajo la Vía Láctea, en una proyección de ojo de pez.
 - **Por qué es buena:** iluminó **cada planta con una linterna** durante las
@@ -2356,20 +2587,60 @@ Fotógrafo de Tenerife, autor del proyecto *El Cielo de Canarias*. Su lección:
   proyección circular hace un "planeta".
 - **Cópiale la decisión:** **pintar con luz** el primer plano, con la
   linterna en el ajuste más bajo y moviéndola, unos segundos de los 20
-  ([fotos en casa, idea 7](../manejo-a6700/13-fotos-en-casa.md#7--pintar-con-luz)).
+  ([fotos en casa, idea 7](../manejo-a6700/14-fotos-en-casa.md#7--pintar-con-luz)).
 
 ---
 
 ## Calle
 
-### Henri Cartier-Bresson · el instante y la geometría
+### Para empezar: fotos recientes que puedes intentar
+
+#### *Focus In*, San Francisco (Tokyo Foto Awards 2025)
+
+**[Ver la foto](https://www.tokyofotoawards.jp/winners/hm/2025/16517)** · **Para ti:** ✅ 📷
+
+- **Datos:** Fujifilm X-T20 (APS-C, como la tuya) · XF 18–55 mm a 39 mm
+  (unos 59 mm eq) · f/6.4 · 1/500 s · ISO 250. Mención de honor en calle.
+- **Qué se ve:** un reportero y un cámara grabando una noticia mientras un
+  aficionado a los coches clásicos fotografía su coche, en el mismo momento.
+- **Por qué funciona:** **la coincidencia**: tres personas haciendo lo mismo
+  (mirar y registrar) en un solo encuadre. Es una foto de calle que se ve en
+  un segundo.
+- **Con tu equipo:** es literalmente tu receta: f/8, 1/500 y el Viltrox con
+  la zona a 3 m ([calle](../manejo-a6700/13-calle-y-arquitectura.md#la-receta-de-partida-mr1-con-tres-cambios)).
+
+#### *Street Moment*, Alicante (Sony World Photography Awards 2025)
+
+**[Ver la foto](https://www.worldphoto.org/sony-world-photography-awards/winners-galleries/2025/open/street-photography)** · **Para ti:** ✅
+
+- **Qué se ve:** el barrio de Santa Cruz de Alicante con la luz de media
+  tarde: color y juego de sombras. Finalista en calle (Francisco Mira Vicent).
+- **Por qué funciona:** **la luz dura como escenario**, la lección de Fan Ho
+  en una ciudad española.
+- **Con tu equipo:** cualquier barrio con calles estrechas y paredes de
+  color, a media tarde, con −0,7.
+
+#### *Celebrating Football Club Victories*, Indonesia (Sony World Photography Awards 2025)
+
+**[Ver la foto](https://www.worldphoto.org/sony-world-photography-awards/winners-galleries/2025/open/street-photography)** · **Para ti:** 🟡
+
+- **Qué se ve:** aficionados que celebran la victoria de su equipo
+  encendiendo bengalas. Ganadora en calle (Khairizal Maris).
+- **Por qué funciona:** **un acontecimiento** con emoción, luz propia (las
+  bengalas) y mucha gente.
+- **Con tu equipo:** una fiesta, una procesión o un partido: ISO alto, 1/250
+  y el 11 mm para estar **dentro**. Cuida tu seguridad y la del equipo.
+
+### Los grandes de la calle (en película)
+
+#### Henri Cartier-Bresson · el instante y la geometría
 
 Francés, cofundador de Magnum. Su lección: **la geometría primero; el
 instante, después**.
 
-#### *Behind the Gare Saint-Lazare*, París, 1932
+##### *Behind the Gare Saint-Lazare*, París, 1932
 
-**[Ver la foto](https://www.moma.org/collection/works/98333)**
+**[Ver la foto](https://www.moma.org/collection/works/98333)** · **Para ti:** ✅ 🎞️ un charco tras la lluvia, el 25 mm y la zona a 3 m
 - **Qué se ve** (mirada en una copia pequeña): un hombre salta sobre un
   charco detrás de la estación; está en el aire y su talón está a punto de
   tocar el agua; su reflejo invertido debajo. Al fondo, un cartel con una
@@ -2385,9 +2656,9 @@ instante, después**.
 - **Cópiale la decisión:** el recorte no es pecado cuando quita lo que
   estorba. Y el charco tras la lluvia es tu mejor escenario de calle.
 
-#### *Hyères, France*, 1932
+##### *Hyères, France*, 1932
 
-**[Ver la foto](https://www.metmuseum.org/art/collection/search/286639)**
+**[Ver la foto](https://www.metmuseum.org/art/collection/search/286639)** · **Para ti:** ✅ 🎞️ una escalera o una barandilla, y esperar
 - **Qué se ve:** desde lo alto de una escalera, la barandilla en espiral
   abajo y un ciclista movido que pasa por la calle.
 - **Por qué es buena:** **se colocó y esperó**. El escenario (la espiral) ya
@@ -2396,17 +2667,17 @@ instante, después**.
   ([líneas que guían](06-composicion.md#4--líneas-que-guían)); el
   movimiento del ciclista contrasta con la escalera quieta.
 - **Cópiale la decisión:** es el ejercicio del
-  [escenario](../manejo-a6700/12-calle-y-arquitectura.md#ejercicio-tres-tardes):
+  [escenario](../manejo-a6700/13-calle-y-arquitectura.md#ejercicio-tres-tardes):
   primero el fondo, después espera.
 
-### Saul Leiter · el color y lo que se interpone
+#### Saul Leiter · el color y lo que se interpone
 
 Estadounidense, pionero del color en la calle de Nueva York. Su lección:
 **lo que estorba delante puede ser la foto**.
 
-#### *Snow*, 1960
+##### *Snow*, 1960
 
-**[Ver la foto](https://www.nga.gov/artworks/134760-snow)**
+**[Ver la foto](https://www.nga.gov/artworks/134760-snow)** · **Para ti:** ✅ 🎞️ un cristal empañado un día de lluvia
 - **Qué se ve:** un hombre en una acera nevada, visto a través de un cristal
   empañado que alguien ha limpiado en parte.
 - **Por qué es buena:** el cristal **esconde** casi todo y deja ver un trozo:
@@ -2416,9 +2687,9 @@ Estadounidense, pionero del color en la calle de Nueva York. Su lección:
 - **Cópiale la decisión:** un día de lluvia, la ventana de un café: enfoca al
   cristal o a la calle, a propósito.
 
-#### *Canopy*, 1958
+##### *Canopy*, 1958
 
-**[Ver la foto](https://www.artic.edu/artworks/189718/canopy)**
+**[Ver la foto](https://www.artic.edu/artworks/189718/canopy)** · **Para ti:** ✅ 🎞️ un toldo o un soportal, y −0,7
 - **Qué se ve:** peatones en plena nevada, con el contorno oscuro del toldo
   bajo el que se resguardaba Leiter recortando la escena.
 - **Por qué es buena:** **la mayor parte del encuadre es una mancha negra** y
@@ -2428,14 +2699,14 @@ Estadounidense, pionero del color en la calle de Nueva York. Su lección:
 - **Cópiale la decisión:** deja que algo oscuro llene medio encuadre y pon
   la vida en el otro medio. Expón para la parte clara (−0,7).
 
-### Fan Ho · la luz como escenario
+#### Fan Ho · la luz como escenario
 
 Hongkonés, fotografió su ciudad en los años 50 y 60. Su lección: **espera a
 la luz buena, y el teatro lo pone la ciudad**.
 
-#### *Approaching Shadow*, Hong Kong, 1954
+##### *Approaching Shadow*, Hong Kong, 1954
 
-**[Ver la foto](https://en.wikipedia.org/wiki/Fan_Ho)**
+**[Ver la foto](https://en.wikipedia.org/wiki/Fan_Ho)** · **Para ti:** ✅ 🎞️ la sombra, en Luminar (y dilo al compartirla)
 - **Qué se ve:** una mujer de perfil, al sol, ante una pared lisa; una gran
   sombra diagonal baja desde la esquina superior derecha hasta sus pies.
 - **Por qué es buena:** la sombra **se va a comer** a la figura: el tiempo
@@ -2449,9 +2720,9 @@ la luz buena, y el teatro lo pone la ciudad**.
   Luminar, una sombra así es un **Linear Gradient** con la exposición abajo,
   o **Dodge & Burn → Darken** ([retoques 5](../retoques/05-ajustes-locales.md)).
 
-#### *Smoky World*, Mercado Central, Hong Kong, 1959
+##### *Smoky World*, Mercado Central, Hong Kong, 1959
 
-**[Ver la foto](https://www.mplus.org.hk/en/collection/objects/smoky-world-201533/)**
+**[Ver la foto](https://www.mplus.org.hk/en/collection/objects/smoky-world-201533/)** · **Para ti:** ✅ 🎞️ un mercado o una estación con haces de luz
 - **Qué se ve:** desde abajo, una escalera que sube desde un hueco oscuro; una
   mujer baja en primer plano y muchas figuras suben; la luz marca el polvo del
   aire.
@@ -2461,9 +2732,9 @@ la luz buena, y el teatro lo pone la ciudad**.
   una estación, un claustro): expón para la luz (−1) y espera a que alguien
   la cruce.
 
-#### *School is Over*, Hong Kong, 1963
+##### *School is Over*, Hong Kong, 1963
 
-**[Ver la foto](https://mplus.org.hk/en/magazine/10-facts-about-the-photographer-who-documented-1950s-and-60s-hong-kong)**
+**[Ver la foto](https://mplus.org.hk/en/magazine/10-facts-about-the-photographer-who-documented-1950s-and-60s-hong-kong)** · **Para ti:** ✅ 🎞️ un recorte estrecho en Crop AI
 - **Qué se ve:** una niña agachada con un paraguas y un niño que se aleja,
   con las vías del tranvía y los desagües de la calle.
 - **Por qué funciona:** el **ritmo** de los niños, las vías y los agujeros de
@@ -2474,14 +2745,14 @@ la luz buena, y el teatro lo pone la ciudad**.
 - **Cópiale la decisión:** en **Crop AI**, prueba una proporción estrecha
   (16:9 o más) sobre una foto de calle ([retoques 4, paso 3](../retoques/04-flujo-base.md#paso-3--recorte-y-horizonte-crop-ai)).
 
-### Vivian Maier · invisible a la altura de la cintura
+#### Vivian Maier · invisible a la altura de la cintura
 
 Niñera en Chicago y Nueva York; su obra se descubrió en 2007, en una subasta,
 y se dio a conocer a partir de entonces. Su lección: **una cámara que no intimida**, y **mirar los reflejos**.
 
-#### Autorretratos en reflejos (1953–1955)
+##### Autorretratos en reflejos (1953–1955)
 
-**[Ver las fotos](https://www.theartstory.org/artist/maier-vivian/artworks/)**
+**[Ver las fotos](https://www.theartstory.org/artist/maier-vivian/artworks/)** · **Para ti:** ✅ 🎞️ un escaparate
 - **Qué se ve:** ella misma en escaparates, espejos, tapacubos o en su propia
   sombra, casi siempre a medias.
 - **Por qué funciona:** el reflejo es **una capa más** y el autorretrato, un
@@ -2489,9 +2760,9 @@ y se dio a conocer a partir de entonces. Su lección: **una cámara que no intim
 - **Cópiale la decisión:** en el ejercicio del escenario, busca un escaparate
   donde la calle y tú os superpongáis.
 
-#### *Untitled (7 April 1960, Florida)*
+##### *Untitled (7 April 1960, Florida)*
 
-**[Ver la foto](https://www.theartstory.org/artist/maier-vivian/artworks/)**
+**[Ver la foto](https://www.theartstory.org/artist/maier-vivian/artworks/)** · **Para ti:** ✅ 🎞️ un tranvía o un vagón de metro, con la pantalla abatida
 - **Qué se ve:** una pareja mayor dormida en un tranvía, con las cabezas
   juntas; las ventanas y las barras del techo convergen en un punto de fuga
   detrás de ellas.
@@ -2501,16 +2772,16 @@ y se dio a conocer a partir de entonces. Su lección: **una cámara que no intim
   cintura**, así que la gente no se sentía mirada.
 - **Cópiale la decisión:** con la pantalla de la a6700 abatida hacia arriba y
   el **enfoque por zonas**, dispara desde el pecho
-  ([calle](../manejo-a6700/12-calle-y-arquitectura.md#enfocar-sin-mirar-el-enfoque-por-zonas)).
+  ([calle](../manejo-a6700/13-calle-y-arquitectura.md#enfocar-sin-mirar-el-enfoque-por-zonas)).
 
-### Elliott Erwitt · el humor
+#### Elliott Erwitt · el humor
 
 Fotógrafo de Magnum. Su lección: **la calle también tiene chistes, y se ven
 desde la altura adecuada**.
 
-#### *California*, 1955
+##### *California*, 1955
 
-**[Ver la foto](https://time.com/65708/a-kiss-is-more-than-just-a-kiss-elliott-erwitts-portraits-of-intimacy)**
+**[Ver la foto](https://time.com/65708/a-kiss-is-more-than-just-a-kiss-elliott-erwitts-portraits-of-intimacy)** · **Para ti:** ✅ 🎞️ un retrovisor o un espejo
 - **Qué se ve:** una pareja que se besa, **vista solo en el retrovisor**
   exterior de su coche, aparcado en un mirador de California.
 - **Por qué funciona:** el retrovisor es un **marco dentro del marco**, y la
@@ -2518,9 +2789,9 @@ desde la altura adecuada**.
 - **Cópiale la decisión:** busca marcos dentro de la calle: espejos,
   ventanillas, puertas.
 
-#### *New York City*, 1974
+##### *New York City*, 1974
 
-**[Ver la foto](https://www.holdenluntz.com/magazine/photo-spotlight/elliott-erwitt-new-york-city-1974-dog-legs/)**
+**[Ver la foto](https://www.holdenluntz.com/magazine/photo-spotlight/elliott-erwitt-new-york-city-1974-dog-legs/)** · **Para ti:** ✅ 🎞️ agáchate (la foto original era un anuncio preparado)
 - **Qué se ve:** un chihuahua junto a las botas de su dueña y, a la
   izquierda, las patas enormes de un gran danés.
 - **Por qué funciona:** **el punto de vista a la altura de los pies** y el
@@ -2530,13 +2801,13 @@ desde la altura adecuada**.
 - **Cópiale la decisión:** **agáchate**. A la altura de un perro, la ciudad
   es otra.
 
-### Y un español: Ramón Masats
+#### Y un español: Ramón Masats
 
 Una foto, la más famosa de la fotografía española de calle.
 
-#### *Seminario de Madrid*, 1960
+##### *Seminario de Madrid*, 1960
 
-**[Ver la foto y su historia](https://hipertextual.com/fotografia/fotografias-famosas-madrid-1960-de-ramon-masats/)**
+**[Ver la foto y su historia](https://hipertextual.com/fotografia/fotografias-famosas-madrid-1960-de-ramon-masats/)** · **Para ti:** ✅ 🎞️ ráfaga corta en un partido de barrio
 - **Qué se ve:** un seminarista con sotana estirado en el aire toca el balón
   con la punta de los dedos ante una portería destartalada; su sombra repite
   el gesto en el suelo de tierra; otros seminaristas miran al fondo.
@@ -2551,15 +2822,71 @@ Una foto, la más famosa de la fotografía española de calle.
 
 ## Arquitectura
 
-### Julius Shulman · la casa con vida, en la hora azul
+### Para empezar: fotos recientes que puedes intentar
+
+Tres ganadoras de los Architecture Photography Awards 2025 y una de los Sony
+World Photography Awards 2025. Los ajustes no se publican.
+
+#### *Concrete Memento*, Uji, Japón (APA 2025)
+
+**[Ver la foto](https://www.designboom.com/architecture/1950-petrol-station-photo-year-architecture-photography-awards-2025-michael-luetge-08-27-2025/)** · **Para ti:** ✅
+
+- **Qué se ve:** la luz del sol entra por los huecos brutalistas de la
+  estación de Uji e ilumina a **un transeúnte solo en una escalera**. Ganadora
+  en luz y sombra (Chi Ho Gary Ng).
+- **Por qué funciona:** el **escenario** (hormigón y haces de luz) y **el
+  actor** pequeño: la calle y la arquitectura juntas, como en Hervé.
+- **Con tu equipo:** una estación, un aparcamiento o un claustro con sol
+  entrando de lado; expón para la luz (−1) y espera a que alguien la cruce.
+
+#### *Architectural Minimalism*, Hamburgo (APA 2025)
+
+**[Ver la foto](https://www.designboom.com/architecture/1950-petrol-station-photo-year-architecture-photography-awards-2025-michael-luetge-08-27-2025/)** · **Para ti:** ✅
+
+- **Qué se ve:** una antigua gasolinera de los años cincuenta, hoy protegida,
+  fotografiada **de noche**: su estructura de cristal como luz y geometría.
+  Foto del año (Michael Luetge).
+- **Por qué funciona:** un edificio pequeño y corriente se vuelve icono
+  cuando **se enciende por dentro** y la noche borra lo demás (la lección de
+  Stoller).
+- **Con tu equipo:** un quiosco, una gasolinera o una marquesina de tu
+  ciudad, en la hora azul, con trípode, ISO 100 y f/8.
+
+#### *Vertical Piano*, Rotterdam (APA 2025)
+
+**[Ver la foto](https://www.designboom.com/architecture/1950-petrol-station-photo-year-architecture-photography-awards-2025-michael-luetge-08-27-2025/)** · **Para ti:** ✅
+
+- **Qué se ve:** los balcones apilados de una torre, al amanecer y en blanco y
+  negro, que parecen las teclas de un piano. Ganadora en perspectivas
+  verticales (Omar Garcia).
+- **Por qué funciona:** **el patrón** llena el encuadre y la luz rasante del
+  amanecer le da relieve.
+- **Con tu equipo:** el 25 mm o el tele sobre una fachada repetitiva, con la
+  cámara paralela a ella, y blanco y negro en Luminar.
+
+#### *The Tokyo Toilet Project*, Tokio (Sony World Photography Awards 2025)
+
+**[Ver la serie](https://wallpaper.com/architecture/sony-world-photography-awards-2025-winners)** · **Para ti:** ✅
+
+- **Qué se ve:** los baños públicos de Shibuya rediseñados por arquitectos,
+  fotografiados como obras en su calle. Ganadora en arquitectura y diseño
+  (Ulana Switucha).
+- **Por qué funciona:** **una serie** de un mismo tipo de edificio cuenta más
+  que una foto suelta.
+- **Con tu equipo:** una serie de doce paradas de autobús, fuentes o
+  quioscos de tu ciudad, con el mismo encuadre y la misma luz.
+
+### Los grandes de la arquitectura (casi todos en película)
+
+#### Julius Shulman · la casa con vida, en la hora azul
 
 Estadounidense; sus fotos hicieron famosa la arquitectura moderna de
 California. Su lección: **la hora y las personas convierten un edificio en
 una forma de vivir**.
 
-#### *Case Study House #22*, Los Ángeles, 1960
+##### *Case Study House #22*, Los Ángeles, 1960
 
-**[Ver la foto](https://collections.lacma.org/object/133059)**
+**[Ver la foto](https://collections.lacma.org/object/133059)** · **Para ti:** 🟡 🎞️ la hora azul con trípode y una persona quieta dentro
 - **Qué se ve:** de noche, dos mujeres vestidas de blanco dentro de una caja
   de cristal que vuela sobre la ladera, con la cuadrícula de luces de Los
   Ángeles debajo.
@@ -2569,12 +2896,12 @@ una forma de vivir**.
   entre el interior cálido y las luces de abajo, y las líneas del voladizo
   que apuntan a la ciudad.
 - **La edición:** no documentada en las fuentes leídas.
-- **Cópiale la decisión:** la [hora azul](../manejo-a6700/12-calle-y-arquitectura.md#la-luz-de-los-edificios)
+- **Cópiale la decisión:** la [hora azul](../manejo-a6700/13-calle-y-arquitectura.md#la-luz-de-los-edificios)
   con trípode, y una persona quieta dentro.
 
-#### *Kaufmann House*, Palm Springs, 1947
+##### *Kaufmann House*, Palm Springs, 1947
 
-**[Ver la foto](https://www.getty.edu/art/exhibitions/shulman/kaufmann_oz.html)**
+**[Ver la foto](https://www.getty.edu/art/exhibitions/shulman/kaufmann_oz.html)** · **Para ti:** ✅ 🎞️ la hora azul con agua delante
 - **Qué se ve:** la casa al anochecer desde el sureste, con la piscina
   delante y las montañas detrás.
 - **Por qué funciona:** la piscina refleja la casa iluminada, las montañas
@@ -2584,14 +2911,14 @@ una forma de vivir**.
 - **Cópiale la decisión:** en la hora azul, la fachada y el cielo tienen un
   brillo parecido; **20 minutos más tarde**, ya no.
 
-### Ezra Stoller · el edificio como icono
+#### Ezra Stoller · el edificio como icono
 
 Estadounidense; definió cómo se fotografía la arquitectura moderna. Su
 lección: **elige el punto de vista que explica el edificio**.
 
-#### *TWA Terminal (at night)*, Nueva York, 1962
+##### *TWA Terminal (at night)*, Nueva York, 1962
 
-**[Ver la foto](https://whitney.org/collection/works/12629)**
+**[Ver la foto](https://whitney.org/collection/works/12629)** · **Para ti:** ✅ 🎞️ un edificio encendido de noche
 - **Qué se ve:** la terminal de Saarinen iluminada de noche, con forma de
   alas, sus fachadas curvas de cristal y la explanada vacía delante.
 - **Por qué funciona:** el edificio **se ilumina desde dentro** y la noche
@@ -2599,9 +2926,9 @@ lección: **elige el punto de vista que explica el edificio**.
 - **Cópiale la decisión:** fotografía un edificio de noche cuando está
   encendido por dentro, y deja aire delante.
 
-#### *Fallingwater* (copia de 1963)
+##### *Fallingwater* (copia de 1963)
 
-**[Ver la foto](https://risdmuseum.org/art-design/collection/fallingwater-1963-2010789)**
+**[Ver la foto](https://risdmuseum.org/art-design/collection/fallingwater-1963-2010789)** · **Para ti:** ✅ 🎞️ busca el punto donde el edificio rima con su sitio
 - **Qué se ve:** según la descripción publicada, una vista desde abajo hacia
   los voladizos de la casa de Wright, que compara su cara inferior con la
   roca plana.
@@ -2609,13 +2936,13 @@ lección: **elige el punto de vista que explica el edificio**.
   roca: la casa y el paisaje se explican el uno al otro.
 - **Cópiale la decisión:** busca dónde **el edificio rima con su sitio**.
 
-### Iwan Baan · los edificios con gente
+#### Iwan Baan · los edificios con gente
 
 Holandés. Su lección: **la arquitectura es lo que la gente hace en ella**.
 
-#### Manhattan a oscuras tras el huracán Sandy, 2012
+##### Manhattan a oscuras tras el huracán Sandy, 2012
 
-**[Ver la historia](https://www.archdaily.com/290416/iwan-baan-vs-sandy-the-story-behind-that-iconic-nyc-shot)**
+**[Ver la historia](https://www.archdaily.com/290416/iwan-baan-vs-sandy-the-story-behind-that-iconic-nyc-shot)** · **Para ti:** 🔴 📷 un helicóptero: tu versión es una azotea o un mirador
 - **Qué se ve:** desde un helicóptero, Manhattan de noche **partida en dos**:
   el norte con luz y el sur a oscuras.
 - **Por qué es buena:** para contar el apagón buscó el único punto de vista
@@ -2623,9 +2950,9 @@ Holandés. Su lección: **la arquitectura es lo que la gente hace en ella**.
 - **Cópiale la decisión:** antes de disparar, pregúntate **desde dónde se ve
   la historia entera**: un puente, un mirador, una azotea.
 
-#### *Torre David*, Caracas, 2012
+##### *Torre David*, Caracas, 2012
 
-**[Ver la historia](https://www.dezeen.com/2012/09/06/iwan-baan-on-torre-david/)**
+**[Ver la historia](https://www.dezeen.com/2012/09/06/iwan-baan-on-torre-david/)** · **Para ti:** 🟡 📷 un proyecto largo con la gente de un edificio
 - **Qué se ve:** la vida de las familias que ocuparon un rascacielos a medio
   construir. El trabajo ganó el León de Oro de la Bienal de Arquitectura de
   Venecia junto con Urban-Think Tank y Justin McGuirk.
@@ -2634,14 +2961,14 @@ Holandés. Su lección: **la arquitectura es lo que la gente hace en ella**.
 - **Cópiale la decisión:** el escenario de la calle y el de la arquitectura
   son el mismo: espera a que alguien lo use.
 
-### Hélène Binet · la luz y la sombra
+#### Hélène Binet · la luz y la sombra
 
 Fotógrafa suizo-francesa afincada en Londres, fotógrafa de Zumthor, Hadid y
 Le Corbusier. Su lección: **reducir**.
 
-#### El sendero de Pikionis hacia la Acrópolis, Atenas
+##### El sendero de Pikionis hacia la Acrópolis, Atenas
 
-**[Ver la foto](https://www.dezeen.com/2024/06/10/ten-helene-binet-photographs-that-capture-light-and-shadow-in-architecture-around-the-globe/)**
+**[Ver la foto](https://www.dezeen.com/2024/06/10/ten-helene-binet-photographs-that-capture-light-and-shadow-in-architecture-around-the-globe/)** · **Para ti:** ✅ 🎞️ el camino, no el monumento
 - **Qué se ve:** un camino de piedra hacia el Partenón; según la reseña, su
   foto más conocida y representativa.
 - **Por qué funciona:** el suelo, la textura y la luz rasante cuentan el sitio
@@ -2649,9 +2976,9 @@ Le Corbusier. Su lección: **reducir**.
 - **Cópiale la decisión:** fotografía **el camino**, no el edificio: el
   detalle explica el todo.
 
-#### Convento de La Tourette (Le Corbusier), 2002, y las termas de Vals (Zumthor)
+##### Convento de La Tourette (Le Corbusier), 2002, y las termas de Vals (Zumthor)
 
-**[Ver las fotos](https://www.dezeen.com/2024/06/10/ten-helene-binet-photographs-that-capture-light-and-shadow-in-architecture-around-the-globe/)**
+**[Ver las fotos](https://www.dezeen.com/2024/06/10/ten-helene-binet-photographs-that-capture-light-and-shadow-in-architecture-around-the-globe/)** · **Para ti:** ✅ 🎞️ una serie de tres fotos de un edificio
 - **Qué se ve:** sombras en un pasillo de hormigón (La Tourette) y un tríptico
   de tres imágenes de las termas de Vals.
 - **Por qué funciona:** la sombra es la forma; y el **tríptico** enseña que
@@ -2659,24 +2986,24 @@ Le Corbusier. Su lección: **reducir**.
 - **Cópiale la decisión:** de un edificio, una **serie de tres**: lejos,
   medio y detalle.
 
-### Lucien Hervé · el fragmento
+#### Lucien Hervé · el fragmento
 
 Fotógrafo de Le Corbusier de 1949 a 1965. Su lección: **no enseñes todo el
 edificio**.
 
-#### *High Court, Chandigarh*, India, 1955
+##### *High Court, Chandigarh*, India, 1955
 
-**[Ver la foto](https://www.mplus.org.hk/en/collection/objects/high-court-chandigarh-india-2015486/)**
+**[Ver la foto](https://www.mplus.org.hk/en/collection/objects/high-court-chandigarh-india-2015486/)** · **Para ti:** ✅ 🎞️ una persona pequeña ante un muro grande
 - **Qué se ve:** una figura agachada ante un muro de contención en primer
   plano, y la fachada geométrica del tribunal alejándose.
 - **Por qué funciona:** según el museo, el encuadre **impide ver el edificio
   entero de golpe**: lo descubres por partes. La figura da la escala.
 - **Cópiale la decisión:** una persona pequeña y un muro grande: el
-  [escenario](../manejo-a6700/12-calle-y-arquitectura.md#interiores-simetría-y-escala).
+  [escenario](../manejo-a6700/13-calle-y-arquitectura.md#interiores-simetría-y-escala).
 
-#### La Unité d'habitation, Marsella, 1949
+##### La Unité d'habitation, Marsella, 1949
 
-**[Ver el archivo](https://oac.cdlib.org/findaid/ark:/13030/c87086jc/admin/)**
+**[Ver el archivo](https://oac.cdlib.org/findaid/ark:/13030/c87086jc/admin/)** · **Para ti:** ✅ 🎞️ cien fotos de un edificio en una tarde
 - **Qué hizo:** unas **650 fotos en un solo día**, con exposiciones extremas
   y recortes fuertes para llegar a composiciones abstractas.
 - **Por qué funciona:** la cantidad es el método: hacer muchas y **elegir**
@@ -2687,14 +3014,32 @@ edificio**.
 
 ## Paisaje
 
-### Ansel Adams · la luz pensada antes de disparar
+### Para empezar: una foto reciente que puedes intentar
+
+#### *Moonrise Perfection Over the Dolomites*, Italia (APOY 2025)
+
+**[Ver la galería](https://www.rmg.co.uk/whats-on/astronomy-photographer-year/galleries/skyscapes-2025)** · **Para ti:** 🟡
+
+- **Qué se ve:** la luna llena saliendo sobre los picos de los Dolomitas, con
+  la luz del atardecer en las montañas. Mención de honor en Skyscapes 2025
+  (Fabian Dalpiaz).
+- **Por qué funciona:** **dos luces a la vez**: la última del sol en las
+  montañas y la luna saliendo. Solo pasa unos minutos.
+- **Con tu equipo:** el 70-350 para que la luna salga grande (la compresión es
+  distancia: [§5](09-por-que-funciona.md#5--la-compresión-no-la-hace-el-tele-la-hace-la-distancia)),
+  y PhotoPills para saber desde dónde sale la luna detrás del pico que quieres
+  y a qué hora. La luna llena sale más o menos a la vez que se pone el sol.
+
+### Los grandes del paisaje (en película)
+
+#### Ansel Adams · la luz pensada antes de disparar
 
 Estadounidense; inventó con Fred Archer el **sistema de zonas**, que es pensar
 la exposición antes de disparar. Su lección: **saber dónde va cada tono**.
 
-#### *The Tetons and the Snake River*, Wyoming, 1942
+##### *The Tetons and the Snake River*, Wyoming, 1942
 
-**[Ver la foto](https://www.archives.gov/research/still-pictures/highlights/the-tetons-snake-river)**
+**[Ver la foto](https://www.archives.gov/research/still-pictures/highlights/the-tetons-snake-river)** · **Para ti:** ✅ 🎞️ una línea (un río, un camino) que lleve al fondo, y blanco y negro en Luminar
 - **Qué se ve** (mirada directamente; es de dominio público): el río Snake en
   **curva en S** desde abajo hasta el centro, los picos nevados de los Tetons
   en el tercio de arriba y un cielo de tormenta con un claro brillante. Los
@@ -2714,9 +3059,9 @@ la exposición antes de disparar. Su lección: **saber dónde va cada tono**.
   muy suave. Y el blanco y negro, con un filtro de color que oscurezca el
   cielo ([retoques 6.6](../retoques/06-herramientas-avanzadas.md#66-black--white-essentials)).
 
-#### *Moonrise, Hernandez, New Mexico*, 1941
+##### *Moonrise, Hernandez, New Mexico*, 1941
 
-**[Ver la historia](https://en.wikipedia.org/wiki/Moonrise,_Hernandez,_New_Mexico)**
+**[Ver la historia](https://en.wikipedia.org/wiki/Moonrise,_Hernandez,_New_Mexico)** · **Para ti:** 🟡 🎞️ planificar la salida de la luna con PhotoPills
 - **Qué se ve:** la luna sobre un cielo oscuro, un pueblo con su iglesia y un
   cementerio de cruces blancas iluminadas por la última luz del sol, con las
   montañas nevadas detrás.
@@ -2732,15 +3077,15 @@ la exposición antes de disparar. Su lección: **saber dónde va cada tono**.
   conoce tu cámara tan bien que no necesites pensar
   ([la botonera a ciegas](../manejo-a6700/03-diales-y-botones.md#ejercicio-la-botonera-a-ciegas-una-tarde-en-casa)).
 
-### Sebastião Salgado · el blanco y negro de la Tierra
+#### Sebastião Salgado · el blanco y negro de la Tierra
 
 Brasileño. *Genesis* (2004–2012) fueron ocho años fotografiando los lugares
 menos tocados del planeta. Su lección: **un proyecto largo, un solo
 lenguaje**.
 
-#### Iceberg entre la isla Paulet y las Shetland del Sur, Antártida, 2005
+##### Iceberg entre la isla Paulet y las Shetland del Sur, Antártida, 2005
 
-**[Ver la foto](https://www.icp.org/exhibitions/sebasti%C3%A3o-salgado-genesis)**
+**[Ver la foto](https://www.icp.org/exhibitions/sebasti%C3%A3o-salgado-genesis)** · **Para ti:** ✅ una forma sola, en blanco y negro
 - **Qué se ve:** un iceberg con el hielo pulido por el mar abajo y una forma
   de torre tallada por el viento arriba.
 - **Por qué funciona:** **la forma** sola; el blanco y negro quita la anécdota
@@ -2748,23 +3093,23 @@ lenguaje**.
 - **Cópiale la decisión:** un objeto natural con una forma fuerte, sin nada
   más en el encuadre: como las acacias de Deadvlei.
 
-#### Iguana marina, Galápagos, 2004
+##### Iguana marina, Galápagos, 2004
 
-**[Ver la foto](https://www.icp.org/exhibitions/sebasti%C3%A3o-salgado-genesis)**
+**[Ver la foto](https://www.icp.org/exhibitions/sebasti%C3%A3o-salgado-genesis)** · **Para ti:** ✅ el tele como lupa
 - **Qué se ve:** una iguana marina de muy cerca: la textura de sus escamas
   llena el encuadre.
 - **Por qué funciona:** **el detalle como paisaje**: la piel del animal parece
   roca volcánica.
 - **Cópiale la decisión:** el tele como lupa ([atlas, el detalle](07-atlas-de-encuadres.md#6--el-detalle-el-tele-como-lupa)).
 
-### Galen Rowell · correr hacia la luz
+#### Galen Rowell · correr hacia la luz
 
 Estadounidense, fotógrafo y alpinista; desarrolló filtros degradados que
 llevan su nombre. Una foto, la suya más famosa.
 
-#### *Rainbow over the Potala Palace*, Lhasa, 1981
+##### *Rainbow over the Potala Palace*, Lhasa, 1981
 
-**[Ver la historia](https://vault.si.com/vault/2002/08/26/galen-rowell-1940-2002-for-three-decades-he-combined-his-singular-skills-as-a-photographer-and-mountaineer-to-produce-many-of-adventurings-enduring-images)**
+**[Ver la historia](https://tahoequarterly.com/fall-2024/galen-rowell-a-dynamic-mountain-light-remembered)** · **Para ti:** 🟡 🎞️ correr hasta alinear dos cosas: posible si estás listo
 - **Qué se ve:** un arco iris que cae sobre el palacio del Potala.
 - **Por qué es buena:** según los relatos, vio el arco iris lejos del palacio
   y **corrió** hasta el punto donde los dos se alineaban, en la dirección
@@ -2779,59 +3124,31 @@ llevan su nombre. Una foto, la suya más famosa.
 
 ## El tiempo
 
-### Stephen Wilkes · del día a la noche en una foto
+### Para empezar: una foto reciente que puedes intentar
 
-Estadounidense. Su serie *Day to Night* junta un día entero en una imagen.
-Su lección: **el tiempo también se compone**.
+#### *The Dark Knight Awaits*, Hong Kong (APA 2025)
 
-#### Serengeti, Tanzania (*Day to Night*)
+**[Ver la foto](https://www.designboom.com/architecture/1950-petrol-station-photo-year-architecture-photography-awards-2025-michael-luetge-08-27-2025/)** · **Para ti:** 🟡
 
-**[Ver la foto](https://www.nationalgeographic.com/photography/article/pictures-parks-landscapes-day-night)**
-- **Datos:** **30 horas** seguidas en una plataforma a 18 pies (unos 5,5 m)
-  sobre una charca, según National Geographic; cada imagen de la serie junta
-  una media de **1.500 fotos** disparadas a mano.
-- **Qué se ve:** ñus, suricatas e hipopótamos en una charca, con la noche
-  pasando a día a lo largo del encuadre.
-- **Por qué funciona:** la cámara **no se mueve** en 30 horas y el horizonte
-  está recto, así que cada franja de la foto encaja con la de al lado; los
-  animales de horas distintas conviven.
-- **La edición:** **semanas** de posproducción para elegir y fundir las
-  mejores fotos. Aquí, la edición es media obra.
-- **Cópiale la decisión:** tu [time-lapse, receta B](../manejo-a6700/10-time-lapse-del-cielo.md#receta-b--del-atardecer-a-la-noche-la-cámara-lleva-la-exposición)
-  ya te da la serie del atardecer a la noche con la cámara quieta: son los
-  ingredientes de una foto así.
+- **Qué se ve:** un rayo sobre una torre de Hong Kong, con las estelas de los
+  coches bajo la lluvia. Ganadora en larga exposición (Ming Cheng).
+- **Por qué funciona:** **dos tiempos en una foto**: el rayo (un instante) y
+  las estelas (segundos).
+- **Con tu equipo:** la receta de [estelas](../manejo-a6700/12-estelas-de-trafico.md)
+  una noche de tormenta, con una serie de fotos de 15–30 s (alguna cazará el
+  rayo). Desde dentro de un edificio o de un portal: con rayos, nunca en
+  campo abierto.
 
-#### Tidal Basin, Washington (*Day to Night*)
+### Los grandes del tiempo
 
-**[Ver la foto](https://www.nationalgeographic.com/photography/article/pictures-parks-landscapes-day-night)**
-- **Datos:** 16 horas sin pausas en una grúa de 80 pies (unos 24 m).
-- **Qué se ve:** los cerezos en flor con el Jefferson Memorial y la gente del
-  parque, del día a la noche.
-- **Por qué funciona:** **la altura** deja ver a la gente y el monumento a la
-  vez, sin que nadie tape a nadie.
-- **Cópiale la decisión:** para una serie larga, **súbete**: desde arriba la
-  escena se lee entera.
-
-### Hiroshi Sugimoto · la exposición como idea
+#### Hiroshi Sugimoto · la exposición como idea
 
 Japonés. Su lección: **la duración de la exposición puede ser el tema de la
-foto**.
+foto**, y con un filtro ND la puedes alargar tú a pleno día.
 
-#### *Theaters* (por ejemplo, *Radio City Music Hall*, Nueva York, 1978)
+##### *Caribbean Sea, Jamaica* (serie *Seascapes*, desde 1980)
 
-**[Ver la foto](https://www.metmuseum.org/art/collection/search/267306)**
-- **Qué se ve:** un cine antiguo vacío, con la **pantalla blanca** brillando
-  y la sala iluminada solo por ella.
-- **Por qué funciona:** la exposición **dura lo que dura la película**, y la
-  única luz es la del proyector. Miles de fotogramas se suman en un rectángulo
-  blanco, y esa luz dibuja la sala.
-- **Cópiale la decisión:** es la idea de tus [estelas](../manejo-a6700/11-estelas-de-trafico.md)
-  llevada al extremo: lo que se mueve desaparece o se suma; lo quieto se
-  queda.
-
-#### *Caribbean Sea, Jamaica* (serie *Seascapes*, desde 1980)
-
-**[Ver la foto](https://www.clevelandart.org/art/1994.22)**
+**[Ver la foto](https://www.clevelandart.org/art/1994.22)** · **Para ti:** ✅ 🎞️ ND1000, trípode y el horizonte en el centro
 - **Qué se ve:** cielo gris pálido arriba, mar oscuro abajo y el horizonte
   **exactamente en el centro**.
 - **Por qué funciona:** sin tierra y sin gente, el horizonte centrado
@@ -2840,42 +3157,37 @@ foto**.
 - **Cópiale la decisión:** la regla de los tercios es un punto de partida. Si
   centras, que sea **exacto**.
 
-### Michael Kenna · las horas que el ojo no ve
+#### Michael Kenna · las horas que el ojo no ve
 
-Británico; fotografía de noche y al amanecer con exposiciones de horas, casi
-siempre en blanco y negro. Su lección: **el tiempo largo simplifica**.
+Británico; fotografía de noche y al amanecer con exposiciones largas, casi
+siempre en blanco y negro. Su lección: **el tiempo largo simplifica**, y con
+treinta segundos o un par de minutos ya se nota.
 
-#### *Ratcliffe Power Station*, Inglaterra (años ochenta)
+##### *Ratcliffe Power Station*, Inglaterra (años ochenta)
 
-**[Ver el contexto](https://expositions.bnf.fr/kenna/en/arret/05.htm)**
+**[Ver el contexto](https://expositions.bnf.fr/kenna/en/arret/05.htm)** · **Para ti:** ✅ 🎞️ BULB y de 30 s a 2 min de noche
 - **Qué se ve:** las torres de refrigeración de una central, de noche.
 - **Por qué funciona:** según la Biblioteca Nacional de Francia, la noche y
   las exposiciones largas **borran la presencia humana** de un sitio lleno de
   ella: queda la forma.
 - **Cópiale la decisión:** de noche, ISO 100, f/8 y 30 s en BULB: la gente
-  que pasa no sale ([estelas, BULB](../manejo-a6700/11-estelas-de-trafico.md)).
+  que pasa no sale ([estelas, BULB](../manejo-a6700/12-estelas-de-trafico.md)).
 
-#### *Eleven Hours, Eastlands, New Zealand*, 2014
+#### Matt Molloy · el time-lapse convertido en una foto
 
-**[Ver la galería](https://www.rnz.co.nz/national/programmes/ninetonoon/galleries/michael-kenna)**
-- **Qué hay detrás:** el título dice la duración de la exposición.
-- **Por qué funciona:** en once horas, las nubes y el agua se convierten en
-  una bruma lisa, y solo queda lo que no se mueve.
-- **Cópiale la decisión:** un **filtro ND** convierte segundos en minutos a
-  pleno día ([equipo, filtros](../manejo-a6700/14-equipo-accesorios.md)).
+Canadiense. Fotografía puestas de sol como un time-lapse y apila las fotos
+en una sola. Su lección: **una serie se puede leer como una imagen**.
 
-### Y uno para tu time-lapse: Matt Molloy
+##### *Sunset Spectrum* (timestack)
 
-#### *Sunset Spectrum* (timestack)
-
-**[Ver la foto](https://www.picturecorrect.com/photo-sunset-spectrum)**
+**[Ver la foto](https://www.picturecorrect.com/photo-sunset-spectrum)** · **Para ti:** ✅ 📷 tu serie del atardecer en StarStaX
 - **Qué hay detrás:** desde la orilla del lago Ontario, mirando al oeste, una
   puesta de sol fotografiada como un time-lapse (una foto cada ~5 s) y
   **apilada**: de 100 a 200 fotos en una. Las nubes se convierten en
   pinceladas.
 - **Cópiale la decisión:** la versión sencilla con lo que ya usas: la serie
   de nubes del atardecer de tu time-lapse, en **StarStaX** en modo **Lighten**
-  ([estelas, apilar](../manejo-a6700/11-estelas-de-trafico.md#varias-fotos-para-una-apilar-las-estelas)).
+  ([estelas, apilar](../manejo-a6700/12-estelas-de-trafico.md#varias-fotos-para-una-apilar-las-estelas)).
   No sale igual que sus pilas, pero enseña la idea.
 
 ---
@@ -2884,13 +3196,13 @@ siempre en blanco y negro. Su lección: **el tiempo largo simplifica**.
 
 | Patrón | Quién | Lo que significa para ti |
 |---|---|---|
-| **Esperan** | Brandt (18 días), van Oosten (años), Lanting (semanas), Cartier-Bresson y Fan Ho (al actor) | La foto no está en el siguiente animal: está en el mismo, más tiempo |
+| **Esperan** | Brandt (18 días), van Oosten (años), Koch (desde el amanecer), Cartier-Bresson y Fan Ho (al actor) | La foto no está en el siguiente animal: está en el mismo, más tiempo |
 | **Eligen la distancia a propósito** | van Oosten y Nichols a 24 mm; du Toit a 400 mm a través de la hierba; Lanting de lejos en Deadvlei | Cambia de objetivo **con intención**, no por costumbre |
 | **La luz decide la hora** | Lanting (el sol en la base de la duna), Shulman (la hora azul), Adams (el último minuto) | Vuelve cuando la luz es la buena |
 | **Simplifican** | Kenna, Sugimoto, Binet, Leiter | Lo que dejas fuera hace la foto |
 | **Ponen a una persona** | Shulman, Hervé, Baan, Horálek | Sin escala, un edificio o un cielo no tienen tamaño |
-| **La edición es de laboratorio, no de invento** | Adams (quemar bordes), Cartier-Bresson y Fan Ho (recortar), Lanting (un degradado), Wilkes y Casado (juntar fotos, y lo dicen) | Dodge & Burn, recorte y apilado, sí; cambiar la escena, solo si lo dices ([ética](../retoques/14-etica.md)) |
-| **Disparan mucho y eligen** | Hervé (650 en un día), Lanting (321 de unos árboles), Wilkes (1.500 por foto), Masats | La criba es parte del oficio ([cómo mejorar](12-como-mejorar.md)) |
+| **La edición es de laboratorio, no de invento** | Adams (quemar bordes), Cartier-Bresson y Fan Ho (recortar), Lanting (un degradado), Casado y Molloy (juntar fotos, y lo dicen) | Dodge & Burn, recorte y apilado, sí; cambiar la escena, solo si lo dices ([ética](../retoques/14-etica.md)) |
+| **Disparan mucho y eligen** | Hervé (650 en un día), Lanting (321 de unos árboles), Pellegrini (340 fotos para un star trails), Masats | La criba es parte del oficio ([cómo mejorar](12-como-mejorar.md)) |
 
 ## Ejercicio: copia la decisión, no la foto (una tarde por tema)
 
@@ -2923,7 +3235,7 @@ tres de sus decisiones, y has hecho una foto tuya con cada una.
 
 Hacer más fotos no te hace mejor: te hace mejor **hacer fotos distintas y
 mirarlas con criterio**. Este capítulo tiene cuatro piezas: un **método** de
-una semana, **tu diagnóstico** (lo que dicen las 2.731 fotos de Namibia),
+una semana, **tu diagnóstico** (lo que dicen las 2.731 fotos de tu último viaje),
 **una escalera por tema** (safari, calle, arquitectura, time-lapse y estelas,
 astro) y **un plan de doce semanas** para practicar desde casa, ahora que el
 viaje ha terminado.
@@ -2963,20 +3275,20 @@ Sin esto, "practicar" es hacer más fotos iguales. El método es de una noche:
 
 ## Tu diagnóstico: lo que dicen tus 2.731 fotos
 
-Las fotos de Namibia se midieron una a una (metadatos, brillo, color y polvo:
+Las fotos de tu viaje a Namibia (noviembre de 2026) se midieron una a una (metadatos, brillo, color y polvo:
 [las notas](../notas-de-investigacion/edicion-jpeg-safari-paisaje-noche/fotos-de-muestra.md)).
 Leídas como un entrenador lee los números de un jugador, dicen esto:
 
 | Lo medido | Qué dice de ti como fotógrafo | Qué practicar |
 |---|---|---|
-| **95 %** con el 70-350, **5 %** con el 11 mm, **ninguna** con el Viltrox | Fotografías **de lejos**: el animal grande en el encuadre. Te faltan el animal **en su paisaje** y la escena humana | Una semana **solo con el 25 mm** ([calle](../manejo-a6700/12-calle-y-arquitectura.md)); en el próximo safari, el gran angular cuando el animal esté cerca (como el 24 mm de [van Oosten](11-los-maestros.md#the-golden-couple-montes-qinling-china-wpy-2018)) |
-| El **68 %** del viaje en **dos días** (11 y 12 de noviembre) | Disparas **a ráfagas de entusiasmo** y poco el resto | Constancia: un poco **cada día** y la criba de cada noche |
+| **95 %** con el 70-350, **5 %** con el 11 mm, **ninguna** con el Viltrox | Fotografías **de lejos**: el animal grande en el encuadre. Te faltan el animal **en su paisaje** y la escena humana | Una semana **solo con el 25 mm** ([calle](../manejo-a6700/13-calle-y-arquitectura.md)); en el próximo safari, el gran angular cuando el animal esté cerca (como el 24 mm de [van Oosten](11-los-maestros.md#the-golden-couple-montes-qinling-china-wpy-2018)) |
+| El **68 %** del viaje en **dos días** | Disparas **a ráfagas de entusiasmo** y poco el resto | Constancia: un poco **cada día** y la criba de cada noche |
 | Las fotos de día **no** están subexpuestas (mediana de brillo 109 sobre 255) | El escalón 2 de día **ya lo tienes** | No toques lo que funciona: la compensación por el fondo |
-| Exposiciones largas **muy oscuras** (mediana 28 sobre 255) | De noche, el JPEG no perdona: **la luz que falta no se recupera** | Mira el histograma tras la primera toma; ISO 3200 si la montaña está pegada a la izquierda ([astro](../manejo-a6700/09-astrofotografia-namibia.md)). Y **RAW** |
-| Charca: **116 de 122** fotos más lentas que 1/60 s | Riesgo de animales movidos: el **escalón 1** de noche está sin consolidar | 1/60 como mínimo con el animal quieto; más rápido y más ISO si se mueve ([charcas](../manejo-a6700/07-safari-nocturno-charcas.md)) |
+| Exposiciones largas **muy oscuras** (mediana 28 sobre 255) | De noche, el JPEG no perdona: **la luz que falta no se recupera** | Mira el histograma tras la primera toma; ISO 3200 si la montaña está pegada a la izquierda ([astro](../manejo-a6700/10-astrofotografia.md)). Y **RAW** |
+| Charca: **116 de 122** fotos más lentas que 1/60 s | Riesgo de animales movidos: el **escalón 1** de noche está sin consolidar | 1/60 como mínimo con el animal quieto; más rápido y más ISO si se mueve ([charcas](../manejo-a6700/07-fauna-de-noche.md)) |
 | Balance de blancos **fijo** en el 91 %, con dominante fría a la sombra | Tienes la regla; te falta **cambiarla cuando cambia la luz** | Luz diurna al sol, Sombra a la sombra, Nublado con el sol puesto ([balance de blancos](04-balance-de-blancos.md)) |
 | Animales **pequeños** en el encuadre (el guepardo, un 10 % del ancho) | Te conformas con la distancia que te dan | Espera a que se acerque, o haz el **animal pequeño a propósito**, con espacio que cuente algo ([atlas, el punto pequeño](07-atlas-de-encuadres.md#3--animal-en-su-paisaje-el-punto-pequeño)) |
-| Una **mancha de polvo** fija en seis días | La rutina de equipo no estaba montada | Comprueba el sensor antes de cada salida ([equipo, polvo](../manejo-a6700/14-equipo-accesorios.md#polvo-en-el-sensor-comprobarlo-y-limpiarlo)) |
+| Una **mancha de polvo** fija en seis días | La rutina de equipo no estaba montada | Comprueba el sensor antes de cada salida ([equipo, polvo](../manejo-a6700/15-equipo-accesorios.md#polvo-en-el-sensor-comprobarlo-y-limpiarlo)) |
 | **89 %** en modo manual | Controlas la cámara: es un punto de partida muy bueno | Usa ese control para **decidir**, no solo para acertar |
 
 **Lo que no se midió:** la nitidez y el ruido al 100 %. Para saber si el
@@ -2999,8 +3311,8 @@ está movida o quemada.
 |---|---|---|---|
 | **1 · Nítida** | El ojo del animal (o la cara) aguanta el 100 % en la mayoría de tus fotos | Velocidad según el movimiento ([por qué funciona §9](09-por-que-funciona.md#9--el-tiempo-qué-congela-y-qué-dibuja-la-velocidad)), AF con el pulgar ([manejo 4](../manejo-a6700/04-configuracion-basica.md#enfoque-con-el-pulgar-back-button-focus)), revisar al 100 % la primera ráfaga ([safari](../manejo-a6700/06-safari-diurno.md#el-af-por-ia-la-cámara-pone-el-punto-tú-verificas)) | Fiarte de la pantalla pequeña |
 | **2 · Bien expuesta** | Miras el histograma antes de que te lo pida nadie y compensas sin pensar | [El histograma](03-histograma.md), [el gris medio](01-la-luz.md#por-qué-la-cámara-se-equivoca-el-gris-medio) | De noche, creer que "ya lo aclaro luego" (con JPEG, no) |
-| **3 · Limpia** | Antes de disparar ya has mirado el fondo y los bordes, y te has movido medio metro | [Composición §8, los bordes](06-composicion.md#8--revisa-los-bordes-antes-de-disparar), el ejercicio del **fondo primero** ([la mirada](10-la-mirada.md#ejercicios-una-tarde-cada-uno-en-casa)), el escenario de la [calle](../manejo-a6700/12-calle-y-arquitectura.md#el-momento-escenario-espera-y-gesto) | Una rama saliendo de una cabeza que solo ves en casa |
-| **4 · Con luz** | Dejas de disparar a mediodía sin remordimiento (o lo haces en blanco y negro, a propósito) y madrugas sin discutirlo | [La luz](01-la-luz.md), la luz de los [edificios](../manejo-a6700/12-calle-y-arquitectura.md#la-luz-de-los-edificios), el ejercicio de las 3 horas ([la mirada](10-la-mirada.md#ejercicios-una-tarde-cada-uno-en-casa)) | Creer que la luz buena es solo la dorada: la dura sirve para la calle y la azul para la ciudad |
+| **3 · Limpia** | Antes de disparar ya has mirado el fondo y los bordes, y te has movido medio metro | [Composición §8, los bordes](06-composicion.md#8--revisa-los-bordes-antes-de-disparar), el ejercicio del **fondo primero** ([la mirada](10-la-mirada.md#ejercicios-una-tarde-cada-uno-en-casa)), el escenario de la [calle](../manejo-a6700/13-calle-y-arquitectura.md#el-momento-escenario-espera-y-gesto) | Una rama saliendo de una cabeza que solo ves en casa |
+| **4 · Con luz** | Dejas de disparar a mediodía sin remordimiento (o lo haces en blanco y negro, a propósito) y madrugas sin discutirlo | [La luz](01-la-luz.md), la luz de los [edificios](../manejo-a6700/13-calle-y-arquitectura.md#la-luz-de-los-edificios), el ejercicio de las 3 horas ([la mirada](10-la-mirada.md#ejercicios-una-tarde-cada-uno-en-casa)) | Creer que la luz buena es solo la dorada: la dura sirve para la calle y la azul para la ciudad |
 | **5 · Con momento** | Esperas el gesto que sabes que va a llegar, con el encuadre ya montado | [Comportamiento que puedes anticipar](10-la-mirada.md#comportamiento-que-puedes-anticipar--fotos-que-puedes-esperar), [los maestros](11-los-maestros.md#lo-que-tienen-en-común) | Perseguir en vez de esperar |
 
 Para ampliar, la versión del viaje de cada escalón está en a6700-namibia:
@@ -3025,11 +3337,20 @@ Cuatro peldaños por tema. **🟢** la foto sale bien siguiendo la receta ·
 | 🔴 | De cada escena sacas el retrato **y** el animal en su paisaje | Una tarde con el 70-350 y el 25 mm alternando con el mismo sujeto ([atlas](07-atlas-de-encuadres.md)) |
 | ⭐ | Esperas el gesto y tienes el encuadre montado antes | Diez minutos con un mismo animal antes de disparar ([Lanting](11-los-maestros.md#frans-lanting--ponerse-a-su-altura), [Brandt](11-los-maestros.md#nick-brandt--retratos-no-fotos-de-fauna)) |
 
+### Aves
+
+| Peldaño | Lo dominas cuando… | Practícalo |
+|---|---|---|
+| 🟢 | El ojo nítido en un ave posada desde el coche o el comedero | [Aves, la receta](../manejo-a6700/08-aves.md#la-receta-posada-y-en-vuelo) |
+| 🔵 | Una mañana de *hide* con un gesto (baño, pelea, ceba) | Un observatorio público o un *hide* de pago |
+| 🔴 | Una de cada diez en vuelo con el ojo nítido | Gaviotas o cigüeñas con MR3 |
+| ⭐ | El fondo y la luz elegidos antes que el ave | La percha con el fondo lejano, como los chavales de Cádiz ([los maestros, aves](11-los-maestros.md#aves)) |
+
 ### Calle
 
 | Peldaño | Lo dominas cuando… | Practícalo |
 |---|---|---|
-| 🟢 | Pones la zona a 3 m con el 25 mm y el 80 % de las fotos salen nítidas | El [ejercicio de las zonas](../manejo-a6700/12-calle-y-arquitectura.md#ejercicio-tres-tardes) |
+| 🟢 | Pones la zona a 3 m con el 25 mm y el 80 % de las fotos salen nítidas | El [ejercicio de las zonas](../manejo-a6700/13-calle-y-arquitectura.md#ejercicio-tres-tardes) |
 | 🔵 | Eliges el escenario y esperas al actor | 45 minutos en un solo sitio |
 | 🔴 | La luz dura trabaja para ti: siluetas, manchas de sol, sombras | Mediodía, −1 de compensación, a buscar luz ([Fan Ho](11-los-maestros.md#fan-ho--la-luz-como-escenario)) |
 | ⭐ | Ves capas, reflejos y coincidencias antes de que pasen | Un cristal, un reflejo o un toldo como primera capa ([Leiter](11-los-maestros.md#saul-leiter--el-color-y-lo-que-se-interpone)) |
@@ -3039,7 +3360,7 @@ Cuatro peldaños por tema. **🟢** la foto sale bien siguiendo la receta ·
 | Peldaño | Lo dominas cuando… | Practícalo |
 |---|---|---|
 | 🟢 | Las verticales salen rectas con la cámara a nivel | Diez edificios, una tarde, con el nivel de la pantalla |
-| 🔵 | Sabes a qué hora le da a cada fachada la luz rasante | Un edificio, tres luces ([el ejercicio](../manejo-a6700/12-calle-y-arquitectura.md#ejercicio-tres-tardes)) |
+| 🔵 | Sabes a qué hora le da a cada fachada la luz rasante | Un edificio, tres luces ([el ejercicio](../manejo-a6700/13-calle-y-arquitectura.md#ejercicio-tres-tardes)) |
 | 🔴 | La hora azul te sale equilibrada: cielo azul, ventanas cálidas | Trípode, una foto cada 3–4 minutos tras la puesta ([Shulman](11-los-maestros.md#julius-shulman--la-casa-con-vida-en-la-hora-azul)) |
 | ⭐ | Cuentas el edificio con un fragmento o con quien lo usa | Una serie de tres: lejos, medio y detalle ([Binet](11-los-maestros.md#hélène-binet--la-luz-y-la-sombra), [Hervé](11-los-maestros.md#lucien-hervé--el-fragmento)) |
 
@@ -3047,17 +3368,17 @@ Cuatro peldaños por tema. **🟢** la foto sale bien siguiendo la receta ·
 
 | Peldaño | Lo dominas cuando… | Practícalo |
 |---|---|---|
-| 🟢 | Las estelas salen con los edificios nítidos | [Estelas, una tarde](../manejo-a6700/11-estelas-de-trafico.md#ejercicio-una-tarde) |
-| 🔵 | Calculas fotos, intervalo y duración antes de salir | [La cuenta del time-lapse](../manejo-a6700/10-time-lapse-del-cielo.md#la-cuenta-antes-de-salir) |
-| 🔴 | La serie pasa sola del atardecer a la noche sin saltos | [Receta B](../manejo-a6700/10-time-lapse-del-cielo.md#receta-b--del-atardecer-a-la-noche-la-cámara-lleva-la-exposición) |
-| ⭐ | De una serie sacas una foto que cuenta el tiempo | La pila de estelas, el star trails o la pila de nubes ([Wilkes, Sugimoto y Molloy](11-los-maestros.md#el-tiempo)) |
+| 🟢 | Las estelas salen con los edificios nítidos | [Estelas, una tarde](../manejo-a6700/12-estelas-de-trafico.md#ejercicio-una-tarde) |
+| 🔵 | Calculas fotos, intervalo y duración antes de salir | [La cuenta del time-lapse](../manejo-a6700/11-time-lapse-del-cielo.md#la-cuenta-antes-de-salir) |
+| 🔴 | La serie pasa sola del atardecer a la noche sin saltos | [Receta B](../manejo-a6700/11-time-lapse-del-cielo.md#receta-b--del-atardecer-a-la-noche-la-cámara-lleva-la-exposición) |
+| ⭐ | De una serie sacas una foto que cuenta el tiempo | La pila de estelas, el star trails o la pila de nubes ([Molloy, Sugimoto y Kenna](11-los-maestros.md#el-tiempo)) |
 
 ### Astro
 
 | Peldaño | Lo dominas cuando… | Practícalo |
 |---|---|---|
-| 🟢 | La estrella es un punto y el histograma está separado de la izquierda | [Enfocar el 11 mm](../manejo-a6700/05-enfocar-el-11mm.md) y la [noche 1](../manejo-a6700/08-estrellas-con-tierra.md) |
-| 🔵 | La postal con silueta te sale en una noche | [La noche 2](../manejo-a6700/08-estrellas-con-tierra.md#noche-2--añade-la-tierra-la-postal) |
+| 🟢 | La estrella es un punto y el histograma está separado de la izquierda | [Enfocar el 11 mm](../manejo-a6700/05-enfocar-el-11mm.md) y la [noche 1](../manejo-a6700/09-estrellas-con-tierra.md) |
+| 🔵 | La postal con silueta te sale en una noche | [La noche 2](../manejo-a6700/09-estrellas-con-tierra.md#noche-2--añade-la-tierra-la-postal) |
 | 🔴 | Eliges el objeto de día, y vuelves en luna nueva | Una salida a un cielo oscuro (Canarias, la sierra más cercana) |
 | ⭐ | El paisaje y el cielo cuentan algo juntos | Dos pilares para un arco, una persona para la escala ([Horálek, Tafreshi, López](11-los-maestros.md#el-cielo-de-noche)) |
 
@@ -3070,14 +3391,14 @@ semana tiene **un solo objetivo**, el de la columna de en medio.
 
 | Semana | Objetivo | Qué haces |
 |---|---|---|
-| 1 | La base | Comprueba **RAW** (un archivo `.ARW`) y el sensor. Haz el diagnóstico de nitidez: 20 fotos de Namibia al 100 % |
+| 1 | La base | Comprueba **RAW** (un archivo `.ARW`) y el sensor. Haz el diagnóstico de nitidez: 20 fotos del último viaje al 100 % |
 | 2 | Escalón 1 | El perro, los patos o un partido: velocidad y AF. Criba: ¿cuántas nítidas? |
-| 3 | Calle, 🟢 | El [ejercicio de las zonas](../manejo-a6700/12-calle-y-arquitectura.md#ejercicio-tres-tardes) con el 25 mm |
+| 3 | Calle, 🟢 | El [ejercicio de las zonas](../manejo-a6700/13-calle-y-arquitectura.md#ejercicio-tres-tardes) con el 25 mm |
 | 4 | Calle, 🔵 | El escenario: 45 minutos en un sitio, dos veces |
 | 5 | Arquitectura | Un edificio, tres luces; las verticales rectas |
-| 6 | La hora azul | Arquitectura y estelas en la misma tarde ([estelas](../manejo-a6700/11-estelas-de-trafico.md)) |
-| 7 | La noche, escalón 2 | Enfocar una estrella y la noche 1, con histograma ([astro](../manejo-a6700/08-estrellas-con-tierra.md)) |
-| 8 | Time-lapse | Una serie del atardecer a la noche ([receta B](../manejo-a6700/10-time-lapse-del-cielo.md)) |
+| 6 | La hora azul | Arquitectura y estelas en la misma tarde ([estelas](../manejo-a6700/12-estelas-de-trafico.md)) |
+| 7 | La noche, escalón 2 | Enfocar una estrella y la noche 1, con histograma ([astro](../manejo-a6700/09-estrellas-con-tierra.md)) |
+| 8 | Time-lapse | Una serie del atardecer a la noche ([receta B](../manejo-a6700/11-time-lapse-del-cielo.md)) |
 | 9 | Escalón 3 | El fondo primero ([la mirada](10-la-mirada.md#ejercicios-una-tarde-cada-uno-en-casa)), con cualquier tema |
 | 10 | Los maestros | Copia una decisión de cada tema ([el ejercicio](11-los-maestros.md#ejercicio-copia-la-decisión-no-la-foto-una-tarde-por-tema)) |
 | 11 | Escalón 5 | Diez minutos de espera antes de cada foto: el gesto |
@@ -3179,7 +3500,7 @@ español e inglés, en el [capítulo 4](../manejo-a6700/04-configuracion-basica.
 | **Apertura variable** | Los zoom baratos y ligeros pierden luz al alargarse: el 70-350 va de f/4.5 a f/6.3 según la focal |
 | **Profundidad de campo** | Cuánto sale nítido delante y detrás de donde enfocaste. Depende de la distancia, la focal y la apertura; a igual tamaño del sujeto en el encuadre, casi solo de la apertura |
 | **Hiperfocal** | La distancia a la que enfocar para que todo salga nítido desde su mitad hasta el infinito. Con el 11 mm a f/8: enfoca a 0,8 m; con el 25 mm a f/8, a 3,9 m ([explicada a fondo](05-optica.md#5--la-hiperfocal-todo-nítido-de-cerca-al-infinito)) |
-| **Enfoque por zonas** | Dejar el enfoque puesto a una distancia y cerrar el diafragma para que todo lo que pase por una franja salga nítido. Con el 25 mm a f/8 enfocado a 3 m: de 1,7 a 12,7 m ([calle](../manejo-a6700/12-calle-y-arquitectura.md#enfocar-sin-mirar-el-enfoque-por-zonas)) |
+| **Enfoque por zonas** | Dejar el enfoque puesto a una distancia y cerrar el diafragma para que todo lo que pase por una franja salga nítido. Con el 25 mm a f/8 enfocado a 3 m: de 1,7 a 12,7 m ([calle](../manejo-a6700/13-calle-y-arquitectura.md#enfocar-sin-mirar-el-enfoque-por-zonas)) |
 | **Regla del doble** | Sin tabla: enfoca al doble de la distancia de lo más cercano que quieres nítido, y cierra hasta que su hiperfocal quede por debajo |
 | **Círculo de confusión** | El tamaño a partir del cual un punto desenfocado "se nota". En la a6700 se usa 0,020 mm, unos 5 píxeles: nítido en pantalla y en copias pequeñas, justo al 100 % |
 | **Verticales que se caen** | Las aristas de un edificio que se juntan hacia arriba porque la cámara apunta hacia arriba. Es perspectiva, no defecto del objetivo: cámara a nivel, o **Develop → Transform → Vertical** en Luminar |
@@ -3214,8 +3535,8 @@ español e inglés, en el [capítulo 4](../manejo-a6700/04-configuracion-basica.
 | **Kelvin (K)** | La escala de la temperatura de la luz: 3200 K naranja, ~5200 K día, ~7000 K sombra azulada. En este repo, **siempre fijo** — en K o en un preajuste (Luz de día, Nublado, Sombra) —; el automático, como mucho a mediodía ([balance de blancos](04-balance-de-blancos.md)) |
 | **Hora dorada / hora azul** | La hora de luz cálida y rasante tras el amanecer o antes del ocaso; y el rato azulado anterior al amanecer y posterior al ocaso |
 | **Contraluz** | El sol detrás del sujeto: siluetas, bordes encendidos y polvo dorado |
-| **Clave alta** | Foto deliberadamente muy clara, casi sin sombras. La estrategia del mediodía en la calcreta blanca |
-| **Clave baja** | Lo contrario: foto deliberadamente oscura, con el sujeto iluminado sobre un fondo casi negro ([fotos en casa](../manejo-a6700/13-fotos-en-casa.md)) |
+| **Clave alta** | Foto deliberadamente muy clara, casi sin sombras. La estrategia del mediodía sobre un suelo blanco |
+| **Clave baja** | Lo contrario: foto deliberadamente oscura, con el sujeto iluminado sobre un fondo casi negro ([fotos en casa](../manejo-a6700/14-fotos-en-casa.md)) |
 | **ISO base** | El ISO de máxima calidad del sensor: **100** en la a6700 |
 | **ISO invariante** | Que dé casi igual subir el ISO en cámara o levantar la exposición en revelado. Tu cámara lo es a partir de ~320–400, en RAW |
 | **Ruido de lectura** | El ruido que añade la propia electrónica al leer el sensor, independiente de la luz |
@@ -3230,11 +3551,11 @@ español e inglés, en el [capítulo 4](../manejo-a6700/04-configuracion-basica.
 | **Nubes de Magallanes** | Dos galaxias satélite visibles a simple vista desde el sur. Las protagonistas de tu cielo |
 | **Star trails** | Los círculos que dibujan las estrellas en una serie larga de fotos apiladas |
 | **Circumpolar** | Lo que gira alrededor del polo celeste sin ponerse nunca |
-| **Polo sur celeste** | El centro de giro del cielo austral. No tiene estrella brillante; en Etosha queda a ~19° sobre el sur |
-| **Apilado** (*stacking*) | Fundir muchas tomas iguales para bajar el ruido (Starry Landscape Stacker en Mac) o alargar los arcos (StarStaX). Con el modo **aclarar** (*Lighten*), también suma estelas de coches ([estelas de tráfico](../manejo-a6700/11-estelas-de-trafico.md)) |
+| **Polo celeste** | El centro de giro del cielo, a tantos grados sobre el horizonte como tu latitud. El norte lo marca la Estrella Polar; el sur no tiene estrella brillante (en Botswana, a unos 20° sobre el sur) |
+| **Apilado** (*stacking*) | Fundir muchas tomas iguales para bajar el ruido (Starry Landscape Stacker en Mac) o alargar los arcos (StarStaX). Con el modo **aclarar** (*Lighten*), también suma estelas de coches ([estelas de tráfico](../manejo-a6700/12-estelas-de-trafico.md)) |
 | **Intervalómetro** | El disparador automático a intervalos. En la a6700 va **integrado** (`Func. capt. interv.`) |
-| **Timelapse** | Muchas fotos espaciadas montadas como vídeo: el tiempo acelerado ([time-lapse del cielo](../manejo-a6700/10-time-lapse-del-cielo.md)) |
-| **Escala Bortle** | Cuánta contaminación lumínica tiene un cielo, de 1 (perfecto) a 9 (ciudad). Namibia es **1–2** |
+| **Timelapse** | Muchas fotos espaciadas montadas como vídeo: el tiempo acelerado ([time-lapse del cielo](../manejo-a6700/11-time-lapse-del-cielo.md)) |
+| **Escala Bortle** | Cuánta contaminación lumínica tiene un cielo, de 1 (perfecto) a 9 (ciudad). Los sitios de safari lejos de las ciudades suelen ser **1–2** |
 | **Airglow** | Bandas verdosas o rojizas naturales de la alta atmósfera. Salen en tus fotos y **no es un fallo del sensor** |
 | **Luz zodiacal** | Cono de luz lechosa sobre el horizonte tras el ocaso: polvo del sistema solar iluminado |
 | **Bulb** | Exposición que dura lo que tú mantengas. Solo con obturador **mecánico** |
@@ -3246,11 +3567,11 @@ español e inglés, en el [capítulo 4](../manejo-a6700/04-configuracion-basica.
 | **Bean bag** | Saco de arroz o alubias que apoyas en la ventanilla del coche: el trípode del safari |
 | **Hide** | Escondite o mirador para fotografiar fauna sin que te vea |
 | **Game drive** | Salida de safari en vehículo; la nocturna va con foco y guía |
-| **Charca** (*waterhole*) | El punto de agua donde la fauna acude a beber: el escenario número uno de Etosha |
-| **Calcreta** | La costra caliza blanquísima del suelo de Etosha. Engaña al medidor y ensucia la lente |
+| **Charca** (*waterhole*) | El punto de agua donde la fauna acude a beber: el escenario número uno de un safari en estación seca |
+| **Hide** | Escondite (caseta, muro con mirilla, tienda) desde el que la fauna no te ve. En España hay públicos y de pago ([aves](../manejo-a6700/08-aves.md)) |
 | **Heat haze** | El temblor del aire caliente que emborrona a lo lejos a mediodía. No es la cámara |
-| **Pan** | La gran llanura salina blanca de Etosha |
-| **Mopane** | El árbol dominante de la zona de Halali y Namutoni; su sombra es donde vive el dik-dik |
+| **Pan** | Llanura salina blanca. Engaña al medidor como la nieve |
+| **Mokoro** | Canoa estrecha y baja de los deltas de Botswana: el punto de vista a ras de agua |
 
 ## Referencias
 

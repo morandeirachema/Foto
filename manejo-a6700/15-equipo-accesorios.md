@@ -1,14 +1,14 @@
 <!-- nav -->
-[← Anterior](13-fotos-en-casa.md) · [Índice](README.md) · [Siguiente →](15-viltrox-25mm.md)
+[← Anterior](14-fotos-en-casa.md) · [Índice](README.md) · [Siguiente →](16-viltrox-25mm.md)
 <!-- /nav -->
 
 *Parte III · Equipo y objetivos*
 
-# 14. Equipo y accesorios para la a6700 (enfoque budget)
+# 15. Equipo y accesorios para la a6700 (enfoque budget)
 
 > 🔵 **Básico** · Da por sabido: nada · Te desbloquea: saber qué comprar, qué no, y por qué.
 
-Situación de partida de este viaje: se empieza casi de cero y el kit son
+El kit del primer viaje (Namibia, noviembre de 2026): se empezó casi de cero y el kit son
 **dos compras y un préstamo** — el cuerpo y el gran angular de astro y
 paisaje, comprados, y el tele de fauna, prestado — elegidos para cubrir safari, charcas nocturnas y cielo con el
 mínimo dinero razonable. La cuarta cámara-que-ya-tienes, el **Pixel 10 Pro**,
@@ -38,7 +38,7 @@ un 20–40 %.
 > equivalentes, 170 g, filtro de 52 mm). Cubre el hueco entre el 11 mm y el
 > 70-350: retrato, calle, interiores y poca luz. No tiene interruptor
 > AF/MF: el enfoque manual se pone desde el menú. Todo en
-> [su guía](15-viltrox-25mm.md).
+> [su guía](16-viltrox-25mm.md).
 
 ## El cuerpo: Sony a6700
 
@@ -53,7 +53,7 @@ esta y no otra:
 - **Estabilizador en el cuerpo (IBIS)** de ~5 pasos: suma con el del tele y
   estabiliza también el 11 mm, que no lleva estabilizador propio.
 - **Intervalómetro integrado**: los timelapses y star trails del
-  [capítulo 9](09-astrofotografia-namibia.md) sin comprar ni un cable.
+  [capítulo 10](10-astrofotografia.md) sin comprar ni un cable.
 - **26 Mpx APS-C**: margen de recorte en edición, y su recorte 1.5x
   multiplica el alcance aparente de cualquier tele.
 
@@ -109,19 +109,19 @@ solo.
 | Sony FE 200-600mm G | ~1.900 € | El AF de referencia y zoom interno, pero 2,1 kg y fuera de presupuesto |
 | Tamron 150-500mm f/5-6.7 Di III VC VXD | ~1.100–1.400 € | Alternativa intermedia, 1,7 kg. <https://www.tamron.eu/> |
 
-**Recomendación**: el **70-350 G**. En Etosha, 525 mm equivalentes dan el
-retrato apretado de casi todo lo que se acerca a una charca; pesa **625 g**
+**Recomendación**: el **70-350 G**. En un safari, 525 mm equivalentes dan el
+retrato apretado de casi todo lo que se acerca a una charca o a una orilla; pesa **625 g**
 —un tercio de lo que pesa un 150-600— y eso cambia el safari entero: se
 levanta con una mano en los cuatro segundos que dura un leopardo, aunque el
 bean bag siga siendo el soporte serio. Su extremo corto de 105 mm eq da el
 "animal en su paisaje" **sin cambiar de objetivo**, que con el polvo de
-Etosha y una sola bolsa vale oro.
+las pistas y una sola bolsa vale oro.
 
 **Dos limitaciones a tener en cuenta**:
 
 - **f/6.3 en el extremo largo** es lento para la charca nocturna: allí
   trabajarás a ISO 6400–12800 y salvarás las fotos con reducción de ruido
-  por IA (ver [capítulo 7](07-safari-nocturno-charcas.md)). La alternativa
+  por IA (ver [capítulo 7](07-fauna-de-noche.md)). La alternativa
   luminosa (un 70-200 f/2.8) se sale de presupuesto; el enfoque budget es
   asumir el ISO alto. Consuelo real: por debajo de **200 mm** abre a f/5.6 y
   por debajo de 114 mm a f/5 — encuadrar un poco más ancho es luz gratis.
@@ -194,9 +194,8 @@ frenan.
   cargador. La cámara carga por USB-C — un power bank la revive en el campo
   — pero el cargador doble deja las tres baterías listas cada noche sin
   secuestrar la cámara.
-- **2 adaptadores de enchufe tipo M + una regleta europea pequeña**: el
-  enchufe oficial de Namibia es el M (el europeo entra en algunos, no en
-  todos), y con la regleta un solo
+- **Adaptadores de enchufe del destino + una regleta europea pequeña**:
+  mira qué enchufe se usa en cada país antes de salir, y con la regleta un solo
   adaptador da servicio a todos los cargadores a la vez
   ([logística](https://github.com/morandeirachema/a6700-namibia/blob/main/campo/logistica-viaje.md)).
 - **Intervalómetro: no hace falta.** Viene integrado en la cámara
@@ -222,7 +221,7 @@ frenan.
   el 70-350 de **67 mm**. La solución barata es un **anillo step-up 55→67**
   (~8 €), y otro 52→67 para el Viltrox: compras todos los filtros en 67 mm
   y sirven para los tres. Con eso: un **filtro protector**
-  (~25–40 €) contra el polvo de Etosha para el que lleves puesto —para astro,
+  (~25–40 €) contra el polvo de las pistas para el que lleves puesto —para astro,
   siempre sin filtro—, y si te pica el paisaje
   ([Paisaje a fondo](https://github.com/morandeirachema/a6700-namibia/blob/main/mejora/paisaje-a-fondo.md)), un **ND1000** (~25–40 €)
   para olas y niebla de 30 s a plena luz y un **polarizador circular**
@@ -231,7 +230,7 @@ frenan.
 - **Mini trípode o pinza de móvil (~10–15 €)**: para el modo astro y los
   timelapses del [Pixel](../manejo-pixel-10-pro/README.md) — una piedra también
   vale, pero la pinza apunta donde tú quieres.
-- **Pera sopladora y paño de microfibra**: el polvo de Etosha es fino y
+- **Pera sopladora y paño de microfibra**: el polvo de las pistas es fino y
   omnipresente. Cambia de objetivo solo dentro del coche o de la bolsa — en
   una mirrorless el sensor queda a la vista al desmontar.
 - **Frontal con luz roja** para no arruinar la visión nocturna (ni la de los
@@ -276,5 +275,5 @@ Las fotos de Namibia tienen **una mancha gris en el cielo, siempre en el mismo s
 - Soporte oficial Sony (a6700 y firmware de objetivos): <https://www.sony.es/electronics/support>
 
 <!-- nav -->
-[← Anterior](13-fotos-en-casa.md) · [Índice](README.md) · [Siguiente →](15-viltrox-25mm.md)
+[← Anterior](14-fotos-en-casa.md) · [Índice](README.md) · [Siguiente →](16-viltrox-25mm.md)
 <!-- /nav -->

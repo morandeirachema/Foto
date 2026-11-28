@@ -6,6 +6,8 @@
 
 # 13. Exportar
 
+> 🔵 **Básico** · Da por sabido: el [flujo base](04-flujo-base.md) · Te desbloquea: exportar bien para la pantalla, la familia y el papel.
+
 ## 13.1. El cuadro de exportación
 
 **Export** (**`⇧⌘E`**) ofrece:

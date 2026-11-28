@@ -69,11 +69,11 @@ recuperar donde el sensor saturó.
 **La decisión**: empuja el histograma a la derecha **sin que toque el
 borde**. En la práctica de este viaje:
 
-- Fondo de calcreta blanca o cielo → **+0.7 / +1** y vigila el **Zebra 100+**:
+- Fondo de suelo claro, agua brillante o cielo → **+0.7 / +1** y vigila el **Zebra 100+**:
   si parpadea sobre algo que debe tener detalle, baja.
 - Un animal oscuro sobre fondo claro no es un problema de exposición: es un
   problema de **medición** (medición puntual vinculada al punto de enfoque,
-  [AF y exposición a fondo](../manejo-a6700/16-af-y-exposicion-a-fondo.md)).
+  [AF y exposición a fondo](../manejo-a6700/17-af-y-exposicion-a-fondo.md)).
 - **Dónde NO se aplica**: en astro no hay derecha a la que exponer — el cielo
   es oscuro de verdad. Ahí la montaña del histograma va en el **primer
   tercio**, separada del borde izquierdo, y punto.
@@ -166,8 +166,8 @@ te permite estar lejos y aun así llenar el encuadre.
   esa foto no existe con ninguna focal.
 - **El retrato de fauna que no deforma**: no te acerques más — **aléjate y
   zoomea**. Cerca y con angular, la nariz del animal se hincha.
-- **Las capas azuladas de Spreetshoogte**: la compresión de sierras que hace
-  bonito el mirador es distancia pura; el 70-350 solo la recorta.
+- **Las capas azuladas de una sierra**: la compresión que hace bonito un
+  mirador es distancia pura; el 70-350 solo la recorta.
 
 ---
 
@@ -195,7 +195,7 @@ levantar la exposición después en el revelado dan casi el mismo resultado.
   entre quemar la orilla iluminada o dejar la foto un poco oscura: **déjala
   oscura y levántala en revelado**. Lo quemado no vuelve; el ruido que añades
   al levantar es pequeño y la reducción por IA se lo come.
-- Y antes de cruzar ningún techo de ISO, el orden del [capítulo 7](../manejo-a6700/07-safari-nocturno-charcas.md)
+- Y antes de cruzar ningún techo de ISO, el orden del [capítulo 7](../manejo-a6700/07-fauna-de-noche.md)
   sigue mandando: con trípode y animal quieto, **baja la obturación primero**.
   Eso es luz gratis; el ISO nunca lo es.
 
@@ -213,7 +213,7 @@ Y hay un número que lo explica casi todo: la ficha de Sony da sensibilidad de
 AF **de −3 EV a +20 EV**, medida **a f/2.0**. El 70-350 abre a **f/6.3**: son
 algo más de **tres pasos** (3,3) menos de luz llegando al sensor. El AF que
 en el papel ve a −3 EV, con el tele puesto se queda alrededor de **+0,3 EV** — que
-es, exactamente, la penumbra de la charca de Okaukuejo.
+es, exactamente, la penumbra de una charca con focos.
 
 **Las decisiones**:
 
@@ -238,7 +238,7 @@ IBIS), rosca de 55 mm.
   sufre** en astro: las estrellas del borde pueden salir con "alitas" (coma).
   Si te pasa, cierra a **f/2.2–f/2.8** y sube el ISO un paso: pierdes menos
   que ganas. Compruébalo en casa con la prueba de punto de luz de la
-  [hoja de verificación](../manejo-a6700/21-verificacion-in-situ.md), no en Namibia.
+  [hoja de verificación](../manejo-a6700/23-verificacion-in-situ.md), no en el viaje.
 - Para paisaje, f/8 con la hiperfocal de la tabla del punto 3.
 
 **Sony E 70-350mm F4.5-6.3 G OSS** — 105–525 mm equivalentes, y el objetivo
@@ -262,7 +262,7 @@ sin estabilizador propio y **sin interruptor AF/MF**.
   misma cuenta del punto 3): el fondo se va, pero un paso en falso también.
 - La hiperfocal pide cerrar mucho más que con el 11 mm: a f/8 se enfoca a
   ~3,9 m y queda nítido desde ~2 m. Tabla completa y receta en
-  [su guía](../manejo-a6700/15-viltrox-25mm.md).
+  [su guía](../manejo-a6700/16-viltrox-25mm.md).
 
 ---
 
@@ -279,11 +279,11 @@ se ve congelado; por encima, movido. Con los números de tu equipo:
 |---|---|---|---|
 | León caminando (1,5 m/s) a 30 m, 350 mm | 1,5 mm en 1/1000 s | **~5 px** a 1/1000 · ~18 px a 1/250 | 1/1000 al caminar: es la fila de la [receta de safari](../manejo-a6700/06-safari-diurno.md#receta-por-escena-solo-tocas-la-rueda-delantera) |
 | Persona que cruza la calle (1,4 m/s) a 3 m, 25 mm | 5,6 mm en 1/250 s | ~12 px a 1/250 · **~6 px a 1/500** | **1/500** si cruza; 1/250 basta si viene hacia ti |
-| Ciclista (5 m/s) a 4 m, 25 mm | 5 mm en 1/1000 s | **~8 px** a 1/1000 · ~16 px a 1/500 | 1/1000, o el barrido de la [calle](../manejo-a6700/12-calle-y-arquitectura.md) |
-| Coche por la ciudad (14 m/s, 50 km/h) | 280 m en 20 s | Cruza el encuadre entero | La estela es el coche: [estelas de tráfico](../manejo-a6700/11-estelas-de-trafico.md) |
+| Ciclista (5 m/s) a 4 m, 25 mm | 5 mm en 1/1000 s | **~8 px** a 1/1000 · ~16 px a 1/500 | 1/1000, o el barrido de la [calle](../manejo-a6700/13-calle-y-arquitectura.md) |
+| Coche por la ciudad (14 m/s, 50 km/h) | 280 m en 20 s | Cruza el encuadre entero | La estela es el coche: [estelas de tráfico](../manejo-a6700/12-estelas-de-trafico.md) |
 | Estrellas (la Tierra gira 15° por hora) | 1/4 de grado por minuto | Con el 11 mm a f/1.8, ~16 s antes de que se note al 100 % | 15–20 s con el 11 mm; ~7 s al 100 % con el 25 mm (10–13 s si la ves a tamaño pantalla) |
-| El cielo entero en una serie | 15° por hora, durante horas | Cada foto, un punto; todas juntas, un arco | 30 min = un arco de 7,5°: [star trails](../manejo-a6700/08-estrellas-con-tierra.md) |
-| Nubes en un time-lapse | Mucho en minutos | Entre foto y foto, no en cada foto | El **intervalo** decide la velocidad del vídeo: 2–5 s para nubes, 17 s para estrellas ([time-lapse](../manejo-a6700/10-time-lapse-del-cielo.md#la-cuenta-antes-de-salir)) |
+| El cielo entero en una serie | 15° por hora, durante horas | Cada foto, un punto; todas juntas, un arco | 30 min = un arco de 7,5°: [star trails](../manejo-a6700/09-estrellas-con-tierra.md) |
+| Nubes en un time-lapse | Mucho en minutos | Entre foto y foto, no en cada foto | El **intervalo** decide la velocidad del vídeo: 2–5 s para nubes, 17 s para estrellas ([time-lapse](../manejo-a6700/11-time-lapse-del-cielo.md#la-cuenta-antes-de-salir)) |
 
 **De dónde sale el tiempo de las estrellas.** La famosa **regla del 500**
 (500 ÷ focal equivalente) da 30 s con el 11 mm: es de la época del carrete y

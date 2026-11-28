@@ -6,6 +6,8 @@
 
 # 10. Recetas completas
 
+> 🔵 **Básico** · Da por sabido: los capítulos [4](04-flujo-base.md) a [9](09-noche.md) · Te desbloquea: recetas completas, de principio a fin, para las fotos típicas.
+
 > ⚠️ **Provisional.** Estas recetas combinan los pasos de la guía para cinco situaciones típicas, pero **todavía no se han probado con fotos reales**. Los valores son puntos de partida. Se revisarán con fotos de muestra. Mira siempre la imagen, no el número.
 
 ## 10.1. León al amanecer, con luz cálida y algo de ruido

@@ -1,16 +1,20 @@
 <!-- nav -->
-[← Anterior](05-enfocar-el-11mm.md) · [Índice](README.md) · [Siguiente →](07-safari-nocturno-charcas.md)
+[← Anterior](05-enfocar-el-11mm.md) · [Índice](README.md) · [Siguiente →](07-fauna-de-noche.md)
 <!-- /nav -->
 
 *Parte II · Recetas · Fauna*
 
-# 6. Safari diurno con la a6700 — recetas desde el coche
+# 6. Safari de día — desde el coche, el todoterreno abierto y la barca
 
-> 🔵 **Básico** · Da por sabido: el capítulo 4 (memoria MR1 guardada) · Te desbloquea: fauna nítida desde el coche, con el AF trabajando para ti.
+> 🔵 **Básico** · Da por sabido: el capítulo 4 (memoria MR1 guardada) · Te desbloquea: fauna nítida desde cualquier vehículo y en cualquier tipo de safari (sabana, delta, río o bosque), con el AF trabajando para ti.
 
-En Etosha el safari se hace desde el coche: cámara apoyada en la ventanilla,
-luz durísima a mediodía y polvo en todas partes. La cámara va preconfigurada
-(memoria MR1) y tú solo tocas dos cosas.
+Un safari se hace casi siempre desde un vehículo: un coche cerrado si
+conduces tú, un todoterreno abierto con guía, una barca en un río o un
+delta, o un jeep en un parque de bosque. Cambia el apoyo, la luz y el polvo;
+la cámara, no: va preconfigurada (memoria MR1) y tú solo tocas dos cosas.
+Este capítulo sirve igual para la sabana seca que ya conoces, para los deltas
+y los ríos de Botswana y del Pantanal y para los parques de bosque de Sri
+Lanka.
 
 ## Receta base (déjala guardada en MR1)
 
@@ -22,7 +26,7 @@ luz durísima a mediodía y polvo en todas partes. La cámara va preconfigurada
 | Enfoque | **AF-C** + AF-ON con el pulgar ([capítulo 4](04-configuracion-basica.md)) |
 | Reconocimiento de sujeto | **Animal** (cámbialo a Ave para aves) |
 | Área AF | Zona — o Ancha si la escena está limpia |
-| Sensibilidad de seguimiento | **3** (la estándar); con hierba/ramas robando el foco, **1** ([AF y exposición a fondo](16-af-y-exposicion-a-fondo.md)) |
+| Sensibilidad de seguimiento | **3** (la estándar); con hierba/ramas robando el foco, **1** ([AF y exposición a fondo](17-af-y-exposicion-a-fondo.md)) |
 | Ráfaga | **Hi+** (11 fps) — en Hi+ el visor no va en tiempo real durante la ráfaga; si te cuesta seguir al animal, baja a Hi |
 | Formato | RAW en la SD (UHS-II, con hueco) |
 | Estabilizador | **OSS del objetivo en ON**; el IBIS de la cámara se suma solo (los dos, OFF en trípode) |
@@ -31,13 +35,13 @@ Con esto, el 80 % del safari es mantener el pulgar en AF-ON, seguir al animal
 y ráfagas cortas. Sobre la marcha ajustas la **obturación** (rueda delantera)
 según el movimiento.
 
-> Este capítulo organiza el safari por **cómo se mueve** el animal. El otro
-> eje —**quién** tienes delante: dónde y cuándo sale cada especie, qué gesto
-> esperar y qué números pedirle a la cámara con cada una— está en
-> [la fauna, animal por animal](https://github.com/morandeirachema/a6700-namibia/blob/main/tecnica/fauna-de-namibia.md).
+> Este capítulo organiza el safari por **cómo se mueve** el animal y por
+> **desde dónde** disparas. Las aves tienen su propio capítulo
+> ([aves](08-aves.md)), y la fauna de noche, el suyo
+> ([fauna de noche](07-fauna-de-noche.md)).
 
 > Cada uno de estos ajustes, con su **ruta exacta de menú**, en
-> [la referencia de ajustes](17-ajustes-a6700.md#bloque-b-fauna-la-receta-de-mr1).
+> [la referencia de ajustes](19-ajustes-a6700.md#bloque-b-fauna-la-receta-de-mr1).
 
 ## La rutina de 10 segundos (cada vez que llegas a una escena)
 
@@ -77,11 +81,11 @@ aquí viene de serie. Tu trabajo cambia, no desaparece:
 ## Exposición en la práctica
 
 En M con ISO Auto la compensación de exposición **funciona con normalidad**
-(±5 EV, en la flecha inferior de la rueda de control): fondo muy claro (calcreta blanca, cielo) → **+0.7 a +1**; fondo muy
+(±5 EV, en la flecha inferior de la rueda de control): fondo muy claro (arena, barro seco, agua brillante, cielo) → **+0.7 a +1**; fondo muy
 oscuro (sombra, noche) → **−0.7 a −1**; escena normal → 0. Es la única
 corrección que necesitas de día. Para casos finos (animal pequeño a
 contraluz), la medición **puntual vinculada al punto de enfoque** mide justo
-donde enfocas ([AF y exposición a fondo](16-af-y-exposicion-a-fondo.md)).
+donde enfocas ([AF y exposición a fondo](17-af-y-exposicion-a-fondo.md)).
 
 ## Configurar una sola vez
 
@@ -157,35 +161,58 @@ Cinco reglas que no requieren técnica, solo acordarse:
    (525 mm eq) **y** el plano abierto a 70–100 mm con el animal en su
    paisaje — este zoom empieza en 105 mm equivalentes: las dos fotos salen
    **sin cambiar de objetivo**. El zoom sirve para elegir encuadre, no solo
-   para acercar. La [lista de tomas](https://github.com/morandeirachema/a6700-namibia/blob/main/plan/lista-de-tomas.md) te recuerda
-   cuáles te faltan.
+   para acercar.
 
-## Práctica desde el coche
+## El vehículo: coche cerrado, todoterreno abierto o barca
 
-- **Bean bag** en la ventanilla (mejor que trípode dentro del coche; qué es
-  y cómo se usa: [equipo](14-equipo-accesorios.md)). Llévalo
-  vacío y rellénalo allí con arroz o alubias.
-- **Motor apagado** en las tomas importantes: la vibración se nota a 525 mm
-  equivalentes.
-- Cámara encendida con el tele montado **siempre en el regazo**: los leopardos
-  no esperan.
-- No cambies de objetivo con las ventanillas abiertas: el polvo de Etosha se
-  mete en todo, y en una cámara sin espejo el **sensor queda a la vista** al
-  desmontar — cambios solo dentro del coche o de la bolsa, cuerpo hacia abajo.
+| Desde… | El apoyo | Lo que cambia |
+|---|---|---|
+| **Coche cerrado** (conduces tú) | **Bean bag** a caballo de la ventanilla medio subida ([qué es](15-equipo-accesorios.md#accesorios)) | Motor apagado en las tomas buenas; dispara desde la ventanilla, no desde el techo |
+| **Todoterreno abierto** (con guía: lo habitual en Botswana, Sri Lanka y muchas reservas) | El bean bag sobre la barra o el respaldo del asiento delantero; o el objetivo apoyado en el antebrazo | **Pide al guía que apague el motor** y avisa a los demás antes de moverte: cualquier movimiento hace vibrar el vehículo a 525 mm eq. Sin ventanillas entra todo el polvo: funda o bolsa de tela encima entre escenas |
+| **Barca** (ríos y deltas: el Pantanal, Botswana) | En el regazo o en el bean bag sobre la borda; nunca el trípode | Todo se mueve: **1/2000 como mínimo** aunque el animal esté quieto, estabilizador activado, motor parado al disparar. A ras del agua el punto de vista es el mejor posible: aprovéchalo |
+| **Canoa baja** (*mokoro*, en el delta del Okavango) | En el regazo | Equipo mínimo, bolsa estanca, y quieto: la canoa vuelca con un movimiento brusco |
+
+**En todos:** cámara encendida con el tele montado y **siempre en el regazo**;
+no cambies de objetivo con polvo o junto al agua: en una cámara sin espejo
+**el sensor queda a la vista** al desmontar. Cambios solo dentro de una bolsa
+o a cubierto, cuerpo hacia abajo.
+
+## Tres tipos de destino
+
+| Destino | Ejemplos | Lo que pide |
+|---|---|---|
+| **Sabana seca con charcas** | Lo que ya hiciste | Luz dura a mediodía, polvo, animales que bajan a beber: espera en el agua |
+| **Delta, río o humedal** | Botswana (el delta del Okavango y el río Chobe), el Pantanal | **Agua**: reflejos, barcas, aves por todas partes, animales que cruzan. Luz que rebota en el agua (compensa **−0,3/−0,7** si el agua brilla), calor y humedad |
+| **Bosque seco y matorral** | Los parques de Sri Lanka | El animal **detrás de ramas**: `Punto` y `Sens. Seguim. AF` en **1**, menos luz (ISO alto sin miedo) y muchos jeeps en cada avistamiento |
+
+**Antes de reservar, cinco cosas que cambian las fotos:**
+
+1. **El peso.** En Botswana, las avionetas entre campamentos admiten unos
+   **20 kg por persona en bolsa blanda, con el equipo fotográfico incluido**
+   (confírmalo con tu operador). Un tele de 2 kg se come una décima parte del
+   equipaje ([mejoras de equipo](18-mejoras-de-equipo.md#cuando-devuelvas-el-70-350)).
+2. **La temporada.** En la estación seca los animales se concentran junto al
+   agua. En el Pantanal, los jaguares se ven sobre todo de julio a septiembre
+   en las orillas de los ríos, desde barca.
+3. **Lo que se permite.** En los parques nacionales de Botswana no se puede
+   salir de las pistas ni circular de noche; en las **concesiones privadas**,
+   sí ([fauna de noche](07-fauna-de-noche.md)).
+4. **Los cierres y las multitudes.** En Sri Lanka, Yala cierra parte del
+   parque una temporada al año (septiembre–octubre, con fechas que cambian:
+   confírmalas), y en los fines de semana y festivos se juntan decenas de
+   jeeps en cada leopardo. Entre semana y a primera hora hay menos.
+5. **Los días.** Un animal concreto (un jaguar, un leopardo) pide varias
+   salidas: cuenta con tres o más días en el mismo sitio.
 
 ## Horarios
 
 Las dos primeras y las dos últimas horas de luz concentran actividad y buena
-luz. A mediodía la excepción son las **charcas**: en la estación seca los
-animales beben a cualquier hora — apárcate en una y espera.
+luz. A mediodía la excepción es **el agua**: en la estación seca los animales
+beben a cualquier hora. Apárcate junto a una charca o una orilla y espera.
 
 Y la regla de luz más rentable para empezar: **sol a tu espalda**, animal
 iluminado de frente. Los contraluces son para las siluetas del atardecer y el
 polvo dorado — buscados, no accidentales.
-
-El plan completo — el día hora a hora, la fauna que sí tiene horario y las
-noches de tu quincena con su luna — está en
-[las mejores horas](https://github.com/morandeirachema/a6700-namibia/blob/main/plan/mejores-horas.md).
 
 Y cuando la rutina de este capítulo salga sola, el siguiente piso — luz,
 velocidad, apertura, Kelvin y encuadre como decisiones creativas, no como
@@ -201,6 +228,22 @@ detalle, y para eso está el tele ([la guía del Pixel](../manejo-pixel-10-pro/R
 Y si el tele **no está** —no ha llegado, falla o se quedó en la bolsa— el
 móvil a 5x es un 70 mm de bolsillo: hasta dónde llega y qué le pides con cada
 animal, en [el Pixel de día](../manejo-pixel-10-pro/07-lo-que-se-mueve.md).
+
+## Ejercicio (una tarde, sin safari)
+
+Sin animales salvajes cerca, el safari se entrena igual:
+
+1. **Un perro corriendo** o un partido de niños: MR1, 1/1000 y 1/2000. Veinte
+   ráfagas cortas.
+2. **Revisa al 100 %** la primera de cada ráfaga, girando la rueda de control
+   (se amplía sola sobre el punto de enfoque). ¿Cuántas con el ojo nítido?
+3. **El mismo sujeto, dos encuadres**: el retrato apretado y el plano abierto
+   con su entorno, sin cambiar de objetivo.
+4. **Desde un coche** parado, con el bean bag en la ventanilla: los patos de
+   un estanque o las palomas de una plaza.
+
+**Aprobado cuando** 15 de cada 20 ráfagas tienen el ojo nítido y cambias la
+velocidad según el movimiento sin pensarlo.
 
 ## Por qué funciona
 
@@ -224,11 +267,14 @@ animal, en [el Pixel de día](../manejo-pixel-10-pro/07-lo-que-se-mueve.md).
 
 ## Referencias
 
-- Charcas y fauna de Etosha: <https://www.etoshanationalpark.org/>
+- Límite de 20 kg en las avionetas de Botswana, equipo incluido (Wilderness Air): <https://www.wildernessdestinations.com/about/the-wilderness-family/wilderness-air>
+- Parques frente a concesiones privadas en Botswana (Africa Geographic): <https://travel.africageographic.com/destinations/botswana/okavango-delta/moremi-vs-khwai-vs-concessions>
+- El Pantanal y sus jaguares (National Geographic): <https://www.nationalgeographic.com/travel/article/pantanal-brazils-jaguar-country-in-photos>
+- Yala y los leopardos de Sri Lanka (Rough Guides): <https://www.roughguides.com/destinations/asia/sri-lanka/south/yala-national-park/wildlife-yala/>
 - Guía práctica para preparar un safari fotográfico: <https://photographylife.com/preparing-for-a-safari-trip-to-africa>
 - Help Guide oficial de la a6700 (menús y AF, en español): <https://helpguide.sony.net/ilc/2320/v1/es/>
 - Sony E 70-350mm F4.5-6.3 G OSS (ficha oficial): <https://www.sony.es/lenses/products/sel70350g>
 
 <!-- nav -->
-[← Anterior](05-enfocar-el-11mm.md) · [Índice](README.md) · [Siguiente →](07-safari-nocturno-charcas.md)
+[← Anterior](05-enfocar-el-11mm.md) · [Índice](README.md) · [Siguiente →](07-fauna-de-noche.md)
 <!-- /nav -->

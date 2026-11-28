@@ -33,7 +33,7 @@ Investigación del 28 de noviembre de 2026 para [`conceptos/11-los-maestros.md`]
 | Ansel Adams, *Moonrise, Hernandez, New Mexico*, 1941 | Un solo negativo; exposición calculada (luna en la zona VII, según su relato de 1983); no le dio tiempo a una segunda | [Wikipedia](https://en.wikipedia.org/wiki/Moonrise,_Hernandez,_New_Mexico) · [Ansel Adams Gallery](https://articles.anseladams.com/ansel-adams-anecdotes/) (*solo buscador*) |
 | Ansel Adams, *The Tetons and the Snake River*, 1942 | Encargo del Departamento de Interior; dominio público (NARA 519904) | [National Archives](https://www.archives.gov/research/still-pictures/highlights/the-tetons-snake-river) · **vista** |
 | Sebastião Salgado, *Iceberg entre la isla Paulet y las Shetland del Sur*, 2005 · *Brooks Range*, 2009 | Serie *Genesis*, blanco y negro | [ICP](https://www.icp.org/exhibitions/sebasti%C3%A3o-salgado-genesis) |
-| Galen Rowell, *Rainbow over the Potala Palace*, Lhasa, 1981 | Corrió en dirección contraria para alinear el arco con el palacio (*solo buscador*; relatos con detalles distintos); filtros degradados con su nombre | [Sports Illustrated](https://vault.si.com/vault/2002/08/26/galen-rowell-1940-2002-for-three-decades-he-combined-his-singular-skills-as-a-photographer-and-mountaineer-to-produce-many-of-adventurings-enduring-images) · [Wikipedia](https://en.wikipedia.org/wiki/Galen_Rowell) |
+| Galen Rowell, *Rainbow over the Potala Palace*, Lhasa, 1981 | Corrió en dirección contraria para alinear el arco con el palacio (*solo buscador*; relatos con detalles distintos); filtros degradados con su nombre. El enlace de Sports Illustrated daba 404 en la auditoría del 28 de noviembre: se cambió por Tahoe Quarterly | [Tahoe Quarterly](https://tahoequarterly.com/fall-2024/galen-rowell-a-dynamic-mountain-light-remembered) · [Wikipedia](https://en.wikipedia.org/wiki/Galen_Rowell) |
 
 ## Cielo nocturno
 
@@ -105,3 +105,25 @@ Leído en la documentación de Skylum: **Develop RAW/Develop** tiene una secció
 - Páginas que no se dejaron leer: MoMA, Art Institute of Chicago y NGA (403); The Met (429); Getty, artículo de la CSH #22 (cuerpo vacío); Smithsonian (403); PetaPixel (403). Sus datos vienen de resúmenes de buscador y están marcados arriba.
 - Ningún dato técnico de cámara (velocidad, diafragma) de las fotos de calle, arquitectura y paisaje: no se publican. El capítulo no los inventa.
 - El orden de los cinco fotógrafos de cada tema es una selección de la guía, no un ranking publicado por nadie.
+
+## Fotos recientes con cámara digital (añadidas el 28 de noviembre de 2026)
+
+El dueño pidió ejemplos **modernos, con cámaras actuales y al alcance de un aficionado** («no una foto de unas 30 horas»). Se quitaron del capítulo el *Day to Night* de Wilkes, los *Theaters* de Sugimoto y *Eleven Hours* de Kenna, y entraron estas:
+
+| Foto | Datos comprobados | Fuente |
+|---|---|---|
+| Zig Koch, *Race for Life*, río Cuiabá, Pantanal (WPY 2013) | Nikon D300s · 200–400 mm f/4 · 1/800 s a f/4 · ISO 640; desde barca, siguiendo a una hembra desde el amanecer | [NHM](https://www.nhm.ac.uk/wpy/gallery/2013-race-for-life) |
+| Alberto Román Gómez (10 años), *Free as a Bird*, junto a la Sierra de Grazalema (WPY 2024) | Olympus OM-D E-M1 Mark III · 100–400 mm a 400 mm · 1/640 a f/6.3 (+1 EV); ISO no publicado; desde el coche | [NHM](https://nhm.ac.uk/wpy/gallery/2024-free-as-a-bird) |
+| Andrés Luis Domínguez Blanco, *Sunflower Songbird*, Arcos de la Frontera (WPY 2021) | Fuji X-H1 · XF 100–400 mm · 1/280 a f/5.6 (−1 EV) · ISO 400; *hide* en el coche | [NHM](https://nhm.ac.uk/wpy/gallery/2021-sunflower-songbird) |
+| Ismael Domínguez Gutiérrez, *Out of the Fog*, embalse de Los Hurones (WPY 2022) | Canon EOS 7D Mark II · Tamron 100–400 mm · 1/8000 a f/6.3 · ISO 800 · trípode | [NHM](https://www.nhm.ac.uk/wpy/gallery/2022-out-of-the-fog) |
+| Eve Tucker, *City Gull*, Canary Wharf (WPY 2012) | Canon EOS 450D · 100 mm f/2.8 · 1/250 a f/4.5 · ISO 200; a pie | [NHM](https://www.nhm.ac.uk/wpy/gallery/2012-city-gull) |
+| Stefano Pellegrini, *Botswana Star Trail*, Nxai Pan (APOY 2026, ganadora de Skyscapes) | 340 fotos en 4 horas; ajustes no publicados | [RMG](https://www.rmg.co.uk/whats-on/astronomy-photographer-year/galleries/skyscapes-2026) |
+| Alex van Harmelen, *Trails at Rest* (APOY 2025, segunda en Skyscapes) | Círculos de 20 minutos desde un barco fondeado | [RMG](https://www.rmg.co.uk/whats-on/astronomy-photographer-year/galleries/skyscapes-2025) |
+| João Yordanov Serralheiro, *I Hear the Stars* (APOY 2026, mención) | Escultura en una playa y círculos de estrellas | [RMG](https://www.rmg.co.uk/whats-on/astronomy-photographer-year/galleries/skyscapes-2026) |
+| Fabian Dalpiaz, *Moonrise Perfection Over the Dolomites* (APOY 2025, mención) | Luna llena sobre los Dolomitas con la luz del atardecer | [RMG](https://www.rmg.co.uk/whats-on/astronomy-photographer-year/galleries/skyscapes-2025) |
+| Ting-Rung Chang, *Focus In*, San Francisco (Tokyo Foto Awards 2025, mención) | Fujifilm X-T20 · XF 18–55 a 39 mm · f/6.4 · 1/500 · ISO 250 | [TIFA](https://www.tokyofotoawards.jp/winners/hm/2025/16517) |
+| Francisco Mira Vicent, *Street Moment*, Alicante; Khairizal Maris, *Celebrating Football Club Victories* (SWPA 2025, abierta, calle) | Sin datos de cámara | [World Photography Organisation](https://www.worldphoto.org/sony-world-photography-awards/winners-galleries/2025/open/street-photography) |
+| *Concrete Memento* (Chi Ho Gary Ng), *Architectural Minimalism* (Michael Luetge), *Vertical Piano* (Omar Garcia), *The Dark Knight Awaits* (Ming Cheng) (Architecture Photography Awards 2025) | Sin datos de cámara | [designboom](https://www.designboom.com/architecture/1950-petrol-station-photo-year-architecture-photography-awards-2025-michael-luetge-08-27-2025/) |
+| Ulana Switucha, *The Tokyo Toilet Project* (SWPA 2025, arquitectura y diseño) | Sin datos de cámara | [Wallpaper](https://wallpaper.com/architecture/sony-world-photography-awards-2025-winners) |
+
+Las marcas ✅/🟡/🔴 («¿la puedes hacer tú?») y 📷/🎞️ son criterio de la guía, con el equipo del dueño. 📷 y 🎞️ solo se ponen cuando la fuente dice la cámara o el soporte.

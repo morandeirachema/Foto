@@ -17,67 +17,70 @@
 **Parte II · Recetas por escenario**, agrupadas por tema
 
 *Fauna*
-6. Safari diurno
-7. Safari nocturno en charcas
+6. Safari de día: coche, todoterreno abierto y barca
+7. Fauna de noche: charcas con focos, salidas nocturnas y barcas
+8. Aves: de un *hide* en España a los humedales tropicales
 
 *El cielo de noche*
-8. Estrellas con la tierra dentro (desde cero)
-9. Astrofotografía (la noche completa)
-10. Time-lapse del cielo
+9. Estrellas con la tierra dentro (desde cero)
+10. Astrofotografía (la noche completa)
+11. Time-lapse del cielo
 
 *La ciudad y la casa*
-11. Estelas de tráfico
-12. Calle y arquitectura
-13. Fotos en casa
+12. Estelas de tráfico
+13. Calle y arquitectura
+14. Fotos en casa
 
 **Parte III · Equipo y objetivos**
 
-14. Equipo y accesorios
-15. El Viltrox 25 mm F1.7
-16. El AF y la exposición a fondo
+15. Equipo y accesorios (el kit del primer viaje)
+16. El Viltrox 25 mm F1.7
+17. El AF y la exposición a fondo
+18. Mejoras de equipo
 
 **Parte IV · Referencia**
 
-17. Todos los ajustes, con su ruta de menú
-18. El menú completo
-19. Verificación de los menús
+19. Todos los ajustes, con su ruta de menú
+20. El menú completo
+21. Verificación de los menús
 
 **Parte V · Hojas de campo** *(para imprimir)*
 
-20. Chuleta
-21. Verificación in situ
+22. Chuleta
+23. Verificación in situ
 
 ## Cómo leerla
 
 - **Cada capítulo abre con su nivel:** 🟢 **Iniciación** · 🔵 **Básico** · 🔴 **Avanzado**, con qué da por sabido y qué te desbloquea.
 - **Los valores son los de tu cámara.** Las guías describen cómo está configurada. Si algún día la pantalla no coincide con una guía, manda la pantalla: anótalo en [PENDIENTES.md](../PENDIENTES.md).
-- **Los menús se escriben como en la pantalla**, abreviados y en español: `MENU → pestaña → [Grupo] → [Ajuste]`, por ejemplo `Toma → [Calid. img/grab.] → [Formato archivo]`. Están verificados con la Guía de ayuda de Sony ([capítulo 19](19-verificacion-de-menus.md)).
+- **Los menús se escriben como en la pantalla**, abreviados y en español: `MENU → pestaña → [Grupo] → [Ajuste]`, por ejemplo `Toma → [Calid. img/grab.] → [Formato archivo]`. Están verificados con la Guía de ayuda de Sony ([capítulo 21](21-verificacion-de-menus.md)).
 - **Las focales llevan su equivalencia APS-C** (×1,5): 11 mm = 16,5 mm · 25 mm = 37,5 mm · 70–350 mm = 105–525 mm.
 - **Lección de Namibia:** las fotos del viaje salieron solo en JPEG. Antes de cualquier salida, comprueba que la cámara dispara en RAW ([capítulo 4](04-configuracion-basica.md)).
 
 ## Numeración antigua
 
-El [PDF de `sources/`](../sources/README.md) y el repo [a6700-namibia](https://github.com/morandeirachema/a6700-namibia) usan la numeración anterior. El 28 de noviembre de 2026 la sección se reordenó dos veces: primero entraron el time-lapse, las estelas y las fotos en casa, y después las recetas se agruparon por tema (fauna, cielo, ciudad) y entró **12 · Calle y arquitectura**. Equivalencias con el PDF y con la numeración intermedia de ese día:
+El [PDF de `sources/`](../sources/README.md) y el repo [a6700-namibia](https://github.com/morandeirachema/a6700-namibia) usan la numeración anterior. El 28 de noviembre de 2026 la sección se reordenó por temas y entraron capítulos nuevos; la numeración buena es la de la columna «Ahora». El detalle de cada cambio está en [NOVEDADES](../NOVEDADES.md).
 
-| En el PDF de `sources/` | Numeración intermedia (28 nov.) | Ahora |
-|---|---|---|
-| 0 · Del móvil a la a6700 | 1 | 1 |
-| 0.5 · Los menús, los botones y el primer día | 2 | 2 |
-| 0.7 · Los diales y los botones | 3 | 3 |
-| 1 · Configuración básica | 4 | 4 |
-| — (Enfocar el 11 mm, propio) | 5 | 5 |
-| 2 · Astrofotografía | 6 | **9** |
-| Estrellas con la tierra (sin número) | 7 | **8** |
-| 3 · Safari diurno | 8 | **6** |
-| 4 · Safari nocturno en charcas | 9 | **7** |
-| — (Time-lapse, Estelas, propios) | 10, 11 | 10, 11 |
-| — | — | **12 · Calle y arquitectura** (nuevo) |
-| — (Fotos en casa, propio) | 12 | **13** |
-| 5 · Equipo y accesorios | 13 | **14** |
-| — (Viltrox 25 mm, propio) | 14 | **15** |
-| Sin número: AF a fondo, ajustes, menú completo | 15, 16, 17 | **16, 17, 18** |
-| Anexo A (verificación de menús) | 18 | **19** |
-| Sin número: chuleta, verificación in situ | 19, 20 | **20, 21** |
+| En el PDF de `sources/` | Ahora |
+|---|---|
+| 0 · Del móvil a la a6700 | 1 |
+| 0.5 · Los menús, los botones y el primer día | 2 |
+| 0.7 · Los diales y los botones | 3 |
+| 1 · Configuración básica | 4 |
+| — (Enfocar el 11 mm, propio) | 5 |
+| 3 · Safari diurno | **6** (Safari de día) |
+| 4 · Safari nocturno en charcas | **7** (Fauna de noche) |
+| — | **8 · Aves** (nuevo) |
+| Estrellas con la tierra (sin número) | **9** |
+| 2 · Astrofotografía | **10** |
+| — (Time-lapse, Estelas, Calle y arquitectura, Fotos en casa: propios) | **11, 12, 13, 14** |
+| 5 · Equipo y accesorios | **15** |
+| — (Viltrox 25 mm, propio) | **16** |
+| Sin número: AF a fondo | **17** |
+| — | **18 · Mejoras de equipo** (nuevo) |
+| Sin número: ajustes, menú completo | **19, 20** |
+| Anexo A (verificación de menús) | **21** |
+| Sin número: chuleta, verificación in situ | **22, 23** |
 
 ---
 
@@ -143,7 +146,7 @@ principal del móvil ≈ 24 mm ≈ "1x"):
 | No existe en móvil | 350 mm = 525 mm equivalentes ≈ "21x" | El extremo largo del **70-350**: un león a 50 m llenando el encuadre |
 
 Fíjate en el hueco: entre 16,5 y 105 mm equivalentes solo está el **Viltrox
-25 mm** (37,5 mm equivalentes, [su guía](15-viltrox-25mm.md)). Ese tramo (el
+25 mm** (37,5 mm equivalentes, [su guía](16-viltrox-25mm.md)). Ese tramo (el
 retrato, el grupo, el coche en la pista) es el suyo; y cuando hay polvo en el
 aire y no quieres cambiar de objetivo, el Pixel.
 
@@ -220,7 +223,7 @@ que en la a6700 funciona en todos los modos (también en M con ISO Auto):
 
 | Escena | Qué hace la cámara | Tu corrección |
 |---|---|---|
-| Fondo muy claro (calcreta blanca al sol, cielo) | Oscurece la foto → el animal sale negro | **+0.7 a +1** |
+| Fondo muy claro (arena o sal al sol, cielo) | Oscurece la foto → el animal sale negro | **+0.7 a +1** |
 | Fondo muy oscuro (sombra, noche, foco sobre animal) | Aclara la foto → lo iluminado se quema | **−0.7 a −1** |
 | Escena normal | Acierta | 0 |
 
@@ -304,7 +307,7 @@ edición está explicada en la [guía de edición](../retoques/README.md).
    la cámara, como cualquier objetivo), 10 s, ISO 1600. Juega con los
    segundos mirando el histograma. Si puedes escaparte a cielo oscuro,
    sigue la escalera de tres noches de
-   [Estrellas con la tierra dentro](08-estrellas-con-tierra.md) —
+   [Estrellas con la tierra dentro](09-estrellas-con-tierra.md) —
    empieza de cero y acaba en la postal del viaje.
 6. **La cámara a ciegas**: configura los botones y las memorias MR1/MR2 del
    [capítulo 4](04-configuracion-basica.md) y practica el cambio sin mirar.
@@ -313,8 +316,8 @@ edición está explicada en la [guía de edición](../retoques/README.md).
 7. **Charca nocturna de ensayo**: busca una fuente o estatua **iluminada con
    focos** en tu ciudad, de noche: trípode, M, 1/60 s, f/6.3, ISO 6400, y
    ajusta el balance de blancos en K hasta que la piedra no salga naranja.
-   Es, ajuste por ajuste, el mirador de Okaukuejo
-   ([capítulo 7](07-safari-nocturno-charcas.md)) — mejor descubrir los
+   Es, ajuste por ajuste, el mirador de una charca con focos
+   ([capítulo 7](07-fauna-de-noche.md)) — mejor descubrir los
    problemas en tu barrio que con un rinoceronte delante.
 
 Cuando estas siete salgan solas: [Safari a fondo](https://github.com/morandeirachema/a6700-namibia/blob/main/mejora/safari-a-fondo.md)
@@ -382,7 +385,7 @@ nada más hoy**: eso es el capítulo 4.
 5. **Idioma, si quedó en inglés**: `MENU → Ajustes → [Área/fecha] → [Idioma]`.
 6. **Fecha, hora y zona**:
    `MENU → Ajustes → [Área/fecha] → [Aj. área/fecha/hora]`. Ahora en hora
-   de casa; **el día que aterrices, cámbialo a hora de Namibia** — ordenar
+   de casa; **el día que aterrices, cámbialo a la hora del destino** — ordenar
    miles de fotos por hora depende de esto.
 7. **Formatea la tarjeta EN la cámara** (nunca en el ordenador):
    `MENU → Toma → [Soporte] → [Formatear]`. Es la manera de dejarla
@@ -475,7 +478,7 @@ salen **abreviados** en pantalla (`Obturad./silenc.`, `Rest/guard ajust`,
 
 Las rutas que de verdad vas a usar en el viaje (la lista completa, ajuste a
 ajuste y con los valores de fauna y de noche, está en
-[la referencia de ajustes](17-ajustes-a6700.md)):
+[la referencia de ajustes](19-ajustes-a6700.md)):
 
 | Lo que quieres | Ruta |
 |---|---|
@@ -521,7 +524,7 @@ recorrer pestañas.
 
 Los que merecen estar ahí, según lo que usan las guías de este repo:
 **Sens. Seguim. AF**, **Dest. reconocim.**, **Área de enfoque**
-(los tres mandos del AF de [AF y exposición a fondo](16-af-y-exposicion-a-fondo.md)),
+(los tres mandos del AF de [AF y exposición a fondo](17-af-y-exposicion-a-fondo.md)),
 **Tipo de obturador**, **Func. capt. interv.**, **Formatear** y
 **Mem. ajustes cám**
 
@@ -539,7 +542,7 @@ Los tres cambios del viaje (el porqué y el paso a paso, en
   apertura en M; el repo lo quiere en la **obturación**.
 - **`Verificac. luminosa`** (*Bright Monitoring*) a **C1** — amplifica la
   pantalla en plena oscuridad para **componer la Vía Láctea viéndola**
-  ([capítulo 9](09-astrofotografia-namibia.md)). Solo funciona en MF.
+  ([capítulo 10](10-astrofotografia.md)). Solo funciona en MF.
 - **`Amplific. enfoque`** (la lupa) a **C3**: enfocar una estrella sin
   entrar al menú. C2 se queda con `Área de enfoque`, como viene.
 
@@ -582,7 +585,7 @@ Con la **regla de los tercios** (`Cuadr. regl. terc.`) dibujada encima, dos cosa
 
 - **El aire de la mirada**: ves de un vistazo si el animal está en un tercio
   o centrado como una foto de carnet ([atlas de encuadres](../conceptos/07-atlas-de-encuadres.md)).
-- **El horizonte torcido**: en el pan de Etosha, en las dunas y en la costa,
+- **El horizonte torcido**: en una llanura, en las dunas, en el agua y en la costa,
   medio grado canta. La cuadrícula lo caza antes de disparar; el **Nivel**
   del DISP lo remata.
 
@@ -648,7 +651,7 @@ tres mejores del día** ([la mirada](../conceptos/10-la-mirada.md)). Si además 
 pones tres estrellas ahí mismo, las localizas enseguida al revisar en la
 cámara. Que el programa de edición lea esa valoración al importar no está
 garantizado (la documentación de Luminar no lo menciona): compruébalo con
-un par de archivos la primera vez. Sin eso, el criterio que tenías en Etosha se pierde
+un par de archivos la primera vez. Sin eso, el criterio que tenías en el campo se pierde
 por el camino.
 
 **Proteger** (`Reproducc. → [Selección/nota] → [Proteger]`) hace lo contrario
@@ -715,7 +718,7 @@ contrario: **casi nada se cambia en el menú**. Se cambia con dos diales, una
 rueda y siete botones, y cada uno hace una cosa distinta según el modo en
 que estés, en reproducción o en el menú. Esta guía es el mapa de todos los
 mandos, lo que hace cada uno en cada situación, **la botonera que dejas
-configurada para Namibia**, y el ejercicio para manejarla a ciegas. Todo
+configurada para el viaje**, y el ejercicio para manejarla a ciegas. Todo
 verificado contra la Guía de ayuda oficial de Sony (octubre de 2026).
 
 > ⚠️ **Lo primero, porque cambia todo el repo**: de fábrica, en M, el **dial
@@ -910,7 +913,7 @@ Dos reglas que se olvidan: **el interruptor AF/MF del objetivo manda** sobre
 el `Modo de enfoque` del menú, y con el 70-350 **el OSS del objetivo manda**
 sobre el `SteadyShot` del menú. Si "la cámara no enfoca" o "el estabilizador
 no se apaga", mira primero el barrilete. Con el **Viltrox** no hay
-interruptor: manda el menú ([su guía](15-viltrox-25mm.md)). El botón de retención es
+interruptor: manda el menú ([su guía](16-viltrox-25mm.md)). El botón de retención es
 reasignable desde `Ajuste t. pers./dial`, pero la asignación es de la
 cámara, no del objetivo: vale para los dos a la vez. Déjalo como viene.
 
@@ -930,7 +933,7 @@ flowchart LR
     H -->|sí| J([Serie o siguiente encuadre])
 ```
 
-En Etosha a las once de la noche, con la frontal en rojo o apagada, estos son
+En un campamento a las once de la noche, con la frontal en rojo o apagada, estos son
 los gestos que deben salir solos. Toca cada mando en casa con los ojos
 cerrados hasta que salgan:
 
@@ -996,7 +999,7 @@ menos de diez.
 - Ampliar en reproducción: <https://helpguide.sony.net/ilc/2320/v1/es/contents/0501C_playback_zoom.html>
 - Mem. ajustes cám: <https://helpguide.sony.net/ilc/2320/v1/es/contents/0413_setting_memory.html>
 - Guía en la cámara: <https://helpguide.sony.net/ilc/2320/v1/es/contents/0105C_in_camera_guide.html>
-- El menú completo, línea a línea: [referencia/17-menu-completo.md](18-menu-completo.md)
+- El menú completo, línea a línea: [referencia/17-menu-completo.md](20-menu-completo.md)
 
 ---
 
@@ -1007,7 +1010,7 @@ menos de diez.
 > 🔵 **Básico** · Da por sabido: los capítulos 1 y 2 · Te desbloquea: dejar la cámara lista para el viaje y no volver a configurarla.
 
 > **Todos los ajustes con su ruta exacta de menú, fauna y noche en dos
-> columnas**: [la referencia de ajustes](17-ajustes-a6700.md).
+> columnas**: [la referencia de ajustes](19-ajustes-a6700.md).
 
 > Si vienes del móvil y los términos (obturación, ISO, modo M) aún te bailan,
 > empieza por el [capítulo 1](01-de-movil-a-la-a6700.md): 10 minutos y listo.
@@ -1028,7 +1031,7 @@ objetivo montado en la cámara**, conectándola al ordenador por USB con el
 actualizador de la misma web de soporte (busca "SEL11F18" y "SEL70350G").
 El 70-350 es **prestado**: su dueño ya dio permiso para actualizar el suyo.
 El **Viltrox 25 mm** no se actualiza desde Sony: tiene un puerto **USB-C** en
-la montura para su firmware ([su guía](15-viltrox-25mm.md)).
+la montura para su firmware ([su guía](16-viltrox-25mm.md)).
 Hazlo en casa, con todo cargado, y no vuelvas a pensar en ello.
 
 ## Ajustes generales recomendados
@@ -1090,7 +1093,7 @@ Compruébalo: en M, el delantero mueve la velocidad. La botonera completa
   asígnala a C1. No está en ningún menú: solo existe como función de botón,
   y solo funciona con el enfoque en MF.
   Amplifica la pantalla en plena oscuridad para poder **componer la Vía Láctea viéndola** — la joya
-  nocturna de esta cámara ([capítulo 9](09-astrofotografia-namibia.md)).
+  nocturna de esta cámara ([capítulo 10](10-astrofotografia.md)).
 - **Botón Fn**: la pantalla rápida con los ajustes del día a día, editables.
 - **Pantalla táctil**: toca al animal y el seguimiento se engancha a él;
   vuelve a tocar para soltarlo.
@@ -1179,7 +1182,7 @@ Este capítulo se aprueba con la cámara en la mano, no leyéndolo:
 2. **Los diales intercambiados** (delantero = velocidad) y la botonera de
    [diales y botones](03-diales-y-botones.md).
 3. **La tabla de ajustes generales**, uno a uno, con la
-   [referencia de ajustes](17-ajustes-a6700.md) al lado para la
+   [referencia de ajustes](19-ajustes-a6700.md) al lado para la
    ruta exacta. Tacha cada fila.
 4. **El pulgar**: `AF c/obturador` en Desactivar y cincuenta fotos por
    casa enfocando solo con AF-ON.
@@ -1232,7 +1235,7 @@ larga de esto.)
 | **Noche sin estrellas brillantes** | **MF** + lupa sobre una **luz lejana** (una farola a cientos de metros, una antena con luz) o la Luna |
 | **Árbol o roca bajo las estrellas** | El mismo enfoque a la estrella: con el 11 mm a f/1.8, todo lo que esté a **más de ~4 m** sale nítido también. **Nunca reenfoques al objeto** |
 
-> **Cuanto más larga la focal, más lejos tiene que estar el primer plano.** Enfocado a las estrellas y con el diafragma abierto, queda nítido lo que está más allá de **~4 m con el 11 mm** y de **~18 m con el Viltrox 25 mm** ([su guía](15-viltrox-25mm.md)). Por eso la foto de estrellas con un árbol se hace con el 11 mm.
+> **Cuanto más larga la focal, más lejos tiene que estar el primer plano.** Enfocado a las estrellas y con el diafragma abierto, queda nítido lo que está más allá de **~4 m con el 11 mm** y de **~18 m con el Viltrox 25 mm** ([su guía](16-viltrox-25mm.md)). Por eso la foto de estrellas con un árbol se hace con el 11 mm.
 
 ## El objetivo, en lo que importa para enfocar
 
@@ -1240,7 +1243,7 @@ larga de esto.)
 - **Botón de retención de foco** en el barrilete (de fábrica, `Retención enfoque`): mientras lo pulsas, el foco no se mueve.
 - **Anillo de enfoque electrónico.** Girarlo hasta el final no garantiza estar en el infinito: hay que enfocar mirando. La cinta adhesiva evita que lo gires sin querer, pero **no bloquea el foco**. Si cambias la batería o la cámara se apaga sola, compruébalo otra vez con la lupa (5 segundos).
 - **Sin estabilizador en el objetivo:** lo pone el IBIS de la cámara. En trípode, **SteadyShot OFF**.
-- **f/1.8** de apertura máxima, que se pone con la rueda de la cámara. Si las estrellas de las esquinas salen con "alitas", cierra a f/2.8 ([capítulo 9](09-astrofotografia-namibia.md)).
+- **f/1.8** de apertura máxima, que se pone con la rueda de la cámara. Si las estrellas de las esquinas salen con "alitas", cierra a f/2.8 ([capítulo 10](10-astrofotografia.md)).
 
 ## Prepara la cámara una vez (10 minutos, en casa)
 
@@ -1256,7 +1259,7 @@ larga de esto.)
 | Botón C3 | `Ajustes → [Personal. operac.] → [Ajuste t. pers./dial]` → `Botón personaliz. 3` | **`Amplific. enfoque`** | La lupa, a un botón |
 | Botón C1 | Misma pantalla → `Botón personaliz. 1` | **`Verificac. luminosa`** | Ver la escena a oscuras para encuadrar (solo funciona en **MF**) |
 
-Todos estos ajustes, en contexto: [el menú completo](18-menu-completo.md) y [diales y botones](03-diales-y-botones.md).
+Todos estos ajustes, en contexto: [el menú completo](20-menu-completo.md) y [diales y botones](03-diales-y-botones.md).
 
 ## Método 1 · De día (autofoco)
 
@@ -1304,7 +1307,7 @@ Cielo de ciudad, bruma o nubes: no hay ninguna estrella que se vea en la lupa.
 | La cámara no enfoca de día | Interruptor en **MF**, o estás pulsando el disparador en lugar de AF-ON | Interruptor en AF y enfoca con AF-ON |
 | El primer plano sale blando bajo las estrellas | Está a menos de ~4 m, o reenfocaste al objeto | Aléjate un paso y vuelve a enfocar a la estrella |
 | Estrellas de las esquinas con "alitas" | La apertura máxima (f/1.8) | Cierra a f/2.8 |
-| Estrellas como rayitas | La exposición fue demasiado larga, no es el foco | Baja de 20 s a 15 s ([capítulo 9](09-astrofotografia-namibia.md)) |
+| Estrellas como rayitas | La exposición fue demasiado larga, no es el foco | Baja de 20 s a 15 s ([capítulo 10](10-astrofotografia.md)) |
 
 ## Ejercicio para esta noche (20 minutos, desde casa)
 
@@ -1314,7 +1317,7 @@ Cielo de ciudad, bruma o nubes: no hay ninguna estrella que se vea en la lupa.
 4. Haz una foto de 20 s a f/1.8 e ISO 1600 y amplíala al máximo en la revisión.
 5. Desenfoca a propósito girando el anillo y **vuelve a enfocar**. Repítelo **cinco veces**.
 
-**Aprobado cuando:** las cinco veces llegas al punto más fino en menos de dos minutos, sin mirar esta guía. Después pasa a [Estrellas con la tierra dentro](08-estrellas-con-tierra.md), la noche 1.
+**Aprobado cuando:** las cinco veces llegas al punto más fino en menos de dos minutos, sin mirar esta guía. Después pasa a [Estrellas con la tierra dentro](09-estrellas-con-tierra.md), la noche 1.
 
 ## Referencias
 
@@ -1328,13 +1331,17 @@ Cielo de ciudad, bruma o nubes: no hay ninguna estrella que se vea en la lupa.
 
 *Parte II · Recetas · Fauna*
 
-# 6. Safari diurno con la a6700 — recetas desde el coche
+# 6. Safari de día — desde el coche, el todoterreno abierto y la barca
 
-> 🔵 **Básico** · Da por sabido: el capítulo 4 (memoria MR1 guardada) · Te desbloquea: fauna nítida desde el coche, con el AF trabajando para ti.
+> 🔵 **Básico** · Da por sabido: el capítulo 4 (memoria MR1 guardada) · Te desbloquea: fauna nítida desde cualquier vehículo y en cualquier tipo de safari (sabana, delta, río o bosque), con el AF trabajando para ti.
 
-En Etosha el safari se hace desde el coche: cámara apoyada en la ventanilla,
-luz durísima a mediodía y polvo en todas partes. La cámara va preconfigurada
-(memoria MR1) y tú solo tocas dos cosas.
+Un safari se hace casi siempre desde un vehículo: un coche cerrado si
+conduces tú, un todoterreno abierto con guía, una barca en un río o un
+delta, o un jeep en un parque de bosque. Cambia el apoyo, la luz y el polvo;
+la cámara, no: va preconfigurada (memoria MR1) y tú solo tocas dos cosas.
+Este capítulo sirve igual para la sabana seca que ya conoces, para los deltas
+y los ríos de Botswana y del Pantanal y para los parques de bosque de Sri
+Lanka.
 
 ## Receta base (déjala guardada en MR1)
 
@@ -1346,7 +1353,7 @@ luz durísima a mediodía y polvo en todas partes. La cámara va preconfigurada
 | Enfoque | **AF-C** + AF-ON con el pulgar ([capítulo 4](04-configuracion-basica.md)) |
 | Reconocimiento de sujeto | **Animal** (cámbialo a Ave para aves) |
 | Área AF | Zona — o Ancha si la escena está limpia |
-| Sensibilidad de seguimiento | **3** (la estándar); con hierba/ramas robando el foco, **1** ([AF y exposición a fondo](16-af-y-exposicion-a-fondo.md)) |
+| Sensibilidad de seguimiento | **3** (la estándar); con hierba/ramas robando el foco, **1** ([AF y exposición a fondo](17-af-y-exposicion-a-fondo.md)) |
 | Ráfaga | **Hi+** (11 fps) — en Hi+ el visor no va en tiempo real durante la ráfaga; si te cuesta seguir al animal, baja a Hi |
 | Formato | RAW en la SD (UHS-II, con hueco) |
 | Estabilizador | **OSS del objetivo en ON**; el IBIS de la cámara se suma solo (los dos, OFF en trípode) |
@@ -1355,13 +1362,13 @@ Con esto, el 80 % del safari es mantener el pulgar en AF-ON, seguir al animal
 y ráfagas cortas. Sobre la marcha ajustas la **obturación** (rueda delantera)
 según el movimiento.
 
-> Este capítulo organiza el safari por **cómo se mueve** el animal. El otro
-> eje —**quién** tienes delante: dónde y cuándo sale cada especie, qué gesto
-> esperar y qué números pedirle a la cámara con cada una— está en
-> [la fauna, animal por animal](https://github.com/morandeirachema/a6700-namibia/blob/main/tecnica/fauna-de-namibia.md).
+> Este capítulo organiza el safari por **cómo se mueve** el animal y por
+> **desde dónde** disparas. Las aves tienen su propio capítulo
+> ([aves](08-aves.md)), y la fauna de noche, el suyo
+> ([fauna de noche](07-fauna-de-noche.md)).
 
 > Cada uno de estos ajustes, con su **ruta exacta de menú**, en
-> [la referencia de ajustes](17-ajustes-a6700.md#bloque-b-fauna-la-receta-de-mr1).
+> [la referencia de ajustes](19-ajustes-a6700.md#bloque-b-fauna-la-receta-de-mr1).
 
 ## La rutina de 10 segundos (cada vez que llegas a una escena)
 
@@ -1401,11 +1408,11 @@ aquí viene de serie. Tu trabajo cambia, no desaparece:
 ## Exposición en la práctica
 
 En M con ISO Auto la compensación de exposición **funciona con normalidad**
-(±5 EV, en la flecha inferior de la rueda de control): fondo muy claro (calcreta blanca, cielo) → **+0.7 a +1**; fondo muy
+(±5 EV, en la flecha inferior de la rueda de control): fondo muy claro (arena, barro seco, agua brillante, cielo) → **+0.7 a +1**; fondo muy
 oscuro (sombra, noche) → **−0.7 a −1**; escena normal → 0. Es la única
 corrección que necesitas de día. Para casos finos (animal pequeño a
 contraluz), la medición **puntual vinculada al punto de enfoque** mide justo
-donde enfocas ([AF y exposición a fondo](16-af-y-exposicion-a-fondo.md)).
+donde enfocas ([AF y exposición a fondo](17-af-y-exposicion-a-fondo.md)).
 
 ## Configurar una sola vez
 
@@ -1481,35 +1488,58 @@ Cinco reglas que no requieren técnica, solo acordarse:
    (525 mm eq) **y** el plano abierto a 70–100 mm con el animal en su
    paisaje — este zoom empieza en 105 mm equivalentes: las dos fotos salen
    **sin cambiar de objetivo**. El zoom sirve para elegir encuadre, no solo
-   para acercar. La [lista de tomas](https://github.com/morandeirachema/a6700-namibia/blob/main/plan/lista-de-tomas.md) te recuerda
-   cuáles te faltan.
+   para acercar.
 
-## Práctica desde el coche
+## El vehículo: coche cerrado, todoterreno abierto o barca
 
-- **Bean bag** en la ventanilla (mejor que trípode dentro del coche; qué es
-  y cómo se usa: [equipo](14-equipo-accesorios.md)). Llévalo
-  vacío y rellénalo allí con arroz o alubias.
-- **Motor apagado** en las tomas importantes: la vibración se nota a 525 mm
-  equivalentes.
-- Cámara encendida con el tele montado **siempre en el regazo**: los leopardos
-  no esperan.
-- No cambies de objetivo con las ventanillas abiertas: el polvo de Etosha se
-  mete en todo, y en una cámara sin espejo el **sensor queda a la vista** al
-  desmontar — cambios solo dentro del coche o de la bolsa, cuerpo hacia abajo.
+| Desde… | El apoyo | Lo que cambia |
+|---|---|---|
+| **Coche cerrado** (conduces tú) | **Bean bag** a caballo de la ventanilla medio subida ([qué es](15-equipo-accesorios.md#accesorios)) | Motor apagado en las tomas buenas; dispara desde la ventanilla, no desde el techo |
+| **Todoterreno abierto** (con guía: lo habitual en Botswana, Sri Lanka y muchas reservas) | El bean bag sobre la barra o el respaldo del asiento delantero; o el objetivo apoyado en el antebrazo | **Pide al guía que apague el motor** y avisa a los demás antes de moverte: cualquier movimiento hace vibrar el vehículo a 525 mm eq. Sin ventanillas entra todo el polvo: funda o bolsa de tela encima entre escenas |
+| **Barca** (ríos y deltas: el Pantanal, Botswana) | En el regazo o en el bean bag sobre la borda; nunca el trípode | Todo se mueve: **1/2000 como mínimo** aunque el animal esté quieto, estabilizador activado, motor parado al disparar. A ras del agua el punto de vista es el mejor posible: aprovéchalo |
+| **Canoa baja** (*mokoro*, en el delta del Okavango) | En el regazo | Equipo mínimo, bolsa estanca, y quieto: la canoa vuelca con un movimiento brusco |
+
+**En todos:** cámara encendida con el tele montado y **siempre en el regazo**;
+no cambies de objetivo con polvo o junto al agua: en una cámara sin espejo
+**el sensor queda a la vista** al desmontar. Cambios solo dentro de una bolsa
+o a cubierto, cuerpo hacia abajo.
+
+## Tres tipos de destino
+
+| Destino | Ejemplos | Lo que pide |
+|---|---|---|
+| **Sabana seca con charcas** | Lo que ya hiciste | Luz dura a mediodía, polvo, animales que bajan a beber: espera en el agua |
+| **Delta, río o humedal** | Botswana (el delta del Okavango y el río Chobe), el Pantanal | **Agua**: reflejos, barcas, aves por todas partes, animales que cruzan. Luz que rebota en el agua (compensa **−0,3/−0,7** si el agua brilla), calor y humedad |
+| **Bosque seco y matorral** | Los parques de Sri Lanka | El animal **detrás de ramas**: `Punto` y `Sens. Seguim. AF` en **1**, menos luz (ISO alto sin miedo) y muchos jeeps en cada avistamiento |
+
+**Antes de reservar, cinco cosas que cambian las fotos:**
+
+1. **El peso.** En Botswana, las avionetas entre campamentos admiten unos
+   **20 kg por persona en bolsa blanda, con el equipo fotográfico incluido**
+   (confírmalo con tu operador). Un tele de 2 kg se come una décima parte del
+   equipaje ([mejoras de equipo](18-mejoras-de-equipo.md#cuando-devuelvas-el-70-350)).
+2. **La temporada.** En la estación seca los animales se concentran junto al
+   agua. En el Pantanal, los jaguares se ven sobre todo de julio a septiembre
+   en las orillas de los ríos, desde barca.
+3. **Lo que se permite.** En los parques nacionales de Botswana no se puede
+   salir de las pistas ni circular de noche; en las **concesiones privadas**,
+   sí ([fauna de noche](07-fauna-de-noche.md)).
+4. **Los cierres y las multitudes.** En Sri Lanka, Yala cierra parte del
+   parque una temporada al año (septiembre–octubre, con fechas que cambian:
+   confírmalas), y en los fines de semana y festivos se juntan decenas de
+   jeeps en cada leopardo. Entre semana y a primera hora hay menos.
+5. **Los días.** Un animal concreto (un jaguar, un leopardo) pide varias
+   salidas: cuenta con tres o más días en el mismo sitio.
 
 ## Horarios
 
 Las dos primeras y las dos últimas horas de luz concentran actividad y buena
-luz. A mediodía la excepción son las **charcas**: en la estación seca los
-animales beben a cualquier hora — apárcate en una y espera.
+luz. A mediodía la excepción es **el agua**: en la estación seca los animales
+beben a cualquier hora. Apárcate junto a una charca o una orilla y espera.
 
 Y la regla de luz más rentable para empezar: **sol a tu espalda**, animal
 iluminado de frente. Los contraluces son para las siluetas del atardecer y el
 polvo dorado — buscados, no accidentales.
-
-El plan completo — el día hora a hora, la fauna que sí tiene horario y las
-noches de tu quincena con su luna — está en
-[las mejores horas](https://github.com/morandeirachema/a6700-namibia/blob/main/plan/mejores-horas.md).
 
 Y cuando la rutina de este capítulo salga sola, el siguiente piso — luz,
 velocidad, apertura, Kelvin y encuadre como decisiones creativas, no como
@@ -1525,6 +1555,22 @@ detalle, y para eso está el tele ([la guía del Pixel](../manejo-pixel-10-pro/R
 Y si el tele **no está** —no ha llegado, falla o se quedó en la bolsa— el
 móvil a 5x es un 70 mm de bolsillo: hasta dónde llega y qué le pides con cada
 animal, en [el Pixel de día](../manejo-pixel-10-pro/07-lo-que-se-mueve.md).
+
+## Ejercicio (una tarde, sin safari)
+
+Sin animales salvajes cerca, el safari se entrena igual:
+
+1. **Un perro corriendo** o un partido de niños: MR1, 1/1000 y 1/2000. Veinte
+   ráfagas cortas.
+2. **Revisa al 100 %** la primera de cada ráfaga, girando la rueda de control
+   (se amplía sola sobre el punto de enfoque). ¿Cuántas con el ojo nítido?
+3. **El mismo sujeto, dos encuadres**: el retrato apretado y el plano abierto
+   con su entorno, sin cambiar de objetivo.
+4. **Desde un coche** parado, con el bean bag en la ventanilla: los patos de
+   un estanque o las palomas de una plaza.
+
+**Aprobado cuando** 15 de cada 20 ráfagas tienen el ojo nítido y cambias la
+velocidad según el movimiento sin pensarlo.
 
 ## Por qué funciona
 
@@ -1548,7 +1594,10 @@ animal, en [el Pixel de día](../manejo-pixel-10-pro/07-lo-que-se-mueve.md).
 
 ## Referencias
 
-- Charcas y fauna de Etosha: <https://www.etoshanationalpark.org/>
+- Límite de 20 kg en las avionetas de Botswana, equipo incluido (Wilderness Air): <https://www.wildernessdestinations.com/about/the-wilderness-family/wilderness-air>
+- Parques frente a concesiones privadas en Botswana (Africa Geographic): <https://travel.africageographic.com/destinations/botswana/okavango-delta/moremi-vs-khwai-vs-concessions>
+- El Pantanal y sus jaguares (National Geographic): <https://www.nationalgeographic.com/travel/article/pantanal-brazils-jaguar-country-in-photos>
+- Yala y los leopardos de Sri Lanka (Rough Guides): <https://www.roughguides.com/destinations/asia/sri-lanka/south/yala-national-park/wildlife-yala/>
 - Guía práctica para preparar un safari fotográfico: <https://photographylife.com/preparing-for-a-safari-trip-to-africa>
 - Help Guide oficial de la a6700 (menús y AF, en español): <https://helpguide.sony.net/ilc/2320/v1/es/>
 - Sony E 70-350mm F4.5-6.3 G OSS (ficha oficial): <https://www.sony.es/lenses/products/sel70350g>
@@ -1557,25 +1606,25 @@ animal, en [el Pixel de día](../manejo-pixel-10-pro/07-lo-que-se-mueve.md).
 
 *Parte II · Recetas · Fauna*
 
-# 7. Safari nocturno en charcas con la a6700 — paso a paso
+# 7. Fauna de noche — charcas con focos, salidas nocturnas y barcas
 
-> 🔵 **Básico** · Da por sabido: el capítulo 4 y saber usar el trípode · Te desbloquea: el rinoceronte de Okaukuejo a medianoche.
+> 🔵 **Básico** · Da por sabido: el capítulo 4 y saber usar el trípode · Te desbloquea: el animal bajo un foco a medianoche, desde un mirador, un todoterreno o una barca.
 
-Tres charcas de Etosha están **iluminadas con focos** y tienen mirador junto
-al campamento: Okaukuejo (rinocerontes negros casi cada noche, con ventana
-típica entre las **21:00 y la medianoche** — fiable también en noviembre),
-Halali (charca Moringa) y Namutoni (charca King Nehale, junto al fuerte:
-<https://www.nwr.com.na/resorts/namutoni-resort/>). El hide de Olifantsrus, en el oeste, abre 24 h pero
-se ilumina solo con **focos rojos**: fotos monocromas rojizas, asúmelo como
-estética. Y tu **última noche de safari** cae fuera del parque, en la reserva privada
-de **Onguma** (Tamboti, junto a la puerta Von Lindequist): también tiene
-charca iluminada, con el bar y el restaurante asomados a ella
-(<https://onguma.com/>) — mismas recetas, y con la ventaja de que allí no te
-encierra la valla del parque. Es fauna con muy poca luz: trípode, ISO alto y paciencia.
-Info de campamentos: <https://www.nwr.com.na/>
+De noche hay fauna en tres situaciones, y las tres tienen lo mismo: **muy
+poca luz** y un animal que se mueve poco o nada.
 
-> ¿No es esta tu noche? [Fotografía nocturna: por dónde empezar](https://github.com/morandeirachema/a6700-namibia/blob/main/tecnica/fotografia-nocturna.md)
-> compara las cuatro noches del viaje (charca, astro, cielo con tierra y game drive) en una tabla.
+- **Un mirador junto a una charca con focos**, en un campamento o un lodge:
+  trípode, el animal que llega a beber y mucho silencio. Es la receta de este
+  capítulo.
+- **Una salida nocturna en vehículo abierto**, con un guía que barre el monte
+  con un foco: a pulso, con la luz moviéndose. En Botswana solo se hacen en
+  las **concesiones privadas**: en los parques nacionales hay que dejar las
+  pistas al anochecer ([la variante](#variante-salida-nocturna-con-foco)).
+- **Una barca al anochecer**, en un río o un delta: la última luz sobre el
+  agua y los animales que salen a la orilla ([la variante](#variante-barca-al-anochecer)).
+
+Si los focos son **rojos**, las fotos salen monocromas rojizas: asúmelo como
+estética, o pásalas a blanco y negro.
 
 ## Receta rápida
 
@@ -1591,7 +1640,7 @@ Info de campamentos: <https://www.nwr.com.na/>
 | Obturador | **Electrónico** (`Tipo de obturador`): disparo totalmente mudo |
 
 > Cada ajuste con su **ruta de menú**, en
-> [la referencia de ajustes](17-ajustes-a6700.md#c1-charca-nocturna-okaukuejo-halali-onguma).
+> [la referencia de ajustes](19-ajustes-a6700.md#c1-charca-nocturna-con-focos).
 
 ## Al llegar al mirador (10 minutos de preparación)
 
@@ -1608,7 +1657,7 @@ Info de campamentos: <https://www.nwr.com.na/>
    `Obturad. electr.` no están disponibles el flash, `RR exposic. larga`,
    `e-Prim. cortin. obtur.`, la toma BULB ni la toma sin parpadeo — el
    anti-parpadeo solo funciona con el mecánico
-   ([verificación de los menús](19-verificacion-de-menus.md)).
+   ([verificación de los menús](21-verificacion-de-menus.md)).
 3. **Prueba de color**: foto a la zona iluminada, revisa en pantalla y ajusta
    el balance de blancos en Kelvin hasta que el agua no salga naranja butano.
    Suele quedar entre 3200 y 4000 K. (El visor electrónico ya te enseña la
@@ -1670,13 +1719,12 @@ obturación** (1/60 → 1/40 → 1/30) — es luz gratis sin ruido.
 | El AF caza y suelta sin fijar | Poca luz para el AF: punto único a una zona con contraste, o enfoque manual prefijado a la orilla (paso 4) |
 | Ruido brutal a ISO 6400+ | Normal con tan poca luz. Se recupera mucho con reducción de ruido por IA: en Luminar, **Noiseless AI** ([retoques, paso 2](../retoques/04-flujo-base.md)) |
 
-## Variante: game drive nocturno con foco
+## Variante: salida nocturna con foco
 
-Los campamentos de NWR (Okaukuejo, Halali, Namutoni) ofrecen salidas
-nocturnas guiadas en vehículo abierto con un foco barriendo el monte — la
-única forma legal de estar fuera del recinto de noche (~750 N$ por persona,
-se reserva en la recepción del campamento: <https://www.nwr.com.na/>). Cambia
-todo respecto al mirador: vas a pulso y la luz se mueve.
+En una salida nocturna guiada, en vehículo abierto, un foco barre el monte y
+se para sobre lo que encuentra. Cambia todo respecto al mirador: vas a pulso y
+la luz se mueve. Se hacen en reservas y concesiones privadas (en Botswana, no
+dentro de los parques nacionales): pregunta al reservar.
 
 | Parámetro | Valor |
 |---|---|
@@ -1698,12 +1746,26 @@ todo respecto al mirador: vas a pulso y la luz se mueve.
 - Etiqueta: no pidas mantener el foco sobre animales nocturnos (búhos,
   chacales, gatos monteses) más que unos segundos.
 
+## Variante: barca al anochecer
+
+En un río o un delta, la última media hora sobre el agua es de las mejores
+luces del día, y la más difícil: poca luz y una barca que no está quieta.
+
+- **1/250 como mínimo** aunque el animal esté quieto (la barca se mueve), y
+  más rápido si se mueve él: el ISO sube, y es el precio.
+- **Estabilizador activado** (OSS y SteadyShot) y el **motor apagado** al
+  disparar: pídeselo al barquero.
+- La silueta contra el cielo del atardecer reflejado en el agua no necesita
+  ISO alto: expón para el cielo (**−0,7 a −1**) y deja el animal negro.
+- Al apagarse la luz, para: con ISO 12800 y una barca en movimiento ya no sale
+  nada nítido.
+
 ## Etiqueta en la charca
 
 - **Flash prohibido** — y aunque no lo estuviera, nunca con fauna nocturna.
 - Frontal solo en **luz roja** y hacia el suelo.
-- Obturador electrónico y hablar en susurros: el mirador de Okaukuejo
-  funciona toda la noche y la gente duerme a 50 metros.
+- Obturador electrónico y hablar en susurros: los miradores de los
+  campamentos funcionan toda la noche y la gente duerme cerca.
 
 ## Y el Pixel, mientras tanto
 
@@ -1715,11 +1777,12 @@ movido siempre ([la guía del Pixel](../manejo-pixel-10-pro/README.md)).
 
 ## Combinar con astro
 
-Los campamentos de Etosha también dan cielo oscuro lejos de los focos. Plan
-realista: la Vía Láctea en la primera hora oscura (hasta el 10 es cuando está,
-[capítulo 9](09-astrofotografia-namibia.md)), la charca de 21:00 a medianoche,
-y de madrugada círculos de estrellas o las Nubes de Magallanes desde la zona
-oscura del campamento.
+Lejos de los focos, el cielo de una sabana o de un delta es oscuro. Plan
+realista: la Vía Láctea en la primera hora oscura ([astrofotografía](10-astrofotografia.md)),
+la charca o la salida nocturna después, y de madrugada círculos de estrellas
+desde la zona más oscura del campamento. En el hemisferio sur (Botswana, el
+Pantanal), las Nubes de Magallanes se ven buena parte de la noche, mejor de
+octubre a febrero.
 
 ## Ejercicio (una noche, en tu ciudad)
 
@@ -1744,7 +1807,7 @@ en cualquier parque con una farola:
   se queda en unos +0,3 EV, la penumbra de la charca ([por qué funciona §7](../conceptos/09-por-que-funciona.md#7--el-autofoco-por-dentro-y-por-qué-muere-en-la-charca)).
   De ahí el punto único sobre una zona iluminada.
 - **1/60 como mínimo.** Un animal que bebe se mueve poco, pero se mueve. En
-  Namibia, 116 de las 122 fotos de la charca se hicieron más lentas que 1/60
+  tu viaje anterior, 116 de las 122 fotos de la charca se hicieron más lentas que 1/60
   ([lo que enseñan tus fotos](../retoques/15-disparar-mejores-jpeg.md#154-lo-que-enseñan-tus-fotos-de-namibia)):
   el ISO alto tiene arreglo en Luminar y el movimiento no ([§9](../conceptos/09-por-que-funciona.md#9--el-tiempo-qué-congela-y-qué-dibuja-la-velocidad)).
 - **Expón bien en la cámara.** En RAW, por encima de ISO ~400 la a6700 es casi
@@ -1757,15 +1820,216 @@ en cualquier parque con una farola:
 
 ## Referencias
 
-- Campamentos, miradores y night drives (NWR): <https://www.nwr.com.na/>
-- Charcas y fauna de Etosha: <https://www.etoshanationalpark.org/>
+- Salidas nocturnas: parques frente a concesiones privadas en Botswana (Africa Geographic): <https://travel.africageographic.com/destinations/botswana/okavango-delta/moremi-vs-khwai-vs-concessions>
 - Fase lunar y planificación nocturna (PhotoPills): <https://www.photopills.com/>
+
+---
+
+*Parte II · Recetas · Fauna*
+
+# 8. Aves — de un *hide* en España a los humedales tropicales
+
+> 🔵 **Básico** → 🔴 avanzado en el vuelo · Da por sabido: la [receta de safari](06-safari-diurno.md) (memoria MR1) · Te desbloquea: aves posadas con el ojo nítido desde un *hide*, aves en vuelo, y practicar fauna todo el año sin salir de España.
+
+Las aves son la fauna más exigente: pequeñas, rápidas y desconfiadas. Por eso
+son el mejor entrenamiento para cualquier safari, y lo tienes cerca: en
+España hay aves todo el año, y los humedales y bosques tropicales a los que
+quieres ir son de los mejores sitios del mundo para verlas. Este capítulo usa
+la memoria **MR3**, la de vuelo, y la [receta de safari](06-safari-diurno.md),
+que ya conoces.
+
+> **El objetivo:** todo esto pide tele. Mientras tengas el **70-350
+> prestado**, es tu objetivo de aves; cuando lo devuelvas, la decisión está en
+> [mejoras de equipo](18-mejoras-de-equipo.md#cuando-devuelvas-el-70-350).
+
+## Cuánto alcance necesitas: la cuenta
+
+A 350 mm, el ancho del encuadre mide **0,067 × la distancia** (sensor de
+23,5 mm ÷ 350 mm). Con eso sabes qué tamaño tendrá el ave antes de disparar:
+
+| Distancia | Ancho del encuadre a 350 mm | Un ave de 25 cm ocupa… | Una garza de 90 cm ocupa… |
+|---|---|---|---|
+| 5 m | 0,34 m | **Casi todo el ancho**: retrato | No cabe entera |
+| 10 m | 0,67 m | Un tercio largo: la foto de un *hide* | Más de todo el ancho |
+| 20 m | 1,3 m | Una quinta parte: recortarás | Dos tercios |
+| 40 m | 2,7 m | Un punto | Un tercio |
+
+**La decisión:** con un pájaro pequeño, más allá de 15–20 m no hay foto con
+350 mm, se recorte lo que se recorte. Por eso existen los *hides*: te ponen a
+4–10 m. Y por eso las aves grandes (garzas, cigüeñas, rapaces, grullas) son
+las mejores para empezar.
+
+## La receta: posada y en vuelo
+
+| Ajuste | Posada | En vuelo (**MR3**) |
+|---|---|---|
+| Modo | M con ISO AUTO (MR1) | M con ISO AUTO |
+| Obturación | **1/1000** (mueven la cabeza muy rápido); 1/500 si está quieta y con apoyo | **1/2500–1/3200** |
+| Apertura | La máxima del zoom | La máxima del zoom |
+| `Dest. reconocim.` | **`Ave`** | **`Ave`** |
+| `Área de enfoque` | `Zona`, o `Punto` si hay ramas delante | `Zona`; `Ancho` con el cielo limpio |
+| `Sens. Seguim. AF` | **1–2** entre ramas | **3**; 4–5 si cambia de dirección sin parar |
+| Ráfaga | Hi, ráfagas cortas | **Hi+** |
+| Compensación | Por el fondo: claro **+0,7**; ave blanca sobre fondo oscuro **−0,7** | Cielo detrás: **+0,7 a +1** |
+| Obturador | **Electrónico** en el *hide*: silencio | **Mecánico**: el electrónico puede torcer las alas que baten |
+
+La compensación sigue la regla del [gris medio](../conceptos/01-la-luz.md#por-qué-la-cámara-se-equivoca-el-gris-medio):
+contra el cielo, la cámara oscurece el ave; una garza blanca sobre agua oscura
+sale quemada.
+
+---
+
+## En un *hide*
+
+Un ***hide*** es un escondite (una caseta, un muro con mirilla, una tienda)
+desde el que las aves no te ven. Hay dos clases:
+
+- **Observatorios públicos** de los espacios naturales: gratis, con las aves
+  más lejos. Buenos para aves grandes y para mirar.
+- ***Hides* de pago**, de empresas y fotógrafos: en España hay unos **500**,
+  según un seminario del Ministerio para la Transición Ecológica de 2025, que
+  cita una media de unos **200 € al día**. Están pensados para la foto: las
+  aves a pocos metros, el sol a tu espalda, un fondo lejano y limpio y, en
+  muchos, agua para el baño o el reflejo.
+
+**Cómo se trabaja en un *hide*:**
+
+1. **Llega antes del amanecer** y no salgas hasta la hora pactada: abrir la
+   puerta espanta a todo el mundo.
+2. **Apoya el objetivo**: en la ventana, sobre el bean bag o sobre el soporte
+   del *hide*. Muchos *hides* tienen asiento y repisa; el trípode muchas veces
+   no cabe.
+3. **Silencio**: obturador electrónico, el pitido del enfoque desactivado y
+   el móvil en silencio.
+4. **Prepara el encuadre en la percha** antes de que llegue el ave: enfoque,
+   exposición con una foto de prueba y la compensación según el fondo.
+5. **Espera el gesto**: el baño, el ave que se sacude, dos que discuten, la
+   que trae comida. La décima foto de un ave posada no vale nada; la primera
+   con gesto vale el día ([los maestros, fauna](../conceptos/11-los-maestros.md#fauna)).
+
+**El fondo es medio *hide*.** A 350 mm y 10 m la zona nítida mide **unos 20
+cm** ([por qué funciona §3](../conceptos/09-por-que-funciona.md#3--profundidad-de-campo-tres-palancas-y-una-pesa-más)):
+el ojo, no la cola. Si el fondo está a 30 m, se disuelve en un color liso. Si
+está a 2 m, se ve cada rama. Elige los *hides* y las perchas por el fondo.
+
+## En el campo, sin *hide*
+
+- **El coche es un *hide***: muchas aves toleran un coche parado y huyen de
+  una persona a pie. Apaga el motor y apoya el objetivo en el bean bag de la
+  ventanilla, igual que en un [safari](06-safari-diurno.md#el-vehículo-coche-cerrado-todoterreno-abierto-o-barca).
+- **A pie**, despacio y sin ir directo hacia el ave: de lado, parando a menudo.
+  Si cambia de comportamiento (deja de comer, te mira, se agacha), estás
+  demasiado cerca.
+- **Bajo**: a la altura del ave, con el GorillaPod o tumbado en una orilla. El
+  agua y el fondo lejano a ras de suelo dan los fondos más limpios.
+- **En casa**: un comedero o un bebedero en la terraza o el jardín es un *hide*
+  gratis, con aves todos los días para entrenar el enfoque.
+
+## Aves en vuelo
+
+Es la técnica más difícil de la fauna. Por orden:
+
+1. **Empieza por las grandes y lentas**: garzas, cigüeñas, gaviotas, rapaces
+   planeando. Después, las rápidas.
+2. **El sol a tu espalda** y el ave acercándose o cruzando: así el ojo tiene
+   luz y el AF, contraste.
+3. **Engánchala pronto**: encuádrala lejos, pulsa AF-ON con `Zona` y `Ave`, y
+   síguela antes de disparar. Ráfaga cuando esté donde quieres.
+4. **Mueve el cuerpo desde la cintura**, no los brazos: un giro suave sigue
+   mejor que un brazo que da tirones.
+5. **Revisa al 100 %** las primeras ráfagas: el ojo y el borde del ala.
+
+**El barrido creativo:** a **1/30–1/60** siguiendo al ave, el fondo y las
+puntas de las alas salen movidos y el cuerpo nítido. De diez, una buena: es
+normal ([por qué funciona §9](../conceptos/09-por-que-funciona.md#9--el-tiempo-qué-congela-y-qué-dibuja-la-velocidad)).
+
+## Aves de viaje: humedales y bosques tropicales
+
+Los humedales (desde una barca) y los bosques tropicales (desde un jeep o a
+pie) multiplican las aves, y cambian tres cosas:
+
+- **Desde una barca**, todo se mueve: **1/2000** como mínimo aunque el ave
+  esté posada, el estabilizador activado y el motor apagado al disparar
+  ([safari, la barca](06-safari-diurno.md#el-vehículo-coche-cerrado-todoterreno-abierto-o-barca)).
+- **En el bosque**, poca luz y ramas por todas partes: `Punto` y
+  `Sens. Seguim. AF` en **1**, ISO alto sin miedo y paciencia hasta que el ave
+  salga a un claro.
+- **Los colores intensos** (azules, rojos, amarillos) se saturan enseguida:
+  vigila el histograma por canales y no subas la saturación al editar
+  ([retoques 7](../retoques/07-safari.md)).
+
+## Ética y ley
+
+- **El bienestar del ave va antes que la foto.** El código ético de la
+  [Asociación Española de Fotógrafos de Naturaleza (AEFONA)](https://www.aefona.org/)
+  es la referencia en España, y es el que exigen concursos como los de
+  [SEO/BirdLife](https://seo.org/).
+- **Nidos, no.** No te acerques a nidos ni a crías: un adulto que huye deja
+  los huevos o los pollos al frío, al sol y a los depredadores. La [Ley
+  42/2007 del Patrimonio Natural y de la Biodiversidad](https://www.boe.es/eli/es/l/2007/12/13/42/con)
+  prohíbe molestar a la fauna silvestre y destruir sus nidos (artículo 54), y
+  para algunas especies y zonas hace falta autorización. Ante la duda, no.
+- **Sin reclamos** (cantos grabados) en época de cría, sin espantar aves para
+  que vuelen y sin drones cerca.
+- **En un *hide* de pago**, pregunta cómo trabajan: que las aves vengan solas
+  y que no se moleste en la cría.
+
+## Si la foto sale…
+
+| Problema | Solución |
+|---|---|
+| Nítida la rama, el ave no | `Punto` sobre el ojo y `Sens. Seguim. AF` en **1** |
+| El ojo blando, el cuerpo nítido | A 10 m la zona nítida mide 20 cm: el AF enganchó el ala o el pecho. Comprueba al 100 % y repite |
+| El ave en vuelo, movida | 1/2500 como mínimo; si el fondo es cielo, compensa +0,7 para que el ISO AUTO no la oscurezca |
+| Silueta negra contra el cielo | Compensación **+0,7 a +1**, o el sol a tu espalda |
+| Una garza blanca quemada | Compensación **−0,7** y mira el Zebra |
+| Alas torcidas o deformadas | Obturador electrónico con aleteo rápido: usa el **mecánico** |
+| El ave diminuta en el encuadre | Más cerca (*hide*, coche, paciencia), o un ave más grande. Recortar no lo arregla |
+| Se fue antes de la foto | Te vio o te oyó: más lejos, más despacio, más quieto, o desde un *hide* |
+
+## Por qué funciona
+
+- **El alcance es una cuenta**: a 350 mm, el encuadre mide 0,067 veces la
+  distancia; un ave de 25 cm a 20 m ocupa una quinta parte del ancho.
+- **1/2500 en vuelo**, porque las alas baten mucho más rápido que el cuerpo
+  se desplaza: el cuerpo saldría nítido a 1/1000, la punta del ala no
+  ([por qué funciona §9](../conceptos/09-por-que-funciona.md#9--el-tiempo-qué-congela-y-qué-dibuja-la-velocidad)).
+- **`Sens. Seguim. AF` baja entre ramas** porque decide cuánto tarda el AF en
+  soltar al ave cuando algo se cruza ([§7](../conceptos/09-por-que-funciona.md#7--el-autofoco-por-dentro-y-por-qué-muere-en-la-charca)).
+- **El fondo lejano se disuelve** porque a 350 mm la profundidad de campo es
+  de centímetros ([§3](../conceptos/09-por-que-funciona.md#3--profundidad-de-campo-tres-palancas-y-una-pesa-más)).
+- **El obturador electrónico tuerce lo que se mueve rápido** porque lee el
+  sensor línea a línea: el ala ya no está donde estaba cuando se leyó la
+  primera línea.
+
+## Ejercicio (cuatro mañanas)
+
+1. **El comedero (una mañana).** En tu terraza, jardín o un parque: 20 fotos
+   de aves posadas. Aprobado si el ojo aguanta el 100 % en 15.
+2. **Un *hide* (una mañana).** Un observatorio público o uno de pago. Busca
+   **un gesto**, no veinte posados.
+3. **El vuelo (una mañana).** Gaviotas, palomas o cigüeñas con MR3: 100 fotos.
+   Cuenta las que tienen el ojo nítido.
+4. **La criba (una tarde).** De las tres mañanas, las tres mejores, y la causa
+   de cada descarte ([cómo mejorar](../conceptos/12-como-mejorar.md#el-método-el-bucle-de-una-semana)).
+
+**Aprobado cuando** sacas el ojo nítido en un ave posada sin pensar en los
+ajustes, y una de cada diez en vuelo.
+
+## Referencias
+
+- Asociación Española de Fotógrafos de Naturaleza (AEFONA), con su código ético: <https://www.aefona.org/>
+- SEO/BirdLife: <https://seo.org/>
+- Ley 42/2007, del Patrimonio Natural y de la Biodiversidad (texto consolidado, BOE): <https://www.boe.es/eli/es/l/2007/12/13/42/con>
+- Seminario de ecoturismo del Ministerio para la Transición Ecológica (2025), con el recuento de *hides*: <https://www.miteco.gob.es/content/dam/miteco/es/ceneam/grupos-de-trabajo-y-seminarios/club-ecoturismo-en-espana/actas-xiii-seminario-ecoturismo-2025/10%20FYPNE_Seminario_Ecoturismo_2025.pdf>
+- Guía ética de Audubon para fotografiar aves (en español): <https://www.audubon.org/es/get-outside/audubons-guide-ethical-bird-photography>
+- Guía de ayuda de la a6700 (`Sens. Seguim. AF`, `Dest. reconocim.`): <https://helpguide.sony.net/ilc/2320/v1/es/>
 
 ---
 
 *Parte II · Recetas · El cielo de noche*
 
-# 8. Estrellas con la tierra dentro — desde cero, en tres noches
+# 9. Estrellas con la tierra dentro — desde cero, en tres noches
 
 > 🔵 **Básico** → 🔴 avanzado al final · Da por sabido: nada: empieza desde cero · Te desbloquea: cielo con paisaje dentro, en tres noches de práctica.
 
@@ -1842,7 +2106,7 @@ Nada más.
 4. **Dispara** (el temporizador de 2 s ya evita el meneo del dedo).
 5. **Mira el histograma**, no la foto — el de la **revisión** (▶ y **DISP**):
    el histograma en vivo no acumula los 20 s de exposición y aquí no vale
-   ([capítulo 9](09-astrofotografia-namibia.md)). La montaña debe
+   ([capítulo 10](10-astrofotografia.md)). La montaña debe
    estar en el **primer tercio izquierdo, despegada del borde**. ¿Pegada al borde? Sube a ISO
    3200. La pantalla a oscuras engaña: el histograma no.
 6. **Amplía una estrella al máximo** en la revisión: ¿es un punto? Lo
@@ -1859,8 +2123,8 @@ Nada más.
 | Todo movido | Trípode vibrando: viento, correa suelta o lo tocaste |
 | Cielo naranja raro | WB en K = 3900 (y en RAW se corrige después) |
 
-Esto es, resumido, el [capítulo 9](09-astrofotografia-namibia.md) —
-allí está el detalle fino y el plan concreto de Namibia. Cuando esta noche
+Esto es, resumido, el [capítulo 10](10-astrofotografia.md) —
+allí está el detalle fino. Cuando esta noche
 te salga entera sin mirar la guía, pasa a la siguiente.
 
 ## Noche 2 — añade la tierra: la postal
@@ -1873,8 +2137,8 @@ lugar.
 
 - **Un perfil simple y suelto** que se lea en negro contra el cielo: un
   árbol solo, un molino, una torre, una roca. Un montón de arbustos no se
-  lee como nada. En el viaje: el depósito de agua de Okaukuejo, los
-  mopanes, el granito de Hoada.
+  lee como nada. En un viaje: un depósito de agua, un árbol aislado,
+  una roca grande.
 - Camina alrededor hasta que quede **recortado contra cielo limpio**, sin
   farolas ni otros bultos detrás.
 - Y a **más de 4 metros de ti**. ¿Por qué? Siguiente punto.
@@ -1898,8 +2162,8 @@ atrás o asume el tamaño.
   hasta verlo): de noche, un horizonte torcido no se aprecia a ojo y
   arruina la foto.
 - **Vertical** si el cielo sube como columna sobre el objeto; horizontal si
-  es una banda tumbada. En tu noviembre: banda baja al anochecer, así que
-  mucha foto horizontal ([el cielo del viaje](https://github.com/morandeirachema/a6700-namibia/blob/main/plan/cielo-del-viaje.md)).
+  es una banda tumbada. Fuera de temporada o desde España, la banda sale
+  baja: mucha foto horizontal ([la mirada, de noche](../conceptos/10-la-mirada.md#y-de-noche-en-una-pantalla)).
 - El truco de composición que usan los maestros: la franja de estrellas
   como **diagonal que entra por una esquina y no corta tu objeto**
   ([la mirada](../conceptos/10-la-mirada.md)).
@@ -1940,49 +2204,46 @@ salir mal si la serie corre.
 
 ### 1 · Antes de encuadrar: ¿dónde está el centro del remolino?
 
-Todo gira alrededor de un punto fijo del cielo (el polo celeste). En el
-hemisferio sur está **mirando al sur**, y en Namibia **bajísimo: tan alto
-sobre el horizonte como tu latitud** — ~24° en Sesriem y Spreetshoogte, ~19°
-en Etosha — así que cabe justo encima de tu objeto. Ahí no hay ninguna
-estrella brillante que lo marque (no existe una "Polar del sur" visible), y
-la Cruz del Sur está bajo el horizonte en tus anocheceres: olvídate del
-truco de prolongar su brazo. Cuatro maneras de clavarlo, de la más fácil a
-la más fiable — te basta con una, y la 4 lo confirma todo. **Ninguna
-necesita cobertura**: la 1 calcula dentro del móvil (el GPS funciona sin
-datos), y la 2, la 3 y la 4 no usan más que tus ojos y la cámara:
+Todo gira alrededor de un punto fijo del cielo (el polo celeste), que está
+**tan alto sobre el horizonte como tu latitud**:
+
+| Dónde | Hacia dónde miras | Altura del polo | Lo que lo marca |
+|---|---|---|---|
+| **España** (hemisferio norte) | Al **norte** | Unos 36–43° | La **Estrella Polar**, a menos de 1° del polo: fácil |
+| **Botswana, el Pantanal** (hemisferio sur) | Al **sur** | Unos 16–20°: **bajo**, cabe justo encima de tu objeto | Ninguna estrella brillante (no hay "Polar del sur"); las Nubes de Magallanes ayudan |
+| **Sri Lanka** (cerca del ecuador) | Al norte o al sur | Unos 6–10°, casi en el horizonte | Mirando al este o al oeste, los círculos se vuelven **rayas casi rectas** |
+
+Cuatro maneras de clavarlo, de la más fácil a la más fiable: te basta con una,
+y la 4 lo confirma todo. **Ninguna necesita cobertura**: la 1 calcula dentro
+del móvil (el GPS funciona sin datos), y la 2, la 3 y la 4 no usan más que tus
+ojos y la cámara:
 
 1. **Con el móvil, realidad aumentada** (lo más fácil): abre PhotoPills →
-   Noche → RA, apunta al cielo y aparece dibujado el polo sur celeste; en
-   Stellarium busca la estrella **"Sigma Octantis"** (σ Oct: la única
-   "estrella polar" del sur, a ~1° del polo, tan débil que no la verás — pero
-   la app te enseña dónde está) y colócala en el centro de la pantalla.
-   Calibra la brújula haciendo ochos con el móvil, **lejos de la chapa del
-   coche y del trípode**, y luego coloca la cámara mirando a donde te
-   apunta el móvil ([apps](https://github.com/morandeirachema/a6700-namibia/blob/main/referencia/apps-del-viaje.md)). Sin cobertura da
-   igual: PhotoPills y Stellarium hacen los cálculos y la RA en el propio
-   móvil (solo el mapa del Planificador sale gris si no lo cacheaste), y el
-   GPS no necesita datos — si tarda en fijar, déjalo un par de minutos a
-   cielo abierto. Y para el polo ni siquiera hace falta precisión: 100 km de
-   error lo mueven menos de 1°.
-2. **A ojo, en 30 segundos**: brújula del móvil al sur (**180°**; con
-   una brújula magnética de verdad, en Namibia el sur real marca ~189° en Etosha y ~195° en Sesriem,
-   porque el norte magnético cae entre 9° y 15° al oeste) y, brazo estirado, cuenta
-   **dos puños** (~10° cada uno) desde el horizonte en Etosha, dos y medio en
-   Sesriem: ahí está el polo. Con la cámara **nivelada** (nivel electrónico
-   con DISP) y **el horizonte en el tercio bajo** del encuadre, el 11 mm
-   (16,5 mm eq) abarca 71° de alto y 94° de ancho: **el polo cae dentro
-   sí o sí**, más o menos a media altura de la foto. Aún no has apretado
-   ningún botón y ya lo tienes.
-3. **Con las estrellas de tus noches**: las dos **Nubes de Magallanes** (dos
-   manchas lechosas hacia el sur, imposibles de confundir sin luna) forman
-   con el polo un **triángulo casi equilátero**, y el polo es el vértice
-   **vacío y oscuro**. Entre las 20:30 y las 23:00 de tus noches la Nube
-   Pequeña queda arriba, casi en la vertical del polo, y la Nube Grande
-   abajo a la izquierda (sureste), subiendo durante la noche: **hacia las
-   21:30** el polo está **a la misma altura que la Grande, dos puños a su
-   derecha, y debajo de la Pequeña**. Según avanza
-   la noche todo gira, pero el polo no se mueve
-   ([el cielo del viaje](https://github.com/morandeirachema/a6700-namibia/blob/main/plan/cielo-del-viaje.md)).
+   Noche → RA, apunta al cielo y aparece dibujado el polo celeste; en
+   Stellarium busca la **Polar** (norte) o **"Sigma Octantis"** (σ Oct, sur:
+   a ~1° del polo y tan débil que no la verás, pero la app te enseña dónde
+   está) y colócala en el centro de la pantalla. Calibra la brújula haciendo
+   ochos con el móvil, **lejos de la chapa del coche y del trípode**, y luego
+   coloca la cámara mirando a donde te apunta el móvil. Sin cobertura da
+   igual: PhotoPills y Stellarium hacen los cálculos en el propio móvil (solo
+   el mapa del planificador sale gris si no lo guardaste antes), y el GPS no
+   necesita datos: si tarda en fijar, déjalo un par de minutos a cielo
+   abierto.
+2. **A ojo, en 30 segundos**: la brújula del móvil, en modo **norte
+   verdadero**, al norte o al sur (con una brújula magnética, corrige la
+   declinación de tu sitio: [magnetic-declination.com](https://www.magnetic-declination.com/))
+   y, con el brazo estirado, cuenta **un puño por cada 10° de latitud** desde
+   el horizonte (dos puños en Botswana): ahí está el polo. Con la cámara
+   **nivelada** (nivel electrónico con DISP) y **el horizonte en el tercio
+   bajo** del encuadre, el 11 mm (16,5 mm eq) abarca 71° de alto y 94° de
+   ancho: en el hemisferio sur y cerca del ecuador, **el polo cae dentro sí o
+   sí**. Aún no has apretado ningún botón y ya lo tienes.
+3. **Con las estrellas**: en el **norte**, sigue las dos estrellas del borde
+   del "cazo" de la Osa Mayor: apuntan a la Polar, a unas cinco veces su
+   separación. En el **sur**, las dos **Nubes de Magallanes** (dos manchas
+   lechosas, imposibles de confundir sin luna) forman con el polo un
+   **triángulo casi equilátero**, y el polo es el vértice **vacío y oscuro**.
+   Según avanza la noche todo gira, pero el polo no se mueve.
 4. **La prueba de giro** (la definitiva, 4 minutos): antes de lanzar la
    serie, una sola foto larga en la que las estrellas ya dibujen arcos
    cortos y el centro se vea. `Tipo de obturador: Mecánico` (Bulb no existe
@@ -1998,9 +2259,9 @@ Y la dirección decide el dibujo:
 
 | Miras hacia… | El cielo dibuja… |
 |---|---|
-| **Sur** (el centro dentro del encuadre) | El remolino completo sobre el objeto — la clásica |
-| Este u oeste | Arcos en diagonal barriendo el encuadre |
-| Norte | Arcos suaves, casi rectos |
+| **El polo** (sur en el hemisferio sur, norte en España) | El remolino completo sobre el objeto: la clásica |
+| Este u oeste | Arcos en diagonal barriendo el encuadre (rectas casi paralelas cerca del ecuador) |
+| El polo contrario | Arcos suaves, casi rectos |
 
 ### 2 · Componer con el objeto
 
@@ -2046,52 +2307,53 @@ Y la dirección decide el dibujo:
 | Sin cobertura, la RA "no va" o apunta raro | No es la red (la RA no la usa): brújula descalibrada o GPS sin fijar | Ochos con el móvil lejos del coche; móvil a cielo abierto 1–2 min. Y sin móvil: dos puños + prueba de giro |
 | El polo se queda fuera por arriba | Cámara demasiado inclinada al suelo, o mucho tele | Horizonte en el tercio bajo con la cámara nivelada; a 11 mm entra seguro |
 | Arcos pobres | Serie corta | Más tomas, no más ISO |
-| Una raya recta cruza | Satélite (se clona) o bólido de las Táuridas (¡se enmarca!) | — |
+| Una raya recta cruza | Satélite (se clona) o un bólido (¡se enmarca!) | — |
 
 ## En el viaje: las dos en la misma noche
 
-En las noches gordas de Etosha (9–12 nov) caben ambas sin conflicto:
-**postal primero** (20:25–22:00, con las Nubes y el núcleo servidos), luego
-recolocas el trípode al sur, lanzas la serie de círculos **y te vas** — a la
-charca de los rinos o a la cama. El reparto exacto por noche está en
-[el cielo del viaje](https://github.com/morandeirachema/a6700-namibia/blob/main/plan/cielo-del-viaje.md) y el plan hora a hora en
-[el nivel avanzado del final de esta guía](#nivel-avanzado--cuando-las-tres-noches-ya-salgan-solas). El Pixel, mientras, hace su propia versión
-apuntando a otra parte del cielo ([su guía](../manejo-pixel-10-pro/README.md)).
+En una noche buena caben ambas sin conflicto: **la postal primero**, en la
+primera hora oscura, y luego recolocas el trípode hacia el polo, lanzas la
+serie de círculos **y te vas**, a la charca o a la cama. El plan hora a hora,
+en [el nivel avanzado del final de esta guía](#nivel-avanzado--cuando-las-tres-noches-ya-salgan-solas).
+El Pixel, mientras, hace su propia versión apuntando a otra parte del cielo
+([su guía](../manejo-pixel-10-pro/README.md)).
 
 ## Nivel avanzado — cuando las tres noches ya salgan solas
 
-### El plan de la noche completa (1–10 de noviembre)
+### El plan de una noche completa
 
-| Hora | Objetivo | Cómo |
+Las horas se cuentan desde el **fin del crepúsculo astronómico**, el momento en
+que la noche está oscura del todo (PhotoPills o Stellarium te lo dan para tu
+sitio y tu fecha).
+
+| Cuándo | Objetivo | Cómo |
 |---|---|---|
-| 20:25–21:30 | **Núcleo bajo al OSO** (+26° y bajando) + cola de la **luz zodiacal** en el mismo cielo | Panorámica de 3–4 verticales solapadas 30 %, o banda diagonal con silueta |
-| 21:30–23:00 | **Nubes de Magallanes** altas al sur | 15–20 tomas apiladas, 20 s · f/1.8 · ISO 1600–3200 |
-| 23:00 en adelante | **Banda de Orión–Carina** subiendo por el este; Saturno, que ha culminado hacia las 22:30, alto al norte | Mismos ajustes; Saturno como "estrella" ancla de composición |
-| Toda la noche | **Star trails** centrados en el polo (a ~19–24° de altura, según la parada) | Triángulo de las Nubes o AR; serie de 90–180 tomas que además caza bólidos de las Táuridas |
-| Albas del 14 al 18 | **Júpiter y Marte juntos** al noreste (a 1,4° el día 14; mínimo de 1,2° el 16) | El zoom corto o el 11 mm con paisaje, en el crepúsculo |
+| Primera hora oscura | **El núcleo de la Vía Láctea**, si está en temporada (al anochecer, de abril a septiembre) | Postal con silueta; si sale bajo, panorámica de 3–4 verticales solapadas un tercio o banda diagonal |
+| Después | **Las Nubes de Magallanes** (hemisferio sur, mejor de octubre a febrero) o la constelación brillante de la estación | 15–20 tomas apiladas, 20 s · f/1.8 · ISO 1600–3200 |
+| Toda la noche | **Star trails** centrados en el polo | Serie de 90–180 tomas; caza también algún bólido |
+| Antes del alba | Planetas brillantes y la **luz zodiacal** en el crepúsculo | El 11 mm con paisaje, en la primera luz |
 
 ### Técnica fina
 
-- **La panorámica de la banda tumbada**: el núcleo horizontal de noviembre
-  es el escenario perfecto para tu primera pano nocturna: 3–4 tomas en
+- **La panorámica de la banda tumbada**: el núcleo bajo y tumbado (fuera de
+  temporada, o desde España) es el escenario perfecto para tu primera pano nocturna: 3–4 tomas en
   vertical, solapadas un tercio, girando solo el cabezal entre tomas, mismos
   ajustes clavados; Luminar las une con **Panorama Stitching** ([retoques, 12.2](../retoques/12-varias-fotos.md)).
 - **Las Nubes con detalle**: la tentación de meterles el 70-350 **no
   funciona sin montura de seguimiento** (ya a 70 mm y f/4.5 el límite sin
   trazas son ~5 s → ISO absurdo y cien tomas para poco). El camino real: 11 mm
-  apilado y recorte generoso (26 Mpx dan margen), o apuntar una montura de
-  seguimiento ligera para otro viaje.
-- **Light painting con cabeza** (método van Oosten, para tus noches de granja
-  y camping fuera de Etosha — Spreetshoogte, Hoada —, nunca en miradores de
-  campamento): frontal al mínimo, barrido
+  apilado y recorte generoso (26 Mpx dan margen), o una montura de seguimiento
+  ([mejoras de equipo](18-mejoras-de-equipo.md#la-gran-mejora-de-astro-una-montura-de-seguimiento)).
+- **Light painting con cabeza** (método van Oosten, en campings y lodges que lo
+  permitan, nunca en miradores de campamento): frontal al mínimo, barrido
   de 1–2 s sobre el árbol/roca durante la exposición, desde un lateral;
   revisa y ajusta potencia; para. Menos es más — y cero luz hacia fauna o
   vecinos.
 - **Procesado de tus cielos**: el degradado verdoso del horizonte es
   **airglow**, luz natural del cielo — lo honesto es dejarlo; si estorba,
   bájale un poco la saturación al editar ([noche](../retoques/09-noche.md)); los satélites
-  desaparecen solos al apilar ≥10 tomas; y la Vía Láctea de noviembre, baja
-  y cálida, agradece contraste local suave antes que saturación.
+  desaparecen solos al apilar ≥10 tomas; y la Vía Láctea baja, cálida por la
+  atmósfera, agradece contraste local suave antes que saturación.
 
 ## Si sale mal…
 
@@ -2117,8 +2379,8 @@ apuntando a otra parte del cielo ([su guía](../manejo-pixel-10-pro/README.md)).
   antes de que las estrellas se alarguen al 100 %, y la del 500, 30 s a tamaño
   pantalla. 20 s es el término medio, y 15 s si ves rayitas ([§9](../conceptos/09-por-que-funciona.md#9--el-tiempo-qué-congela-y-qué-dibuja-la-velocidad)).
 - **El histograma separado de la izquierda.** De noche no hay "derecha" a la
-  que exponer, pero tampoco puedes quedarte corto: tus exposiciones largas de
-  Namibia tienen un brillo mediano de 28 sobre 255, y en JPEG lo que falta no
+  que exponer, pero tampoco puedes quedarte corto: las exposiciones largas de
+  tu último viaje tienen un brillo mediano de 28 sobre 255, y en JPEG lo que falta no
   se recupera ([§2](../conceptos/09-por-que-funciona.md#2--exponer-a-la-derecha-y-por-qué-el-histograma-manda)).
 - **Los círculos son 15° por hora.** Media hora de serie dibuja arcos de
   7,5°; dos horas, de 30°. Por eso las series de star trails son largas.
@@ -2130,34 +2392,30 @@ apuntando a otra parte del cielo ([su guía](../manejo-pixel-10-pro/README.md)).
 - StarStaX: <https://starstax.net/> · Starry Landscape Stacker (macOS): <https://sites.google.com/site/starrylandscapestacker/home> · Siril (gratis): <https://siril.org/> · Sequator (solo Windows): <https://sites.google.com/view/sequator/>
 - PhotoPills (AR y planificador): <https://www.photopills.com/> · "3 tips to use PhotoPills offline" (la RA y los cálculos funcionan sin red): <https://www.photopills.com/videos/3-tips-to-use-photopills-offline-photopills-tip-7> · Stellarium: <https://stellarium.org/>
 - Sony, Help Guide ILCE-6700 — disparo Bulb y "BULB Timer Settings" (2–900 s; no disponible con obturador electrónico): <https://helpguide.sony.net/ilc/2320/v1/en/contents/0302C_bulb.html> · <https://helpguide.sony.net/ilc/2320/v1/en/contents/211h_bulb_timer.html>
-- Declinación magnética en Namibia (WMM2025; ~13° O en Windhoek): <https://www.magnetic-declination.com/>
+- Declinación magnética de cualquier sitio: <https://www.magnetic-declination.com/>
 
 ---
 
 *Parte II · Recetas · El cielo de noche*
 
-# 9. Astrofotografía en Namibia con la a6700 — paso a paso
+# 10. Astrofotografía — la noche completa, paso a paso
 
 > 🔵 **Básico** · Da por sabido: el capítulo 4 (memoria MR2 guardada) · Te desbloquea: la Vía Láctea, las Nubes de Magallanes y los star trails.
 
-Namibia tiene algunos de los cielos más oscuros del planeta (NamibRand fue la
-primera Reserva Internacional de Cielo Oscuro de África, certificada en
-categoría Gold). De mayo a septiembre —estación seca— la Vía Láctea es
-visible gran parte de la noche.
+Los sitios de safari están lejos de las ciudades: sin luna, y alejándote de
+las luces del campamento, el cielo es de los más oscuros que vas a ver. En
+España también hay cielos muy oscuros, protegidos como **reservas y destinos
+Starlight** ([Fundación Starlight](https://fundacionstarlight.org/)), y un
+mapa de contaminación lumínica ([lightpollutionmap.info](https://www.lightpollutionmap.info/))
+te dice cuál te queda más cerca.
 
-> **Tu viaje es en noviembre y el cielo cambia**: el núcleo galáctico solo
-> asoma bajo, al OSO, los primeros ~45–75 min de oscuridad y **solo del 1 al
-> 10** (luego entra la luna en ese cielo); las protagonistas pasan a ser las
-> **Nubes de Magallanes**, Saturno y las Táuridas, y la Cruz del Sur no está
-> al anochecer. Las recetas y el enfoque de este capítulo valen igual; el
-> **plan de tus noches concretas** está en
-> [la mirada](../conceptos/10-la-mirada.md), el fino en
-> [estrellas con la tierra dentro](08-estrellas-con-tierra.md), y el catálogo completo de lo
-> fotografiable en tu ventana, objetivo a objetivo, en
-> [el cielo del viaje](https://github.com/morandeirachema/a6700-namibia/blob/main/plan/cielo-del-viaje.md).
-
-> ¿No es esta tu noche? [Fotografía nocturna: por dónde empezar](https://github.com/morandeirachema/a6700-namibia/blob/main/tecnica/fotografia-nocturna.md)
-> compara las cuatro noches del viaje (charca, astro, cielo con tierra y game drive) en una tabla.
+> **Tu cielo cambia con el sitio y la fecha.** Las recetas y el enfoque de
+> este capítulo valen en cualquier parte; lo que cambia es **qué hay** en el
+> cielo. El núcleo de la Vía Láctea culmina a unos 80° en Botswana, 55° en Sri
+> Lanka y 20° en el centro de España, y su temporada al anochecer va de abril a
+> septiembre. Las Nubes de Magallanes solo se ven bien desde el hemisferio sur.
+> El resumen está en [la mirada, de noche](../conceptos/10-la-mirada.md#y-de-noche-en-una-pantalla),
+> y el método desde cero, en [estrellas con la tierra dentro](09-estrellas-con-tierra.md).
 
 ## Receta rápida
 
@@ -2176,7 +2434,7 @@ visible gran parte de la noche.
 | `RR exposic. larga` | Desactivar |
 
 > Cada ajuste con su **ruta de menú**, en
-> [la referencia de ajustes](17-ajustes-a6700.md#c2-astro-la-receta-de-mr2).
+> [la referencia de ajustes](19-ajustes-a6700.md#c2-astro-la-receta-de-mr2).
 
 ## Antes de salir (checklist)
 
@@ -2230,7 +2488,7 @@ visible gran parte de la noche.
    Func.* en inglés): exposición de 15 s,
    intervalo de disparo 17 s (en Sony el intervalo se mide de inicio a
    inicio), 300 tomas ≈ 12 s de vídeo a 25 fps. Sin cables: le das a empezar y te
-   olvidas. Todo el time-lapse, paso a paso, en el [capítulo 10](10-time-lapse-del-cielo.md).
+   olvidas. Todo el time-lapse, paso a paso, en el [capítulo 11](11-time-lapse-del-cielo.md).
 9. Antes de recoger: revisa la última foto **ampliada al máximo** por si el
    enfoque se movió.
 
@@ -2248,25 +2506,24 @@ visible gran parte de la noche.
 
 La versión a fondo de las dos fotos con primer plano — la postal (cielo
 fijo con silueta) y los círculos sobre un objeto — está en
-[Estrellas con la tierra dentro](08-estrellas-con-tierra.md).
+[Estrellas con la tierra dentro](09-estrellas-con-tierra.md).
 
 ## Star trails (circumpolares del sur)
 
 El plan B perfecto para noches con algo de luna, y un éxito casi garantizado
 para un novato: círculos de estrellas girando sobre el paisaje.
 
-1. Apunta al **sur**: en el hemisferio sur el cielo gira alrededor del polo
-   sur celeste, que no tiene estrella brillante (y la Cruz del Sur, el truco
-   clásico, está bajo el horizonte en tus anocheceres). El polo queda a una
-   altura igual a tu latitud: ~24° en Sesriem, **~19° en Etosha** — el
-   centro de los círculos cae bajo, así que puedes meter un árbol o una
-   silueta en el mismo encuadre. Para clavarlo: brújula del móvil al sur y
-   **dos puños** con el brazo estirado por encima del horizonte (~10° cada
+1. Apunta **al polo**: al **sur** en el hemisferio sur (Botswana, el
+   Pantanal), donde el polo no tiene estrella brillante, y al **norte** en
+   España, donde lo marca la Estrella Polar. El polo queda a una altura igual
+   a tu latitud: unos 20° en Botswana, unos 40° en España. Cuanto más bajo,
+   más fácil meter un árbol o una silueta en el mismo encuadre. Para clavarlo: brújula del móvil hacia el polo y
+   **un puño por cada 10° de latitud** con el brazo estirado por encima del horizonte (~10° cada
    uno), o la realidad aumentada de PhotoPills (modo "Noche"). Con la
    cámara nivelada y el horizonte en el tercio bajo, el 11 mm abarca 71° de
    alto: el polo entra seguro. Las cuatro formas de encontrarlo — incluida
    la **prueba de giro** de 4 minutos con `Aj. temporiz. BULB` — están en
-   [Estrellas con la tierra dentro](08-estrellas-con-tierra.md).
+   [Estrellas con la tierra dentro](09-estrellas-con-tierra.md).
 2. Receta: **30 s, f/2.8, ISO 800–1600**, balance fijo 3900 K,
    reducción de ruido de larga exposición **OFF** (o cada foto irá seguida de
    30 s a oscuras y los arcos saldrán cortados), enfoque a las estrellas como
@@ -2297,7 +2554,7 @@ Dos caminos para el cielo en movimiento, ya montados en la cámara:
 - **Fotos por intervalos** (`Func. capt. interv.`, hasta 9999 tomas): la vía
   de máxima calidad — cada fotograma es un RAW que revelas y montas en vídeo
   en casa ([edición](../retoques/README.md)). Es la de las recetas de
-  este capítulo, y la del [time-lapse del cielo](10-time-lapse-del-cielo.md),
+  este capítulo, y la del [time-lapse del cielo](11-time-lapse-del-cielo.md),
   que lo explica entero: la cuenta de fotos, la serie del atardecer a la
   noche y cómo se monta el vídeo.
 - **Película time-lapse en cámara**: con el dial Foto/Vídeo/S&Q en **S&Q**
@@ -2308,20 +2565,19 @@ Dos caminos para el cielo en movimiento, ya montados en la cámara:
   minutos y recomienda `Func. capt. interv.` para series más largas. Es
   una cámara: o una serie u otra, no las dos a la vez.
 
-## Vía Láctea desde Etosha en noches sin luna
+## Vía Láctea desde un campamento en noches sin luna
 
-Tu caso concreto: noches de luna nueva encerrado en el campamento (las
-puertas cierran del atardecer al amanecer). Es un escenario buenísimo — sin
+El caso típico de un safari: noches de luna nueva dentro del campamento (en
+muchos parques no se puede salir de noche). Es un escenario buenísimo — sin
 luna el núcleo galáctico luce al máximo — con dos peculiaridades: no puedes
 salir a buscar primer plano, y dentro del recinto hay farolas y el resplandor
 de los focos de la charca.
 
 **La app: PhotoPills** (pago único, iOS/Android:
-<https://www.photopills.com/>; instalación, pins y manejo básico, en
-[las apps del viaje](https://github.com/morandeirachema/a6700-namibia/blob/main/referencia/apps-del-viaje.md)). Las tres pantallas que
+<https://www.photopills.com/>). Las tres pantallas que
 vas a usar:
 
-1. **Planificador**: pin sobre tu campamento (p. ej. Okaukuejo), activa la
+1. **Planificador**: pin sobre tu campamento, activa la
    capa de Vía Láctea y mueve la barra de tiempo: te dibuja sobre el mapa
    hacia dónde y a qué altura estará el arco y el núcleo galáctico cada hora
    de tu noche concreta. Hazlo en casa y apunta las horas buenas.
@@ -2341,7 +2597,7 @@ planificador sobre mapa.
    los focos de la charca. Los muros, depósitos y árboles del campamento te
    sirven para bloquear luces directas.
 2. Sin luna no hay paisaje iluminado: compón con **siluetas** contra el cielo
-   (la línea de mopanes, el depósito de agua de Okaukuejo). No ilumines tú el
+   (la línea de árboles, el depósito de agua del campamento). No ilumines tú el
    primer plano: en un campamento dormido no se hace.
 3. Ejecuta la receta y el enfoque a estrella de este capítulo, y las **10
    tomas para apilar** — con cielo de luna nueva es cuando el apilado más luce.
@@ -2349,30 +2605,32 @@ planificador sobre mapa.
    inclúyelo asumido como "amanecer falso" naranja en el horizonte; al
    apilar, la extracción de fondo (*Background extraction*) de Siril
    ([edición](../retoques/09-noche.md#apilar-una-serie-fuera-de-luminar)) suaviza el degradado.
-5. Remata la noche en el mirador de la charca ([capítulo 7](07-safari-nocturno-charcas.md)):
-   astro y rinocerontes en la misma salida.
+5. Remata la noche en el mirador de la charca ([capítulo 7](07-fauna-de-noche.md)):
+   astro y fauna en la misma salida.
 
-## Localizaciones destacadas
+## Elegir el sitio
 
-- **NamibRand / zona de Sossusvlei**: Reserva Internacional de Cielo Oscuro.
-  <https://darksky.org/places/namibrand-dark-sky-reserve/>
-- **Spitzkoppe**: arcos de granito como primer plano y acampada dentro
-  (camping comunitario: <https://spitzkoppe.com/>). No cae en la ruta de este
-  viaje — apuntada para el siguiente.
-- **Deadvlei/Sossusvlei**: la foto nocturna dentro está en la práctica vetada
-  (el permiso especial es muy difícil de conseguir); alojarse dentro de la
-  primera puerta (camping de Sesriem) solo adelanta la entrada ~1 h antes del
-  amanecer. Para la Vía Láctea, mejor Spitzkoppe o la zona de NamibRand.
-- **Bosque de árboles aljaba (Keetmanshoop)**: siluetas clásicas del cielo
-  austral. Tampoco cae en esta ruta — al sur, para otro viaje.
+- **Lejos de las luces**: el mapa de contaminación lumínica, y en el viaje,
+  el rincón del campamento más alejado de las farolas.
+- **Con algo que contar**: un árbol, una roca o una construcción con perfil
+  claro hacia donde estará la Vía Láctea o el polo, elegido **de día**.
+- **Por destino**:
+  - **Botswana y el Pantanal** (hemisferio sur): el núcleo alto en temporada
+    y las Nubes de Magallanes. En los humedales, **rocío y mosquitos**: banda
+    calefactora en el objetivo ([mejoras de equipo](18-mejoras-de-equipo.md#lo-que-te-falta-campo-por-campo))
+    y repelente lejos de la cámara (algunos atacan el plástico).
+  - **Sri Lanka** (cerca del ecuador): el núcleo alto, pero **nubes y humedad**
+    según el monzón: mira la previsión y ten el plan B de los círculos.
+  - **España**: las reservas Starlight y la temporada del núcleo, de abril a
+    septiembre; en invierno, el valor seguro son los círculos alrededor de la
+    Polar.
 
 ## Y el Pixel, mientras tanto
 
 Apoyado en una piedra o en un mini trípode, apuntando a **otra** parte del
 cielo, hace su foto astro de cuatro minutos y te deja además un
 mini-timelapse — sin que lo mires y sin robarte un solo ajuste de la Sony.
-Es la segunda vía del [plan noche a noche](https://github.com/morandeirachema/a6700-namibia/blob/main/plan/cielo-del-viaje.md), la
-de "pon y olvida", y su receta completa está en
+Es la vía de "pon y olvida", y su receta completa está en
 [la guía del Pixel](../manejo-pixel-10-pro/README.md).
 
 ## Ejercicio (dos noches, aunque tu cielo sea malo)
@@ -2386,7 +2644,7 @@ enfoque y el manejo a tientas.
    medias, con el cronómetro: el objetivo es bajar de dos minutos.
 2. **La noche a oscuras.** Sin mirar la cámara: enciende, gira a MR2, activa
    `Verificac. luminosa`, dispara con temporizador y revisa el histograma. Todo
-   con frontal roja. En Namibia lo harás medio dormido y con frío.
+   con frontal roja. En el viaje lo harás medio dormido y con frío.
 3. **Y una serie de verdad**: 60 tomas de 30 s con el intervalómetro
    apuntando a cualquier sitio, y apílalas en StarStaX. Aunque salgan cuatro
    estrellas, habrás hecho el flujo completo una vez.
@@ -2418,14 +2676,16 @@ enfoque y el manejo a tientas.
 - Review del Sony E 11mm F1.8, con su comportamiento en las esquinas (Dustin Abbott): <https://dustinabbott.net/2022/06/sony-e-11mm-f1-8-review/>
 - Guía práctica de Vía Láctea en español: <https://capturetheatlas.com/es/como-fotografiar-la-via-lactea/>
 - Help Guide oficial de la a6700: <https://helpguide.sony.net/ilc/2320/v1/es/>
+- Fundación Starlight (cielos oscuros protegidos en España): <https://fundacionstarlight.org/>
+- Mapa de contaminación lumínica: <https://www.lightpollutionmap.info/>
 
 ---
 
 *Parte II · Recetas · El cielo de noche*
 
-# 10. Time-lapse del cielo — las estrellas en movimiento, y del atardecer a la noche
+# 11. Time-lapse del cielo — las estrellas en movimiento, y del atardecer a la noche
 
-> 🔵 **Básico** → 🔴 avanzado en la receta B · Da por sabido: el [capítulo 4](04-configuracion-basica.md) (memoria MR2 guardada) y montar el trípode; mejor si ya hiciste la noche 1 del [capítulo 8](08-estrellas-con-tierra.md) · Te desbloquea: un vídeo de 10–20 s con el cielo girando sobre el paisaje, la serie que pasa sola del atardecer a la noche, y dos fotos más sacadas de la misma serie.
+> 🔵 **Básico** → 🔴 avanzado en la receta B · Da por sabido: el [capítulo 4](04-configuracion-basica.md) (memoria MR2 guardada) y montar el trípode; mejor si ya hiciste la noche 1 del [capítulo 9](09-estrellas-con-tierra.md) · Te desbloquea: un vídeo de 10–20 s con el cielo girando sobre el paisaje, la serie que pasa sola del atardecer a la noche, y dos fotos más sacadas de la misma serie.
 
 Un time-lapse son **cientos de fotos iguales, hechas una cada pocos
 segundos desde el mismo sitio**, que luego se ven seguidas como un vídeo.
@@ -2450,7 +2710,7 @@ ruido** (apilando unas pocas).
 - **La a6700 con el 11 mm F1.8** (16,5 mm eq): cabe el cielo entero y las
   estrellas aguantan 15 s como puntos. Con el Viltrox 25 mm (37,5 mm eq) las
   estrellas se alargan antes: mira su capítulo
-  ([capítulo 15](15-viltrox-25mm.md)).
+  ([capítulo 16](16-viltrox-25mm.md)).
 - **Trípode firme**. No lo vas a tocar en una o dos horas: patas sin
   extender del todo, la columna central abajo.
 - **Batería llena y un power bank USB-C**. Sony recomienda alimentar la
@@ -2580,7 +2840,7 @@ exacta (fin del crepúsculo astronómico).
 
 **Antes de la serie larga, una de prueba**: 60 fotos con `Intervalo de toma`
 de 5 s durante el atardecer, desde casa si quieres
-([capítulo 13](13-fotos-en-casa.md)). Así ves cómo reacciona tu cámara
+([capítulo 14](14-fotos-en-casa.md)). Así ves cómo reacciona tu cámara
 sin perder una noche.
 
 > **Lo que no está escrito.** Sony no detalla qué hace la cámara con la
@@ -2600,7 +2860,7 @@ consigas en la cámara es lo que tendrás.
 | Problema | Causa | Solución |
 |---|---|---|
 | Fogonazos de luz en algunos fotogramas | Un coche, un frontal o una pantalla iluminaron el encuadre | Borra esos fotogramas antes de montar el vídeo; la próxima vez, luces apagadas y lejos |
-| Las estrellas salen como rayitas en cada foto | Exposición larga para la focal | 15 s con el 11 mm; con el 25 mm, menos ([capítulo 15](15-viltrox-25mm.md)) |
+| Las estrellas salen como rayitas en cada foto | Exposición larga para la focal | 15 s con el 11 mm; con el 25 mm, menos ([capítulo 16](16-viltrox-25mm.md)) |
 | La serie se cortó a mitad | Batería, tarjeta llena o calor | Power bank con `Alimentación USB` en `Activar`; mira el contador de fotos antes; en intervalos cortos la cámara puede calentarse y parar |
 | Las últimas fotos salen lechosas | Rocío en el cristal | Banda calefactora, o mira el cristal cada 20 minutos |
 | La serie va más lenta de lo que pusiste | Exposición más larga que el intervalo | Intervalo = exposición + 2 s; en la receta B, `Prior. intervalo toma` en `Activar` |
@@ -2670,7 +2930,7 @@ camino. Lo que en el vídeo es movimiento, en la foto son arcos.
 
 300 fotos de 15 s son 75 minutos de cielo: arcos de unos 19° (el cielo gira
 15° por hora). Para arcos más largos y sin huecos, la receta propia de star
-trails está en el [capítulo 8](08-estrellas-con-tierra.md) (noche 3).
+trails está en el [capítulo 9](09-estrellas-con-tierra.md) (noche 3).
 
 ### 3 · Una foto del cielo limpia de ruido
 
@@ -2707,8 +2967,8 @@ de star trails sacada de la misma serie.
   `ISO AUTO VO mín.` en 15" hace que primero alargue el tiempo, que es gratis
   en trípode, y solo después suba el ISO, que cuesta ruido.
 - **De la misma serie salen fotos fijas**: apilar en *Lighten* suma los rastros
-  (star trails); hacer la media quita ruido. Es lo que hacen, a lo grande,
-  Wilkes y Molloy ([los maestros, el tiempo](../conceptos/11-los-maestros.md#el-tiempo)).
+  (star trails); hacer la media quita ruido. Es lo que hace Molloy con sus
+  puestas de sol ([los maestros, el tiempo](../conceptos/11-los-maestros.md#el-tiempo)).
 
 ## Referencias
 
@@ -2725,7 +2985,7 @@ de star trails sacada de la misma serie.
 
 *Parte II · Recetas · La ciudad y la casa*
 
-# 11. Estelas de tráfico — los coches convertidos en ríos de luz
+# 12. Estelas de tráfico — los coches convertidos en ríos de luz
 
 > 🟢 **Iniciación** → 🔵 básico al apilar · Da por sabido: los tres números ([capítulo 1](01-de-movil-a-la-a6700.md)) y montar el trípode · Te desbloquea: la foto nocturna de ciudad con estelas blancas y rojas, en una sola toma larga o juntando varias, y entender de verdad qué hace la velocidad de obturación.
 
@@ -2757,7 +3017,7 @@ Es el mejor ejercicio para entender la velocidad de obturación
 - **Opcional**: un filtro **ND8** (3 pasos; 15–25 €) si quieres exposiciones
   de 30 s en la hora azul. El 11 mm tiene rosca de 55 mm y el Viltrox de
   52 mm; el truco del anillo para usar un solo filtro en los tres objetivos
-  está en el [capítulo 14](14-equipo-accesorios.md). De noche, **quita el
+  está en el [capítulo 15](15-equipo-accesorios.md). De noche, **quita el
   filtro protector** si llevas uno: con farolas en el encuadre da reflejos.
 
 ## Cuándo
@@ -2898,7 +3158,7 @@ queda como en una sola foto.
   inmóvil toda la exposición, o saldrá transparente. Con 2–4 s y luz de una
   farola sobre ella, sale.
 - **Desde casa**: si ves una calle desde la ventana o el balcón, tienes
-  estudio de estelas sin salir ([capítulo 13](13-fotos-en-casa.md)).
+  estudio de estelas sin salir ([capítulo 14](14-fotos-en-casa.md)).
 
 ## Si sale mal…
 
@@ -2953,7 +3213,7 @@ todo), y sabes explicar qué cambió entre la foto de 5 s y la de 30 s.
 
 *Parte II · Recetas · La ciudad y la casa*
 
-# 12. Calle y arquitectura — la ciudad con el 25 mm y el 11 mm
+# 13. Calle y arquitectura — la ciudad con el 25 mm y el 11 mm
 
 > 🔵 **Básico** → 🔴 avanzado al final · Da por sabido: los tres números ([capítulo 1](01-de-movil-a-la-a6700.md)) y el enfoque con el pulgar ([capítulo 4](04-configuracion-basica.md#enfoque-con-el-pulgar-back-button-focus)) · Te desbloquea: fotografiar gente en la calle sin perder el momento (el **enfoque por zonas**), y edificios con las verticales rectas y la luz que los explica.
 
@@ -2965,7 +3225,7 @@ exactos. Las dos se hacen con los dos objetivos que son tuyos, el **Viltrox
 25 mm** y el **Sony E 11 mm**, y comparten una herramienta: la
 [hiperfocal](../conceptos/05-optica.md#5--la-hiperfocal-todo-nítido-de-cerca-al-infinito).
 
-> **Por qué no está en tus fotos todavía.** De las 2.731 fotos de Namibia,
+> **Por qué no está en tus fotos todavía.** De las 2.731 fotos de tu último viaje,
 > **ninguna** se hizo con el Viltrox ([lo que enseñan tus fotos](../retoques/15-disparar-mejores-jpeg.md#154-lo-que-enseñan-tus-fotos-de-namibia)).
 > Este capítulo es, también, el de sacarlo de la mochila.
 
@@ -3054,7 +3314,7 @@ Con el 11 mm a f/8 **todo** sale nítido: solo tienes que estar cerca.
 
 > **Con el Viltrox, tras apagar la cámara, vuelve a poner la zona.** Su
 > enfoque es electrónico (*por cable*): al encenderla, no está garantizado que
-> conserve la distancia ([su guía](15-viltrox-25mm.md)). Son cinco segundos:
+> conserve la distancia ([su guía](16-viltrox-25mm.md)). Son cinco segundos:
 > pasos 1 y 2.
 
 ## El momento: escenario, espera y gesto
@@ -3229,7 +3489,7 @@ sobre el mapa.
   luces artificiales tienen un brillo parecido: el sensor puede guardar las
   dos cosas en una sola foto.
 - **Fachadas blancas y sombras profundas engañan al medidor** igual que la
-  calcreta del safari: busca el gris medio ([el gris medio](../conceptos/01-la-luz.md#por-qué-la-cámara-se-equivoca-el-gris-medio)).
+  arena clara del safari: busca el gris medio ([el gris medio](../conceptos/01-la-luz.md#por-qué-la-cámara-se-equivoca-el-gris-medio)).
 
 ## En Luminar
 
@@ -3282,7 +3542,7 @@ verticales rectas, o torcidas a propósito.
 
 *Parte II · Recetas · La ciudad y la casa*
 
-# 13. Fotos en casa — ideas creativas para practicar sin salir
+# 14. Fotos en casa — ideas creativas para practicar sin salir
 
 > 🟢 **Iniciación** → 🔵 básico en las últimas ideas · Da por sabido: los tres números ([capítulo 1](01-de-movil-a-la-a6700.md)) · Te desbloquea: practicar la luz, la exposición, el enfoque y la composición cualquier tarde, con lo que hay en casa, y llegar a la próxima salida con las manos entrenadas.
 
@@ -3431,8 +3691,8 @@ apuntando a la cámara, o **ilumina un objeto** con barridos lentos de la
 linterna, de lado. Tú no sales si te mueves y no te iluminas.
 
 **Entrenas:** la exposición larga, que luego usarás en las estelas
-([capítulo 11](11-estelas-de-trafico.md)) y en las estrellas
-([capítulo 8](08-estrellas-con-tierra.md)).
+([capítulo 12](12-estelas-de-trafico.md)) y en las estrellas
+([capítulo 9](09-estrellas-con-tierra.md)).
 
 **Aprobado cuando** el dibujo es una línea continua y el fondo queda negro.
 
@@ -3443,14 +3703,14 @@ linterna, de lado. Tú no sales si te mueves y no te iluminas.
 **Cómo:**
 
 - **Estelas**: si ves una calle con tráfico, la receta del
-  [capítulo 11](11-estelas-de-trafico.md) tal cual (M · f/8 · ISO 100 ·
+  [capítulo 12](12-estelas-de-trafico.md) tal cual (M · f/8 · ISO 100 ·
   15 s). Apaga la luz de la habitación y pega el objetivo al cristal para
   que no salgan reflejos.
 - **Time-lapse de nubes o de la puesta**: A · f/8 · ISO AUTO · balance fijo
   en Luz de día, y el intervalómetro (`Func. capt. interv.`) con
   `Intervalo de toma` de **3 s** y **200** fotos: 10 minutos que se ven en
   8 s de vídeo. Es el ensayo de la receta B del
-  [capítulo 10](10-time-lapse-del-cielo.md).
+  [capítulo 11](11-time-lapse-del-cielo.md).
 
 **Entrenas:** las dos recetas de exposición larga sin salir de casa.
 
@@ -3596,11 +3856,11 @@ Para la **composición** fuera de casa, el complemento es el
 
 *Parte III · Equipo y objetivos*
 
-# 14. Equipo y accesorios para la a6700 (enfoque budget)
+# 15. Equipo y accesorios para la a6700 (enfoque budget)
 
 > 🔵 **Básico** · Da por sabido: nada · Te desbloquea: saber qué comprar, qué no, y por qué.
 
-Situación de partida de este viaje: se empieza casi de cero y el kit son
+El kit del primer viaje (Namibia, noviembre de 2026): se empezó casi de cero y el kit son
 **dos compras y un préstamo** — el cuerpo y el gran angular de astro y
 paisaje, comprados, y el tele de fauna, prestado — elegidos para cubrir safari, charcas nocturnas y cielo con el
 mínimo dinero razonable. La cuarta cámara-que-ya-tienes, el **Pixel 10 Pro**,
@@ -3630,7 +3890,7 @@ un 20–40 %.
 > equivalentes, 170 g, filtro de 52 mm). Cubre el hueco entre el 11 mm y el
 > 70-350: retrato, calle, interiores y poca luz. No tiene interruptor
 > AF/MF: el enfoque manual se pone desde el menú. Todo en
-> [su guía](15-viltrox-25mm.md).
+> [su guía](16-viltrox-25mm.md).
 
 ## El cuerpo: Sony a6700
 
@@ -3645,7 +3905,7 @@ esta y no otra:
 - **Estabilizador en el cuerpo (IBIS)** de ~5 pasos: suma con el del tele y
   estabiliza también el 11 mm, que no lleva estabilizador propio.
 - **Intervalómetro integrado**: los timelapses y star trails del
-  [capítulo 9](09-astrofotografia-namibia.md) sin comprar ni un cable.
+  [capítulo 10](10-astrofotografia.md) sin comprar ni un cable.
 - **26 Mpx APS-C**: margen de recorte en edición, y su recorte 1.5x
   multiplica el alcance aparente de cualquier tele.
 
@@ -3701,19 +3961,19 @@ solo.
 | Sony FE 200-600mm G | ~1.900 € | El AF de referencia y zoom interno, pero 2,1 kg y fuera de presupuesto |
 | Tamron 150-500mm f/5-6.7 Di III VC VXD | ~1.100–1.400 € | Alternativa intermedia, 1,7 kg. <https://www.tamron.eu/> |
 
-**Recomendación**: el **70-350 G**. En Etosha, 525 mm equivalentes dan el
-retrato apretado de casi todo lo que se acerca a una charca; pesa **625 g**
+**Recomendación**: el **70-350 G**. En un safari, 525 mm equivalentes dan el
+retrato apretado de casi todo lo que se acerca a una charca o a una orilla; pesa **625 g**
 —un tercio de lo que pesa un 150-600— y eso cambia el safari entero: se
 levanta con una mano en los cuatro segundos que dura un leopardo, aunque el
 bean bag siga siendo el soporte serio. Su extremo corto de 105 mm eq da el
 "animal en su paisaje" **sin cambiar de objetivo**, que con el polvo de
-Etosha y una sola bolsa vale oro.
+las pistas y una sola bolsa vale oro.
 
 **Dos limitaciones a tener en cuenta**:
 
 - **f/6.3 en el extremo largo** es lento para la charca nocturna: allí
   trabajarás a ISO 6400–12800 y salvarás las fotos con reducción de ruido
-  por IA (ver [capítulo 7](07-safari-nocturno-charcas.md)). La alternativa
+  por IA (ver [capítulo 7](07-fauna-de-noche.md)). La alternativa
   luminosa (un 70-200 f/2.8) se sale de presupuesto; el enfoque budget es
   asumir el ISO alto. Consuelo real: por debajo de **200 mm** abre a f/5.6 y
   por debajo de 114 mm a f/5 — encuadrar un poco más ancho es luz gratis.
@@ -3786,9 +4046,8 @@ frenan.
   cargador. La cámara carga por USB-C — un power bank la revive en el campo
   — pero el cargador doble deja las tres baterías listas cada noche sin
   secuestrar la cámara.
-- **2 adaptadores de enchufe tipo M + una regleta europea pequeña**: el
-  enchufe oficial de Namibia es el M (el europeo entra en algunos, no en
-  todos), y con la regleta un solo
+- **Adaptadores de enchufe del destino + una regleta europea pequeña**:
+  mira qué enchufe se usa en cada país antes de salir, y con la regleta un solo
   adaptador da servicio a todos los cargadores a la vez
   ([logística](https://github.com/morandeirachema/a6700-namibia/blob/main/campo/logistica-viaje.md)).
 - **Intervalómetro: no hace falta.** Viene integrado en la cámara
@@ -3814,7 +4073,7 @@ frenan.
   el 70-350 de **67 mm**. La solución barata es un **anillo step-up 55→67**
   (~8 €), y otro 52→67 para el Viltrox: compras todos los filtros en 67 mm
   y sirven para los tres. Con eso: un **filtro protector**
-  (~25–40 €) contra el polvo de Etosha para el que lleves puesto —para astro,
+  (~25–40 €) contra el polvo de las pistas para el que lleves puesto —para astro,
   siempre sin filtro—, y si te pica el paisaje
   ([Paisaje a fondo](https://github.com/morandeirachema/a6700-namibia/blob/main/mejora/paisaje-a-fondo.md)), un **ND1000** (~25–40 €)
   para olas y niebla de 30 s a plena luz y un **polarizador circular**
@@ -3823,7 +4082,7 @@ frenan.
 - **Mini trípode o pinza de móvil (~10–15 €)**: para el modo astro y los
   timelapses del [Pixel](../manejo-pixel-10-pro/README.md) — una piedra también
   vale, pero la pinza apunta donde tú quieres.
-- **Pera sopladora y paño de microfibra**: el polvo de Etosha es fino y
+- **Pera sopladora y paño de microfibra**: el polvo de las pistas es fino y
   omnipresente. Cambia de objetivo solo dentro del coche o de la bolsa — en
   una mirrorless el sensor queda a la vista al desmontar.
 - **Frontal con luz roja** para no arruinar la visión nocturna (ni la de los
@@ -3871,7 +4130,7 @@ Las fotos de Namibia tienen **una mancha gris en el cielo, siempre en el mismo s
 
 *Parte III · Equipo y objetivos*
 
-# 15. El Viltrox AF 25 mm F1.7 Air — el objetivo "normal" del kit
+# 16. El Viltrox AF 25 mm F1.7 Air — el objetivo "normal" del kit
 
 > 🔵 **Básico** · Da por sabido: el [capítulo 4](04-configuracion-basica.md) y [Enfocar el 11 mm](05-enfocar-el-11mm.md) (la lupa y el *peaking*) · Te desbloquea: el hueco entre el 11 mm y el 70-350 (retrato, calle, interiores y poca luz) y saber manejar un objetivo **sin interruptor AF/MF**.
 
@@ -3912,7 +4171,7 @@ Con el 11 mm y el 70-350, el interruptor del barrilete **manda** sobre el menú.
 
 - **Pasar a MF:** `Enfoque → [AF/MF] → [Modo de enfoque]` → **`Enfoque man.`** Es lo que tienes que hacer de noche: `Verificac. luminosa` (C1) **solo funciona en MF**.
 - **Volver a AF:** el mismo sitio → `AF continuo` (AF-C) o `AF toma sencilla` (AF-S).
-- **Más rápido, con un botón:** asigna **`Alter. select. AF/MF`** (alterna AF y MF con cada pulsación) o **`Reten. select. AF/MF`** (MF solo mientras mantienes pulsado) a un botón libre, en `Ajustes → [Personal. operac.] → [Ajuste t. pers./dial]`. Ambos nombres están verificados ([verificación de los menús](19-verificacion-de-menus.md)). C1 y C3 ya están ocupados por la botonera del repo ([diales y botones](03-diales-y-botones.md)), así que elige otro.
+- **Más rápido, con un botón:** asigna **`Alter. select. AF/MF`** (alterna AF y MF con cada pulsación) o **`Reten. select. AF/MF`** (MF solo mientras mantienes pulsado) a un botón libre, en `Ajustes → [Personal. operac.] → [Ajuste t. pers./dial]`. Ambos nombres están verificados ([verificación de los menús](21-verificacion-de-menus.md)). C1 y C3 ya están ocupados por la botonera del repo ([diales y botones](03-diales-y-botones.md)), así que elige otro.
 - **Al volver a un Sony**, recuerda que su interruptor vuelve a mandar. Si la cámara "no enfoca" tras cambiar de objetivo, mira primero el interruptor del Sony y luego `Modo de enfoque`.
 
 > **Ojo con MR2.** La receta de astro (MR2) está pensada para el 11 mm, que pasa a MF con su interruptor. Con el Viltrox montado, al cargar MR2 comprueba en pantalla que la cámara está de verdad en MF; si no, pon `Modo de enfoque` en `Enfoque man.`.
@@ -3921,7 +4180,7 @@ Con el 11 mm y el 70-350, el interruptor del barrilete **manda** sobre el menú.
 
 **De día:** igual que con cualquier objetivo. Enfoque con el pulgar (**AF-ON**, [enfocar el 11 mm](05-enfocar-el-11mm.md)) y el reconocimiento de motivo: `Humano` para personas, `Animal` o `Ave` para fauna. La review de Digital Camera World describe el AF como "no especialmente rápido, pero suficiente" y preciso de forma constante. Para acción rápida (niños o animales corriendo), pruébalo antes de fiarte.
 
-**Hiperfocal** (con el mismo círculo de confusión que el resto del repo, explicado en [óptica §5](../conceptos/05-optica.md#5--la-hiperfocal-todo-nítido-de-cerca-al-infinito)): con 25 mm hace falta cerrar mucho más que con el 11 mm para tener todo nítido. Para la calle, el uso práctico es el [enfoque por zonas](12-calle-y-arquitectura.md#enfocar-sin-mirar-el-enfoque-por-zonas).
+**Hiperfocal** (con el mismo círculo de confusión que el resto del repo, explicado en [óptica §5](../conceptos/05-optica.md#5--la-hiperfocal-todo-nítido-de-cerca-al-infinito)): con 25 mm hace falta cerrar mucho más que con el 11 mm para tener todo nítido. Para la calle, el uso práctico es el [enfoque por zonas](13-calle-y-arquitectura.md#enfocar-sin-mirar-el-enfoque-por-zonas).
 
 | Apertura | Enfoca a… | Nítido desde… |
 |---|---|---|
@@ -3959,6 +4218,23 @@ Para un primer plano a menos de ~2 m y el fondo nítido a la vez, el objetivo es
 | Retrato con la nariz nítida y los ojos no | A f/1.7 y de cerca, la zona nítida mide pocos centímetros | `Dest. reconocim.` en `Humano` con AF-C, o cierra a f/2.8 |
 | El AF duda con poca luz | El motor STM es correcto, no rápido | AF-S y un punto de contraste (un borde, una luz) |
 
+## Ejercicio (una tarde)
+
+1. **Sin interruptor (10 minutos).** Asigna `Alter. select. AF/MF` a un botón,
+   o pon `Modo de enfoque` en el Fn, y cambia de AF a MF diez veces sin mirar.
+2. **La zona (una hora).** f/8, zona a 3 m con AF-ON y a la calle: veinte
+   fotos de gente sin mirar la pantalla ([calle](13-calle-y-arquitectura.md#enfocar-sin-mirar-el-enfoque-por-zonas)).
+   Apaga y enciende la cámara a mitad de camino y comprueba si la zona sigue
+   donde estaba ([PENDIENTES](../PENDIENTES.md)).
+3. **El retrato a f/1.7 (20 minutos).** Una persona a 2 m, enfocando al ojo con
+   `Humano`: diez fotos. Al 100 %, ¿cuántas tienen el ojo nítido? A f/1.7 la
+   zona nítida mide unos 40 cm: un paso en falso y se va.
+4. **Poca luz (15 minutos).** Un interior de noche a f/1.7 y 1/60: compara el
+   ISO con el que pediría el 11 mm a f/1.8 y con el 70-350 a f/5.6.
+
+**Aprobado cuando** cambias a MF sin pensar, la zona te da más del 80 % de
+fotos nítidas y sabes cuándo el 25 mm es mejor elección que el 11 mm.
+
 ## Referencias
 
 - Viltrox (fabricante; ficha del objetivo y descargas de firmware): <https://viltrox.com/>
@@ -3971,7 +4247,7 @@ Para un primer plano a menos de ~2 m y el fondo nítido a la vez, el objetivo es
 
 *Parte III · Equipo y objetivos*
 
-# 16. El AF y la exposición a fondo — la máquina, a tu medida
+# 17. El AF y la exposición a fondo — la máquina, a tu medida
 
 > 🔴 **Avanzado** · Da por sabido: [capítulo 4](04-configuracion-basica.md) y [capítulo 6](06-safari-diurno.md) · Te desbloquea: sacarle a la cámara lo que la receta base deja sobre la mesa.
 
@@ -3985,7 +4261,7 @@ aves.
 **El resto del nivel avanzado**: el porqué de todo esto está en
 [por qué funciona](../conceptos/09-por-que-funciona.md); lo creativo, en
 [safari a fondo](https://github.com/morandeirachema/a6700-namibia/blob/main/mejora/safari-a-fondo.md); el astro avanzado se mudó a
-[estrellas con la tierra dentro](08-estrellas-con-tierra.md) y el paisaje de
+[estrellas con la tierra dentro](09-estrellas-con-tierra.md) y el paisaje de
 los maestros, a [paisaje a fondo](https://github.com/morandeirachema/a6700-namibia/blob/main/mejora/paisaje-a-fondo.md).
 
 ## Safari avanzado
@@ -4027,7 +4303,7 @@ El metaconsejo: no memorices combinaciones — mete estos tres ajustes en
 
 - **Compensación también en M + ISO Auto**: en esta cámara la compensación
   (±5 EV en foto; en vídeo, ±2) funciona en todos los modos, incluido M con ISO Auto — tu modo
-  safari. Animal oscuro sobre calcreta blanca → +0.7 y a otra cosa. Sin
+  safari. Animal oscuro sobre suelo claro → +0.7 y a otra cosa. Sin
   trucos ni rodeos.
 - **Puntual ligada al punto de enfoque**: `Exposición/color → [Medición] →
   [Punto med. punt.] → Vínc. punto enf.` hace que la medición puntual siga a tu punto AF —
@@ -4062,7 +4338,7 @@ El metaconsejo: no memorices combinaciones — mete estos tres ajustes en
 - **MR3 = preajuste de vuelo**: guarda 1/2500 · apertura mínima · ISO Auto ·
   reconocimiento **Ave** · área Zona · Sens. Seguim. 3 · ráfaga Hi+ — un
   giro de dial y estás en modo "despegue". Se guarda igual que MR1 y MR2
-  ([las tres memorias](17-ajustes-a6700.md#las-tres-memorias-del-dial)).
+  ([las tres memorias](19-ajustes-a6700.md#las-tres-memorias-del-dial)).
 - **Valoración con estrellas** en la revisión de cada noche: marca ★ los
   aciertos y el cribado en casa empieza hecho.
 
@@ -4138,15 +4414,291 @@ sabes decir en una frase cuándo bajas la sensibilidad a 1 y cuándo la subes.
 
 ---
 
+*Parte III · Equipo y objetivos*
+
+# 18. Mejoras de equipo — qué tienes, qué te falta y en qué orden
+
+> 🔵 **Básico** · Da por sabido: [equipo y accesorios](15-equipo-accesorios.md) · Te desbloquea: saber qué comprar después, y qué no, campo por campo y con lo que ya tienes en casa.
+
+El [capítulo 15](15-equipo-accesorios.md) es el kit del primer viaje, ya
+comprado. Este es **el siguiente paso**: lo que tienes ahora (la a6700, el
+11 mm, el Viltrox, un GorillaPod de 5 kg, un trípode de aluminio y, durante
+unos meses más, el 70-350 prestado), qué limita tus fotos en cada campo y qué
+lo arregla, ordenado por lo que desbloquea cada euro.
+
+La conclusión primero: **casi todo lo que te frena hoy no es equipo**. Lo que
+dicen tus 2.731 fotos (la noche oscura, la charca lenta, todo con el tele, el
+polvo) se arregla con hábitos ([cómo mejorar](../conceptos/12-como-mejorar.md#tu-diagnóstico-lo-que-dicen-tus-2731-fotos)).
+Las compras de este capítulo son pocas y baratas, salvo dos decisiones grandes:
+**el tele, cuando devuelvas el 70-350**, y **una montura de seguimiento**, si
+el cielo de noche se convierte en lo tuyo.
+
+## Lo que tienes
+
+| Equipo | Qué te da | Su límite |
+|---|---|---|
+| **Sony a6700** | AF con reconocimiento, IBIS, intervalómetro, 26 Mpx | Una sola ranura (el volcado nocturno es tu copia) |
+| **Sony E 11 mm F1.8** (16,5 mm eq) | Astro, paisaje, interiores, arquitectura, calle muy cercana | Sin tele, claro; bordes que estiran a la gente |
+| **Viltrox AF 25 mm F1.7** (37,5 mm eq) | Calle, retrato, poca luz, enfoque por zonas | Sin interruptor AF/MF ([su guía](16-viltrox-25mm.md)) |
+| **Sony E 70-350 G OSS** (105–525 mm eq), **prestado** | Fauna, aves, detalles, compresión | **Se devuelve en unos meses** |
+| **GorillaPod 5K** (patas flexibles, rótula con placa tipo Arca, 5 kg de carga, unos 740 g el kit) | Apoyo donde no cabe un trípode: barandillas, ramas, farolas, el suelo | Las patas ceden un poco con el tiempo y con peso descentrado |
+| **Trípode de aluminio** (modelo por confirmar) | Astro, time-lapse, estelas, hora azul, interiores | Depende de su rótula y de su carga ([la prueba](#el-trípode-de-aluminio)) |
+| Del kit del viaje ([capítulo 15](15-equipo-accesorios.md)) | Bean bag, tres baterías y cargador doble, *power bank*, dos tarjetas V60, lector UHS-II, pera y kit de limpieza, frontal con luz roja | — |
+
+**Lo que pesa cada combinación** (cuerpo de unos 493 g con batería y
+tarjeta): con el 11 mm, unos **0,7 kg**; con el Viltrox, unos **0,7 kg**; con
+el 70-350, unos **1,1 kg**. Las tres caben de sobra en los 5 kg del GorillaPod;
+lo que decide si está quieto no es el peso, es **la palanca** (abajo).
+
+---
+
+## Antes de comprar nada: saca todo de lo que tienes
+
+### El GorillaPod 5K
+
+Es el soporte que llevas siempre, y el que permite las fotos que un trípode no
+permite: a ras de suelo, abrazado a una barandilla o en un sitio donde no hay
+sitio. Por campo:
+
+| Campo | Cómo se usa |
+|---|---|
+| **Estelas y hora azul en la ciudad** | Abrazado a una barandilla o a un poste, con el 11 mm a f/8 y el temporizador de 2 s: la [receta de estelas](12-estelas-de-trafico.md) sin cargar con el trípode |
+| **Arquitectura** | En el suelo, en el eje de una nave o un patio: la simetría desde abajo, con el nivel de la pantalla |
+| **Calle** | Larga exposición con la gente como fantasmas, apoyado en un muro (como [Kenna](../conceptos/11-los-maestros.md#michael-kenna--las-horas-que-el-ojo-no-ve)) |
+| **Fauna cercana** | A ras de suelo, con el 11 mm y el disparo a intervalos (`Func. capt. interv.`), mientras te alejas: la idea de [Nichols](../conceptos/11-los-maestros.md#michael-nick-nichols--ir-a-su-nivel-aunque-sea-con-un-robot) con patos o ardillas |
+| **Astro** | Abrazado a una rama o a una valla cuando no llevas el trípode: con el 11 mm, 20 s aguantan si las patas están bien apretadas |
+| **Time-lapse** | Sobre un muro o una barandilla: el intervalómetro integrado hace el resto |
+
+**Las reglas para que salga nítido:**
+
+1. **Aprieta las patas** alrededor del apoyo, no solo encima.
+2. **El peso encima del apoyo**: con el 70-350, la cámara hace palanca hacia
+   delante. Gira la rótula para que el objetivo quede sobre las patas, o apoya
+   el objetivo en algo (el bean bag, una piedra).
+3. **Temporizador de 2 s** (`Autodisp.(senc)`) y **SteadyShot desactivado**.
+4. **Espera 10–20 segundos** después de colocarlo: las patas se asientan un
+   poco. Haz la primera foto después.
+5. **Comprueba al 100 %** la primera foto, como siempre.
+
+### El trípode de aluminio
+
+Para saber hasta dónde llega, mira tres cosas y haz una prueba:
+
+- **¿Qué carga admite?** Viene en la etiqueta o en la ficha. Para tu equipo
+  más pesado (1,1 kg) sobra casi cualquiera; el problema suele ser la rótula.
+- **¿Qué rótula y qué placa?** Si la placa es **tipo Arca** (una cola de milano
+  estándar), la misma placa sirve para el GorillaPod y para una escuadra en L.
+  Si es propia, cada soporte lleva la suya.
+- **¿Hasta dónde sube sin la columna central?** La columna central es la parte
+  menos estable: súbela solo al final y lo mínimo.
+
+**La prueba (diez minutos, desde una ventana):**
+
+1. 25 mm, un objeto lejano con detalle (un cartel, una antena), ISO 100,
+   temporizador de 2 s. Fotos a **1/8, 1/2 y 2 s**.
+2. Con el 70-350 a 350 mm: **1/60 y 1/250**, la velocidad de la charca y la
+   del atardecer ([charcas](07-fauna-de-noche.md)).
+3. Amplía todas al 100 %. Si alguna sale movida, el límite es el trípode o la
+   rótula: cuelga la mochila del gancho de la columna (si lo tiene), baja la
+   altura y vuelve a probar.
+
+Dime la marca y el modelo, y la guía puede darte sus datos y su límite real
+([PENDIENTES](../PENDIENTES.md)).
+
+**Las reglas en el campo:** abre primero los tramos gruesos de las patas, la
+columna abajo, cuelga peso con viento, temporizador de 2 s y SteadyShot
+desactivado.
+
+### Lo que la cámara ya trae (no lo compres)
+
+| No compres… | Porque la a6700 ya tiene… |
+|---|---|
+| Un intervalómetro de cable | `Func. capt. interv.` ([time-lapse](11-time-lapse-del-cielo.md)) |
+| Un cable disparador para exposiciones de más de 30 s | `Aj. temporiz. BULB`, de 2 a 900 s con el obturador mecánico ([estelas](12-estelas-de-trafico.md)) |
+| Un mando para no mover la cámara | El temporizador de 2 s |
+| Un nivel de burbuja | El nivel de la pantalla (DISP) |
+| Un cargador de viaje para la noche | La carga por USB-C con tu *power bank* |
+
+El mando Bluetooth de Sony (**RMT-P1BT**) funciona con la a6700 según los
+usuarios que lo han probado (la lista oficial de compatibles no se ha podido
+leer) y cuesta unos 45–70 €, nuevo o de segunda mano. Solo vale la pena si
+haces muchos autorretratos o fotos de grupo.
+
+---
+
+## Lo que te falta, campo por campo
+
+| Campo | Lo que te limita hoy | Lo que lo arregla | Precio orientativo |
+|---|---|---|---|
+| 🦁 **Safari y fauna** | El tele **no es tuyo**; en barca, en el monzón o en un jeep abierto, el **agua y el polvo** | La decisión del tele ([abajo](#cuando-devuelvas-el-70-350)); una **funda de lluvia** para cámara y tele y una **bolsa estanca** para la barca | 0–520 € · 20–40 € |
+| 🐦 **Aves en España** | La distancia: un pájaro pequeño a más de 15–20 m no da foto a 350 mm ([la cuenta](08-aves.md#cuánto-alcance-necesitas-la-cuenta)) | Antes que un objetivo más largo, **un *hide***: te pone a 4–10 m. Los públicos son gratis; los de pago, unos 200 € al día de media | 0–200 € el día |
+| 🚶 **Calle** | Nada de equipo: el Viltrox es la herramienta | Si acaso, una correa de muñeca, para llevar la cámara en la mano todo el rato | 15–25 € |
+| 🏛️ **Arquitectura** | En trípode, girar la cámara a vertical la saca del eje y la desequilibra | Una **escuadra en L** con placa tipo Arca para la a6700 (por ejemplo, SmallRig 5061 o Neewer CA048) | 50–60 € |
+| ⏱️ **Time-lapse** | De noche, **el rocío** empaña el objetivo a mitad de serie; de día, no puedes alargar la exposición para que las nubes y el agua corran | Una **banda calefactora USB**, conectada al *power bank*; un **ND1000** | 20–30 € · 25–40 € |
+| 🌌 **Astro** | El rocío; y, a la larga, el **giro de la Tierra** (máximo 15–20 s con el 11 mm) | La banda calefactora; después, una **montura de seguimiento** ([abajo](#la-gran-mejora-de-astro-una-montura-de-seguimiento)) | 20–30 € · 300–800 € |
+| 🏞️ **Paisaje y estelas de día** | A pleno sol no llegas a exposiciones largas | El mismo **ND1000** | — |
+| 🧹 **Mantenimiento** | Una mancha de polvo fija en seis días del viaje | Nada que comprar: ya tienes la pera. Falta el **hábito** de comprobar el sensor antes de salir ([polvo](15-equipo-accesorios.md#polvo-en-el-sensor-comprobarlo-y-limpiarlo)) | 0 € |
+
+**Los filtros, ahora que el tele se va:** el 11 mm es de **55 mm** y el
+Viltrox de **52 mm**. Compra el ND en **55 mm** y un aro **52→55** (unos 8 €)
+para el Viltrox. Si más adelante compras un tele de 67 mm, el aro 55→67 del
+[capítulo 15](15-equipo-accesorios.md#accesorios) vuelve a tener sentido. El
+ND1000 resta **10 pasos**: 1/60 s se convierten en 15 s. Para no pasarte, mide
+sin filtro, multiplica el tiempo por 1.000 y ponlo con `Aj. temporiz. BULB`
+si pasa de 30 s.
+
+---
+
+## Cuando devuelvas el 70-350
+
+### Aprovecha los meses que te quedan
+
+Es la mejor manera de saber si necesitas un tele propio:
+
+- **Aves del parque** con `Ave` y 1/2000: el entrenamiento de safari más
+  barato que existe ([escalera de fauna](../conceptos/12-como-mejorar.md#safari-y-fauna)).
+- **Deporte** (un partido de niños): velocidades y AF-C en serio.
+- **La luna llena o creciente** a 350 mm: ocupa algo más de una octava parte
+  del ancho del encuadre (unos 0,5° de un campo de unos 3,8°).
+- **Compresión en la ciudad**: fachadas y calles "aplastadas" desde lejos, y
+  detalles de cornisas ([calle y arquitectura](13-calle-y-arquitectura.md#qué-objetivo-para-qué)).
+- **Cuenta cuántas fotos haces con cada objetivo** cada salida (el objetivo
+  viene en los datos EXIF de cada foto). Es el dato que decide la compra.
+
+### Las opciones
+
+| Objetivo | Equivale a | Peso | Precio orientativo | Para quién |
+|---|---|---|---|---|
+| **Sony E 70-350 G OSS**, de segunda mano ⭐ | 105–525 mm | 625 g | ~450–520 € usado ([mpb](https://www.mpb.com/)) | Si la fauna es habitual: ya lo conoces, tiene estabilizador y llega a 525 mm eq |
+| **Tamron 70-300 f/4.5-6.3 Di III RXD** | 105–450 mm | 545 g | Salió a 549 $ / 649 £; hoy se ve por menos, y de segunda mano bastante menos | El más ligero y barato. No tiene estabilizador propio (lo pone el IBIS) y se queda en 450 mm eq |
+| **Sigma 100-400 f/5-6.3 DG DN OS** | 150–600 mm | ~1.140 g | ~850–1.000 € | Más alcance para aves; pesa casi el doble |
+| **Tamron 50-400 f/4.5-6.3 Di III VC VXD** | 75–600 mm | ~1.155 g | ~1.100–1.300 € | El más versátil (empieza en 75 mm eq) y el más caro |
+| **Alquilar** para cada viaje | — | — | Por días | Si la fauna es una vez al año |
+
+Los teles más grandes (150-600, 200-600) están en el [capítulo 15](15-equipo-accesorios.md#objetivo-para-fauna-el-tele):
+más de 2 kg, para quien ya sabe que la fauna es lo suyo.
+
+**Tus próximos viajes deciden por ti:**
+
+- **Botswana con avionetas entre campamentos**: unos **20 kg por persona en
+  bolsa blanda, cámara incluida** (confírmalo con el operador). Un tele de
+  1,1–1,2 kg (el Sigma o el Tamron 50-400) cabe, pero pesa el doble que el
+  70-350 y hay que quitarlo de otra cosa.
+- **El Pantanal, desde barca**: el jaguar en la orilla a 20–40 m. A 350 mm y
+  30 m el encuadre mide unos 2 m de ancho: **un jaguar entero lo llena**.
+  El 70-350 llega; un 400 mm da margen para el retrato apretado.
+- **Sri Lanka, en jeep**: el leopardo entre ramas y a distancia variable; el
+  zoom que empieza corto (70 mm) ayuda cuando se acerca.
+- **Aves en España y en los trópicos**: el alcance sí cuenta; ahí un
+  100-400 o un 50-400 se nota.
+
+**La regla para decidir:** si en estos meses **más de un tercio** de tus fotos
+son con el tele, compra el **70-350 de segunda mano**: el mismo objetivo que ya
+manejas, ligero para las avionetas y suficiente para el jaguar y los *hides*.
+Si las aves pequeñas se convierten en lo tuyo, el siguiente paso es un
+100-400. Si usas poco el tele, alquila para cada viaje y quédate con el 11 y
+el 25 el resto del año. Mientras tanto, el Pixel a 5x es
+un tele de emergencia ([el Pixel con lo que se mueve](../manejo-pixel-10-pro/07-lo-que-se-mueve.md)).
+
+---
+
+## La gran mejora de astro: una montura de seguimiento
+
+Hoy tu límite de cielo es el giro de la Tierra: con el 11 mm, unos 15–20 s
+antes de que las estrellas se alarguen ([por qué funciona §9](../conceptos/09-por-que-funciona.md#9--el-tiempo-qué-congela-y-qué-dibuja-la-velocidad)),
+así que la luz que falta la paga el ISO. Una **montura de seguimiento** gira
+la cámara a la misma velocidad que el cielo: permite **1–4 minutos** a ISO
+400–800, con mucho menos ruido.
+
+- **El precio que pagas:** el suelo sale movido (la cámara gira), así que la
+  foto del cielo y la del suelo se hacen por separado y se juntan, como
+  enseña la toma de [Beletsky](../conceptos/11-los-maestros.md#yuri-beletsky--una-sola-toma-bien-hecha).
+  Hay que **alinearla con el polo** cada noche (desde España, el norte
+  celeste, cerca de la Polar), y pide un trípode firme.
+- **Opciones de referencia:** la **Sky-Watcher Star Adventurer GTi** (unos
+  5 kg de carga, con GoTo; del orden de 600–800 € según el kit) y la **Star
+  Adventurer Mini**, más pequeña y barata (del orden de 300–400 € según el kit;
+  consulta su carga en la tienda). Precios orientativos de tiendas de
+  astronomía, noviembre de 2026.
+- **Cuándo:** cuando ya hayas subido la [escalera de astro](../conceptos/12-como-mejorar.md#astro)
+  hasta 🔵 con el trípode. Antes, lo gratis: **10 tomas iguales apiladas**
+  reducen el ruido unas tres veces ([retoques 9](../retoques/09-noche.md#apilar-una-serie-fuera-de-luminar)).
+  Es parte de lo que da la montura, sin comprarla.
+
+---
+
+## Lo que no hace falta comprar
+
+- **Un filtro UV o "protector"** para cada objetivo: el parasol y la tapa
+  protegen igual, y un filtro barato resta nitidez y añade reflejos de noche.
+- **Un filtro contra la contaminación lumínica**: los baratos tiñen la foto y
+  no sustituyen a un cielo oscuro.
+- **Otro gran angular u otro 50 mm**: el 11 mm y el 25 mm ya cubren ese
+  terreno, y son luminosos.
+- **Otra cámara**: tus límites medidos son de uso, no del cuerpo.
+- **Un flash**, por ahora. Es la siguiente herramienta interesante para la
+  fauna y el retrato (van Oosten y du Toit lo usan de relleno,
+  [los maestros](../conceptos/11-los-maestros.md#fauna)), pero antes hay mucho
+  que aprender con la luz natural.
+
+## El orden de compra
+
+| # | Qué | Precio orientativo | Qué desbloquea |
+|---|---|---|---|
+| 1 | Nada: las pruebas del GorillaPod y del trípode, y el hábito del sensor | 0 € | Saber el límite de lo que ya tienes |
+| 2 | Banda calefactora USB | 20–30 € | Noches largas de astro y time-lapse sin objetivo empañado |
+| 3 | ND1000 de 55 mm + aro 52→55 | 35–50 € | Exposiciones largas de día: agua, nubes, calles sin gente |
+| 4 | Escuadra en L tipo Arca para la a6700 | 50–60 € | Fotos verticales en trípode y en el GorillaPod sin desequilibrar |
+| 5 | La decisión del tele | 0 € (alquiler) o ~450–520 € | La fauna después de devolver el 70-350 |
+| 6 | Una montura de seguimiento | 300–800 € | El cielo con poco ruido, solo si la astro es lo tuyo |
+
+Total de los cuatro primeros: **unos 100–140 €**.
+
+## Si algo falla
+
+| Sale… | Causa probable | Solución |
+|---|---|---|
+| Movida en el GorillaPod, en una exposición larga | Las patas cedieron o la cámara hace palanca | Aprieta, pon el objetivo sobre el apoyo y espera 10–20 s antes de disparar |
+| Movida en el trípode con viento | Demasiado alto o ligero | Baja la columna, cuelga la mochila |
+| Objetivo empañado a medianoche | Rocío | La banda calefactora, puesta **antes** de que empañe |
+| Con el ND, la foto tira a un color | Los ND baratos tiñen | Balance de blancos en Kelvin y fijo; corrige una vez y sincroniza ([retoques 11](../retoques/11-trabajar-en-serie.md)) |
+| Las estrellas, con la montura, salen alargadas | Mala alineación con el polo | Repite la alineación; prueba con 1 minuto antes de alargar |
+
+## Ejercicio (una tarde)
+
+**La prueba de los tres soportes.** La misma escena (una calle iluminada, al
+anochecer) con el **trípode**, el **GorillaPod** en una barandilla y el **bean
+bag** en un muro, a **1/8, 1 s y 20 s**, con el temporizador de 2 s. Amplía al
+100 % y apunta el límite de cada uno. Ya sabes qué soporte llevar a cada
+salida.
+
+**Aprobado cuando** sabes, sin probar, qué soporte aguanta qué tiempo, y has
+decidido (con números de tus salidas) qué hacer con el tele.
+
+## Referencias
+
+- JOBY (fabricante del GorillaPod 5K): <https://joby.com/>
+- Sony, Guía de ayuda de la a6700 (BULB y `Aj. temporiz. BULB`): <https://helpguide.sony.net/ilc/2320/v1/en/contents/0302C_bulb.html>
+- Sony RMT-P1BT: <https://www.sony.co.uk/electronics/interchangeable-lens-cameras-tripods-remotes/rmt-p1bt>
+- Tamron 70-300 Di III RXD (A047): <https://www.tamron.com/global/consumer/lenses/a047/>
+- Tamron 50-400 Di III VC VXD (A067): <https://www.tamron.com/global/consumer/lenses/a067/index.html>
+- Sigma: <https://www.sigma-global.com/>
+- SmallRig (escuadra 5061 para la a6700): <https://www.smallrig.com/>
+- Review de la Sky-Watcher Star Adventurer GTi (Fstoppers): <https://fstoppers.com/reviews/review-sky-watcher-star-adventurer-gti-618265>
+- Banda calefactora con controlador (un ejemplo, Move Shoot Move): <https://www.moveshootmove.com/es/products/dew-heater>
+- Segunda mano: <https://www.mpb.com/>
+
+---
+
 *Parte IV · Referencia*
 
-# 17. Todos los ajustes de la a6700 — el manual de tu cámara, con tus valores
+# 19. Todos los ajustes de la a6700 — el manual de tu cámara, con tus valores
 
 > 🟢 **Iniciación** · Da por sabido: el [capítulo 2](02-menus-y-primer-dia.md) (cómo se navega el menú) · Te desbloquea: dejar de buscar ajustes y saber exactamente dónde está cada uno y qué valor lleva.
 
 El resto del repo te da los valores repartidos por escenario. Esto es la
 **referencia única** (y si quieres **el menú entero**, también lo que no
-toca este viaje, está en [el menú completo](18-menu-completo.md)): cada ajuste que toca este viaje, con su **ruta exacta
+toca este viaje, está en [el menú completo](20-menu-completo.md)): cada ajuste que toca este viaje, con su **ruta exacta
 de menú**, el valor para **fauna** y el valor para **noche**, y por qué. Para
 consultar, no para leer de seguido.
 
@@ -4208,13 +4760,13 @@ Esto se hace en casa, antes de salir, y no se vuelve a mirar en todo el viaje.
 | Ajuste | Ruta | Valor | Por qué |
 |---|---|---|---|
 | **Formato archivo** | `Toma → [Calid. img/grab.] → [Formato archivo]` | **RAW** | Todo el revelado del repo asume RAW |
-| **Tipo archivo RAW** | `Toma → [Calid. img/grab.] → [Tipo archivo RAW]` | **`C. sin pérd.`** (comprimido sin pérdida) | Máxima calidad… y ojo: es el que deja el búfer en **23 fotos** (ver [equipo](14-equipo-accesorios.md)) |
+| **Tipo archivo RAW** | `Toma → [Calid. img/grab.] → [Tipo archivo RAW]` | **`C. sin pérd.`** (comprimido sin pérdida) | Máxima calidad… y ojo: es el que deja el búfer en **23 fotos** (ver [equipo](15-equipo-accesorios.md)) |
 | **RR exposic. larga** | `Toma → [Calid. img/grab.] → [RR exposic. larga]` | **Desactivar** | Si no, tras cada foto de 20 s la cámara se pasa otros 20 s en negro: adiós star trails |
 | **RR ISO Alta** | `Toma → [Calid. img/grab.] → [RR ISO Alta]` | **Bajo / Desactivar** | Solo afecta al JPEG; el ruido del RAW lo arreglas mucho mejor en casa |
 | **Visualizac. cebra** | `Exposición/color → [Visualizac. cebra] → [Visualizac. cebra]` | **Activar** | Tu única alarma de quemados **en vivo** |
 | **Nivel de cebra** | `Exposición/color → [Visualizac. cebra] → [Nivel de cebra]` | **100 IRE o +** | Raya solo lo que ya está perdido, no lo que está claro |
 | **Idioma** | `Ajustes → [Área/fecha] → [Idioma]` | Español | — |
-| **Área / fecha / hora** | `Ajustes → [Área/fecha] → [Aj. área/fecha/hora]` | Hora de **Namibia** al aterrizar | Ordenar 4.000 fotos por hora depende de esto |
+| **Área / fecha / hora** | `Ajustes → [Área/fecha] → [Aj. área/fecha/hora]` | La hora **del destino** al aterrizar | Ordenar 4.000 fotos por hora depende de esto |
 | **Formatear** | `Toma → [Soporte] → [Formatear]` | Cada tarjeta nueva, **en la cámara** | Y **nunca más** durante el viaje: las tarjetas son tu segunda copia |
 | **Liberar sin tarj. mem.** | `Toma → [Obturad./silenc.] → [Liberar sin tarj. mem.]` | **Inhabilitar** | De fábrica dispara sin tarjeta y **no guarda nada** |
 | **Diales en M** | `Ajustes → [Personal. operac.] → [Ajuste t. pers./dial]` | **Dial frontal = `Velocidad obturador`**, **dial trasero = `Abertura`** | De fábrica es al revés; todo el repo cuenta con la velocidad en el delantero ([diales y botones](03-diales-y-botones.md)) |
@@ -4260,7 +4812,7 @@ solo tocas la rueda delantera.
 | **Sens. Seguim. AF** | `Enfoque → [AF/MF] → [Sens. Seguim. AF]` | **3** (estándar) · **1** con hierba delante · **4–5** en persecución | 1 = tozudo, 5 = saltarín |
 | **Modo manejo** | `Toma → [Modo de manejo] → [Modo manejo]` | **`Captura contin.`** en **Hi+** | 11 fps (~10 en RAW sin pérdida). En Hi+ el visor no va en vivo durante la ráfaga: si te cuesta seguir, baja a Hi |
 | **SteadyShot** | `Toma → [Estabiliz. de img] → [SteadyShot]` | **Activar** (con el 70-350 manda solo el interruptor **OSS** del objetivo: ponlo en ON) | A pulso y desde la ventanilla |
-| **Modo medición** | `Exposición/color → [Medición] → [Modo medición]` | **Multi** de partida · **Puntual** vinculada al AF para el nivel avanzado (`[Medición] → [Punto med. punt.] → Vínc. punto enf.`; el vínculo exige área `Punto`: con Zona, la puntual mide en el centro) | El detalle, en [AF y exposición a fondo](16-af-y-exposicion-a-fondo.md) |
+| **Modo medición** | `Exposición/color → [Medición] → [Modo medición]` | **Multi** de partida · **Puntual** vinculada al AF para el nivel avanzado (`[Medición] → [Punto med. punt.] → Vínc. punto enf.`; el vínculo exige área `Punto`: con Zona, la puntual mide en el centro) | El detalle, en [AF y exposición a fondo](17-af-y-exposicion-a-fondo.md) |
 | **Balance blanco** | `Exposición/color → [Balance blancos] → [Balance blanco]` | **Luz diurna** o K fijo | Es RAW: se cambia después sin coste |
 
 **Guardarlo**: `Toma → [Modo de toma] → [Mem. ajustes cám]` → **1**.
@@ -4271,7 +4823,7 @@ solo tocas la rueda delantera.
 
 Las tres son distintas de verdad: no intentes cubrirlas con una sola memoria.
 
-### C1, charca nocturna (Okaukuejo, Halali, Onguma)
+### C1, charca nocturna con focos
 
 ```
 ┌─ Toma ─────────────────────────────────────────────┐
@@ -4317,9 +4869,9 @@ Las tres son distintas de verdad: no intentes cubrirlas con una sola memoria.
 | **RR exposic. larga** | `Toma → [Calid. img/grab.] → [RR exposic. larga]` | **Desactivar** (crítico en series) |
 | **SteadyShot** | `Toma → [Estabiliz. de img] → [SteadyShot]` | **Desactivar** |
 | **Modo manejo** | `Toma → [Modo de manejo] → [Modo manejo]` | **`Autodisp.(senc)`** de **2 s** |
-| **Star trails** | `Toma → [Modo de manejo] → [Func. capt. interv.]` | 30 s de exposición · intervalo **31 s** · 90–180 tomas ([estrellas con la tierra dentro](08-estrellas-con-tierra.md)) |
-| **Timelapse del cielo** | `Toma → [Modo de manejo] → [Func. capt. interv.]` | 15 s de exposición · intervalo **17 s** · 300 tomas ([capítulo 10](10-time-lapse-del-cielo.md)) |
-| **Estelas de tráfico** | `Toma → [Modo de manejo] → [Func. capt. interv.]` (para apilar) | 15 s de exposición · intervalo **17 s** · 20 tomas, f/8 e ISO 100 ([capítulo 11](11-estelas-de-trafico.md)) |
+| **Star trails** | `Toma → [Modo de manejo] → [Func. capt. interv.]` | 30 s de exposición · intervalo **31 s** · 90–180 tomas ([estrellas con la tierra dentro](09-estrellas-con-tierra.md)) |
+| **Timelapse del cielo** | `Toma → [Modo de manejo] → [Func. capt. interv.]` | 15 s de exposición · intervalo **17 s** · 300 tomas ([capítulo 11](11-time-lapse-del-cielo.md)) |
+| **Estelas de tráfico** | `Toma → [Modo de manejo] → [Func. capt. interv.]` (para apilar) | 15 s de exposición · intervalo **17 s** · 20 tomas, f/8 e ISO 100 ([capítulo 12](12-estelas-de-trafico.md)) |
 
 **Guardarlo**: `Toma → [Modo de toma] → [Mem. ajustes cám]` → **2**.
 
@@ -4351,7 +4903,7 @@ Estos tres son los que vas a querer a mano. Mételos en el **menú Fn** y en
   (de fábrica) y **C3 = `Amplific. enfoque`**. La **Guía en la cámara** no
   necesita botón: selecciona una línea del menú y pulsa C3.
 - Todos los botones y diales, uno a uno: [diales y botones](03-diales-y-botones.md).
-- Todo el menú, no solo lo del viaje: [el menú completo](18-menu-completo.md).
+- Todo el menú, no solo lo del viaje: [el menú completo](20-menu-completo.md).
 
 ---
 
@@ -4373,7 +4925,7 @@ formatearla.
 
 ## Con el Viltrox 25 mm montado
 
-El Viltrox **no tiene interruptor AF/MF**: con él, manda `Enfoque → [AF/MF] → [Modo de enfoque]` (para MF, `Enfoque man.`). Para cambiar rápido, asigna **`Alter. select. AF/MF`** a un botón libre en `Ajustes → [Personal. operac.] → [Ajuste t. pers./dial]`. Si cargas **MR2** (astro) con el Viltrox, comprueba en pantalla que la cámara queda en MF. Todo en [su guía](15-viltrox-25mm.md).
+El Viltrox **no tiene interruptor AF/MF**: con él, manda `Enfoque → [AF/MF] → [Modo de enfoque]` (para MF, `Enfoque man.`). Para cambiar rápido, asigna **`Alter. select. AF/MF`** a un botón libre en `Ajustes → [Personal. operac.] → [Ajuste t. pers./dial]`. Si cargas **MR2** (astro) con el Viltrox, comprueba en pantalla que la cámara queda en MF. Todo en [su guía](16-viltrox-25mm.md).
 
 ## Si un ajuste no aparece
 
@@ -4448,19 +5000,19 @@ python3 manejo-a6700/img/menus/insertar.py
 
 *Parte IV · Referencia*
 
-# 18. El menú completo de la a6700 — pestaña a pestaña, con tu valor
+# 20. El menú completo de la a6700 — pestaña a pestaña, con tu valor
 
 > 🟢 **Iniciación** · Da por sabido: nada (el [capítulo 2](02-menus-y-primer-dia.md) enseña a moverse; aquí basta con saber que MENU abre y vuelve atrás) · Te desbloquea: saber qué es **cada** línea del menú, cuáles importan en este viaje y cuáles puedes ignorar sin culpa.
 
-[La referencia de ajustes](17-ajustes-a6700.md) recoge los ajustes que **usa**
+[La referencia de ajustes](19-ajustes-a6700.md) recoge los ajustes que **usa**
 este viaje, con su valor de fauna y de noche. Esta página es lo contrario: el
 menú **entero**, pestaña a pestaña y grupo a grupo, tal como aparece en la
 cámara con el selector en **Foto**. Cada línea lleva una frase de qué hace y
 **qué valor le das tú**. Cuando el valor es "no lo toques", es que no pinta
-nada en Namibia: puedes pasar de largo.
+nada en tus fotos: puedes pasar de largo.
 
 > ✅ Las rutas de esta página pasaron una auditoría independiente el 3 de
-> noviembre de 2026: [verificación de los menús](19-verificacion-de-menus.md),
+> noviembre de 2026: [verificación de los menús](21-verificacion-de-menus.md),
 > con el mapa oficial completo y las 11 subopciones que quedan por confirmar con C3.
 
 Todos los nombres están copiados de la **Guía de ayuda oficial de Sony en
@@ -4477,7 +5029,7 @@ Si solo tienes media hora, cambia esto y olvídate del resto de la página:
 | # | Ruta | Valor | Por qué |
 |---|---|---|---|
 | 1 | `Toma → [Calid. img/grab.] → [Formato archivo]` | **RAW** | Todo el revelado del repo asume RAW |
-| 2 | `Toma → [Calid. img/grab.] → [Tipo archivo RAW]` | **C. sin pérd.** | Máxima calidad (el búfer baja a 23: [equipo](14-equipo-accesorios.md)) |
+| 2 | `Toma → [Calid. img/grab.] → [Tipo archivo RAW]` | **C. sin pérd.** | Máxima calidad (el búfer baja a 23: [equipo](15-equipo-accesorios.md)) |
 | 3 | `Toma → [Calid. img/grab.] → [RR exposic. larga]` | **Desactivar** | Si no, cada foto de 20 s va seguida de 20 s en negro |
 | 4 | `Toma → [Obturad./silenc.] → [Liberar sin tarj. mem.]` | **Inhabilitar** | Si no, la cámara **dispara sin tarjeta y no guarda nada** |
 | 5 | `Toma → [Visualizac. toma] → [Vis. lín. cuadrícul.]` | **Activar** (`Cuadr. regl. terc.`) | Aire de la mirada y horizontes rectos |
@@ -4502,7 +5054,7 @@ en "Ajustes").
   así que la ruta completa es "la pestaña del título + el grupo de la tabla".
 - **Tu valor**: lo que se pone para el viaje. **Fauna** = la memoria MR1;
   **noche** = charca o MR2; los detalles por escena, en la
-  [referencia de ajustes](17-ajustes-a6700.md).
+  [referencia de ajustes](19-ajustes-a6700.md).
 - 🎥 = solo existe en vídeo; ⚠️ = se lleva por delante otra cosa (lo dice la
   columna).
 - El menú **cambia con el selector Foto / Vídeo / S&Q**: si una línea no
@@ -4575,7 +5127,7 @@ No tiene grupos: es una **lista de lo que tienes puesto ahora mismo**
 modo de manejo, balance, enfoque, área, batería…). Tocar cualquier valor
 abre su ajuste para cambiarlo. Úsala como **repaso de diez segundos** antes
 de la primera foto del día: si algo no cuadra con la
-[chuleta](20-chuleta.md), se ve aquí de un vistazo.
+[chuleta](22-chuleta.md), se ve aquí de un vistazo.
 
 ---
 
@@ -4622,7 +5174,7 @@ de la primera foto del día: si algo no cuadra con la
 | `Autom./sel. escena` | Qué hace el dial en AUTO | No lo toques (no usas AUTO) |
 | `Recup. ajust. cám.` | Recupera una memoria (1–3 del dial, M1–M4 de la tarjeta) | Las del dial se recuperan girándolo; esto solo para M1–M4 |
 | `Mem. ajustes cám` | **Guarda** lo que tienes puesto en 1, 2 o 3 | **1 = safari · 2 = astro · 3 = aves** ([capítulo 4](04-configuracion-basica.md)). Cada modo (foto, vídeo, S&Q) tiene sus tres propias |
-| `Reg ajuste toma pers` | Ajustes que solo valen mientras mantienes pulsado un botón | No lo toques (nivel avanzado: [AF a fondo](16-af-y-exposicion-a-fondo.md)) |
+| `Reg ajuste toma pers` | Ajustes que solo valen mientras mantienes pulsado un botón | No lo toques (nivel avanzado: [AF a fondo](17-af-y-exposicion-a-fondo.md)) |
 
 ### [Modo de manejo]
 
@@ -4633,7 +5185,7 @@ de la primera foto del día: si algo no cuadra con la
 | ↳ `Variación expos.` | Horquillado de exposición | Para paisaje con mucho contraste ([paisaje a fondo](https://github.com/morandeirachema/a6700-namibia/blob/main/mejora/paisaje-a-fondo.md)). En M con ISO AUTO varía el ISO |
 | ↳ `Var.exp. enfoque` | Horquillado de enfoque (apilado) | No lo toques |
 | `Ajustes de Variación` | Orden y temporizador del horquillado | No lo toques |
-| `Func. capt. interv.` | **El intervalómetro integrado**: inicio, intervalo (1–60 s, de inicio a inicio), número de tomas (hasta 9.999) | Star trails: 30 s · intervalo **31 s** · 90–180 tomas. Timelapse: 15 s · **17 s** · 300 ([capítulo 9](09-astrofotografia-namibia.md)) |
+| `Func. capt. interv.` | **El intervalómetro integrado**: inicio, intervalo (1–60 s, de inicio a inicio), número de tomas (hasta 9.999) | Star trails: 30 s · intervalo **31 s** · 90–180 tomas. Timelapse: 15 s · **17 s** · 300 ([capítulo 10](10-astrofotografia.md)) |
 | ↳ `Tipo obturad. interv.` | Obturador de la serie a intervalos (de fábrica, **electrónico**, sea cual sea el de la cámara) | **Obturad. electr.**: silencioso y sin desgaste. Hasta 30 s, de sobra para astro |
 
 ### [Obturad./silenc.]
@@ -4695,7 +5247,7 @@ de la primera foto del día: si algo no cuadra con la
 
 | Ajuste | Qué hace | Tu valor |
 |---|---|---|
-| `Modo medición` | `Multi` · `Centro` · `Puntual` · `Prom. pant. ent.` · `Iluminación` | **Multi**; **Puntual** vinculada en el nivel avanzado ([AF a fondo](16-af-y-exposicion-a-fondo.md)) |
+| `Modo medición` | `Multi` · `Centro` · `Puntual` · `Prom. pant. ent.` · `Iluminación` | **Multi**; **Puntual** vinculada en el nivel avanzado ([AF a fondo](17-af-y-exposicion-a-fondo.md)) |
 | `Cara en multimed.` | En Multi, mide según las caras | No lo toques |
 | `Punto med. punt.` | `Centro` o `Vínc. punto enf.` (el círculo sigue al punto de enfoque) | **Vínc. punto enf.** cuando uses Puntual |
 | `AEL con obturad.` | Si medio disparador bloquea la exposición | No lo toques |
@@ -4835,7 +5387,7 @@ desde Creators' App por Bluetooth, si lo activas allí.
 | Ajuste | Qué hace | Tu valor |
 |---|---|---|
 | `Idioma` | Idioma de los menús | Español (si la cámara sale en inglés, busca *Language* en la pestaña de ajustes, la de la maleta de herramientas) |
-| `Aj. área/fecha/hora` | Zona, horario de verano, fecha y hora | Hora de **Namibia** el día que aterrices |
+| `Aj. área/fecha/hora` | Zona, horario de verano, fecha y hora | La hora **del destino** el día que aterrices |
 | `Selector NTSC/PAL` | Sistema de vídeo | **PAL**, en casa. Con una tarjeta formateada en el otro sistema puede pedir reformatearla |
 
 ### [Rest/guard ajust]
@@ -4843,7 +5395,7 @@ desde Creators' App por Bluetooth, si lo activas allí.
 | Ajuste | Qué hace | Tu valor |
 |---|---|---|
 | `Restablecer ajuste` | `Reponer ajustes de cámara` (los de toma) o `Inicializar` (todo) | Antes de configurar desde cero. **Ninguno borra fotos** |
-| `Guard./carg. ajustes` | Guarda tu configuración en la tarjeta (hasta 10) o la carga | **Guardar** al terminar de configurar, y copia el archivo de la tarjeta al móvil o al SSD: si algo se desconfigura en Etosha, lo recuperas en un minuto con `Cargar` |
+| `Guard./carg. ajustes` | Guarda tu configuración en la tarjeta (hasta 10) o la carga | **Guardar** al terminar de configurar, y copia el archivo de la tarjeta al móvil o al SSD: si algo se desconfigura en el viaje, lo recuperas en un minuto con `Cargar` |
 
 ### [Personal. operac.]
 
@@ -5006,7 +5558,7 @@ que te señalen al azar.
 
 *Parte IV · Referencia*
 
-# 19. Verificación de los menús — cada ruta, contra la Guía de ayuda de Sony
+# 21. Verificación de los menús — cada ruta, contra la Guía de ayuda de Sony
 
 > 🟢 **Iniciación** · Da por sabido: el [capítulo 2](02-menus-y-primer-dia.md) (qué es MENU y cómo se usa C3 como Guía en la cámara) · Te desbloquea: confiar en que cada línea de menú de este repo existe tal cual en tu cámara, y saber qué falta por confirmar.
 
@@ -5021,7 +5573,7 @@ que te señalen al azar.
 | Rutas `Pestaña → [Grupo] → [Ajuste]` distintas en el repo | 79 rutas, 176 apariciones en total | ✅ 79/79 coinciden |
 | Pestañas citadas | 8 de 8 (Principal, Toma, Exposición/color, Enfoque, Reproducc., Red, Ajustes, Mi Menú) | ✅ Nombres exactos |
 | Grupos que el repo usa en rutas | 33 de los 54 oficiales | ✅ Todos existen y en su pestaña |
-| Grupos y elementos de [el menú completo](18-menu-completo.md) | Las 8 pestañas, grupo a grupo | ✅ Sin elementos inventados ni mal colocados |
+| Grupos y elementos de [el menú completo](20-menu-completo.md) | Las 8 pestañas, grupo a grupo | ✅ Sin elementos inventados ni mal colocados |
 | Nombres de segundo nivel verificados | 12 nombres o familias de valores | ✅ 12 coinciden en la ficha |
 | Nombres de segundo nivel | 11 subopciones | ✅ Confirmadas el 22 de noviembre de 2026 en las fichas de la Guía de ayuda de la a6700 ([verificación](../notas-de-investigacion/verificacion-de-datos/menus-de-la-a6700.md)) |
 | Errores que impidan encontrar un ajuste | Ninguno | ✅ |
@@ -5074,12 +5626,12 @@ Estos nombres no salen en la lista principal de Sony y no se pudo abrir su ficha
 | # | Hallazgo | Qué se hizo en este repo |
 |---|---|---|
 | 1 | Ninguna ruta errónea: ni las recetas ni la referencia de ajustes necesitan correcciones | Nada que cambiar |
-| 2 | Con `Obturad. electr.` **no están disponibles** el flash, `RR exposic. larga`, `e-Prim. cortin. obtur.`, la toma BULB ni la toma sin parpadeo. Eso explica por qué el plan B contra las franjas de los LED es el obturador mecánico | Añadido al [capítulo 7](07-safari-nocturno-charcas.md), paso 2 y tabla "si sale mal" |
+| 2 | Con `Obturad. electr.` **no están disponibles** el flash, `RR exposic. larga`, `e-Prim. cortin. obtur.`, la toma BULB ni la toma sin parpadeo. Eso explica por qué el plan B contra las franjas de los LED es el obturador mecánico | Añadido al [capítulo 7](07-fauna-de-noche.md), paso 2 y tabla "si sale mal" |
 | 3 | La captura de `AF c/obturador` se llamaba `af-con-disparador.jpg`, con el nombre antiguo e incorrecto | Renombrada a `af-c-obturador.jpg` en el [guion de capturas](img/menus/) y en `insertar.py` |
 | 4 | En [diales y botones](03-diales-y-botones.md), el diagrama "la botonera en 15 minutos" no tenía la valla de cierre: en GitHub, el resto del capítulo no se veía | Valla añadida: el capítulo entero vuelve a verse |
 | 5 | La Guía consultada (5-051-980-47(1)) ya recoge el firmware 2.00 | Anotado arriba, en *Método* |
 
-**Cobertura del menú completo.** [El menú completo](18-menu-completo.md) describe el menú con el selector en **Foto**. Los grupos oficiales que no aparecen en sus tablas están justificados: `Grabac. sonido`, `TC/UB`, `Visual. marcador` y `Opción de toma` son solo de Vídeo/S&Q; `Accesibilidad` es "para algunos modelos solamente"; los elementos solo de vídeo dentro de grupos mixtos no se ven con el selector en Foto; `Calidad HEIF` y `Tamaño img HEIF` van junto a sus equivalentes JPEG; `Aviso de privacidad` y `Logotip. certificación` son informativos.
+**Cobertura del menú completo.** [El menú completo](20-menu-completo.md) describe el menú con el selector en **Foto**. Los grupos oficiales que no aparecen en sus tablas están justificados: `Grabac. sonido`, `TC/UB`, `Visual. marcador` y `Opción de toma` son solo de Vídeo/S&Q; `Accesibilidad` es "para algunos modelos solamente"; los elementos solo de vídeo dentro de grupos mixtos no se ven con el selector en Foto; `Calidad HEIF` y `Tamaño img HEIF` van junto a sus equivalentes JPEG; `Aviso de privacidad` y `Logotip. certificación` son informativos.
 
 ## Mapa oficial del menú
 
@@ -5186,7 +5738,7 @@ La estructura oficial completa, pestaña → grupo → elementos, transcrita de 
 
 *Parte V · Hojas de campo*
 
-# 20. Chuleta Sony a6700 — para imprimir y llevar en el coche
+# 22. Chuleta Sony a6700 — para imprimir y llevar en el coche
 
 ## Recetas
 
@@ -5212,15 +5764,17 @@ A pulso, nunca por debajo de ~1/focal equivalente (zoom a tope = 525 mm eq → *
 
 ## Balance de blancos por escena
 
-día **5200** · nublado/tormenta **6000** · sombra **7000** · amanecer/atardecer **fijo 5200, nunca AWB** (mata el dorado) · charca focos **K 2800–4000 por prueba** · game drive **~3400** · astro **3900** · Olifantsrus rojo: da igual, será mono
+día **5200** · nublado/tormenta **6000** · sombra **7000** · amanecer/atardecer **fijo 5200, nunca AWB** (mata el dorado) · charca focos **K 2800–4000 por prueba** · game drive **~3400** · astro **3900** · focos rojos: da igual, será mono
 
-## Calle y arquitectura
+## Calle, arquitectura y aves
 
-**Calle:** MR1 con tres cambios: **f/8 · 1/500 · `Humano`** (sombra f/5.6; bicis 1/1000) · **zona** con el 25 mm: AF-ON al suelo a **4 pasos (3 m)** y suelta → nítido de 1,7 a 12,7 m · 11 mm a f/8: zona a 1 m, todo nítido · luz dura: **−0,7** y la sombra a negro. **Arquitectura:** A · f/8 · ISO 100 en trípode · cuadrícula + **nivel** (DISP) · cámara **a nivel** (si no cabe: aléjate, súbete o 11 mm y recorta) · fachada con **luz rasante** · **hora azul** 20–40 min tras la puesta · interiores: horquillado de 3 → HDR Merge. *El plan de noches del viaje: [capítulo 8](08-estrellas-con-tierra.md#el-plan-de-la-noche-completa-110-de-noviembre).*
+**Calle:** MR1 con tres cambios: **f/8 · 1/500 · `Humano`** (sombra f/5.6; bicis 1/1000) · **zona** con el 25 mm: AF-ON al suelo a **4 pasos (3 m)** y suelta → nítido de 1,7 a 12,7 m · 11 mm a f/8: zona a 1 m, todo nítido · luz dura: **−0,7** y la sombra a negro. **Arquitectura:** A · f/8 · ISO 100 en trípode · cuadrícula + **nivel** (DISP) · cámara **a nivel** (si no cabe: aléjate, súbete o 11 mm y recorta) · fachada con **luz rasante** · **hora azul** 20–40 min tras la puesta · interiores: horquillado de 3 → HDR Merge. 
+
+**Aves:** posada 1/1000 · `Ave` · Sens. Seguim. 1–2 entre ramas · +0,7 contra el cielo · en vuelo **MR3** (1/2500, Zona, Hi+, obturador mecánico) · **barca:** 1/2000 y motor parado ([aves](08-aves.md)).
 
 ## Histograma — en vivo con DISP; míralo tras CADA cambio de luz
 
-safari: montaña centrada, nada toca el borde derecho · paisaje: todo el ancho sin tocar bordes · charca: masa a la izquierda (ok) + joroba del animal sin tocar derecha · astro: montaña en el primer tercio, despegada del borde izquierdo
+**Revisión:** ▶+DISP (¿toca la derecha? ¿qué parpadea?) → **rueda** = 100 % en el foco → bordes → color. · safari: montaña centrada, nada toca el borde derecho · paisaje: todo el ancho sin tocar bordes · charca: masa a la izquierda (ok) + joroba del animal sin tocar derecha · astro: montaña en el primer tercio, despegada del borde izquierdo
 
 ## Arreglos rápidos
 
@@ -5255,12 +5809,14 @@ MR2 → Verificac. luminosa para encuadrar → lupa sobre la estrella más brill
 
 *Parte V · Hojas de campo*
 
-# 21. Verificación in situ — guía de campo (para imprimir)
+# 23. Verificación in situ — guía de campo (para imprimir)
+
+> ✅ **Hoja de campo** · Da por sabido: la [configuración básica](04-configuracion-basica.md) · Te desbloquea: llegar a cada momento del día con la cámara lista, y diagnosticar una avería en el campo.
 
 Repasos por momento del día, con el **porqué** de cada comprobación: si
 entiendes qué vigila cada punto, sabrás improvisar cuando algo no cuadre.
 Cada sección acaba en segundos; el orden importa. Imprímela junto a la
-[chuleta](20-chuleta.md) y la [lista de tomas](https://github.com/morandeirachema/a6700-namibia/blob/main/plan/lista-de-tomas.md).
+[chuleta](22-chuleta.md) y la [lista de tomas](https://github.com/morandeirachema/a6700-namibia/blob/main/plan/lista-de-tomas.md).
 
 ---
 
@@ -5269,8 +5825,8 @@ Cada sección acaba en segundos; el orden importa. Imprímela junto a la
 - [ ] **Dioptrías**: ruedecita junto al visor hasta ver nítidos los números.
   *Por qué:* de fábrica viene en una posición cualquiera; con las dioptrías
   mal, todo te parecerá desenfocado y desconfiarás del AF sin motivo.
-- [ ] **Fecha y hora** en hora de casa, y **el día que aterrices, a hora de
-  Namibia**. *Por qué:* ordenarás miles de fotos por hora de captura, y deben
+- [ ] **Fecha y hora** en hora de casa, y **el día que aterrices, a la hora
+  del destino**. *Por qué:* ordenarás miles de fotos por hora de captura, y deben
   encajar con las del móvil.
 - [ ] **Prueba de polvo**: foto al cielo liso a f/11 y revisa en pantalla con
   zoom. Motas oscuras = polvo en sensor. *Qué hacer:* nada en el viaje — se
@@ -5288,8 +5844,8 @@ Cada sección acaba en segundos; el orden importa. Imprímela junto a la
 - [ ] **Firmware al día**: el de la cámara y el de los objetivos (el Viltrox, por su USB-C; el del
   70-350 también: su dueño dio permiso; se
   actualizan con el objetivo montado, conectando la cámara al ordenador
-  desde <https://www.sony.es/electronics/support>). *Por qué:* en Namibia no
-  hay wifi para esto, y un firmware viejo de objetivo puede dar AF errático.
+  desde <https://www.sony.es/electronics/support>). *Por qué:* en el viaje no
+  habrá wifi para esto, y un firmware viejo de objetivo puede dar AF errático.
 - [ ] **Creators' App emparejada** con el móvil, en casa y con wifi.
   *Por qué:* allí no hay cobertura para descargar ni configurar nada.
 
@@ -5298,7 +5854,7 @@ Cada sección acaba en segundos; el orden importa. Imprímela junto a la
 Prueba de aceptación del 70-350, que es **prestado**: no es para devolverlo,
 sino para **conocer sus defectos con tiempo** y decidir cómo trabajar con
 ellos (encuadrar a 300 mm y recortar, evitar f/6.3 a tope…)
-en lugar de descubrirlos en Etosha:
+en lugar de descubrirlos en el safari:
 
 - [ ] Zoom y anillos giran suaves en todo el recorrido; sin arenilla ni
   holguras.
@@ -5324,7 +5880,7 @@ en lugar de descubrirlos en Etosha:
   dio permiso.*
 - [ ] **Antes de usarlo**: fotografía el objetivo por todos lados (marcas, rozaduras, el estado del cristal). Cinco minutos que
   evitan una conversación incómoda a la vuelta. Y ponle **filtro
-  protector**: va a Etosha.
+  protector**: va a un safari.
 
 Y el mismo repaso, más corto, **el día que llegue el 11 mm**: anillos
 suaves, cristal limpio a contraluz, una foto a f/8 a un edificio lejano
@@ -5336,11 +5892,11 @@ asimétricas, ese ejemplar está descentrado.
 
 - [ ] Dial en **MR1**. *Por qué:* restaura ISO, obturación y AF buenos
   aunque anoche lo cambiaras todo en la charca.
-- [ ] Batería puesta cargada + repuesto **a mano**. En tu noviembre el
-  problema es el calor: ni baterías ni tarjetas al sol del coche.
+- [ ] Batería puesta cargada + repuesto **a mano**. En la sabana y en los
+  trópicos el problema es el calor: ni baterías ni tarjetas al sol del coche.
 - [ ] **Formato en RAW**: `Formato archivo` = RAW también tras cargar MR1
   y MR2, y una foto de prueba que en el ordenador sea **`.ARW`**. *Por qué:*
-  en Namibia, por un error de configuración, todo salió solo en JPEG.
+  en el viaje a Namibia, por un error de configuración, todo salió solo en JPEG.
 - [ ] Tarjeta dentro y con hueco (un RAW de la a6700 ocupa ~25–30 MB: haz la
   cuenta de tu tarjeta y sabrás cuántas fotos le caben).
 - [ ] **Mandos del 70-350** — se mueven solos rozando en la mochila,
@@ -5387,7 +5943,7 @@ El repaso que separa "creo que la tengo" de "la tengo":
   - Todo blando uniforme y "lechoso" a lo lejos a mediodía → heat haze, no
     es tu cámara: acércate o espera.
 - [ ] **Histograma**: nada empotrado en el borde derecho (destellos del agua
-  no cuentan). Animal oscuro sobre calcreta clara → dos jorobas: la derecha
+  no cuentan). Animal oscuro sobre suelo claro → dos jorobas: la derecha
   puede acercarse al borde pero no tocarlo; si el animal sale negro,
   **compensación +** — en esta cámara funciona también en M con ISO Auto,
   gírala sin miedo.
@@ -5395,7 +5951,7 @@ El repaso que separa "creo que la tengo" de "la tengo":
   altura de su ojo? ¿el fondo está limpio? Si algo falla, medio metro de
   coche y repite — la escena sigue ahí y la segunda pasada siempre es mejor.
 
-## 6 · Amanecer de paisaje (dunas, Deadvlei) — antes de disparar
+## 6 · Amanecer de paisaje — antes de disparar
 
 - [ ] Modo A · f/8 · ISO 100 · **nivel electrónico** visible (botón DISP
   hasta verlo). *Por qué:* el horizonte del desierto delata cualquier

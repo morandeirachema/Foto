@@ -6,7 +6,7 @@ de Sony tienen derechos: no se copian aquí. Así que estas capturas las haces
 con tus valores ya puestos y con tu firmware.
 
 **Media hora, una vez.** Y luego `python3 manejo-a6700/img/menus/insertar.py`
-las pega solas en [la referencia de ajustes](../../17-ajustes-a6700.md).
+las pega solas en [la referencia de ajustes](../../19-ajustes-a6700.md).
 
 ## Cómo se hacen
 

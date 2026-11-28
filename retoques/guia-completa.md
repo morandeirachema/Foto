@@ -58,6 +58,8 @@
 
 # 1. Conceptos básicos
 
+> 🟢 **Iniciación** · Da por sabido: nada · Te desbloquea: entender qué le pasa a un JPEG cuando lo editas: histograma, balance, contraste, ruido, máscaras y color.
+
 Antes de mover un deslizador, conviene entender **qué estás tocando**. Este capítulo resume lo imprescindible para retocar; la explicación completa, con la cámara, está en [Conceptos](../conceptos/README.md): [la luz](../conceptos/01-la-luz.md), [el histograma](../conceptos/03-histograma.md), [el balance de blancos](../conceptos/04-balance-de-blancos.md) y [por qué funciona](../conceptos/09-por-que-funciona.md). Si entiendes estos conceptos, sabrás qué herramienta de Luminar usar en cada caso.
 
 ## 1.1. Qué tiene de especial un JPEG
@@ -248,6 +250,8 @@ Editar en local consiste en que el sujeto gane un poco en esas cosas y el fondo 
 
 # 2. Luminar por dentro
 
+> 🟢 **Iniciación** · Da por sabido: el [capítulo 1](01-conceptos-basicos.md) · Te desbloquea: moverte por Luminar sin perderte: catálogo, edición, pestañas y copias virtuales.
+
 ## 2.1. Catálogo y edición
 
 - **Catálogo** (**`L`**): aquí ves, seleccionas y organizas. Añades carpetas (**`⌥⇧N`**), creas álbumes (**`⌘N`**) y marcas favoritas.
@@ -324,6 +328,8 @@ Para la edición normal de un JPEG de viaje bastan las **herramientas con másca
 *Parte I · Fundamentos*
 
 # 3. Las herramientas, una a una: dónde están, qué hacen y cuánto mover
+
+> 🟢 **Iniciación** → 🔵 · Da por sabido: el [capítulo 2](02-luminar-por-dentro.md) · Te desbloquea: saber dónde está cada herramienta, qué hace y con qué número empezar.
 
 Si no conoces Luminar, este es el capítulo de consulta. Para cada herramienta que usa la guía encontrarás **dónde está**, **qué hace en palabras sencillas**, **con qué valor empezar**, **hasta dónde llegar con un JPEG** y **cómo saber que te has pasado**. Tenlo abierto al lado mientras editas.
 
@@ -517,6 +523,8 @@ Si solo te quedas con una tabla, que sea esta. Es el punto de partida para un JP
 
 # 4. El flujo base: 10 pasos
 
+> 🔵 **Básico** · Da por sabido: los capítulos [1](01-conceptos-basicos.md) a [3](03-herramientas-una-a-una.md) · Te desbloquea: editar cualquier foto en diez pasos, elegir la ruta según lo que hay en ella y rescatar un JPEG difícil.
+
 Este es el esqueleto que usarás en todas las fotos. Las secciones de safari, paisaje y noche explican **qué cambia** en cada caso.
 
 > **Valores orientativos.** Los números de esta guía son puntos de partida para JPEG, no valores oficiales de Skylum. Cada foto es distinta: mueve el deslizador mirando la imagen, no el número.
@@ -690,6 +698,8 @@ Con un JPEG no hay RAW al que volver, pero Luminar tiene herramientas para casi 
 
 # 5. Ajustes locales: aclarar u oscurecer solo una parte
 
+> 🔵 **Básico** · Da por sabido: el [flujo base](04-flujo-base.md) · Te desbloquea: aclarar u oscurecer solo una parte (los ojos, una sombra, el cielo) sin que se note.
+
 Hasta ahora, cada ajuste cambiaba **toda** la foto. Este capítulo enseña a cambiar **solo una zona**: aclarar los ojos de un animal, abrir una sombra bajo su cabeza u oscurecer un cielo que distrae. Está pensado para quien empieza de cero. Cada caso explica **qué** quieres conseguir, **cómo** se hace en Luminar clic a clic y **qué significa técnicamente** para la foto.
 
 > **Antes de empezar:** haz primero el flujo base completo ([sección 4](04-flujo-base.md)). Los ajustes locales son el **último retoque** sobre una foto que ya está bien en conjunto. Si la foto entera está oscura, se arregla con **Develop**, no zona a zona.
@@ -860,6 +870,8 @@ En Luminar no hay un panel de ajustes locales aparte: **cada herramienta tiene s
 
 # 6. Herramientas avanzadas
 
+> 🔴 **Avanzado** · Da por sabido: el [flujo base](04-flujo-base.md) y los [ajustes locales](05-ajustes-locales.md) · Te desbloquea: curvas, Supercontrast, Color Harmony, Dodge & Burn, Light Depth y el blanco y negro.
+
 No son imprescindibles, pero dan un control que las herramientas básicas no tienen.
 
 ## 6.1. Curves (dentro de Develop)
@@ -997,6 +1009,8 @@ El blanco y negro no es quitar el color, sino **decidir qué gris recibe cada co
 *Parte III · Por tipo de foto*
 
 # 7. Safari (fauna)
+
+> 🔵 **Básico** · Da por sabido: el [flujo base](04-flujo-base.md) · Te desbloquea: la foto de fauna terminada: el ojo, el pelaje, el fondo y el color de la luz.
 
 ## 7.1. Problemas típicos
 
@@ -1141,6 +1155,8 @@ El blanco y negro no es quitar el color, sino **decidir qué gris recibe cada co
 
 # 8. Paisaje y ciudad
 
+> 🔵 **Básico** · Da por sabido: el [flujo base](04-flujo-base.md) · Te desbloquea: cielo y suelo equilibrados, profundidad, y la calle y la arquitectura con las verticales rectas.
+
 ## 8.1. Problemas típicos
 
 | Problema | Por qué ocurre |
@@ -1245,7 +1261,7 @@ El blanco y negro no es quitar el color, sino **decidir qué gris recibe cada co
 
 ## 8.4. Ciudad: calle y arquitectura
 
-Cómo se hacen estas fotos con la cámara: [manejo 12 · Calle y arquitectura](../manejo-a6700/12-calle-y-arquitectura.md). Aquí, lo que cambia al editarlas.
+Cómo se hacen estas fotos con la cámara: [manejo 13 · Calle y arquitectura](../manejo-a6700/13-calle-y-arquitectura.md). Aquí, lo que cambia al editarlas.
 
 **Verticales y horizonte:**
 - **Horizonte:** **Crop AI** → **Straighten** o **Auto Straighten** (sección 4, paso 3).
@@ -1277,6 +1293,8 @@ Cómo se hacen estas fotos con la cámara: [manejo 12 · Calle y arquitectura](.
 *Parte III · Por tipo de foto*
 
 # 9. Fotografía nocturna
+
+> 🔵 **Básico** → 🔴 · Da por sabido: el [flujo base](04-flujo-base.md) · Te desbloquea: estrellas, Vía Láctea, focos, fuego y luna sin ruido ni colores falsos, y apilar una serie.
 
 ## 9.1. Antes de empezar
 
@@ -1424,6 +1442,8 @@ El mejor momento para la "foto nocturna" con JPEG suele ser **antes** de la noch
 
 # 10. Recetas completas
 
+> 🔵 **Básico** · Da por sabido: los capítulos [4](04-flujo-base.md) a [9](09-noche.md) · Te desbloquea: recetas completas, de principio a fin, para las fotos típicas.
+
 > ⚠️ **Provisional.** Estas recetas combinan los pasos de la guía para cinco situaciones típicas, pero **todavía no se han probado con fotos reales**. Los valores son puntos de partida. Se revisarán con fotos de muestra. Mira siempre la imagen, no el número.
 
 ## 10.1. León al amanecer, con luz cálida y algo de ruido
@@ -1508,6 +1528,8 @@ El mejor momento para la "foto nocturna" con JPEG suele ser **antes** de la noch
 
 # 11. Trabajar en serie
 
+> 🔵 **Básico** · Da por sabido: el [flujo base](04-flujo-base.md) · Te desbloquea: editar cientos de fotos coherentes entre sí: seleccionar, sincronizar y presets.
+
 Tras un safari puedes volver con miles de fotos. Editarlas una a una es inviable.
 
 ## 11.1. Sincronizar ajustes (Sync Adjustments)
@@ -1582,6 +1604,8 @@ Edita primero esa selección final, con el [flujo base](04-flujo-base.md) y los 
 
 # 12. Varias fotos en una, ampliar y generar
 
+> 🔴 **Avanzado** · Da por sabido: el [flujo base](04-flujo-base.md) · Te desbloquea: HDR, panorámicas, apilado de enfoque, ampliar y las herramientas generativas.
+
 Estas herramientas están en la pestaña **Extra**. La documentación de Skylum no detalla qué formatos de entrada admite cada una. Con RAW hay más margen, pero puedes probar con tus JPEG.
 
 ## 12.1. HDR Merge
@@ -1641,6 +1665,8 @@ Generan con IA contenido que **no estaba** en la foto.
 *Parte IV · Más allá de una foto*
 
 # 13. Exportar
+
+> 🔵 **Básico** · Da por sabido: el [flujo base](04-flujo-base.md) · Te desbloquea: exportar bien para la pantalla, la familia y el papel.
 
 ## 13.1. El cuadro de exportación
 
@@ -1758,6 +1784,8 @@ Una copia en papel enseña cosas que la pantalla del móvil esconde. Antes de ma
 
 # 14. Ética, concursos y ubicación
 
+> 🟢 **Iniciación** · Da por sabido: nada · Te desbloquea: saber qué es corregir y qué es manipular, y qué hacer con el GPS y la fauna amenazada.
+
 > **Tus fotos, tu decisión.** Estas normas son para **concursos** y para fotos que publiques **como documento** ("esto pasó así"). En tu álbum personal puedes usar **todas** las herramientas, también las generativas: borrar un cable, cambiar un cielo quemado o ampliar el lienzo. Lo único que pide la honestidad es **no presentar como real lo que has inventado**. Cómo sacar el máximo partido a un JPEG difícil, en [Rescatar un JPEG difícil](04-flujo-base.md#rescatar-un-jpeg-difícil).
 
 ## 14.1. Corregir no es cambiar la escena
@@ -1799,6 +1827,8 @@ Muchas cámaras y todos los móviles guardan la **ubicación GPS** en el archivo
 *Parte IV · Más allá de una foto*
 
 # 15. Disparar mejores JPEG la próxima vez
+
+> 🔵 **Básico** · Da por sabido: el [capítulo 1](01-conceptos-basicos.md) · Te desbloquea: ajustar la cámara para que el JPEG llegue con margen, y lo que enseñan tus fotos de Namibia.
 
 La mejor edición empieza en la cámara. Si disparas en JPEG, estos ajustes amplían el margen para editar en Luminar.
 
@@ -1842,9 +1872,9 @@ Medidas las 2.731 fotos del viaje (noviembre de 2026), salen seis cosas que se a
 
 | Lo que pasó | Cómo se ve | Para la próxima vez |
 |---|---|---|
-| **Polvo en el sensor** | Una mancha gris fija en el cielo, arriba, en el tercio izquierdo: aparece en 99 de las 147 fotos con cielo liso, en seis días distintos | Comprueba y limpia el sensor antes de salir ([equipo, polvo en el sensor](../manejo-a6700/14-equipo-accesorios.md#polvo-en-el-sensor-comprobarlo-y-limpiarlo)) |
-| **Vía Láctea oscura** (20 s, f/2, ISO 1600) | Cielo casi negro; al aclarar en Luminar salen bandas y ruido | Mira el **histograma** tras la primera toma: si la montaña está pegada al borde izquierdo, sube a **ISO 3200** ([astro](../manejo-a6700/09-astrofotografia-namibia.md)). En JPEG, la luz que falta no se recupera después |
-| **Charca con focos, todo naranja** | Animales de un solo color; no se puede neutralizar | Balance de blancos en **Kelvin**, bajando hacia 3200 K hasta que el color sea creíble **en la revisión**, antes de la serie ([charcas](../manejo-a6700/07-safari-nocturno-charcas.md)) |
+| **Polvo en el sensor** | Una mancha gris fija en el cielo, arriba, en el tercio izquierdo: aparece en 99 de las 147 fotos con cielo liso, en seis días distintos | Comprueba y limpia el sensor antes de salir ([equipo, polvo en el sensor](../manejo-a6700/15-equipo-accesorios.md#polvo-en-el-sensor-comprobarlo-y-limpiarlo)) |
+| **Vía Láctea oscura** (20 s, f/2, ISO 1600) | Cielo casi negro; al aclarar en Luminar salen bandas y ruido | Mira el **histograma** tras la primera toma: si la montaña está pegada al borde izquierdo, sube a **ISO 3200** ([astro](../manejo-a6700/10-astrofotografia.md)). En JPEG, la luz que falta no se recupera después |
+| **Charca con focos, todo naranja** | Animales de un solo color; no se puede neutralizar | Balance de blancos en **Kelvin**, bajando hacia 3200 K hasta que el color sea creíble **en la revisión**, antes de la serie ([charcas](../manejo-a6700/07-fauna-de-noche.md)) |
 | **Charca por debajo de 1/60 s** | 116 de las 122 fotos nocturnas de la charca se hicieron más lentas que 1/60 s (algunas, a 1/25 s): riesgo de animales movidos | **1/60 s** como mínimo con el animal quieto; si se mueve, más rápido y más ISO: el ruido tiene arreglo y el movimiento no |
 | **Fotos azuladas a la sombra** | Dominante fría medida en el león a la sombra (18:24, antes de la puesta de sol); la última hora de la tarde sale algo más fría que el resto. El 91 % del viaje se hizo con un balance de blancos **fijo**, sin que se sepa cuál | El fijo es la regla de esta guía, pero **cambia con la luz**: "Sombra" (7000 K) con el animal a la sombra, "Nublado" (6000 K) con el cielo tapado o el sol ya puesto ([balance de blancos](../conceptos/04-balance-de-blancos.md)). Dime qué balance tenías puesto ([PENDIENTES](../PENDIENTES.md)). Lo bueno del fijo: la dominante es igual en toda la sesión y se corrige una vez y se sincroniza ([11.1](11-trabajar-en-serie.md)) |
 | **Animales muy pequeños** en el encuadre | Recortes de 2–3 veces: solo valen para el móvil | A 350 mm y aun así lejos: espera a que se acerque, o cuenta la escena con el animal pequeño a propósito ([composición](../conceptos/06-composicion.md)) |
@@ -1860,6 +1890,8 @@ Y para la noche: haz siempre **10 tomas iguales seguidas** de cada encuadre. Es 
 *Parte V · Referencia*
 
 # 16. Errores típicos y lista de comprobación
+
+> ✅ **Lista** · Da por sabido: el [flujo base](04-flujo-base.md) · Te desbloquea: revisar una foto antes de exportarla y saber si te has pasado.
 
 ## 16.1. Los errores más frecuentes
 
@@ -1970,6 +2002,8 @@ Para lo que cada herramienta hace cuando te pasas, mira la columna "te has pasad
 
 # 17. Atajos de teclado (macOS)
 
+> 📋 **Referencia** · Da por sabido: nada · Te desbloquea: editar sin buscar en los menús.
+
 Atajos de **macOS**, según la documentación oficial de Skylum. Esta guía no cubre Windows.
 
 ## Los símbolos de las teclas del Mac
@@ -2053,6 +2087,8 @@ La documentación de Skylum no dice si Luminar reconoce estos atajos cuando el c
 
 # 18. Glosario
 
+> 📋 **Referencia** · Da por sabido: nada · Te desbloquea: entender cualquier palabra de Luminar y del retoque.
+
 Los términos de Luminar y del retoque. Los de cámara, luz y exposición (ISO, apertura, ETTR, hiperfocal…) están en el [glosario de conceptos](../conceptos/13-glosario.md).
 
 | Término | Significado |
@@ -2084,6 +2120,8 @@ Los términos de Luminar y del retoque. Los de cámara, luz y exposición (ISO, 
 
 # 19. Preguntas frecuentes
 
+> 📋 **Referencia** · Da por sabido: nada · Te desbloquea: las respuestas rápidas a las dudas más frecuentes.
+
 **¿Merece la pena editar JPEG, o debería pasarme a RAW?**
 Merece la pena: un JPEG se puede mejorar mucho. Pero si tu cámara lo permite, dispara en **RAW + JPEG** en los viajes importantes. El RAW es el seguro para las fotos que de verdad te importan.
 
@@ -2110,6 +2148,8 @@ Tres pruebas: compara con **`\`**; mira la miniatura junto a otras fotos sin edi
 *Parte V · Referencia*
 
 # 20. Fuentes
+
+> ✅ **Fuentes** · Da por sabido: nada · Te desbloquea: comprobar de dónde sale cada dato de esta guía.
 
 Los nombres de las herramientas, los controles, los atajos y los límites técnicos de esta guía se han comprobado con la documentación oficial de Skylum (noviembre de 2026). Los valores numéricos de ajuste son **recomendaciones de esta guía**, no de Skylum.
 

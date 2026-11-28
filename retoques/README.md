@@ -58,9 +58,9 @@ flowchart LR
 | | [Introducción](00-introduccion.md) | Cómo está organizada y cómo leerla |
 | **I · Fundamentos** | [1. Conceptos básicos](01-conceptos-basicos.md) | JPEG frente a RAW, zonas de brillo, histograma, balance de blancos, contraste, ruido, color |
 | | [2. Luminar por dentro](02-luminar-por-dentro.md) | Catálogo, categorías de herramientas, copias virtuales, máscaras, capas |
-| | [3. Las herramientas, una a una](03-herramientas-una-a-una.md) 🆕 | Dónde está cada herramienta, qué hace, **con qué número empezar**, el límite en JPEG y cómo saber que te has pasado |
+| | [3. Las herramientas, una a una](03-herramientas-una-a-una.md) | Dónde está cada herramienta, qué hace, **con qué número empezar**, el límite en JPEG y cómo saber que te has pasado |
 | **II · El método** | [4. El flujo base: 10 pasos](04-flujo-base.md) | El esqueleto de cualquier edición y la ruta según lo que hay en la foto |
-| | [5. Ajustes locales](05-ajustes-locales.md) 🆕 | Aclarar u oscurecer solo una parte: ojos, sombras, cielo, sujeto y fondo. Qué, cómo y qué significa |
+| | [5. Ajustes locales](05-ajustes-locales.md) | Aclarar u oscurecer solo una parte: ojos, sombras, cielo, sujeto y fondo. Qué, cómo y qué significa |
 | | [6. Herramientas avanzadas](06-herramientas-avanzadas.md) | Curves, Supercontrast, Color Harmony, Dodge & Burn, Light Depth, Black & White, Landscape, Creative |
 | **III · Por tipo de foto** | [7. Safari 🦁](07-safari.md) | Ruido, contraluz, luz dura, el animal como protagonista, casos concretos |
 | | [8. Paisaje y ciudad 🏜️](08-paisaje.md) | Cielo y suelo, profundidad, dunas, atardecer, montaña, agua, hora azul; **calle y arquitectura**: verticales, blanco y negro, interiores |

@@ -39,7 +39,7 @@ ejemplo, para congelar a alguien que se mueve aunque la foto quede oscura):
 
 Qué le pides: la calle, el campamento, la hoguera, la gente quieta, el
 ambiente de la charca con su foco. Qué no: el animal que camina bajo el foco
-(eso es de la a6700, [capítulo 7 de su guía](../manejo-a6700/07-safari-nocturno-charcas.md)).
+(eso es de la a6700, [capítulo 7 de su guía](../manejo-a6700/07-fauna-de-noche.md)).
 
 ## Astrofotografía, paso a paso
 
@@ -91,7 +91,7 @@ foto guarda además un vídeo corto del cielo girando.
 
 En una noche de estrellas, el Pixel es la **segunda cámara que trabaja
 sola**: lo apoyas mirando a otro lado, lo lanzas y vuelves a la Sony. La foto
-de imprimir es la del 11 mm ([astrofotografía](../manejo-a6700/09-astrofotografia-namibia.md));
+de imprimir es la del 11 mm ([astrofotografía](../manejo-a6700/10-astrofotografia.md));
 la del móvil es la que enseñas esa misma noche.
 
 Siendo honesto: saldrán estrellas y la banda de la Vía Láctea, con un

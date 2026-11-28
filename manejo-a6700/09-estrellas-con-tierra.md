@@ -1,10 +1,10 @@
 <!-- nav -->
-[← Anterior](07-safari-nocturno-charcas.md) · [Índice](README.md) · [Siguiente →](09-astrofotografia-namibia.md)
+[← Anterior](08-aves.md) · [Índice](README.md) · [Siguiente →](10-astrofotografia.md)
 <!-- /nav -->
 
 *Parte II · Recetas · El cielo de noche*
 
-# 8. Estrellas con la tierra dentro — desde cero, en tres noches
+# 9. Estrellas con la tierra dentro — desde cero, en tres noches
 
 > 🔵 **Básico** → 🔴 avanzado al final · Da por sabido: nada: empieza desde cero · Te desbloquea: cielo con paisaje dentro, en tres noches de práctica.
 
@@ -81,7 +81,7 @@ Nada más.
 4. **Dispara** (el temporizador de 2 s ya evita el meneo del dedo).
 5. **Mira el histograma**, no la foto — el de la **revisión** (▶ y **DISP**):
    el histograma en vivo no acumula los 20 s de exposición y aquí no vale
-   ([capítulo 9](09-astrofotografia-namibia.md)). La montaña debe
+   ([capítulo 10](10-astrofotografia.md)). La montaña debe
    estar en el **primer tercio izquierdo, despegada del borde**. ¿Pegada al borde? Sube a ISO
    3200. La pantalla a oscuras engaña: el histograma no.
 6. **Amplía una estrella al máximo** en la revisión: ¿es un punto? Lo
@@ -98,8 +98,8 @@ Nada más.
 | Todo movido | Trípode vibrando: viento, correa suelta o lo tocaste |
 | Cielo naranja raro | WB en K = 3900 (y en RAW se corrige después) |
 
-Esto es, resumido, el [capítulo 9](09-astrofotografia-namibia.md) —
-allí está el detalle fino y el plan concreto de Namibia. Cuando esta noche
+Esto es, resumido, el [capítulo 10](10-astrofotografia.md) —
+allí está el detalle fino. Cuando esta noche
 te salga entera sin mirar la guía, pasa a la siguiente.
 
 ## Noche 2 — añade la tierra: la postal
@@ -112,8 +112,8 @@ lugar.
 
 - **Un perfil simple y suelto** que se lea en negro contra el cielo: un
   árbol solo, un molino, una torre, una roca. Un montón de arbustos no se
-  lee como nada. En el viaje: el depósito de agua de Okaukuejo, los
-  mopanes, el granito de Hoada.
+  lee como nada. En un viaje: un depósito de agua, un árbol aislado,
+  una roca grande.
 - Camina alrededor hasta que quede **recortado contra cielo limpio**, sin
   farolas ni otros bultos detrás.
 - Y a **más de 4 metros de ti**. ¿Por qué? Siguiente punto.
@@ -137,8 +137,8 @@ atrás o asume el tamaño.
   hasta verlo): de noche, un horizonte torcido no se aprecia a ojo y
   arruina la foto.
 - **Vertical** si el cielo sube como columna sobre el objeto; horizontal si
-  es una banda tumbada. En tu noviembre: banda baja al anochecer, así que
-  mucha foto horizontal ([el cielo del viaje](https://github.com/morandeirachema/a6700-namibia/blob/main/plan/cielo-del-viaje.md)).
+  es una banda tumbada. Fuera de temporada o desde España, la banda sale
+  baja: mucha foto horizontal ([la mirada, de noche](../conceptos/10-la-mirada.md#y-de-noche-en-una-pantalla)).
 - El truco de composición que usan los maestros: la franja de estrellas
   como **diagonal que entra por una esquina y no corta tu objeto**
   ([la mirada](../conceptos/10-la-mirada.md)).
@@ -179,49 +179,46 @@ salir mal si la serie corre.
 
 ### 1 · Antes de encuadrar: ¿dónde está el centro del remolino?
 
-Todo gira alrededor de un punto fijo del cielo (el polo celeste). En el
-hemisferio sur está **mirando al sur**, y en Namibia **bajísimo: tan alto
-sobre el horizonte como tu latitud** — ~24° en Sesriem y Spreetshoogte, ~19°
-en Etosha — así que cabe justo encima de tu objeto. Ahí no hay ninguna
-estrella brillante que lo marque (no existe una "Polar del sur" visible), y
-la Cruz del Sur está bajo el horizonte en tus anocheceres: olvídate del
-truco de prolongar su brazo. Cuatro maneras de clavarlo, de la más fácil a
-la más fiable — te basta con una, y la 4 lo confirma todo. **Ninguna
-necesita cobertura**: la 1 calcula dentro del móvil (el GPS funciona sin
-datos), y la 2, la 3 y la 4 no usan más que tus ojos y la cámara:
+Todo gira alrededor de un punto fijo del cielo (el polo celeste), que está
+**tan alto sobre el horizonte como tu latitud**:
+
+| Dónde | Hacia dónde miras | Altura del polo | Lo que lo marca |
+|---|---|---|---|
+| **España** (hemisferio norte) | Al **norte** | Unos 36–43° | La **Estrella Polar**, a menos de 1° del polo: fácil |
+| **Botswana, el Pantanal** (hemisferio sur) | Al **sur** | Unos 16–20°: **bajo**, cabe justo encima de tu objeto | Ninguna estrella brillante (no hay "Polar del sur"); las Nubes de Magallanes ayudan |
+| **Sri Lanka** (cerca del ecuador) | Al norte o al sur | Unos 6–10°, casi en el horizonte | Mirando al este o al oeste, los círculos se vuelven **rayas casi rectas** |
+
+Cuatro maneras de clavarlo, de la más fácil a la más fiable: te basta con una,
+y la 4 lo confirma todo. **Ninguna necesita cobertura**: la 1 calcula dentro
+del móvil (el GPS funciona sin datos), y la 2, la 3 y la 4 no usan más que tus
+ojos y la cámara:
 
 1. **Con el móvil, realidad aumentada** (lo más fácil): abre PhotoPills →
-   Noche → RA, apunta al cielo y aparece dibujado el polo sur celeste; en
-   Stellarium busca la estrella **"Sigma Octantis"** (σ Oct: la única
-   "estrella polar" del sur, a ~1° del polo, tan débil que no la verás — pero
-   la app te enseña dónde está) y colócala en el centro de la pantalla.
-   Calibra la brújula haciendo ochos con el móvil, **lejos de la chapa del
-   coche y del trípode**, y luego coloca la cámara mirando a donde te
-   apunta el móvil ([apps](https://github.com/morandeirachema/a6700-namibia/blob/main/referencia/apps-del-viaje.md)). Sin cobertura da
-   igual: PhotoPills y Stellarium hacen los cálculos y la RA en el propio
-   móvil (solo el mapa del Planificador sale gris si no lo cacheaste), y el
-   GPS no necesita datos — si tarda en fijar, déjalo un par de minutos a
-   cielo abierto. Y para el polo ni siquiera hace falta precisión: 100 km de
-   error lo mueven menos de 1°.
-2. **A ojo, en 30 segundos**: brújula del móvil al sur (**180°**; con
-   una brújula magnética de verdad, en Namibia el sur real marca ~189° en Etosha y ~195° en Sesriem,
-   porque el norte magnético cae entre 9° y 15° al oeste) y, brazo estirado, cuenta
-   **dos puños** (~10° cada uno) desde el horizonte en Etosha, dos y medio en
-   Sesriem: ahí está el polo. Con la cámara **nivelada** (nivel electrónico
-   con DISP) y **el horizonte en el tercio bajo** del encuadre, el 11 mm
-   (16,5 mm eq) abarca 71° de alto y 94° de ancho: **el polo cae dentro
-   sí o sí**, más o menos a media altura de la foto. Aún no has apretado
-   ningún botón y ya lo tienes.
-3. **Con las estrellas de tus noches**: las dos **Nubes de Magallanes** (dos
-   manchas lechosas hacia el sur, imposibles de confundir sin luna) forman
-   con el polo un **triángulo casi equilátero**, y el polo es el vértice
-   **vacío y oscuro**. Entre las 20:30 y las 23:00 de tus noches la Nube
-   Pequeña queda arriba, casi en la vertical del polo, y la Nube Grande
-   abajo a la izquierda (sureste), subiendo durante la noche: **hacia las
-   21:30** el polo está **a la misma altura que la Grande, dos puños a su
-   derecha, y debajo de la Pequeña**. Según avanza
-   la noche todo gira, pero el polo no se mueve
-   ([el cielo del viaje](https://github.com/morandeirachema/a6700-namibia/blob/main/plan/cielo-del-viaje.md)).
+   Noche → RA, apunta al cielo y aparece dibujado el polo celeste; en
+   Stellarium busca la **Polar** (norte) o **"Sigma Octantis"** (σ Oct, sur:
+   a ~1° del polo y tan débil que no la verás, pero la app te enseña dónde
+   está) y colócala en el centro de la pantalla. Calibra la brújula haciendo
+   ochos con el móvil, **lejos de la chapa del coche y del trípode**, y luego
+   coloca la cámara mirando a donde te apunta el móvil. Sin cobertura da
+   igual: PhotoPills y Stellarium hacen los cálculos en el propio móvil (solo
+   el mapa del planificador sale gris si no lo guardaste antes), y el GPS no
+   necesita datos: si tarda en fijar, déjalo un par de minutos a cielo
+   abierto.
+2. **A ojo, en 30 segundos**: la brújula del móvil, en modo **norte
+   verdadero**, al norte o al sur (con una brújula magnética, corrige la
+   declinación de tu sitio: [magnetic-declination.com](https://www.magnetic-declination.com/))
+   y, con el brazo estirado, cuenta **un puño por cada 10° de latitud** desde
+   el horizonte (dos puños en Botswana): ahí está el polo. Con la cámara
+   **nivelada** (nivel electrónico con DISP) y **el horizonte en el tercio
+   bajo** del encuadre, el 11 mm (16,5 mm eq) abarca 71° de alto y 94° de
+   ancho: en el hemisferio sur y cerca del ecuador, **el polo cae dentro sí o
+   sí**. Aún no has apretado ningún botón y ya lo tienes.
+3. **Con las estrellas**: en el **norte**, sigue las dos estrellas del borde
+   del "cazo" de la Osa Mayor: apuntan a la Polar, a unas cinco veces su
+   separación. En el **sur**, las dos **Nubes de Magallanes** (dos manchas
+   lechosas, imposibles de confundir sin luna) forman con el polo un
+   **triángulo casi equilátero**, y el polo es el vértice **vacío y oscuro**.
+   Según avanza la noche todo gira, pero el polo no se mueve.
 4. **La prueba de giro** (la definitiva, 4 minutos): antes de lanzar la
    serie, una sola foto larga en la que las estrellas ya dibujen arcos
    cortos y el centro se vea. `Tipo de obturador: Mecánico` (Bulb no existe
@@ -237,9 +234,9 @@ Y la dirección decide el dibujo:
 
 | Miras hacia… | El cielo dibuja… |
 |---|---|
-| **Sur** (el centro dentro del encuadre) | El remolino completo sobre el objeto — la clásica |
-| Este u oeste | Arcos en diagonal barriendo el encuadre |
-| Norte | Arcos suaves, casi rectos |
+| **El polo** (sur en el hemisferio sur, norte en España) | El remolino completo sobre el objeto: la clásica |
+| Este u oeste | Arcos en diagonal barriendo el encuadre (rectas casi paralelas cerca del ecuador) |
+| El polo contrario | Arcos suaves, casi rectos |
 
 ### 2 · Componer con el objeto
 
@@ -285,52 +282,53 @@ Y la dirección decide el dibujo:
 | Sin cobertura, la RA "no va" o apunta raro | No es la red (la RA no la usa): brújula descalibrada o GPS sin fijar | Ochos con el móvil lejos del coche; móvil a cielo abierto 1–2 min. Y sin móvil: dos puños + prueba de giro |
 | El polo se queda fuera por arriba | Cámara demasiado inclinada al suelo, o mucho tele | Horizonte en el tercio bajo con la cámara nivelada; a 11 mm entra seguro |
 | Arcos pobres | Serie corta | Más tomas, no más ISO |
-| Una raya recta cruza | Satélite (se clona) o bólido de las Táuridas (¡se enmarca!) | — |
+| Una raya recta cruza | Satélite (se clona) o un bólido (¡se enmarca!) | — |
 
 ## En el viaje: las dos en la misma noche
 
-En las noches gordas de Etosha (9–12 nov) caben ambas sin conflicto:
-**postal primero** (20:25–22:00, con las Nubes y el núcleo servidos), luego
-recolocas el trípode al sur, lanzas la serie de círculos **y te vas** — a la
-charca de los rinos o a la cama. El reparto exacto por noche está en
-[el cielo del viaje](https://github.com/morandeirachema/a6700-namibia/blob/main/plan/cielo-del-viaje.md) y el plan hora a hora en
-[el nivel avanzado del final de esta guía](#nivel-avanzado--cuando-las-tres-noches-ya-salgan-solas). El Pixel, mientras, hace su propia versión
-apuntando a otra parte del cielo ([su guía](../manejo-pixel-10-pro/README.md)).
+En una noche buena caben ambas sin conflicto: **la postal primero**, en la
+primera hora oscura, y luego recolocas el trípode hacia el polo, lanzas la
+serie de círculos **y te vas**, a la charca o a la cama. El plan hora a hora,
+en [el nivel avanzado del final de esta guía](#nivel-avanzado--cuando-las-tres-noches-ya-salgan-solas).
+El Pixel, mientras, hace su propia versión apuntando a otra parte del cielo
+([su guía](../manejo-pixel-10-pro/README.md)).
 
 ## Nivel avanzado — cuando las tres noches ya salgan solas
 
-### El plan de la noche completa (1–10 de noviembre)
+### El plan de una noche completa
 
-| Hora | Objetivo | Cómo |
+Las horas se cuentan desde el **fin del crepúsculo astronómico**, el momento en
+que la noche está oscura del todo (PhotoPills o Stellarium te lo dan para tu
+sitio y tu fecha).
+
+| Cuándo | Objetivo | Cómo |
 |---|---|---|
-| 20:25–21:30 | **Núcleo bajo al OSO** (+26° y bajando) + cola de la **luz zodiacal** en el mismo cielo | Panorámica de 3–4 verticales solapadas 30 %, o banda diagonal con silueta |
-| 21:30–23:00 | **Nubes de Magallanes** altas al sur | 15–20 tomas apiladas, 20 s · f/1.8 · ISO 1600–3200 |
-| 23:00 en adelante | **Banda de Orión–Carina** subiendo por el este; Saturno, que ha culminado hacia las 22:30, alto al norte | Mismos ajustes; Saturno como "estrella" ancla de composición |
-| Toda la noche | **Star trails** centrados en el polo (a ~19–24° de altura, según la parada) | Triángulo de las Nubes o AR; serie de 90–180 tomas que además caza bólidos de las Táuridas |
-| Albas del 14 al 18 | **Júpiter y Marte juntos** al noreste (a 1,4° el día 14; mínimo de 1,2° el 16) | El zoom corto o el 11 mm con paisaje, en el crepúsculo |
+| Primera hora oscura | **El núcleo de la Vía Láctea**, si está en temporada (al anochecer, de abril a septiembre) | Postal con silueta; si sale bajo, panorámica de 3–4 verticales solapadas un tercio o banda diagonal |
+| Después | **Las Nubes de Magallanes** (hemisferio sur, mejor de octubre a febrero) o la constelación brillante de la estación | 15–20 tomas apiladas, 20 s · f/1.8 · ISO 1600–3200 |
+| Toda la noche | **Star trails** centrados en el polo | Serie de 90–180 tomas; caza también algún bólido |
+| Antes del alba | Planetas brillantes y la **luz zodiacal** en el crepúsculo | El 11 mm con paisaje, en la primera luz |
 
 ### Técnica fina
 
-- **La panorámica de la banda tumbada**: el núcleo horizontal de noviembre
-  es el escenario perfecto para tu primera pano nocturna: 3–4 tomas en
+- **La panorámica de la banda tumbada**: el núcleo bajo y tumbado (fuera de
+  temporada, o desde España) es el escenario perfecto para tu primera pano nocturna: 3–4 tomas en
   vertical, solapadas un tercio, girando solo el cabezal entre tomas, mismos
   ajustes clavados; Luminar las une con **Panorama Stitching** ([retoques, 12.2](../retoques/12-varias-fotos.md)).
 - **Las Nubes con detalle**: la tentación de meterles el 70-350 **no
   funciona sin montura de seguimiento** (ya a 70 mm y f/4.5 el límite sin
   trazas son ~5 s → ISO absurdo y cien tomas para poco). El camino real: 11 mm
-  apilado y recorte generoso (26 Mpx dan margen), o apuntar una montura de
-  seguimiento ligera para otro viaje.
-- **Light painting con cabeza** (método van Oosten, para tus noches de granja
-  y camping fuera de Etosha — Spreetshoogte, Hoada —, nunca en miradores de
-  campamento): frontal al mínimo, barrido
+  apilado y recorte generoso (26 Mpx dan margen), o una montura de seguimiento
+  ([mejoras de equipo](18-mejoras-de-equipo.md#la-gran-mejora-de-astro-una-montura-de-seguimiento)).
+- **Light painting con cabeza** (método van Oosten, en campings y lodges que lo
+  permitan, nunca en miradores de campamento): frontal al mínimo, barrido
   de 1–2 s sobre el árbol/roca durante la exposición, desde un lateral;
   revisa y ajusta potencia; para. Menos es más — y cero luz hacia fauna o
   vecinos.
 - **Procesado de tus cielos**: el degradado verdoso del horizonte es
   **airglow**, luz natural del cielo — lo honesto es dejarlo; si estorba,
   bájale un poco la saturación al editar ([noche](../retoques/09-noche.md)); los satélites
-  desaparecen solos al apilar ≥10 tomas; y la Vía Láctea de noviembre, baja
-  y cálida, agradece contraste local suave antes que saturación.
+  desaparecen solos al apilar ≥10 tomas; y la Vía Láctea baja, cálida por la
+  atmósfera, agradece contraste local suave antes que saturación.
 
 ## Si sale mal…
 
@@ -356,8 +354,8 @@ apuntando a otra parte del cielo ([su guía](../manejo-pixel-10-pro/README.md)).
   antes de que las estrellas se alarguen al 100 %, y la del 500, 30 s a tamaño
   pantalla. 20 s es el término medio, y 15 s si ves rayitas ([§9](../conceptos/09-por-que-funciona.md#9--el-tiempo-qué-congela-y-qué-dibuja-la-velocidad)).
 - **El histograma separado de la izquierda.** De noche no hay "derecha" a la
-  que exponer, pero tampoco puedes quedarte corto: tus exposiciones largas de
-  Namibia tienen un brillo mediano de 28 sobre 255, y en JPEG lo que falta no
+  que exponer, pero tampoco puedes quedarte corto: las exposiciones largas de
+  tu último viaje tienen un brillo mediano de 28 sobre 255, y en JPEG lo que falta no
   se recupera ([§2](../conceptos/09-por-que-funciona.md#2--exponer-a-la-derecha-y-por-qué-el-histograma-manda)).
 - **Los círculos son 15° por hora.** Media hora de serie dibuja arcos de
   7,5°; dos horas, de 30°. Por eso las series de star trails son largas.
@@ -369,8 +367,8 @@ apuntando a otra parte del cielo ([su guía](../manejo-pixel-10-pro/README.md)).
 - StarStaX: <https://starstax.net/> · Starry Landscape Stacker (macOS): <https://sites.google.com/site/starrylandscapestacker/home> · Siril (gratis): <https://siril.org/> · Sequator (solo Windows): <https://sites.google.com/view/sequator/>
 - PhotoPills (AR y planificador): <https://www.photopills.com/> · "3 tips to use PhotoPills offline" (la RA y los cálculos funcionan sin red): <https://www.photopills.com/videos/3-tips-to-use-photopills-offline-photopills-tip-7> · Stellarium: <https://stellarium.org/>
 - Sony, Help Guide ILCE-6700 — disparo Bulb y "BULB Timer Settings" (2–900 s; no disponible con obturador electrónico): <https://helpguide.sony.net/ilc/2320/v1/en/contents/0302C_bulb.html> · <https://helpguide.sony.net/ilc/2320/v1/en/contents/211h_bulb_timer.html>
-- Declinación magnética en Namibia (WMM2025; ~13° O en Windhoek): <https://www.magnetic-declination.com/>
+- Declinación magnética de cualquier sitio: <https://www.magnetic-declination.com/>
 
 <!-- nav -->
-[← Anterior](07-safari-nocturno-charcas.md) · [Índice](README.md) · [Siguiente →](09-astrofotografia-namibia.md)
+[← Anterior](08-aves.md) · [Índice](README.md) · [Siguiente →](10-astrofotografia.md)
 <!-- /nav -->

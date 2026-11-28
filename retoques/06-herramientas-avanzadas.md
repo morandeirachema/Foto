@@ -6,6 +6,8 @@
 
 # 6. Herramientas avanzadas
 
+> 🔴 **Avanzado** · Da por sabido: el [flujo base](04-flujo-base.md) y los [ajustes locales](05-ajustes-locales.md) · Te desbloquea: curvas, Supercontrast, Color Harmony, Dodge & Burn, Light Depth y el blanco y negro.
+
 No son imprescindibles, pero dan un control que las herramientas básicas no tienen.
 
 ## 6.1. Curves (dentro de Develop)

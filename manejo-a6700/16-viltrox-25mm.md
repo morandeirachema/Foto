@@ -1,10 +1,10 @@
 <!-- nav -->
-[← Anterior](14-equipo-accesorios.md) · [Índice](README.md) · [Siguiente →](16-af-y-exposicion-a-fondo.md)
+[← Anterior](15-equipo-accesorios.md) · [Índice](README.md) · [Siguiente →](17-af-y-exposicion-a-fondo.md)
 <!-- /nav -->
 
 *Parte III · Equipo y objetivos*
 
-# 15. El Viltrox AF 25 mm F1.7 Air — el objetivo "normal" del kit
+# 16. El Viltrox AF 25 mm F1.7 Air — el objetivo "normal" del kit
 
 > 🔵 **Básico** · Da por sabido: el [capítulo 4](04-configuracion-basica.md) y [Enfocar el 11 mm](05-enfocar-el-11mm.md) (la lupa y el *peaking*) · Te desbloquea: el hueco entre el 11 mm y el 70-350 (retrato, calle, interiores y poca luz) y saber manejar un objetivo **sin interruptor AF/MF**.
 
@@ -45,7 +45,7 @@ Con el 11 mm y el 70-350, el interruptor del barrilete **manda** sobre el menú.
 
 - **Pasar a MF:** `Enfoque → [AF/MF] → [Modo de enfoque]` → **`Enfoque man.`** Es lo que tienes que hacer de noche: `Verificac. luminosa` (C1) **solo funciona en MF**.
 - **Volver a AF:** el mismo sitio → `AF continuo` (AF-C) o `AF toma sencilla` (AF-S).
-- **Más rápido, con un botón:** asigna **`Alter. select. AF/MF`** (alterna AF y MF con cada pulsación) o **`Reten. select. AF/MF`** (MF solo mientras mantienes pulsado) a un botón libre, en `Ajustes → [Personal. operac.] → [Ajuste t. pers./dial]`. Ambos nombres están verificados ([verificación de los menús](19-verificacion-de-menus.md)). C1 y C3 ya están ocupados por la botonera del repo ([diales y botones](03-diales-y-botones.md)), así que elige otro.
+- **Más rápido, con un botón:** asigna **`Alter. select. AF/MF`** (alterna AF y MF con cada pulsación) o **`Reten. select. AF/MF`** (MF solo mientras mantienes pulsado) a un botón libre, en `Ajustes → [Personal. operac.] → [Ajuste t. pers./dial]`. Ambos nombres están verificados ([verificación de los menús](21-verificacion-de-menus.md)). C1 y C3 ya están ocupados por la botonera del repo ([diales y botones](03-diales-y-botones.md)), así que elige otro.
 - **Al volver a un Sony**, recuerda que su interruptor vuelve a mandar. Si la cámara "no enfoca" tras cambiar de objetivo, mira primero el interruptor del Sony y luego `Modo de enfoque`.
 
 > **Ojo con MR2.** La receta de astro (MR2) está pensada para el 11 mm, que pasa a MF con su interruptor. Con el Viltrox montado, al cargar MR2 comprueba en pantalla que la cámara está de verdad en MF; si no, pon `Modo de enfoque` en `Enfoque man.`.
@@ -54,7 +54,7 @@ Con el 11 mm y el 70-350, el interruptor del barrilete **manda** sobre el menú.
 
 **De día:** igual que con cualquier objetivo. Enfoque con el pulgar (**AF-ON**, [enfocar el 11 mm](05-enfocar-el-11mm.md)) y el reconocimiento de motivo: `Humano` para personas, `Animal` o `Ave` para fauna. La review de Digital Camera World describe el AF como "no especialmente rápido, pero suficiente" y preciso de forma constante. Para acción rápida (niños o animales corriendo), pruébalo antes de fiarte.
 
-**Hiperfocal** (con el mismo círculo de confusión que el resto del repo, explicado en [óptica §5](../conceptos/05-optica.md#5--la-hiperfocal-todo-nítido-de-cerca-al-infinito)): con 25 mm hace falta cerrar mucho más que con el 11 mm para tener todo nítido. Para la calle, el uso práctico es el [enfoque por zonas](12-calle-y-arquitectura.md#enfocar-sin-mirar-el-enfoque-por-zonas).
+**Hiperfocal** (con el mismo círculo de confusión que el resto del repo, explicado en [óptica §5](../conceptos/05-optica.md#5--la-hiperfocal-todo-nítido-de-cerca-al-infinito)): con 25 mm hace falta cerrar mucho más que con el 11 mm para tener todo nítido. Para la calle, el uso práctico es el [enfoque por zonas](13-calle-y-arquitectura.md#enfocar-sin-mirar-el-enfoque-por-zonas).
 
 | Apertura | Enfoca a… | Nítido desde… |
 |---|---|---|
@@ -92,6 +92,23 @@ Para un primer plano a menos de ~2 m y el fondo nítido a la vez, el objetivo es
 | Retrato con la nariz nítida y los ojos no | A f/1.7 y de cerca, la zona nítida mide pocos centímetros | `Dest. reconocim.` en `Humano` con AF-C, o cierra a f/2.8 |
 | El AF duda con poca luz | El motor STM es correcto, no rápido | AF-S y un punto de contraste (un borde, una luz) |
 
+## Ejercicio (una tarde)
+
+1. **Sin interruptor (10 minutos).** Asigna `Alter. select. AF/MF` a un botón,
+   o pon `Modo de enfoque` en el Fn, y cambia de AF a MF diez veces sin mirar.
+2. **La zona (una hora).** f/8, zona a 3 m con AF-ON y a la calle: veinte
+   fotos de gente sin mirar la pantalla ([calle](13-calle-y-arquitectura.md#enfocar-sin-mirar-el-enfoque-por-zonas)).
+   Apaga y enciende la cámara a mitad de camino y comprueba si la zona sigue
+   donde estaba ([PENDIENTES](../PENDIENTES.md)).
+3. **El retrato a f/1.7 (20 minutos).** Una persona a 2 m, enfocando al ojo con
+   `Humano`: diez fotos. Al 100 %, ¿cuántas tienen el ojo nítido? A f/1.7 la
+   zona nítida mide unos 40 cm: un paso en falso y se va.
+4. **Poca luz (15 minutos).** Un interior de noche a f/1.7 y 1/60: compara el
+   ISO con el que pediría el 11 mm a f/1.8 y con el 70-350 a f/5.6.
+
+**Aprobado cuando** cambias a MF sin pensar, la zona te da más del 80 % de
+fotos nítidas y sabes cuándo el 25 mm es mejor elección que el 11 mm.
+
 ## Referencias
 
 - Viltrox (fabricante; ficha del objetivo y descargas de firmware): <https://viltrox.com/>
@@ -101,5 +118,5 @@ Para un primer plano a menos de ~2 m y el fondo nítido a la vez, el objetivo es
 - Guía de ayuda a6700, `Modo de enfoque` y asignación de AF/MF: <https://helpguide.sony.net/ilc/2320/v1/es/>
 
 <!-- nav -->
-[← Anterior](14-equipo-accesorios.md) · [Índice](README.md) · [Siguiente →](16-af-y-exposicion-a-fondo.md)
+[← Anterior](15-equipo-accesorios.md) · [Índice](README.md) · [Siguiente →](17-af-y-exposicion-a-fondo.md)
 <!-- /nav -->

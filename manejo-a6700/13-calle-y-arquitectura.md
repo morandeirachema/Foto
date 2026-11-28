@@ -1,10 +1,10 @@
 <!-- nav -->
-[← Anterior](11-estelas-de-trafico.md) · [Índice](README.md) · [Siguiente →](13-fotos-en-casa.md)
+[← Anterior](12-estelas-de-trafico.md) · [Índice](README.md) · [Siguiente →](14-fotos-en-casa.md)
 <!-- /nav -->
 
 *Parte II · Recetas · La ciudad y la casa*
 
-# 12. Calle y arquitectura — la ciudad con el 25 mm y el 11 mm
+# 13. Calle y arquitectura — la ciudad con el 25 mm y el 11 mm
 
 > 🔵 **Básico** → 🔴 avanzado al final · Da por sabido: los tres números ([capítulo 1](01-de-movil-a-la-a6700.md)) y el enfoque con el pulgar ([capítulo 4](04-configuracion-basica.md#enfoque-con-el-pulgar-back-button-focus)) · Te desbloquea: fotografiar gente en la calle sin perder el momento (el **enfoque por zonas**), y edificios con las verticales rectas y la luz que los explica.
 
@@ -16,7 +16,7 @@ exactos. Las dos se hacen con los dos objetivos que son tuyos, el **Viltrox
 25 mm** y el **Sony E 11 mm**, y comparten una herramienta: la
 [hiperfocal](../conceptos/05-optica.md#5--la-hiperfocal-todo-nítido-de-cerca-al-infinito).
 
-> **Por qué no está en tus fotos todavía.** De las 2.731 fotos de Namibia,
+> **Por qué no está en tus fotos todavía.** De las 2.731 fotos de tu último viaje,
 > **ninguna** se hizo con el Viltrox ([lo que enseñan tus fotos](../retoques/15-disparar-mejores-jpeg.md#154-lo-que-enseñan-tus-fotos-de-namibia)).
 > Este capítulo es, también, el de sacarlo de la mochila.
 
@@ -105,7 +105,7 @@ Con el 11 mm a f/8 **todo** sale nítido: solo tienes que estar cerca.
 
 > **Con el Viltrox, tras apagar la cámara, vuelve a poner la zona.** Su
 > enfoque es electrónico (*por cable*): al encenderla, no está garantizado que
-> conserve la distancia ([su guía](15-viltrox-25mm.md)). Son cinco segundos:
+> conserve la distancia ([su guía](16-viltrox-25mm.md)). Son cinco segundos:
 > pasos 1 y 2.
 
 ## El momento: escenario, espera y gesto
@@ -280,7 +280,7 @@ sobre el mapa.
   luces artificiales tienen un brillo parecido: el sensor puede guardar las
   dos cosas en una sola foto.
 - **Fachadas blancas y sombras profundas engañan al medidor** igual que la
-  calcreta del safari: busca el gris medio ([el gris medio](../conceptos/01-la-luz.md#por-qué-la-cámara-se-equivoca-el-gris-medio)).
+  arena clara del safari: busca el gris medio ([el gris medio](../conceptos/01-la-luz.md#por-qué-la-cámara-se-equivoca-el-gris-medio)).
 
 ## En Luminar
 
@@ -330,5 +330,5 @@ verticales rectas, o torcidas a propósito.
 - PhotoPills (posición del sol): <https://www.photopills.com/>
 
 <!-- nav -->
-[← Anterior](11-estelas-de-trafico.md) · [Índice](README.md) · [Siguiente →](13-fotos-en-casa.md)
+[← Anterior](12-estelas-de-trafico.md) · [Índice](README.md) · [Siguiente →](14-fotos-en-casa.md)
 <!-- /nav -->

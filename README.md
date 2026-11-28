@@ -7,20 +7,33 @@
 ![Sony a6700](https://img.shields.io/badge/cámara-Sony%20a6700-1D1D1F)
 ![Luminar for Desktop 1.29.x](https://img.shields.io/badge/retoque-Luminar%201.29.x-B4561C)
 ![Idioma: español](https://img.shields.io/badge/idioma-español-5F6368)
-![67 capítulos](https://img.shields.io/badge/capítulos-67-2E7D32)
+![69 capítulos](https://img.shields.io/badge/capítulos-69-2E7D32)
 ![PDF para imprimir](https://img.shields.io/badge/PDF-8%20para%20imprimir-5F6368)
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Elephants_rushing_to_water_%28Etosha%2C_2013%29.jpg/1920px-Elephants_rushing_to_water_%28Etosha%2C_2013%29.jpg" alt="Elefantes corriendo hacia una charca en Etosha" width="100%">
 
-<sub>Elefantes hacia el agua, Etosha. Foto de [Yathin S. Krishnappa](https://commons.wikimedia.org/wiki/File:Elephants_rushing_to_water_(Etosha,_2013).jpg), CC BY-SA 3.0, vía Wikimedia Commons</sub>
+<sub>Elefantes hacia el agua. Foto de [Yathin S. Krishnappa](https://commons.wikimedia.org/wiki/File:Elephants_rushing_to_water_(Etosha,_2013).jpg), CC BY-SA 3.0, vía Wikimedia Commons</sub>
 
-**[🧭 Ruta de aprendizaje](RUTA.md)** · **[🎓 Autoevaluación](AUTOEVALUACION.md)** ([test interactivo](https://claude.ai/artifact/1yTeKxkdNnTppF4gxWEkky)) · **[✅ Pendientes](PENDIENTES.md)** · **[🧠 Conceptos](#conceptos)** · **[🎛️ Manejo de la a6700](#manejo-a6700)** · **[📱 Manejo del Pixel 10 Pro](#manejo-pixel-10-pro)** · **[🎨 Retoques](#retoques)** · **[🖨️ Para imprimir](#para-imprimir)** · **[🧭 Por dónde empiezo](#por-donde-empiezo)**
+**[🧭 Ruta de aprendizaje](RUTA.md)** · **[🔎 Índice](INDICE.md)** · **[🎓 Autoevaluación](AUTOEVALUACION.md)** ([test interactivo](https://claude.ai/artifact/1yTeKxkdNnTppF4gxWEkky)) · **[✅ Pendientes](PENDIENTES.md)** · **[🧠 Conceptos](#conceptos)** · **[🎛️ Manejo de la a6700](#manejo-a6700)** · **[📱 Manejo del Pixel 10 Pro](#manejo-pixel-10-pro)** · **[🎨 Retoques](#retoques)** · **[🖨️ Para imprimir](#para-imprimir)** · **[🧭 Por dónde empiezo](#por-donde-empiezo)**
 
 </div>
 
 ---
 
-Guía **práctica** de fotografía en español, para quien viene del móvil: **entender** qué pasa dentro de una foto, **manejar** la cámara sin mirarla y **retocar** el resultado sin estropearlo. Escrita alrededor de un equipo real y de un viaje real (safari, paisaje y cielos nocturnos en Namibia), y ampliada a la ciudad (calle, arquitectura, estelas y time-lapse), con recetas de valores concretos, pasos numerados, tablas de *"si sale mal, toca esto"*, el porqué de cada receta y las fotos de los grandes analizadas una a una.
+## ⚡ TL;DR
+
+- **Qué es:** una guía práctica de fotografía en español, para quien viene del móvil, escrita alrededor de un equipo real (Sony a6700, 11 mm, Viltrox 25 mm y un 70-350 prestado) y de tus viajes: el que ya hiciste (Namibia) y los siguientes (Sri Lanka, Botswana, el Pantanal), más aves en España.
+- **Lo primero:** que la cámara dispare en **RAW** (un archivo `.ARW`); el primer viaje salió entero en JPEG ([configuración básica](manejo-a6700/04-configuracion-basica.md)).
+- **Si empiezas de cero:** la [ruta de aprendizaje](RUTA.md), etapa a etapa, con su [autoevaluación](AUTOEVALUACION.md).
+- **Si vas a disparar ya:** busca tu tema en el [índice](INDICE.md) (safari, aves, noche, astro, time-lapse, estelas, calle, arquitectura, casa) e imprime la [chuleta](pdf/chuleta.pdf).
+- **Si ya tienes las fotos:** el [flujo base en Luminar](retoques/04-flujo-base.md), en diez pasos.
+- **Para mejorar:** [tu diagnóstico y el plan de doce semanas](conceptos/12-como-mejorar.md), y [los maestros](conceptos/11-los-maestros.md): por qué funcionan sus fotos y cuáles puedes hacer tú.
+- **Qué comprar (y qué no):** [mejoras de equipo](manejo-a6700/18-mejoras-de-equipo.md).
+- **Qué ha cambiado y qué queda por comprobar:** [NOVEDADES](NOVEDADES.md) y [PENDIENTES](PENDIENTES.md).
+
+---
+
+Guía **práctica** de fotografía en español, para quien viene del móvil: **entender** qué pasa dentro de una foto, **manejar** la cámara sin mirarla y **retocar** el resultado sin estropearlo. Escrita alrededor de un equipo real y de viajes reales (safari, aves, paisaje y cielos nocturnos), y ampliada a la ciudad (calle, arquitectura, estelas y time-lapse), con recetas de valores concretos, pasos numerados, tablas de *"si sale mal, toca esto"*, el porqué de cada receta y las fotos de los grandes analizadas una a una.
 
 > **El equipo:** Sony a6700 (APS-C, factor 1,5) · Sony E 11 mm F1.8 (astro y paisaje, 16,5 mm equivalentes) · Viltrox AF 25 mm F1.7 Air (retrato, calle y poca luz, 37,5 mm equivalentes) · Sony E 70-350 mm F4.5-6.3 G OSS (fauna, 105–525 mm equivalentes; **prestado**) · Luminar for Desktop 1.29.x (Luminar Neo) en macOS.
 
@@ -35,7 +48,7 @@ flowchart LR
 | Carpeta | Qué hay | Guías |
 |---|---|---|
 | [`conceptos/`](conceptos/) | Lo que vale para cualquier cámara: la luz, el modelo técnico, el histograma, el balance de blancos, la composición, la mirada, **los maestros** y **cómo mejorar** | 13 |
-| [`manejo-a6700/`](manejo-a6700/) | La cámara: del móvil a la a6700, menús, diales, configuración, recetas por tema (fauna, cielo, ciudad y casa), equipo y referencia completa de ajustes | 21 |
+| [`manejo-a6700/`](manejo-a6700/) | La cámara: del móvil a la a6700, menús, diales, configuración, recetas por tema (fauna y aves, cielo, ciudad y casa), equipo, mejoras y referencia completa de ajustes | 23 |
 | [`retoques/`](retoques/) | La guía de Luminar en 20 capítulos, desde cero y con números concretos, verificada con la documentación oficial de Skylum | 20 |
 | [`manejo-pixel-10-pro/`](manejo-pixel-10-pro/) | El móvil: qué foto es suya y cuál de la a6700, la aplicación Cámara, el zoom, recetas por escena, controles Pro, la IA y la referencia de ajustes | 13 |
 | [`pdf/`](pdf/) | Las cuatro hojas imprimibles y cada sección completa (conceptos, los dos manejos, retoques), maquetadas en A4 | 8 PDF |
@@ -63,8 +76,8 @@ De los fundamentos al dominio, en cuatro partes. Vale para cualquier cámara.
 | | 🔵 | [**8 · Cuaderno de composición**](conceptos/08-cuaderno-de-composicion.md) | 20 ejercicios en escalera ([PDF](pdf/cuaderno-de-composicion.pdf)) |
 | **III · A fondo** | 🔴 | [**9 · Por qué funciona**](conceptos/09-por-que-funciona.md) | El modelo: ETTR, profundidad de campo con los números del equipo, difracción, compresión, invarianza ISO, el AF por dentro y **el tiempo** (qué congela y qué dibuja la velocidad) |
 | | 🔴 | [**10 · La mirada**](conceptos/10-la-mirada.md) | Cómo piensan los que hacen las fotos que te gustan |
-| | 🔴 | [**11 · Los maestros, foto a foto**](conceptos/11-los-maestros.md) 🆕 | **Cinco fotógrafos** de fauna, de cielo nocturno, de calle y de arquitectura, más paisaje y el tiempo: cada foto, por qué funciona, su edición y la decisión que puedes copiar |
-| | 🔴 | [**12 · Cómo mejorar**](conceptos/12-como-mejorar.md) 🆕 | **Tu diagnóstico** con las 2.731 fotos de Namibia, los cinco escalones, la escalera de cada tema y un plan de doce semanas |
+| | 🔴 | [**11 · Los maestros, foto a foto**](conceptos/11-los-maestros.md) | **Cinco fotógrafos** de fauna, de cielo nocturno, de calle y de arquitectura, más paisaje y el tiempo: cada foto, por qué funciona, su edición y la decisión que puedes copiar |
+| | 🔴 | [**12 · Cómo mejorar**](conceptos/12-como-mejorar.md) | **Tu diagnóstico** con las 2.731 fotos de Namibia, los cinco escalones, la escalera de cada tema y un plan de doce semanas |
 | **IV · Referencia** | 🟢 | [**13 · Glosario**](conceptos/13-glosario.md) | Todas las palabras raras, en una línea cada una |
 
 Índice: [`conceptos/README.md`](conceptos/README.md) · Todo en un archivo: [`guia-completa.md`](conceptos/guia-completa.md) · [PDF](pdf/guia-conceptos.pdf)
@@ -87,14 +100,15 @@ De los fundamentos al dominio, en cuatro partes. Vale para cualquier cámara.
 
 | Tema | Nivel | Guía | Qué resuelve |
 |---|:---:|---|---|
-| 🦁 **Fauna** | 🔵 | [**6 · Safari diurno**](manejo-a6700/06-safari-diurno.md) | El AF con reconocimiento de animales, la rutina de 10 segundos, composición y receta por escena |
-| | 🔵 | [**7 · Charcas nocturnas**](manejo-a6700/07-safari-nocturno-charcas.md) | Fauna con foco artificial: obturador silencioso, AF en penumbra, techo de ISO |
-| 🌌 **El cielo de noche** | 🔵 → 🔴 | [**8 · Estrellas con la tierra dentro**](manejo-a6700/08-estrellas-con-tierra.md) | Astro **desde cero en tres noches** con el 11 mm: la primera foto de estrellas, la postal con silueta y los círculos |
-| | 🔵 | [**9 · Astrofotografía**](manejo-a6700/09-astrofotografia-namibia.md) | La noche completa paso a paso: Vía Láctea, star trails con el intervalómetro integrado y apilado |
-| | 🔵 → 🔴 | [**10 · Time-lapse del cielo**](manejo-a6700/10-time-lapse-del-cielo.md) | El cielo girando con el intervalómetro integrado, la serie que pasa sola **del atardecer a la noche**, y de la misma serie: el vídeo, star trails y una foto limpia apilada |
-| 🏙️ **La ciudad y la casa** | 🟢 → 🔵 | [**11 · Estelas de tráfico**](manejo-a6700/11-estelas-de-trafico.md) | Los coches convertidos en ríos de luz: MR2 con dos números cambiados, BULB, filtro ND y **varias fotos apiladas en una** |
-| | 🔵 → 🔴 | [**12 · Calle y arquitectura**](manejo-a6700/12-calle-y-arquitectura.md) 🆕 | La calle con el **25 mm y el enfoque por zonas** (MR1 con tres cambios), el momento y la ley; los edificios con el **11 mm**: verticales rectas, la luz de cada fachada, la hora azul y los interiores |
-| | 🟢 → 🔵 | [**13 · Fotos en casa**](manejo-a6700/13-fotos-en-casa.md) | **Trece ideas creativas** para practicar sin salir (luz de ventana, clave alta y baja, bokeh, salpicaduras, pintar con luz, HDR y apilado de enfoque) y un plan de cuatro semanas |
+| 🦁 **Fauna** | 🔵 | [**6 · Safari de día**](manejo-a6700/06-safari-diurno.md) | El AF con reconocimiento, la rutina de 10 segundos y la receta por escena; desde el coche, el **todoterreno abierto** y la **barca**; sabana, delta y bosque (Botswana, el Pantanal, Sri Lanka) |
+| | 🔵 | [**7 · Fauna de noche**](manejo-a6700/07-fauna-de-noche.md) | Charcas con focos, salidas nocturnas con foco y barca al anochecer: obturador silencioso, AF en penumbra, techo de ISO |
+| | 🔵 → 🔴 | [**8 · Aves**](manejo-a6700/08-aves.md) | Cuánto alcance hace falta, *hides* en España, aves en vuelo, humedales tropicales, ética y ley |
+| 🌌 **El cielo de noche** | 🔵 → 🔴 | [**9 · Estrellas con la tierra dentro**](manejo-a6700/09-estrellas-con-tierra.md) | Astro **desde cero en tres noches** con el 11 mm: la primera foto de estrellas, la postal con silueta y los círculos |
+| | 🔵 | [**10 · Astrofotografía**](manejo-a6700/10-astrofotografia.md) | La noche completa paso a paso: Vía Láctea, star trails con el intervalómetro integrado y apilado |
+| | 🔵 → 🔴 | [**11 · Time-lapse del cielo**](manejo-a6700/11-time-lapse-del-cielo.md) | El cielo girando con el intervalómetro integrado, la serie que pasa sola **del atardecer a la noche**, y de la misma serie: el vídeo, star trails y una foto limpia apilada |
+| 🏙️ **La ciudad y la casa** | 🟢 → 🔵 | [**12 · Estelas de tráfico**](manejo-a6700/12-estelas-de-trafico.md) | Los coches convertidos en ríos de luz: MR2 con dos números cambiados, BULB, filtro ND y **varias fotos apiladas en una** |
+| | 🔵 → 🔴 | [**13 · Calle y arquitectura**](manejo-a6700/13-calle-y-arquitectura.md) | La calle con el **25 mm y el enfoque por zonas** (MR1 con tres cambios), el momento y la ley; los edificios con el **11 mm**: verticales rectas, la luz de cada fachada, la hora azul y los interiores |
+| | 🟢 → 🔵 | [**14 · Fotos en casa**](manejo-a6700/14-fotos-en-casa.md) | **Trece ideas creativas** para practicar sin salir (luz de ventana, clave alta y baja, bokeh, salpicaduras, pintar con luz, HDR y apilado de enfoque) y un plan de cuatro semanas |
 
 Cada receta termina con **«Por qué funciona»**: sus números, unidos al concepto que los explica.
 
@@ -102,19 +116,20 @@ Cada receta termina con **«Por qué funciona»**: sus números, unidos al conce
 
 | Nivel | Guía | Qué resuelve |
 |:---:|---|---|
-| 🔵 | [**14 · Equipo y accesorios**](manejo-a6700/14-equipo-accesorios.md) | El kit con precios y alternativas, tarjetas (y el búfer), baterías, filtros y polvo |
-| 🔵 | [**15 · El Viltrox 25 mm F1.7**](manejo-a6700/15-viltrox-25mm.md) | El objetivo "normal": ficha, recetas, cómo enfocar **sin interruptor AF/MF** (MF desde el menú o con un botón), hiperfocal y astro con 25 mm |
-| 🔴 | [**16 · El AF y la exposición a fondo**](manejo-a6700/16-af-y-exposicion-a-fondo.md) | Los tres mandos del AF, la medición puntual vinculada, la botonera "de francotirador" y el 70-350 al límite |
+| 🔵 | [**15 · Equipo y accesorios**](manejo-a6700/15-equipo-accesorios.md) | El kit del primer viaje con precios y alternativas, tarjetas (y el búfer), baterías, filtros y polvo |
+| 🔵 | [**16 · El Viltrox 25 mm F1.7**](manejo-a6700/16-viltrox-25mm.md) | El objetivo "normal": ficha, recetas, cómo enfocar **sin interruptor AF/MF** (MF desde el menú o con un botón), hiperfocal y astro con 25 mm |
+| 🔴 | [**17 · El AF y la exposición a fondo**](manejo-a6700/17-af-y-exposicion-a-fondo.md) | Los tres mandos del AF, la medición puntual vinculada, la botonera "de francotirador" y el 70-350 al límite |
+| 🔵 | [**18 · Mejoras de equipo**](manejo-a6700/18-mejoras-de-equipo.md) | Sacar partido al **GorillaPod 5K** y al trípode, qué falta en cada campo, qué tele cuando devuelvas el 70-350 (con el límite de peso de las avionetas), la montura de seguimiento y el orden de compra |
 
 **Referencia y hojas de campo**
 
 | Nivel | Guía | Qué resuelve |
 |:---:|---|---|
-| 🟢 | [**17 · Todos los ajustes, con su ruta de menú**](manejo-a6700/17-ajustes-a6700.md) | La referencia única: cada ajuste con su ruta exacta y su valor para fauna y para noche, con el mapa del menú dibujado |
-| 🟢 | [**18 · El menú completo**](manejo-a6700/18-menu-completo.md) | Las pestañas línea a línea: qué hace cada ajuste, tu valor y las líneas que hay que cambiar sí o sí |
-| ✅ | [**19 · Verificación de los menús**](manejo-a6700/19-verificacion-de-menus.md) | La auditoría contra la Guía de ayuda de Sony: **79/79 rutas correctas**, el mapa oficial completo del menú y las 11 subopciones por confirmar con C3 |
-| 📋 | [**20 · Chuleta**](manejo-a6700/20-chuleta.md) | Todas las recetas y arreglos rápidos en **una cara** ([PDF](pdf/chuleta.pdf)) |
-| ✅ | [**21 · Verificación in situ**](manejo-a6700/21-verificacion-in-situ.md) | Listas de comprobación por momento del día, con el porqué de cada una, y diagnóstico de averías ([PDF](pdf/verificacion-in-situ.pdf)) |
+| 🟢 | [**19 · Todos los ajustes, con su ruta de menú**](manejo-a6700/19-ajustes-a6700.md) | La referencia única: cada ajuste con su ruta exacta y su valor para fauna y para noche, con el mapa del menú dibujado |
+| 🟢 | [**20 · El menú completo**](manejo-a6700/20-menu-completo.md) | Las pestañas línea a línea: qué hace cada ajuste, tu valor y las líneas que hay que cambiar sí o sí |
+| ✅ | [**21 · Verificación de los menús**](manejo-a6700/21-verificacion-de-menus.md) | La auditoría contra la Guía de ayuda de Sony: **79/79 rutas correctas**, el mapa oficial completo del menú y las 11 subopciones por confirmar con C3 |
+| 📋 | [**22 · Chuleta**](manejo-a6700/22-chuleta.md) | Todas las recetas y arreglos rápidos en **una cara** ([PDF](pdf/chuleta.pdf)) |
+| ✅ | [**23 · Verificación in situ**](manejo-a6700/23-verificacion-in-situ.md) | Listas de comprobación por momento del día, con el porqué de cada una, y diagnóstico de averías ([PDF](pdf/verificacion-in-situ.pdf)) |
 
 Las capturas de pantalla de los menús tienen su guion en [`manejo-a6700/img/menus/`](manejo-a6700/img/menus/). Índice: [`manejo-a6700/README.md`](manejo-a6700/README.md) · Todo en un archivo: [`guia-completa.md`](manejo-a6700/guia-completa.md) · [PDF](pdf/guia-manejo-a6700.pdf). La numeración antigua (0, 0.5, 0.7, 1–5, la del PDF de `sources/`) y la del reordenamiento del 28 de noviembre de 2026 tienen su tabla de equivalencias en la [introducción](manejo-a6700/00-introduccion.md#numeración-antigua).
 
@@ -160,7 +175,7 @@ flowchart LR
 | Parte | Capítulos |
 |---|---|
 | **I · Fundamentos** | [1. Conceptos básicos](retoques/01-conceptos-basicos.md) · [2. Luminar por dentro](retoques/02-luminar-por-dentro.md) |
-| **II · El método** | [3. Las herramientas, una a una](retoques/03-herramientas-una-a-una.md) 🆕 · [4. El flujo base: 10 pasos](retoques/04-flujo-base.md) · [5. Ajustes locales](retoques/05-ajustes-locales.md) 🆕 · [6. Herramientas avanzadas](retoques/06-herramientas-avanzadas.md) |
+| **II · El método** | [3. Las herramientas, una a una](retoques/03-herramientas-una-a-una.md) · [4. El flujo base: 10 pasos](retoques/04-flujo-base.md) · [5. Ajustes locales](retoques/05-ajustes-locales.md) · [6. Herramientas avanzadas](retoques/06-herramientas-avanzadas.md) |
 | **III · Por tipo de foto** | [7. Safari 🦁](retoques/07-safari.md) · [8. Paisaje y ciudad 🏜️](retoques/08-paisaje.md) · [9. Noche 🌌](retoques/09-noche.md) |
 | **IV · Más allá de una foto** | [10. Recetas](retoques/10-recetas.md) ⚠️ *provisional* · [11. Trabajar en serie](retoques/11-trabajar-en-serie.md) · [12. HDR, panorámicas, Upscale](retoques/12-varias-fotos.md) · [13. Exportar](retoques/13-exportar.md) · [14. Ética y GPS](retoques/14-etica.md) · [15. Disparar mejores JPEG](retoques/15-disparar-mejores-jpeg.md) |
 | **V · Referencia** | [16. Errores y lista](retoques/16-errores-y-lista.md) · [17. Atajos](retoques/17-atajos.md) · [18. Glosario](retoques/18-glosario.md) · [19. Preguntas](retoques/19-preguntas-frecuentes.md) · [20. Fuentes](retoques/20-fuentes.md) |
@@ -175,12 +190,12 @@ flowchart LR
 
 | Hoja | Para qué | PDF |
 |---|---|---|
-| 📋 [Chuleta de la a6700](manejo-a6700/20-chuleta.md) | Todas las recetas de cámara en una cara | [chuleta.pdf](pdf/chuleta.pdf) |
+| 📋 [Chuleta de la a6700](manejo-a6700/22-chuleta.md) | Todas las recetas de cámara en una cara | [chuleta.pdf](pdf/chuleta.pdf) |
 | 📋 [Chuleta del Pixel 10 Pro](manejo-pixel-10-pro/13-chuleta.md) | Las recetas del móvil en una cara | [chuleta-pixel.pdf](pdf/chuleta-pixel.pdf) |
-| ✅ [Verificación in situ](manejo-a6700/21-verificacion-in-situ.md) | Comprobaciones por momento del día | [verificacion-in-situ.pdf](pdf/verificacion-in-situ.pdf) |
+| ✅ [Verificación in situ](manejo-a6700/23-verificacion-in-situ.md) | Comprobaciones por momento del día | [verificacion-in-situ.pdf](pdf/verificacion-in-situ.pdf) |
 | ✏️ [Cuaderno de composición](conceptos/08-cuaderno-de-composicion.md) | 20 ejercicios para tachar | [cuaderno-de-composicion.pdf](pdf/cuaderno-de-composicion.pdf) |
 | 🧠 [Conceptos completo](conceptos/guia-completa.md) | Los 13 capítulos de conceptos | [guia-conceptos.pdf](pdf/guia-conceptos.pdf) |
-| 🎛️ [Manejo de la a6700 completo](manejo-a6700/guia-completa.md) | Los 21 capítulos de la cámara | [guia-manejo-a6700.pdf](pdf/guia-manejo-a6700.pdf) |
+| 🎛️ [Manejo de la a6700 completo](manejo-a6700/guia-completa.md) | Los 23 capítulos de la cámara | [guia-manejo-a6700.pdf](pdf/guia-manejo-a6700.pdf) |
 | 📱 [Manejo del Pixel 10 Pro completo](manejo-pixel-10-pro/guia-completa.md) | Los 13 capítulos del móvil | [guia-manejo-pixel-10-pro.pdf](pdf/guia-manejo-pixel-10-pro.pdf) |
 | 🎨 [Retoques completo](retoques/guia-completa.md) | Los 20 capítulos de Luminar | [guia-retoques.pdf](pdf/guia-retoques.pdf) |
 
@@ -192,18 +207,20 @@ flowchart LR
 
 - 🐣 *Nunca he manejado una cámara en serio* → [Del móvil a la a6700](manejo-a6700/01-de-movil-a-la-a6700.md) y el [glosario](conceptos/13-glosario.md).
 - 📦 *La cámara acaba de llegar* → [Los menús y el primer día](manejo-a6700/02-menus-y-primer-dia.md), luego [los diales y los botones](manejo-a6700/03-diales-y-botones.md) y la [configuración básica](manejo-a6700/04-configuracion-basica.md).
-- 🔭 *Quiero fotografiar estrellas con el 11 mm* → [Enfocar el 11 mm](manejo-a6700/05-enfocar-el-11mm.md) (esta misma noche) y luego [Estrellas con la tierra dentro](manejo-a6700/08-estrellas-con-tierra.md).
-- ⏱️ *Quiero un time-lapse de las estrellas, o del atardecer a la noche* → [Time-lapse del cielo](manejo-a6700/10-time-lapse-del-cielo.md).
-- 🚗 *Quiero las estelas de los coches de noche* → [Estelas de tráfico](manejo-a6700/11-estelas-de-trafico.md).
-- 🏠 *Quiero practicar en casa* → [Fotos en casa](manejo-a6700/13-fotos-en-casa.md): trece ideas y un plan de cuatro semanas.
-- 🚶 *Quiero fotografiar gente en la calle* → [Calle y arquitectura](manejo-a6700/12-calle-y-arquitectura.md): el 25 mm con el **enfoque por zonas**, y [los maestros de la calle](conceptos/11-los-maestros.md#calle).
-- 🏛️ *Quiero fotografiar edificios sin que se caigan* → [Calle y arquitectura · Arquitectura](manejo-a6700/12-calle-y-arquitectura.md#las-verticales-por-qué-se-caen-y-cómo-evitarlo) y [Retoques 8.4](retoques/08-paisaje.md#84-ciudad-calle-y-arquitectura).
+- 🔭 *Quiero fotografiar estrellas con el 11 mm* → [Enfocar el 11 mm](manejo-a6700/05-enfocar-el-11mm.md) (esta misma noche) y luego [Estrellas con la tierra dentro](manejo-a6700/09-estrellas-con-tierra.md).
+- ⏱️ *Quiero un time-lapse de las estrellas, o del atardecer a la noche* → [Time-lapse del cielo](manejo-a6700/11-time-lapse-del-cielo.md).
+- 🚗 *Quiero las estelas de los coches de noche* → [Estelas de tráfico](manejo-a6700/12-estelas-de-trafico.md).
+- 🏠 *Quiero practicar en casa* → [Fotos en casa](manejo-a6700/14-fotos-en-casa.md): trece ideas y un plan de cuatro semanas.
+- 🚶 *Quiero fotografiar gente en la calle* → [Calle y arquitectura](manejo-a6700/13-calle-y-arquitectura.md): el 25 mm con el **enfoque por zonas**, y [los maestros de la calle](conceptos/11-los-maestros.md#calle).
+- 🏛️ *Quiero fotografiar edificios sin que se caigan* → [Calle y arquitectura · Arquitectura](manejo-a6700/13-calle-y-arquitectura.md#las-verticales-por-qué-se-caen-y-cómo-evitarlo) y [Retoques 8.4](retoques/08-paisaje.md#84-ciudad-calle-y-arquitectura).
 - 🎯 *¿Dónde enfoco para que salga todo nítido?* → [La hiperfocal, explicada](conceptos/05-optica.md#5--la-hiperfocal-todo-nítido-de-cerca-al-infinito).
-- 🙂 *Retratos o interiores con poca luz* → [El Viltrox 25 mm](manejo-a6700/15-viltrox-25mm.md).
-- 🔎 *¿Qué es esta línea del menú?* → [El menú completo](manejo-a6700/18-menu-completo.md).
+- 🙂 *Retratos o interiores con poca luz* → [El Viltrox 25 mm](manejo-a6700/16-viltrox-25mm.md).
+- 🔎 *¿Qué es esta línea del menú?* → [El menú completo](manejo-a6700/20-menu-completo.md).
 - 📊 *No sé si la foto está bien expuesta* → [El histograma](conceptos/03-histograma.md).
-- 🦁 *Voy de safari* → [Safari diurno](manejo-a6700/06-safari-diurno.md) para disparar y [Retoques · Safari](retoques/07-safari.md) para editar.
-- 🌌 *Quiero la Vía Láctea* → [Astrofotografía](manejo-a6700/09-astrofotografia-namibia.md) para disparar y [Retoques · Noche](retoques/09-noche.md) para editar.
+- 🦁 *Voy de safari* (sabana, delta, río o bosque) → [Safari de día](manejo-a6700/06-safari-diurno.md) y [fauna de noche](manejo-a6700/07-fauna-de-noche.md) para disparar, y [Retoques · Safari](retoques/07-safari.md) para editar.
+- 🐦 *Quiero fotografiar aves en España* → [Aves](manejo-a6700/08-aves.md): el alcance, los *hides* y el vuelo.
+- 🛒 *¿Qué compro ahora?* → [Mejoras de equipo](manejo-a6700/18-mejoras-de-equipo.md).
+- 🌌 *Quiero la Vía Láctea* → [Astrofotografía](manejo-a6700/10-astrofotografia.md) para disparar y [Retoques · Noche](retoques/09-noche.md) para editar.
 - 🎨 *Ya tengo las fotos, ¿y ahora?* → [El flujo base en Luminar](retoques/04-flujo-base.md).
 - 👁️ *Quiero aclarar los ojos, abrir una sombra u oscurecer el cielo* → [Ajustes locales](retoques/05-ajustes-locales.md), desde cero: qué, cómo y qué significa para la foto.
 - 🧠 *Quiero entender por qué funcionan las recetas* → [Por qué funciona](conceptos/09-por-que-funciona.md) y [La mirada](conceptos/10-la-mirada.md).
@@ -211,11 +228,18 @@ flowchart LR
 - 📈 *Quiero mejorar y no sé qué practicar* → [Cómo mejorar](conceptos/12-como-mejorar.md): tu diagnóstico, la escalera de cada tema y un plan de doce semanas.
 - ✈️ *Salgo pronto* → imprime la [chuleta](pdf/chuleta.pdf) y la [verificación in situ](pdf/verificacion-in-situ.pdf).
 
+## 🔎 Para revisar el repo
+
+- [NOVEDADES](NOVEDADES.md): qué ha cambiado y cuándo.
+- [PENDIENTES](PENDIENTES.md): lo que solo tú puedes comprobar, con un resumen al principio.
+- [Informes](informes/README.md) y [notas de investigación](notas-de-investigacion/README.md): de dónde sale cada dato.
+- `python3 tools/comprobar.py`: enlaces, anclas, numeración, recuentos y chuletas, en un minuto.
+
 ## 🎯 Sobre la precisión
 
 > Lo que solo tú puedes comprobar (en la cámara, en los objetivos o en Luminar) está en **[PENDIENTES.md](PENDIENTES.md)**.
 
-- **Manejo de la a6700:** las guías describen **cómo está configurada la cámara**. Los nombres de menú, las rutas y los datos técnicos están verificados con la [Guía de ayuda oficial de Sony](https://helpguide.sony.net/ilc/2320/v1/es/) (edición 5-051-980-47(1), que ya recoge el firmware 2.00 de la cámara): [79 de 79 rutas correctas](manejo-a6700/19-verificacion-de-menus.md), con 11 subopciones pendientes de confirmar en la cámara. Los menús se escriben **abreviados, como aparecen en pantalla** (`Calid. img/grab.`, `AF c/obturador`, `Rec. motivo en AF`…).
+- **Manejo de la a6700:** las guías describen **cómo está configurada la cámara**. Los nombres de menú, las rutas y los datos técnicos están verificados con la [Guía de ayuda oficial de Sony](https://helpguide.sony.net/ilc/2320/v1/es/) (edición 5-051-980-47(1), que ya recoge el firmware 2.00 de la cámara): [79 de 79 rutas correctas](manejo-a6700/21-verificacion-de-menus.md), con 11 subopciones pendientes de confirmar en la cámara. Los menús se escriben **abreviados, como aparecen en pantalla** (`Calid. img/grab.`, `AF c/obturador`, `Rec. motivo en AF`…).
 - **Retoques:** cada herramienta y atajo de Luminar está comprobado con la [documentación de Skylum](https://support.skylum.com/). Lo que la documentación no dice, la guía lo indica en lugar de suponerlo.
 - **Valores:** las cifras de los deslizadores y de las recetas son puntos de partida, no verdades. Las [recetas de Luminar](retoques/10-recetas.md) están marcadas como provisionales hasta probarlas con fotos reales.
 

@@ -6,6 +6,8 @@
 
 # 20. Fuentes
 
+> ✅ **Fuentes** · Da por sabido: nada · Te desbloquea: comprobar de dónde sale cada dato de esta guía.
+
 Los nombres de las herramientas, los controles, los atajos y los límites técnicos de esta guía se han comprobado con la documentación oficial de Skylum (noviembre de 2026). Los valores numéricos de ajuste son **recomendaciones de esta guía**, no de Skylum.
 
 **General**

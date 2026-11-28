@@ -13,6 +13,55 @@ noche). Regla universal: **el borde derecho es sagrado** — lo que lo toca es
 blanco quemado irrecuperable; el izquierdo perdona más, porque el RAW levanta
 sombras. A partir de ahí, cada escenario tiene su forma "buena".
 
+## Acabas de disparar: qué mirar en 10 segundos
+
+La pantalla sola engaña: al sol parece oscura, de noche parece clara, y a ese
+tamaño todo parece nítido. Con **la primera foto de cada escena** (no con
+todas), cuatro miradas en este orden:
+
+1. **El histograma** (2 s). Pulsa ▶ y **DISP** hasta la vista con histograma.
+   - ¿**Toca el borde derecho**? Si lo que toca tiene detalle (cielo, plumas,
+     piel, nieve), la siguiente con **−0,3 a −0,7**. Si es el sol, una farola o
+     un reflejo, da igual.
+   - ¿**Parpadea** algo? En esta vista, las zonas quemadas y las empastadas
+     parpadean sobre la foto: mira **qué** parpadea.
+   - ¿La montaña está **donde toca para esta escena**? (las formas de abajo).
+     Toda a la izquierda sin ser de noche ni una silueta: **+0,7**.
+2. **La nitidez al 100 %** (3 s). **Gira la rueda de control**: la cámara
+   amplía sola **sobre el punto donde enfocó**. Mira el ojo, la estrella o el
+   cartel:
+   - **Desenfocada**: otra cosa está nítida (una rama, la oreja) → el AF.
+   - **Movida**: bordes dobles o arrastrados en una dirección → más velocidad.
+   - **Toda blanda**: el trípode vibró, f/16 (difracción) o algo en el
+     objetivo.
+   - Con el **dial delantero o el trasero** pasas a la foto siguiente **sin
+     perder la ampliación**: una ráfaga entera, revisada en diez segundos.
+3. **Los bordes** (2 s). Vuelve a la vista completa: ¿una rama que sale de una
+   cabeza? ¿el horizonte torcido? ¿algo cortado (las patas, la trompa, la
+   torre)? ¿una mancha oscura fija en el cielo (polvo)?
+4. **El color y el momento** (2 s). ¿El color es el de la escena o la luz lo
+   ha teñido (balance de blancos)? ¿El gesto está en su punto (ojos abiertos,
+   ala arriba, pie en el aire)?
+
+**Lo que cambia según la foto:**
+
+| Foto | Mira sobre todo | Si falla |
+|---|---|---|
+| Fauna y aves | El **ojo al 100 %**; el fondo claro, sin tocar la derecha | `Punto` en el ojo; +0,7 con fondo claro |
+| Fauna de noche con focos | **Franjas** al 100 %; el animal sin quemar; el color | Obturador mecánico; −0,7; Kelvin |
+| Estrellas | **Una estrella al 100 %**: un punto; la montaña en el primer tercio | Reenfocar con la lupa; ISO 3200 |
+| Estelas y hora azul | Los **edificios** nítidos al 100 %; el cielo sin tocar la derecha | Temporizador de 2 s; menos tiempo o ND |
+| Calle | La persona **dentro de la zona**: ¿nítida? | Zona a otra distancia, o f/11 |
+| Arquitectura | Las **verticales** contra la cuadrícula; las ventanas que parpadean | El nivel; horquillado |
+| Time-lapse | **La primera foto entera**, antes de lanzar la serie | Corrígelo ya: luego no se puede |
+| Paisaje | El primer plano **y** el horizonte al 100 % | Enfoca algo más lejos (la [hiperfocal](05-optica.md#5--la-hiperfocal-todo-nítido-de-cerca-al-infinito)) |
+
+**Y tres costumbres:** revisa la primera de cada escena y vuelve a mirar a la
+cámara, no a la pantalla; marca las buenas con `Valoración` para encontrarlas
+luego ([el primer día](../manejo-a6700/02-menus-y-primer-dia.md)); y **no
+borres en la cámara**: la criba se hace en casa, en una pantalla grande
+([cómo mejorar](12-como-mejorar.md#el-método-el-bucle-de-una-semana)).
+
 ## Safari diurno
 
 ```
@@ -23,7 +72,7 @@ sombras. A partir de ahí, cada escenario tiene su forma "buena".
 ```
 
 - Montaña ancha por el centro, **sin tocar ningún borde**.
-- Caso típico de Etosha: animal oscuro sobre calcreta clara → **dos jorobas**
+- Caso típico de safari: animal oscuro sobre suelo claro (arena, sal, barro seco) → **dos jorobas**
   (animal a la izquierda, fondo a la derecha). Expón para que la joroba
   derecha se acerque al borde **sin tocarlo** (compensación +0.7/+1): el
   animal quedará levantable en edición.
@@ -40,9 +89,10 @@ sombras. A partir de ahí, cada escenario tiene su forma "buena".
 
 - Montaña que **usa casi todo el ancho** sin tocar bordes: la escena tiene
   negros, medios y blancos. Es el histograma "de libro".
-- Amanecer en Deadvlei o interior de Kolmanskop: si para no quemar la derecha
+- Amanecer con el cielo encendido y el suelo en sombra, o un interior con
+  ventanas: si para no quemar la derecha
   tienes que empotrar la izquierda (no cabe todo), la escena supera al sensor
-  → **horquillado ±2 EV** ([guía de paisaje](https://github.com/morandeirachema/a6700-namibia/blob/main/tecnica/paisaje-namibia.md)).
+  → **horquillado ±2 EV** y HDR Merge ([retoques 12.1](../retoques/12-varias-fotos.md#121-hdr-merge)).
 - **Excepción deliberada — siluetas al atardecer**: pico pegado al borde
   izquierdo (las siluetas negras) + joroba a la derecha (el cielo). Aquí el
   amontonamiento a la izquierda no es un error, es la foto.
@@ -100,7 +150,7 @@ sombras. A partir de ahí, cada escenario tiene su forma "buena".
 - **Con polvo a contraluz** el pico izquierdo se ensancha y sube hacia el
   centro: es la luz atravesando las partículas. Perfecto.
 
-## Clave alta: mediodía sobre la calcreta
+## Clave alta: mediodía sobre un suelo blanco
 
 ```
 │              ▄▄███████│
@@ -110,10 +160,10 @@ sombras. A partir de ahí, cada escenario tiene su forma "buena".
 ```
 
 - **Casi todo amontonado a la derecha, sin llegar a tocar el borde.** Es el
-  histograma que parece "mal expuesto" y no lo es: el pan de Etosha **es**
-  blanco.
+  histograma que parece "mal expuesto" y no lo es: una llanura de sal o
+  de arena blanca **es** blanca.
 - El medidor querrá oscurecerlo hasta gris: compensa **+2/3 a +1** y
-  comprueba con el **Zebra 100+** que la calcreta raya solo en los brillos
+  comprueba con el **Zebra 100+** que el suelo raya solo en los brillos
   puntuales, no en toda la superficie.
 - Es la receta de la foto en clave alta que luego se convierte a blanco y
   negro ([edición](../retoques/README.md)).
@@ -153,8 +203,8 @@ sombras. A partir de ahí, cada escenario tiene su forma "buena".
 | Tipo de foto | Dónde va la masa | Compensación de partida |
 |---|---|---|
 | Safari, luz normal | Centro ancho, sin tocar bordes | 0 |
-| Animal oscuro sobre calcreta | Dos jorobas; la derecha cerca del borde | **+0.7 / +1** |
-| Mediodía en el pan (clave alta) | Casi todo a la derecha | **+2/3 a +1** |
+| Animal oscuro sobre suelo claro | Dos jorobas; la derecha cerca del borde | **+0.7 / +1** |
+| Mediodía sobre suelo blanco (clave alta) | Casi todo a la derecha | **+2/3 a +1** |
 | Silueta y contraluz | Dos picos, valle en medio | **−1 / −1.7** |
 | Ave contra cielo claro | Pico del cielo a la derecha | **+1** |
 | Retrato de persona | La piel en el centro-derecha | **+0.7 / +1** |

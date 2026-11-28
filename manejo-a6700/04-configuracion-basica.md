@@ -9,7 +9,7 @@
 > 🔵 **Básico** · Da por sabido: los capítulos 1 y 2 · Te desbloquea: dejar la cámara lista para el viaje y no volver a configurarla.
 
 > **Todos los ajustes con su ruta exacta de menú, fauna y noche en dos
-> columnas**: [la referencia de ajustes](17-ajustes-a6700.md).
+> columnas**: [la referencia de ajustes](19-ajustes-a6700.md).
 
 > Si vienes del móvil y los términos (obturación, ISO, modo M) aún te bailan,
 > empieza por el [capítulo 1](01-de-movil-a-la-a6700.md): 10 minutos y listo.
@@ -30,7 +30,7 @@ objetivo montado en la cámara**, conectándola al ordenador por USB con el
 actualizador de la misma web de soporte (busca "SEL11F18" y "SEL70350G").
 El 70-350 es **prestado**: su dueño ya dio permiso para actualizar el suyo.
 El **Viltrox 25 mm** no se actualiza desde Sony: tiene un puerto **USB-C** en
-la montura para su firmware ([su guía](15-viltrox-25mm.md)).
+la montura para su firmware ([su guía](16-viltrox-25mm.md)).
 Hazlo en casa, con todo cargado, y no vuelvas a pensar en ello.
 
 ## Ajustes generales recomendados
@@ -92,7 +92,7 @@ Compruébalo: en M, el delantero mueve la velocidad. La botonera completa
   asígnala a C1. No está en ningún menú: solo existe como función de botón,
   y solo funciona con el enfoque en MF.
   Amplifica la pantalla en plena oscuridad para poder **componer la Vía Láctea viéndola** — la joya
-  nocturna de esta cámara ([capítulo 9](09-astrofotografia-namibia.md)).
+  nocturna de esta cámara ([capítulo 10](10-astrofotografia.md)).
 - **Botón Fn**: la pantalla rápida con los ajustes del día a día, editables.
 - **Pantalla táctil**: toca al animal y el seguimiento se engancha a él;
   vuelve a tocar para soltarlo.
@@ -181,7 +181,7 @@ Este capítulo se aprueba con la cámara en la mano, no leyéndolo:
 2. **Los diales intercambiados** (delantero = velocidad) y la botonera de
    [diales y botones](03-diales-y-botones.md).
 3. **La tabla de ajustes generales**, uno a uno, con la
-   [referencia de ajustes](17-ajustes-a6700.md) al lado para la
+   [referencia de ajustes](19-ajustes-a6700.md) al lado para la
    ruta exacta. Tacha cada fila.
 4. **El pulgar**: `AF c/obturador` en Desactivar y cincuenta fotos por
    casa enfocando solo con AF-ON.

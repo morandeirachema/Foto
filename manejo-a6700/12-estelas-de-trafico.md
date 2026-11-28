@@ -1,10 +1,10 @@
 <!-- nav -->
-[← Anterior](10-time-lapse-del-cielo.md) · [Índice](README.md) · [Siguiente →](12-calle-y-arquitectura.md)
+[← Anterior](11-time-lapse-del-cielo.md) · [Índice](README.md) · [Siguiente →](13-calle-y-arquitectura.md)
 <!-- /nav -->
 
 *Parte II · Recetas · La ciudad y la casa*
 
-# 11. Estelas de tráfico — los coches convertidos en ríos de luz
+# 12. Estelas de tráfico — los coches convertidos en ríos de luz
 
 > 🟢 **Iniciación** → 🔵 básico al apilar · Da por sabido: los tres números ([capítulo 1](01-de-movil-a-la-a6700.md)) y montar el trípode · Te desbloquea: la foto nocturna de ciudad con estelas blancas y rojas, en una sola toma larga o juntando varias, y entender de verdad qué hace la velocidad de obturación.
 
@@ -36,7 +36,7 @@ Es el mejor ejercicio para entender la velocidad de obturación
 - **Opcional**: un filtro **ND8** (3 pasos; 15–25 €) si quieres exposiciones
   de 30 s en la hora azul. El 11 mm tiene rosca de 55 mm y el Viltrox de
   52 mm; el truco del anillo para usar un solo filtro en los tres objetivos
-  está en el [capítulo 14](14-equipo-accesorios.md). De noche, **quita el
+  está en el [capítulo 15](15-equipo-accesorios.md). De noche, **quita el
   filtro protector** si llevas uno: con farolas en el encuadre da reflejos.
 
 ## Cuándo
@@ -177,7 +177,7 @@ queda como en una sola foto.
   inmóvil toda la exposición, o saldrá transparente. Con 2–4 s y luz de una
   farola sobre ella, sale.
 - **Desde casa**: si ves una calle desde la ventana o el balcón, tienes
-  estudio de estelas sin salir ([capítulo 13](13-fotos-en-casa.md)).
+  estudio de estelas sin salir ([capítulo 14](14-fotos-en-casa.md)).
 
 ## Si sale mal…
 
@@ -229,5 +229,5 @@ todo), y sabes explicar qué cambió entre la foto de 5 s y la de 30 s.
 - PhotoPills (hora azul y puesta de sol): <https://www.photopills.com/>
 
 <!-- nav -->
-[← Anterior](10-time-lapse-del-cielo.md) · [Índice](README.md) · [Siguiente →](12-calle-y-arquitectura.md)
+[← Anterior](11-time-lapse-del-cielo.md) · [Índice](README.md) · [Siguiente →](13-calle-y-arquitectura.md)
 <!-- /nav -->

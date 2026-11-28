@@ -6,10 +6,12 @@
 
 # 8. Cuaderno de composición — 20 ejercicios, para imprimir y tachar
 
+> 🔵 **Básico** · Da por sabido: [composición](06-composicion.md) y [el atlas](07-atlas-de-encuadres.md) · Te desbloquea: veinte ejercicios en escalera para entrenar la mirada, para imprimir y tachar.
+
 Veinte ejercicios en escalera, del más tonto al más difícil. Cada uno tiene
 un **criterio de aprobado**: o lo cumples o no, sin opinión. Se hacen con
 cualquier bicho —un pato del parque, el perro de un amigo, las gaviotas del
-puerto— y ninguno necesita Namibia.
+puerto— y ninguno necesita un safari.
 
 **Cómo se usa**: uno o dos por sesión, en orden. No pases al siguiente
 bloque hasta tener el anterior entero. Los encuadres numerados son los del

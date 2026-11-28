@@ -6,6 +6,8 @@
 
 # 7. Safari (fauna)
 
+> 🔵 **Básico** · Da por sabido: el [flujo base](04-flujo-base.md) · Te desbloquea: la foto de fauna terminada: el ojo, el pelaje, el fondo y el color de la luz.
+
 ## 7.1. Problemas típicos
 
 | Problema | Por qué ocurre |

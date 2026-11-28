@@ -13,7 +13,7 @@ contrario: **casi nada se cambia en el menú**. Se cambia con dos diales, una
 rueda y siete botones, y cada uno hace una cosa distinta según el modo en
 que estés, en reproducción o en el menú. Esta guía es el mapa de todos los
 mandos, lo que hace cada uno en cada situación, **la botonera que dejas
-configurada para Namibia**, y el ejercicio para manejarla a ciegas. Todo
+configurada para el viaje**, y el ejercicio para manejarla a ciegas. Todo
 verificado contra la Guía de ayuda oficial de Sony (octubre de 2026).
 
 > ⚠️ **Lo primero, porque cambia todo el repo**: de fábrica, en M, el **dial
@@ -208,7 +208,7 @@ Dos reglas que se olvidan: **el interruptor AF/MF del objetivo manda** sobre
 el `Modo de enfoque` del menú, y con el 70-350 **el OSS del objetivo manda**
 sobre el `SteadyShot` del menú. Si "la cámara no enfoca" o "el estabilizador
 no se apaga", mira primero el barrilete. Con el **Viltrox** no hay
-interruptor: manda el menú ([su guía](15-viltrox-25mm.md)). El botón de retención es
+interruptor: manda el menú ([su guía](16-viltrox-25mm.md)). El botón de retención es
 reasignable desde `Ajuste t. pers./dial`, pero la asignación es de la
 cámara, no del objetivo: vale para los dos a la vez. Déjalo como viene.
 
@@ -228,7 +228,7 @@ flowchart LR
     H -->|sí| J([Serie o siguiente encuadre])
 ```
 
-En Etosha a las once de la noche, con la frontal en rojo o apagada, estos son
+En un campamento a las once de la noche, con la frontal en rojo o apagada, estos son
 los gestos que deben salir solos. Toca cada mando en casa con los ojos
 cerrados hasta que salgan:
 
@@ -294,7 +294,7 @@ menos de diez.
 - Ampliar en reproducción: <https://helpguide.sony.net/ilc/2320/v1/es/contents/0501C_playback_zoom.html>
 - Mem. ajustes cám: <https://helpguide.sony.net/ilc/2320/v1/es/contents/0413_setting_memory.html>
 - Guía en la cámara: <https://helpguide.sony.net/ilc/2320/v1/es/contents/0105C_in_camera_guide.html>
-- El menú completo, línea a línea: [referencia/17-menu-completo.md](18-menu-completo.md)
+- El menú completo, línea a línea: [referencia/17-menu-completo.md](20-menu-completo.md)
 
 <!-- nav -->
 [← Anterior](02-menus-y-primer-dia.md) · [Índice](README.md) · [Siguiente →](04-configuracion-basica.md)

@@ -1,16 +1,16 @@
 <!-- nav -->
-[← Anterior](16-af-y-exposicion-a-fondo.md) · [Índice](README.md) · [Siguiente →](18-menu-completo.md)
+[← Anterior](18-mejoras-de-equipo.md) · [Índice](README.md) · [Siguiente →](20-menu-completo.md)
 <!-- /nav -->
 
 *Parte IV · Referencia*
 
-# 17. Todos los ajustes de la a6700 — el manual de tu cámara, con tus valores
+# 19. Todos los ajustes de la a6700 — el manual de tu cámara, con tus valores
 
 > 🟢 **Iniciación** · Da por sabido: el [capítulo 2](02-menus-y-primer-dia.md) (cómo se navega el menú) · Te desbloquea: dejar de buscar ajustes y saber exactamente dónde está cada uno y qué valor lleva.
 
 El resto del repo te da los valores repartidos por escenario. Esto es la
 **referencia única** (y si quieres **el menú entero**, también lo que no
-toca este viaje, está en [el menú completo](18-menu-completo.md)): cada ajuste que toca este viaje, con su **ruta exacta
+toca este viaje, está en [el menú completo](20-menu-completo.md)): cada ajuste que toca este viaje, con su **ruta exacta
 de menú**, el valor para **fauna** y el valor para **noche**, y por qué. Para
 consultar, no para leer de seguido.
 
@@ -72,13 +72,13 @@ Esto se hace en casa, antes de salir, y no se vuelve a mirar en todo el viaje.
 | Ajuste | Ruta | Valor | Por qué |
 |---|---|---|---|
 | **Formato archivo** | `Toma → [Calid. img/grab.] → [Formato archivo]` | **RAW** | Todo el revelado del repo asume RAW |
-| **Tipo archivo RAW** | `Toma → [Calid. img/grab.] → [Tipo archivo RAW]` | **`C. sin pérd.`** (comprimido sin pérdida) | Máxima calidad… y ojo: es el que deja el búfer en **23 fotos** (ver [equipo](14-equipo-accesorios.md)) |
+| **Tipo archivo RAW** | `Toma → [Calid. img/grab.] → [Tipo archivo RAW]` | **`C. sin pérd.`** (comprimido sin pérdida) | Máxima calidad… y ojo: es el que deja el búfer en **23 fotos** (ver [equipo](15-equipo-accesorios.md)) |
 | **RR exposic. larga** | `Toma → [Calid. img/grab.] → [RR exposic. larga]` | **Desactivar** | Si no, tras cada foto de 20 s la cámara se pasa otros 20 s en negro: adiós star trails |
 | **RR ISO Alta** | `Toma → [Calid. img/grab.] → [RR ISO Alta]` | **Bajo / Desactivar** | Solo afecta al JPEG; el ruido del RAW lo arreglas mucho mejor en casa |
 | **Visualizac. cebra** | `Exposición/color → [Visualizac. cebra] → [Visualizac. cebra]` | **Activar** | Tu única alarma de quemados **en vivo** |
 | **Nivel de cebra** | `Exposición/color → [Visualizac. cebra] → [Nivel de cebra]` | **100 IRE o +** | Raya solo lo que ya está perdido, no lo que está claro |
 | **Idioma** | `Ajustes → [Área/fecha] → [Idioma]` | Español | — |
-| **Área / fecha / hora** | `Ajustes → [Área/fecha] → [Aj. área/fecha/hora]` | Hora de **Namibia** al aterrizar | Ordenar 4.000 fotos por hora depende de esto |
+| **Área / fecha / hora** | `Ajustes → [Área/fecha] → [Aj. área/fecha/hora]` | La hora **del destino** al aterrizar | Ordenar 4.000 fotos por hora depende de esto |
 | **Formatear** | `Toma → [Soporte] → [Formatear]` | Cada tarjeta nueva, **en la cámara** | Y **nunca más** durante el viaje: las tarjetas son tu segunda copia |
 | **Liberar sin tarj. mem.** | `Toma → [Obturad./silenc.] → [Liberar sin tarj. mem.]` | **Inhabilitar** | De fábrica dispara sin tarjeta y **no guarda nada** |
 | **Diales en M** | `Ajustes → [Personal. operac.] → [Ajuste t. pers./dial]` | **Dial frontal = `Velocidad obturador`**, **dial trasero = `Abertura`** | De fábrica es al revés; todo el repo cuenta con la velocidad en el delantero ([diales y botones](03-diales-y-botones.md)) |
@@ -124,7 +124,7 @@ solo tocas la rueda delantera.
 | **Sens. Seguim. AF** | `Enfoque → [AF/MF] → [Sens. Seguim. AF]` | **3** (estándar) · **1** con hierba delante · **4–5** en persecución | 1 = tozudo, 5 = saltarín |
 | **Modo manejo** | `Toma → [Modo de manejo] → [Modo manejo]` | **`Captura contin.`** en **Hi+** | 11 fps (~10 en RAW sin pérdida). En Hi+ el visor no va en vivo durante la ráfaga: si te cuesta seguir, baja a Hi |
 | **SteadyShot** | `Toma → [Estabiliz. de img] → [SteadyShot]` | **Activar** (con el 70-350 manda solo el interruptor **OSS** del objetivo: ponlo en ON) | A pulso y desde la ventanilla |
-| **Modo medición** | `Exposición/color → [Medición] → [Modo medición]` | **Multi** de partida · **Puntual** vinculada al AF para el nivel avanzado (`[Medición] → [Punto med. punt.] → Vínc. punto enf.`; el vínculo exige área `Punto`: con Zona, la puntual mide en el centro) | El detalle, en [AF y exposición a fondo](16-af-y-exposicion-a-fondo.md) |
+| **Modo medición** | `Exposición/color → [Medición] → [Modo medición]` | **Multi** de partida · **Puntual** vinculada al AF para el nivel avanzado (`[Medición] → [Punto med. punt.] → Vínc. punto enf.`; el vínculo exige área `Punto`: con Zona, la puntual mide en el centro) | El detalle, en [AF y exposición a fondo](17-af-y-exposicion-a-fondo.md) |
 | **Balance blanco** | `Exposición/color → [Balance blancos] → [Balance blanco]` | **Luz diurna** o K fijo | Es RAW: se cambia después sin coste |
 
 **Guardarlo**: `Toma → [Modo de toma] → [Mem. ajustes cám]` → **1**.
@@ -135,7 +135,7 @@ solo tocas la rueda delantera.
 
 Las tres son distintas de verdad: no intentes cubrirlas con una sola memoria.
 
-### C1, charca nocturna (Okaukuejo, Halali, Onguma)
+### C1, charca nocturna con focos
 
 ```
 ┌─ Toma ─────────────────────────────────────────────┐
@@ -181,9 +181,9 @@ Las tres son distintas de verdad: no intentes cubrirlas con una sola memoria.
 | **RR exposic. larga** | `Toma → [Calid. img/grab.] → [RR exposic. larga]` | **Desactivar** (crítico en series) |
 | **SteadyShot** | `Toma → [Estabiliz. de img] → [SteadyShot]` | **Desactivar** |
 | **Modo manejo** | `Toma → [Modo de manejo] → [Modo manejo]` | **`Autodisp.(senc)`** de **2 s** |
-| **Star trails** | `Toma → [Modo de manejo] → [Func. capt. interv.]` | 30 s de exposición · intervalo **31 s** · 90–180 tomas ([estrellas con la tierra dentro](08-estrellas-con-tierra.md)) |
-| **Timelapse del cielo** | `Toma → [Modo de manejo] → [Func. capt. interv.]` | 15 s de exposición · intervalo **17 s** · 300 tomas ([capítulo 10](10-time-lapse-del-cielo.md)) |
-| **Estelas de tráfico** | `Toma → [Modo de manejo] → [Func. capt. interv.]` (para apilar) | 15 s de exposición · intervalo **17 s** · 20 tomas, f/8 e ISO 100 ([capítulo 11](11-estelas-de-trafico.md)) |
+| **Star trails** | `Toma → [Modo de manejo] → [Func. capt. interv.]` | 30 s de exposición · intervalo **31 s** · 90–180 tomas ([estrellas con la tierra dentro](09-estrellas-con-tierra.md)) |
+| **Timelapse del cielo** | `Toma → [Modo de manejo] → [Func. capt. interv.]` | 15 s de exposición · intervalo **17 s** · 300 tomas ([capítulo 11](11-time-lapse-del-cielo.md)) |
+| **Estelas de tráfico** | `Toma → [Modo de manejo] → [Func. capt. interv.]` (para apilar) | 15 s de exposición · intervalo **17 s** · 20 tomas, f/8 e ISO 100 ([capítulo 12](12-estelas-de-trafico.md)) |
 
 **Guardarlo**: `Toma → [Modo de toma] → [Mem. ajustes cám]` → **2**.
 
@@ -215,7 +215,7 @@ Estos tres son los que vas a querer a mano. Mételos en el **menú Fn** y en
   (de fábrica) y **C3 = `Amplific. enfoque`**. La **Guía en la cámara** no
   necesita botón: selecciona una línea del menú y pulsa C3.
 - Todos los botones y diales, uno a uno: [diales y botones](03-diales-y-botones.md).
-- Todo el menú, no solo lo del viaje: [el menú completo](18-menu-completo.md).
+- Todo el menú, no solo lo del viaje: [el menú completo](20-menu-completo.md).
 
 ---
 
@@ -237,7 +237,7 @@ formatearla.
 
 ## Con el Viltrox 25 mm montado
 
-El Viltrox **no tiene interruptor AF/MF**: con él, manda `Enfoque → [AF/MF] → [Modo de enfoque]` (para MF, `Enfoque man.`). Para cambiar rápido, asigna **`Alter. select. AF/MF`** a un botón libre en `Ajustes → [Personal. operac.] → [Ajuste t. pers./dial]`. Si cargas **MR2** (astro) con el Viltrox, comprueba en pantalla que la cámara queda en MF. Todo en [su guía](15-viltrox-25mm.md).
+El Viltrox **no tiene interruptor AF/MF**: con él, manda `Enfoque → [AF/MF] → [Modo de enfoque]` (para MF, `Enfoque man.`). Para cambiar rápido, asigna **`Alter. select. AF/MF`** a un botón libre en `Ajustes → [Personal. operac.] → [Ajuste t. pers./dial]`. Si cargas **MR2** (astro) con el Viltrox, comprueba en pantalla que la cámara queda en MF. Todo en [su guía](16-viltrox-25mm.md).
 
 ## Si un ajuste no aparece
 
@@ -309,5 +309,5 @@ python3 manejo-a6700/img/menus/insertar.py
 - Guía de ayuda completa: <https://helpguide.sony.net/ilc/2320/v1/es/>
 
 <!-- nav -->
-[← Anterior](16-af-y-exposicion-a-fondo.md) · [Índice](README.md) · [Siguiente →](18-menu-completo.md)
+[← Anterior](18-mejoras-de-equipo.md) · [Índice](README.md) · [Siguiente →](20-menu-completo.md)
 <!-- /nav -->

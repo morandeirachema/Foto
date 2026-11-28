@@ -6,6 +6,8 @@
 
 # 9. Fotografía nocturna
 
+> 🔵 **Básico** → 🔴 · Da por sabido: el [flujo base](04-flujo-base.md) · Te desbloquea: estrellas, Vía Láctea, focos, fuego y luna sin ruido ni colores falsos, y apilar una serie.
+
 ## 9.1. Antes de empezar
 
 La fotografía nocturna es la que **más sufre en JPEG**: mucho ruido, sombras muy oscuras y una reducción de ruido de la cámara que puede haber borrado estrellas débiles. Se puede mejorar mucho, pero con expectativas realistas.

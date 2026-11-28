@@ -6,6 +6,8 @@
 
 # 5. Ajustes locales: aclarar u oscurecer solo una parte
 
+> 🔵 **Básico** · Da por sabido: el [flujo base](04-flujo-base.md) · Te desbloquea: aclarar u oscurecer solo una parte (los ojos, una sombra, el cielo) sin que se note.
+
 Hasta ahora, cada ajuste cambiaba **toda** la foto. Este capítulo enseña a cambiar **solo una zona**: aclarar los ojos de un animal, abrir una sombra bajo su cabeza u oscurecer un cielo que distrae. Está pensado para quien empieza de cero. Cada caso explica **qué** quieres conseguir, **cómo** se hace en Luminar clic a clic y **qué significa técnicamente** para la foto.
 
 > **Antes de empezar:** haz primero el flujo base completo ([sección 4](04-flujo-base.md)). Los ajustes locales son el **último retoque** sobre una foto que ya está bien en conjunto. Si la foto entera está oscura, se arregla con **Develop**, no zona a zona.

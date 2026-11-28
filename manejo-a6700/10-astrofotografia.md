@@ -1,31 +1,27 @@
 <!-- nav -->
-[← Anterior](08-estrellas-con-tierra.md) · [Índice](README.md) · [Siguiente →](10-time-lapse-del-cielo.md)
+[← Anterior](09-estrellas-con-tierra.md) · [Índice](README.md) · [Siguiente →](11-time-lapse-del-cielo.md)
 <!-- /nav -->
 
 *Parte II · Recetas · El cielo de noche*
 
-# 9. Astrofotografía en Namibia con la a6700 — paso a paso
+# 10. Astrofotografía — la noche completa, paso a paso
 
 > 🔵 **Básico** · Da por sabido: el capítulo 4 (memoria MR2 guardada) · Te desbloquea: la Vía Láctea, las Nubes de Magallanes y los star trails.
 
-Namibia tiene algunos de los cielos más oscuros del planeta (NamibRand fue la
-primera Reserva Internacional de Cielo Oscuro de África, certificada en
-categoría Gold). De mayo a septiembre —estación seca— la Vía Láctea es
-visible gran parte de la noche.
+Los sitios de safari están lejos de las ciudades: sin luna, y alejándote de
+las luces del campamento, el cielo es de los más oscuros que vas a ver. En
+España también hay cielos muy oscuros, protegidos como **reservas y destinos
+Starlight** ([Fundación Starlight](https://fundacionstarlight.org/)), y un
+mapa de contaminación lumínica ([lightpollutionmap.info](https://www.lightpollutionmap.info/))
+te dice cuál te queda más cerca.
 
-> **Tu viaje es en noviembre y el cielo cambia**: el núcleo galáctico solo
-> asoma bajo, al OSO, los primeros ~45–75 min de oscuridad y **solo del 1 al
-> 10** (luego entra la luna en ese cielo); las protagonistas pasan a ser las
-> **Nubes de Magallanes**, Saturno y las Táuridas, y la Cruz del Sur no está
-> al anochecer. Las recetas y el enfoque de este capítulo valen igual; el
-> **plan de tus noches concretas** está en
-> [la mirada](../conceptos/10-la-mirada.md), el fino en
-> [estrellas con la tierra dentro](08-estrellas-con-tierra.md), y el catálogo completo de lo
-> fotografiable en tu ventana, objetivo a objetivo, en
-> [el cielo del viaje](https://github.com/morandeirachema/a6700-namibia/blob/main/plan/cielo-del-viaje.md).
-
-> ¿No es esta tu noche? [Fotografía nocturna: por dónde empezar](https://github.com/morandeirachema/a6700-namibia/blob/main/tecnica/fotografia-nocturna.md)
-> compara las cuatro noches del viaje (charca, astro, cielo con tierra y game drive) en una tabla.
+> **Tu cielo cambia con el sitio y la fecha.** Las recetas y el enfoque de
+> este capítulo valen en cualquier parte; lo que cambia es **qué hay** en el
+> cielo. El núcleo de la Vía Láctea culmina a unos 80° en Botswana, 55° en Sri
+> Lanka y 20° en el centro de España, y su temporada al anochecer va de abril a
+> septiembre. Las Nubes de Magallanes solo se ven bien desde el hemisferio sur.
+> El resumen está en [la mirada, de noche](../conceptos/10-la-mirada.md#y-de-noche-en-una-pantalla),
+> y el método desde cero, en [estrellas con la tierra dentro](09-estrellas-con-tierra.md).
 
 ## Receta rápida
 
@@ -44,7 +40,7 @@ visible gran parte de la noche.
 | `RR exposic. larga` | Desactivar |
 
 > Cada ajuste con su **ruta de menú**, en
-> [la referencia de ajustes](17-ajustes-a6700.md#c2-astro-la-receta-de-mr2).
+> [la referencia de ajustes](19-ajustes-a6700.md#c2-astro-la-receta-de-mr2).
 
 ## Antes de salir (checklist)
 
@@ -98,7 +94,7 @@ visible gran parte de la noche.
    Func.* en inglés): exposición de 15 s,
    intervalo de disparo 17 s (en Sony el intervalo se mide de inicio a
    inicio), 300 tomas ≈ 12 s de vídeo a 25 fps. Sin cables: le das a empezar y te
-   olvidas. Todo el time-lapse, paso a paso, en el [capítulo 10](10-time-lapse-del-cielo.md).
+   olvidas. Todo el time-lapse, paso a paso, en el [capítulo 11](11-time-lapse-del-cielo.md).
 9. Antes de recoger: revisa la última foto **ampliada al máximo** por si el
    enfoque se movió.
 
@@ -116,25 +112,24 @@ visible gran parte de la noche.
 
 La versión a fondo de las dos fotos con primer plano — la postal (cielo
 fijo con silueta) y los círculos sobre un objeto — está en
-[Estrellas con la tierra dentro](08-estrellas-con-tierra.md).
+[Estrellas con la tierra dentro](09-estrellas-con-tierra.md).
 
 ## Star trails (circumpolares del sur)
 
 El plan B perfecto para noches con algo de luna, y un éxito casi garantizado
 para un novato: círculos de estrellas girando sobre el paisaje.
 
-1. Apunta al **sur**: en el hemisferio sur el cielo gira alrededor del polo
-   sur celeste, que no tiene estrella brillante (y la Cruz del Sur, el truco
-   clásico, está bajo el horizonte en tus anocheceres). El polo queda a una
-   altura igual a tu latitud: ~24° en Sesriem, **~19° en Etosha** — el
-   centro de los círculos cae bajo, así que puedes meter un árbol o una
-   silueta en el mismo encuadre. Para clavarlo: brújula del móvil al sur y
-   **dos puños** con el brazo estirado por encima del horizonte (~10° cada
+1. Apunta **al polo**: al **sur** en el hemisferio sur (Botswana, el
+   Pantanal), donde el polo no tiene estrella brillante, y al **norte** en
+   España, donde lo marca la Estrella Polar. El polo queda a una altura igual
+   a tu latitud: unos 20° en Botswana, unos 40° en España. Cuanto más bajo,
+   más fácil meter un árbol o una silueta en el mismo encuadre. Para clavarlo: brújula del móvil hacia el polo y
+   **un puño por cada 10° de latitud** con el brazo estirado por encima del horizonte (~10° cada
    uno), o la realidad aumentada de PhotoPills (modo "Noche"). Con la
    cámara nivelada y el horizonte en el tercio bajo, el 11 mm abarca 71° de
    alto: el polo entra seguro. Las cuatro formas de encontrarlo — incluida
    la **prueba de giro** de 4 minutos con `Aj. temporiz. BULB` — están en
-   [Estrellas con la tierra dentro](08-estrellas-con-tierra.md).
+   [Estrellas con la tierra dentro](09-estrellas-con-tierra.md).
 2. Receta: **30 s, f/2.8, ISO 800–1600**, balance fijo 3900 K,
    reducción de ruido de larga exposición **OFF** (o cada foto irá seguida de
    30 s a oscuras y los arcos saldrán cortados), enfoque a las estrellas como
@@ -165,7 +160,7 @@ Dos caminos para el cielo en movimiento, ya montados en la cámara:
 - **Fotos por intervalos** (`Func. capt. interv.`, hasta 9999 tomas): la vía
   de máxima calidad — cada fotograma es un RAW que revelas y montas en vídeo
   en casa ([edición](../retoques/README.md)). Es la de las recetas de
-  este capítulo, y la del [time-lapse del cielo](10-time-lapse-del-cielo.md),
+  este capítulo, y la del [time-lapse del cielo](11-time-lapse-del-cielo.md),
   que lo explica entero: la cuenta de fotos, la serie del atardecer a la
   noche y cómo se monta el vídeo.
 - **Película time-lapse en cámara**: con el dial Foto/Vídeo/S&Q en **S&Q**
@@ -176,20 +171,19 @@ Dos caminos para el cielo en movimiento, ya montados en la cámara:
   minutos y recomienda `Func. capt. interv.` para series más largas. Es
   una cámara: o una serie u otra, no las dos a la vez.
 
-## Vía Láctea desde Etosha en noches sin luna
+## Vía Láctea desde un campamento en noches sin luna
 
-Tu caso concreto: noches de luna nueva encerrado en el campamento (las
-puertas cierran del atardecer al amanecer). Es un escenario buenísimo — sin
+El caso típico de un safari: noches de luna nueva dentro del campamento (en
+muchos parques no se puede salir de noche). Es un escenario buenísimo — sin
 luna el núcleo galáctico luce al máximo — con dos peculiaridades: no puedes
 salir a buscar primer plano, y dentro del recinto hay farolas y el resplandor
 de los focos de la charca.
 
 **La app: PhotoPills** (pago único, iOS/Android:
-<https://www.photopills.com/>; instalación, pins y manejo básico, en
-[las apps del viaje](https://github.com/morandeirachema/a6700-namibia/blob/main/referencia/apps-del-viaje.md)). Las tres pantallas que
+<https://www.photopills.com/>). Las tres pantallas que
 vas a usar:
 
-1. **Planificador**: pin sobre tu campamento (p. ej. Okaukuejo), activa la
+1. **Planificador**: pin sobre tu campamento, activa la
    capa de Vía Láctea y mueve la barra de tiempo: te dibuja sobre el mapa
    hacia dónde y a qué altura estará el arco y el núcleo galáctico cada hora
    de tu noche concreta. Hazlo en casa y apunta las horas buenas.
@@ -209,7 +203,7 @@ planificador sobre mapa.
    los focos de la charca. Los muros, depósitos y árboles del campamento te
    sirven para bloquear luces directas.
 2. Sin luna no hay paisaje iluminado: compón con **siluetas** contra el cielo
-   (la línea de mopanes, el depósito de agua de Okaukuejo). No ilumines tú el
+   (la línea de árboles, el depósito de agua del campamento). No ilumines tú el
    primer plano: en un campamento dormido no se hace.
 3. Ejecuta la receta y el enfoque a estrella de este capítulo, y las **10
    tomas para apilar** — con cielo de luna nueva es cuando el apilado más luce.
@@ -217,30 +211,32 @@ planificador sobre mapa.
    inclúyelo asumido como "amanecer falso" naranja en el horizonte; al
    apilar, la extracción de fondo (*Background extraction*) de Siril
    ([edición](../retoques/09-noche.md#apilar-una-serie-fuera-de-luminar)) suaviza el degradado.
-5. Remata la noche en el mirador de la charca ([capítulo 7](07-safari-nocturno-charcas.md)):
-   astro y rinocerontes en la misma salida.
+5. Remata la noche en el mirador de la charca ([capítulo 7](07-fauna-de-noche.md)):
+   astro y fauna en la misma salida.
 
-## Localizaciones destacadas
+## Elegir el sitio
 
-- **NamibRand / zona de Sossusvlei**: Reserva Internacional de Cielo Oscuro.
-  <https://darksky.org/places/namibrand-dark-sky-reserve/>
-- **Spitzkoppe**: arcos de granito como primer plano y acampada dentro
-  (camping comunitario: <https://spitzkoppe.com/>). No cae en la ruta de este
-  viaje — apuntada para el siguiente.
-- **Deadvlei/Sossusvlei**: la foto nocturna dentro está en la práctica vetada
-  (el permiso especial es muy difícil de conseguir); alojarse dentro de la
-  primera puerta (camping de Sesriem) solo adelanta la entrada ~1 h antes del
-  amanecer. Para la Vía Láctea, mejor Spitzkoppe o la zona de NamibRand.
-- **Bosque de árboles aljaba (Keetmanshoop)**: siluetas clásicas del cielo
-  austral. Tampoco cae en esta ruta — al sur, para otro viaje.
+- **Lejos de las luces**: el mapa de contaminación lumínica, y en el viaje,
+  el rincón del campamento más alejado de las farolas.
+- **Con algo que contar**: un árbol, una roca o una construcción con perfil
+  claro hacia donde estará la Vía Láctea o el polo, elegido **de día**.
+- **Por destino**:
+  - **Botswana y el Pantanal** (hemisferio sur): el núcleo alto en temporada
+    y las Nubes de Magallanes. En los humedales, **rocío y mosquitos**: banda
+    calefactora en el objetivo ([mejoras de equipo](18-mejoras-de-equipo.md#lo-que-te-falta-campo-por-campo))
+    y repelente lejos de la cámara (algunos atacan el plástico).
+  - **Sri Lanka** (cerca del ecuador): el núcleo alto, pero **nubes y humedad**
+    según el monzón: mira la previsión y ten el plan B de los círculos.
+  - **España**: las reservas Starlight y la temporada del núcleo, de abril a
+    septiembre; en invierno, el valor seguro son los círculos alrededor de la
+    Polar.
 
 ## Y el Pixel, mientras tanto
 
 Apoyado en una piedra o en un mini trípode, apuntando a **otra** parte del
 cielo, hace su foto astro de cuatro minutos y te deja además un
 mini-timelapse — sin que lo mires y sin robarte un solo ajuste de la Sony.
-Es la segunda vía del [plan noche a noche](https://github.com/morandeirachema/a6700-namibia/blob/main/plan/cielo-del-viaje.md), la
-de "pon y olvida", y su receta completa está en
+Es la vía de "pon y olvida", y su receta completa está en
 [la guía del Pixel](../manejo-pixel-10-pro/README.md).
 
 ## Ejercicio (dos noches, aunque tu cielo sea malo)
@@ -254,7 +250,7 @@ enfoque y el manejo a tientas.
    medias, con el cronómetro: el objetivo es bajar de dos minutos.
 2. **La noche a oscuras.** Sin mirar la cámara: enciende, gira a MR2, activa
    `Verificac. luminosa`, dispara con temporizador y revisa el histograma. Todo
-   con frontal roja. En Namibia lo harás medio dormido y con frío.
+   con frontal roja. En el viaje lo harás medio dormido y con frío.
 3. **Y una serie de verdad**: 60 tomas de 30 s con el intervalómetro
    apuntando a cualquier sitio, y apílalas en StarStaX. Aunque salgan cuatro
    estrellas, habrás hecho el flujo completo una vez.
@@ -286,7 +282,9 @@ enfoque y el manejo a tientas.
 - Review del Sony E 11mm F1.8, con su comportamiento en las esquinas (Dustin Abbott): <https://dustinabbott.net/2022/06/sony-e-11mm-f1-8-review/>
 - Guía práctica de Vía Láctea en español: <https://capturetheatlas.com/es/como-fotografiar-la-via-lactea/>
 - Help Guide oficial de la a6700: <https://helpguide.sony.net/ilc/2320/v1/es/>
+- Fundación Starlight (cielos oscuros protegidos en España): <https://fundacionstarlight.org/>
+- Mapa de contaminación lumínica: <https://www.lightpollutionmap.info/>
 
 <!-- nav -->
-[← Anterior](08-estrellas-con-tierra.md) · [Índice](README.md) · [Siguiente →](10-time-lapse-del-cielo.md)
+[← Anterior](09-estrellas-con-tierra.md) · [Índice](README.md) · [Siguiente →](11-time-lapse-del-cielo.md)
 <!-- /nav -->

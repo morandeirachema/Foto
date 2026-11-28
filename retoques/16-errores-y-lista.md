@@ -6,6 +6,8 @@
 
 # 16. Errores típicos y lista de comprobación
 
+> ✅ **Lista** · Da por sabido: el [flujo base](04-flujo-base.md) · Te desbloquea: revisar una foto antes de exportarla y saber si te has pasado.
+
 ## 16.1. Los errores más frecuentes
 
 | Error | Cómo se reconoce | Solución en Luminar |

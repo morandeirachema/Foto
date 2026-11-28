@@ -1,10 +1,10 @@
 <!-- nav -->
-[← Anterior](19-verificacion-de-menus.md) · [Índice](README.md) · [Siguiente →](21-verificacion-in-situ.md)
+[← Anterior](21-verificacion-de-menus.md) · [Índice](README.md) · [Siguiente →](23-verificacion-in-situ.md)
 <!-- /nav -->
 
 *Parte V · Hojas de campo*
 
-# 20. Chuleta Sony a6700 — para imprimir y llevar en el coche
+# 22. Chuleta Sony a6700 — para imprimir y llevar en el coche
 
 ## Recetas
 
@@ -30,15 +30,17 @@ A pulso, nunca por debajo de ~1/focal equivalente (zoom a tope = 525 mm eq → *
 
 ## Balance de blancos por escena
 
-día **5200** · nublado/tormenta **6000** · sombra **7000** · amanecer/atardecer **fijo 5200, nunca AWB** (mata el dorado) · charca focos **K 2800–4000 por prueba** · game drive **~3400** · astro **3900** · Olifantsrus rojo: da igual, será mono
+día **5200** · nublado/tormenta **6000** · sombra **7000** · amanecer/atardecer **fijo 5200, nunca AWB** (mata el dorado) · charca focos **K 2800–4000 por prueba** · game drive **~3400** · astro **3900** · focos rojos: da igual, será mono
 
-## Calle y arquitectura
+## Calle, arquitectura y aves
 
-**Calle:** MR1 con tres cambios: **f/8 · 1/500 · `Humano`** (sombra f/5.6; bicis 1/1000) · **zona** con el 25 mm: AF-ON al suelo a **4 pasos (3 m)** y suelta → nítido de 1,7 a 12,7 m · 11 mm a f/8: zona a 1 m, todo nítido · luz dura: **−0,7** y la sombra a negro. **Arquitectura:** A · f/8 · ISO 100 en trípode · cuadrícula + **nivel** (DISP) · cámara **a nivel** (si no cabe: aléjate, súbete o 11 mm y recorta) · fachada con **luz rasante** · **hora azul** 20–40 min tras la puesta · interiores: horquillado de 3 → HDR Merge. *El plan de noches del viaje: [capítulo 8](08-estrellas-con-tierra.md#el-plan-de-la-noche-completa-110-de-noviembre).*
+**Calle:** MR1 con tres cambios: **f/8 · 1/500 · `Humano`** (sombra f/5.6; bicis 1/1000) · **zona** con el 25 mm: AF-ON al suelo a **4 pasos (3 m)** y suelta → nítido de 1,7 a 12,7 m · 11 mm a f/8: zona a 1 m, todo nítido · luz dura: **−0,7** y la sombra a negro. **Arquitectura:** A · f/8 · ISO 100 en trípode · cuadrícula + **nivel** (DISP) · cámara **a nivel** (si no cabe: aléjate, súbete o 11 mm y recorta) · fachada con **luz rasante** · **hora azul** 20–40 min tras la puesta · interiores: horquillado de 3 → HDR Merge. 
+
+**Aves:** posada 1/1000 · `Ave` · Sens. Seguim. 1–2 entre ramas · +0,7 contra el cielo · en vuelo **MR3** (1/2500, Zona, Hi+, obturador mecánico) · **barca:** 1/2000 y motor parado ([aves](08-aves.md)).
 
 ## Histograma — en vivo con DISP; míralo tras CADA cambio de luz
 
-safari: montaña centrada, nada toca el borde derecho · paisaje: todo el ancho sin tocar bordes · charca: masa a la izquierda (ok) + joroba del animal sin tocar derecha · astro: montaña en el primer tercio, despegada del borde izquierdo
+**Revisión:** ▶+DISP (¿toca la derecha? ¿qué parpadea?) → **rueda** = 100 % en el foco → bordes → color. · safari: montaña centrada, nada toca el borde derecho · paisaje: todo el ancho sin tocar bordes · charca: masa a la izquierda (ok) + joroba del animal sin tocar derecha · astro: montaña en el primer tercio, despegada del borde izquierdo
 
 ## Arreglos rápidos
 
@@ -70,5 +72,5 @@ MR2 → Verificac. luminosa para encuadrar → lupa sobre la estrella más brill
 **Time-lapse de noche:** MR2 con **15 s** · `Func. capt. interv.`: intervalo **17 s**, **300** fotos (12 s de vídeo, 1 h 25 min) · power bank + `Alimentación USB` · ninguna luz en el encuadre. **Del atardecer a la noche:** A · f/2 · ISO AUTO 100–3200 · `ISO AUTO VO mín.` 15" · −0,7 · Luz de día · `Sensib. Seguim. AE` Bajo · `Prior. intervalo toma` Activar. **Estelas:** MR2 con **f/8 · ISO 100** · 15 s en la hora azul, 20–30 s de noche · AF a una farola y MF · más de 30 s: BULB (obturador mecánico) · para apilar: 20 × 15 s, intervalo 17 s → StarStaX, Lighten.
 
 <!-- nav -->
-[← Anterior](19-verificacion-de-menus.md) · [Índice](README.md) · [Siguiente →](21-verificacion-in-situ.md)
+[← Anterior](21-verificacion-de-menus.md) · [Índice](README.md) · [Siguiente →](23-verificacion-in-situ.md)
 <!-- /nav -->

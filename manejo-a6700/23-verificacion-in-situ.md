@@ -1,15 +1,17 @@
 <!-- nav -->
-[← Anterior](20-chuleta.md) · [Índice](README.md)
+[← Anterior](22-chuleta.md) · [Índice](README.md)
 <!-- /nav -->
 
 *Parte V · Hojas de campo*
 
-# 21. Verificación in situ — guía de campo (para imprimir)
+# 23. Verificación in situ — guía de campo (para imprimir)
+
+> ✅ **Hoja de campo** · Da por sabido: la [configuración básica](04-configuracion-basica.md) · Te desbloquea: llegar a cada momento del día con la cámara lista, y diagnosticar una avería en el campo.
 
 Repasos por momento del día, con el **porqué** de cada comprobación: si
 entiendes qué vigila cada punto, sabrás improvisar cuando algo no cuadre.
 Cada sección acaba en segundos; el orden importa. Imprímela junto a la
-[chuleta](20-chuleta.md) y la [lista de tomas](https://github.com/morandeirachema/a6700-namibia/blob/main/plan/lista-de-tomas.md).
+[chuleta](22-chuleta.md) y la [lista de tomas](https://github.com/morandeirachema/a6700-namibia/blob/main/plan/lista-de-tomas.md).
 
 ---
 
@@ -18,8 +20,8 @@ Cada sección acaba en segundos; el orden importa. Imprímela junto a la
 - [ ] **Dioptrías**: ruedecita junto al visor hasta ver nítidos los números.
   *Por qué:* de fábrica viene en una posición cualquiera; con las dioptrías
   mal, todo te parecerá desenfocado y desconfiarás del AF sin motivo.
-- [ ] **Fecha y hora** en hora de casa, y **el día que aterrices, a hora de
-  Namibia**. *Por qué:* ordenarás miles de fotos por hora de captura, y deben
+- [ ] **Fecha y hora** en hora de casa, y **el día que aterrices, a la hora
+  del destino**. *Por qué:* ordenarás miles de fotos por hora de captura, y deben
   encajar con las del móvil.
 - [ ] **Prueba de polvo**: foto al cielo liso a f/11 y revisa en pantalla con
   zoom. Motas oscuras = polvo en sensor. *Qué hacer:* nada en el viaje — se
@@ -37,8 +39,8 @@ Cada sección acaba en segundos; el orden importa. Imprímela junto a la
 - [ ] **Firmware al día**: el de la cámara y el de los objetivos (el Viltrox, por su USB-C; el del
   70-350 también: su dueño dio permiso; se
   actualizan con el objetivo montado, conectando la cámara al ordenador
-  desde <https://www.sony.es/electronics/support>). *Por qué:* en Namibia no
-  hay wifi para esto, y un firmware viejo de objetivo puede dar AF errático.
+  desde <https://www.sony.es/electronics/support>). *Por qué:* en el viaje no
+  habrá wifi para esto, y un firmware viejo de objetivo puede dar AF errático.
 - [ ] **Creators' App emparejada** con el móvil, en casa y con wifi.
   *Por qué:* allí no hay cobertura para descargar ni configurar nada.
 
@@ -47,7 +49,7 @@ Cada sección acaba en segundos; el orden importa. Imprímela junto a la
 Prueba de aceptación del 70-350, que es **prestado**: no es para devolverlo,
 sino para **conocer sus defectos con tiempo** y decidir cómo trabajar con
 ellos (encuadrar a 300 mm y recortar, evitar f/6.3 a tope…)
-en lugar de descubrirlos en Etosha:
+en lugar de descubrirlos en el safari:
 
 - [ ] Zoom y anillos giran suaves en todo el recorrido; sin arenilla ni
   holguras.
@@ -73,7 +75,7 @@ en lugar de descubrirlos en Etosha:
   dio permiso.*
 - [ ] **Antes de usarlo**: fotografía el objetivo por todos lados (marcas, rozaduras, el estado del cristal). Cinco minutos que
   evitan una conversación incómoda a la vuelta. Y ponle **filtro
-  protector**: va a Etosha.
+  protector**: va a un safari.
 
 Y el mismo repaso, más corto, **el día que llegue el 11 mm**: anillos
 suaves, cristal limpio a contraluz, una foto a f/8 a un edificio lejano
@@ -85,11 +87,11 @@ asimétricas, ese ejemplar está descentrado.
 
 - [ ] Dial en **MR1**. *Por qué:* restaura ISO, obturación y AF buenos
   aunque anoche lo cambiaras todo en la charca.
-- [ ] Batería puesta cargada + repuesto **a mano**. En tu noviembre el
-  problema es el calor: ni baterías ni tarjetas al sol del coche.
+- [ ] Batería puesta cargada + repuesto **a mano**. En la sabana y en los
+  trópicos el problema es el calor: ni baterías ni tarjetas al sol del coche.
 - [ ] **Formato en RAW**: `Formato archivo` = RAW también tras cargar MR1
   y MR2, y una foto de prueba que en el ordenador sea **`.ARW`**. *Por qué:*
-  en Namibia, por un error de configuración, todo salió solo en JPEG.
+  en el viaje a Namibia, por un error de configuración, todo salió solo en JPEG.
 - [ ] Tarjeta dentro y con hueco (un RAW de la a6700 ocupa ~25–30 MB: haz la
   cuenta de tu tarjeta y sabrás cuántas fotos le caben).
 - [ ] **Mandos del 70-350** — se mueven solos rozando en la mochila,
@@ -136,7 +138,7 @@ El repaso que separa "creo que la tengo" de "la tengo":
   - Todo blando uniforme y "lechoso" a lo lejos a mediodía → heat haze, no
     es tu cámara: acércate o espera.
 - [ ] **Histograma**: nada empotrado en el borde derecho (destellos del agua
-  no cuentan). Animal oscuro sobre calcreta clara → dos jorobas: la derecha
+  no cuentan). Animal oscuro sobre suelo claro → dos jorobas: la derecha
   puede acercarse al borde pero no tocarlo; si el animal sale negro,
   **compensación +** — en esta cámara funciona también en M con ISO Auto,
   gírala sin miedo.
@@ -144,7 +146,7 @@ El repaso que separa "creo que la tengo" de "la tengo":
   altura de su ojo? ¿el fondo está limpio? Si algo falla, medio metro de
   coche y repite — la escena sigue ahí y la segunda pasada siempre es mejor.
 
-## 6 · Amanecer de paisaje (dunas, Deadvlei) — antes de disparar
+## 6 · Amanecer de paisaje — antes de disparar
 
 - [ ] Modo A · f/8 · ISO 100 · **nivel electrónico** visible (botón DISP
   hasta verlo). *Por qué:* el horizonte del desierto delata cualquier
@@ -305,5 +307,5 @@ El repaso que separa "creo que la tengo" de "la tengo":
 | La cámara "no responde" tras una ráfaga larga | Buffer volcando a tarjeta | Espera unos segundos; no apagues ni saques la tarjeta |
 
 <!-- nav -->
-[← Anterior](20-chuleta.md) · [Índice](README.md)
+[← Anterior](22-chuleta.md) · [Índice](README.md)
 <!-- /nav -->

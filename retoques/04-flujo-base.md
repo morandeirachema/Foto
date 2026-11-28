@@ -6,6 +6,8 @@
 
 # 4. El flujo base: 10 pasos
 
+> 🔵 **Básico** · Da por sabido: los capítulos [1](01-conceptos-basicos.md) a [3](03-herramientas-una-a-una.md) · Te desbloquea: editar cualquier foto en diez pasos, elegir la ruta según lo que hay en ella y rescatar un JPEG difícil.
+
 Este es el esqueleto que usarás en todas las fotos. Las secciones de safari, paisaje y noche explican **qué cambia** en cada caso.
 
 > **Valores orientativos.** Los números de esta guía son puntos de partida para JPEG, no valores oficiales de Skylum. Cada foto es distinta: mueve el deslizador mirando la imagen, no el número.

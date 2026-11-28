@@ -6,6 +6,8 @@
 
 # 8. Paisaje y ciudad
 
+> 🔵 **Básico** · Da por sabido: el [flujo base](04-flujo-base.md) · Te desbloquea: cielo y suelo equilibrados, profundidad, y la calle y la arquitectura con las verticales rectas.
+
 ## 8.1. Problemas típicos
 
 | Problema | Por qué ocurre |
@@ -110,7 +112,7 @@
 
 ## 8.4. Ciudad: calle y arquitectura
 
-Cómo se hacen estas fotos con la cámara: [manejo 12 · Calle y arquitectura](../manejo-a6700/12-calle-y-arquitectura.md). Aquí, lo que cambia al editarlas.
+Cómo se hacen estas fotos con la cámara: [manejo 13 · Calle y arquitectura](../manejo-a6700/13-calle-y-arquitectura.md). Aquí, lo que cambia al editarlas.
 
 **Verticales y horizonte:**
 - **Horizonte:** **Crop AI** → **Straighten** o **Auto Straighten** (sección 4, paso 3).

@@ -64,7 +64,7 @@ principal del móvil ≈ 24 mm ≈ "1x"):
 | No existe en móvil | 350 mm = 525 mm equivalentes ≈ "21x" | El extremo largo del **70-350**: un león a 50 m llenando el encuadre |
 
 Fíjate en el hueco: entre 16,5 y 105 mm equivalentes solo está el **Viltrox
-25 mm** (37,5 mm equivalentes, [su guía](15-viltrox-25mm.md)). Ese tramo (el
+25 mm** (37,5 mm equivalentes, [su guía](16-viltrox-25mm.md)). Ese tramo (el
 retrato, el grupo, el coche en la pista) es el suyo; y cuando hay polvo en el
 aire y no quieres cambiar de objetivo, el Pixel.
 
@@ -141,7 +141,7 @@ que en la a6700 funciona en todos los modos (también en M con ISO Auto):
 
 | Escena | Qué hace la cámara | Tu corrección |
 |---|---|---|
-| Fondo muy claro (calcreta blanca al sol, cielo) | Oscurece la foto → el animal sale negro | **+0.7 a +1** |
+| Fondo muy claro (arena o sal al sol, cielo) | Oscurece la foto → el animal sale negro | **+0.7 a +1** |
 | Fondo muy oscuro (sombra, noche, foco sobre animal) | Aclara la foto → lo iluminado se quema | **−0.7 a −1** |
 | Escena normal | Acierta | 0 |
 
@@ -225,7 +225,7 @@ edición está explicada en la [guía de edición](../retoques/README.md).
    la cámara, como cualquier objetivo), 10 s, ISO 1600. Juega con los
    segundos mirando el histograma. Si puedes escaparte a cielo oscuro,
    sigue la escalera de tres noches de
-   [Estrellas con la tierra dentro](08-estrellas-con-tierra.md) —
+   [Estrellas con la tierra dentro](09-estrellas-con-tierra.md) —
    empieza de cero y acaba en la postal del viaje.
 6. **La cámara a ciegas**: configura los botones y las memorias MR1/MR2 del
    [capítulo 4](04-configuracion-basica.md) y practica el cambio sin mirar.
@@ -234,8 +234,8 @@ edición está explicada en la [guía de edición](../retoques/README.md).
 7. **Charca nocturna de ensayo**: busca una fuente o estatua **iluminada con
    focos** en tu ciudad, de noche: trípode, M, 1/60 s, f/6.3, ISO 6400, y
    ajusta el balance de blancos en K hasta que la piedra no salga naranja.
-   Es, ajuste por ajuste, el mirador de Okaukuejo
-   ([capítulo 7](07-safari-nocturno-charcas.md)) — mejor descubrir los
+   Es, ajuste por ajuste, el mirador de una charca con focos
+   ([capítulo 7](07-fauna-de-noche.md)) — mejor descubrir los
    problemas en tu barrio que con un rinoceronte delante.
 
 Cuando estas siete salgan solas: [Safari a fondo](https://github.com/morandeirachema/a6700-namibia/blob/main/mejora/safari-a-fondo.md)

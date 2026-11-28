@@ -6,6 +6,8 @@
 
 # 14. Ética, concursos y ubicación
 
+> 🟢 **Iniciación** · Da por sabido: nada · Te desbloquea: saber qué es corregir y qué es manipular, y qué hacer con el GPS y la fauna amenazada.
+
 > **Tus fotos, tu decisión.** Estas normas son para **concursos** y para fotos que publiques **como documento** ("esto pasó así"). En tu álbum personal puedes usar **todas** las herramientas, también las generativas: borrar un cable, cambiar un cielo quemado o ampliar el lienzo. Lo único que pide la honestidad es **no presentar como real lo que has inventado**. Cómo sacar el máximo partido a un JPEG difícil, en [Rescatar un JPEG difícil](04-flujo-base.md#rescatar-un-jpeg-difícil).
 
 ## 14.1. Corregir no es cambiar la escena

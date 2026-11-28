@@ -1,28 +1,28 @@
 <!-- nav -->
-[← Anterior](06-safari-diurno.md) · [Índice](README.md) · [Siguiente →](08-estrellas-con-tierra.md)
+[← Anterior](06-safari-diurno.md) · [Índice](README.md) · [Siguiente →](08-aves.md)
 <!-- /nav -->
 
 *Parte II · Recetas · Fauna*
 
-# 7. Safari nocturno en charcas con la a6700 — paso a paso
+# 7. Fauna de noche — charcas con focos, salidas nocturnas y barcas
 
-> 🔵 **Básico** · Da por sabido: el capítulo 4 y saber usar el trípode · Te desbloquea: el rinoceronte de Okaukuejo a medianoche.
+> 🔵 **Básico** · Da por sabido: el capítulo 4 y saber usar el trípode · Te desbloquea: el animal bajo un foco a medianoche, desde un mirador, un todoterreno o una barca.
 
-Tres charcas de Etosha están **iluminadas con focos** y tienen mirador junto
-al campamento: Okaukuejo (rinocerontes negros casi cada noche, con ventana
-típica entre las **21:00 y la medianoche** — fiable también en noviembre),
-Halali (charca Moringa) y Namutoni (charca King Nehale, junto al fuerte:
-<https://www.nwr.com.na/resorts/namutoni-resort/>). El hide de Olifantsrus, en el oeste, abre 24 h pero
-se ilumina solo con **focos rojos**: fotos monocromas rojizas, asúmelo como
-estética. Y tu **última noche de safari** cae fuera del parque, en la reserva privada
-de **Onguma** (Tamboti, junto a la puerta Von Lindequist): también tiene
-charca iluminada, con el bar y el restaurante asomados a ella
-(<https://onguma.com/>) — mismas recetas, y con la ventaja de que allí no te
-encierra la valla del parque. Es fauna con muy poca luz: trípode, ISO alto y paciencia.
-Info de campamentos: <https://www.nwr.com.na/>
+De noche hay fauna en tres situaciones, y las tres tienen lo mismo: **muy
+poca luz** y un animal que se mueve poco o nada.
 
-> ¿No es esta tu noche? [Fotografía nocturna: por dónde empezar](https://github.com/morandeirachema/a6700-namibia/blob/main/tecnica/fotografia-nocturna.md)
-> compara las cuatro noches del viaje (charca, astro, cielo con tierra y game drive) en una tabla.
+- **Un mirador junto a una charca con focos**, en un campamento o un lodge:
+  trípode, el animal que llega a beber y mucho silencio. Es la receta de este
+  capítulo.
+- **Una salida nocturna en vehículo abierto**, con un guía que barre el monte
+  con un foco: a pulso, con la luz moviéndose. En Botswana solo se hacen en
+  las **concesiones privadas**: en los parques nacionales hay que dejar las
+  pistas al anochecer ([la variante](#variante-salida-nocturna-con-foco)).
+- **Una barca al anochecer**, en un río o un delta: la última luz sobre el
+  agua y los animales que salen a la orilla ([la variante](#variante-barca-al-anochecer)).
+
+Si los focos son **rojos**, las fotos salen monocromas rojizas: asúmelo como
+estética, o pásalas a blanco y negro.
 
 ## Receta rápida
 
@@ -38,7 +38,7 @@ Info de campamentos: <https://www.nwr.com.na/>
 | Obturador | **Electrónico** (`Tipo de obturador`): disparo totalmente mudo |
 
 > Cada ajuste con su **ruta de menú**, en
-> [la referencia de ajustes](17-ajustes-a6700.md#c1-charca-nocturna-okaukuejo-halali-onguma).
+> [la referencia de ajustes](19-ajustes-a6700.md#c1-charca-nocturna-con-focos).
 
 ## Al llegar al mirador (10 minutos de preparación)
 
@@ -55,7 +55,7 @@ Info de campamentos: <https://www.nwr.com.na/>
    `Obturad. electr.` no están disponibles el flash, `RR exposic. larga`,
    `e-Prim. cortin. obtur.`, la toma BULB ni la toma sin parpadeo — el
    anti-parpadeo solo funciona con el mecánico
-   ([verificación de los menús](19-verificacion-de-menus.md)).
+   ([verificación de los menús](21-verificacion-de-menus.md)).
 3. **Prueba de color**: foto a la zona iluminada, revisa en pantalla y ajusta
    el balance de blancos en Kelvin hasta que el agua no salga naranja butano.
    Suele quedar entre 3200 y 4000 K. (El visor electrónico ya te enseña la
@@ -117,13 +117,12 @@ obturación** (1/60 → 1/40 → 1/30) — es luz gratis sin ruido.
 | El AF caza y suelta sin fijar | Poca luz para el AF: punto único a una zona con contraste, o enfoque manual prefijado a la orilla (paso 4) |
 | Ruido brutal a ISO 6400+ | Normal con tan poca luz. Se recupera mucho con reducción de ruido por IA: en Luminar, **Noiseless AI** ([retoques, paso 2](../retoques/04-flujo-base.md)) |
 
-## Variante: game drive nocturno con foco
+## Variante: salida nocturna con foco
 
-Los campamentos de NWR (Okaukuejo, Halali, Namutoni) ofrecen salidas
-nocturnas guiadas en vehículo abierto con un foco barriendo el monte — la
-única forma legal de estar fuera del recinto de noche (~750 N$ por persona,
-se reserva en la recepción del campamento: <https://www.nwr.com.na/>). Cambia
-todo respecto al mirador: vas a pulso y la luz se mueve.
+En una salida nocturna guiada, en vehículo abierto, un foco barre el monte y
+se para sobre lo que encuentra. Cambia todo respecto al mirador: vas a pulso y
+la luz se mueve. Se hacen en reservas y concesiones privadas (en Botswana, no
+dentro de los parques nacionales): pregunta al reservar.
 
 | Parámetro | Valor |
 |---|---|
@@ -145,12 +144,26 @@ todo respecto al mirador: vas a pulso y la luz se mueve.
 - Etiqueta: no pidas mantener el foco sobre animales nocturnos (búhos,
   chacales, gatos monteses) más que unos segundos.
 
+## Variante: barca al anochecer
+
+En un río o un delta, la última media hora sobre el agua es de las mejores
+luces del día, y la más difícil: poca luz y una barca que no está quieta.
+
+- **1/250 como mínimo** aunque el animal esté quieto (la barca se mueve), y
+  más rápido si se mueve él: el ISO sube, y es el precio.
+- **Estabilizador activado** (OSS y SteadyShot) y el **motor apagado** al
+  disparar: pídeselo al barquero.
+- La silueta contra el cielo del atardecer reflejado en el agua no necesita
+  ISO alto: expón para el cielo (**−0,7 a −1**) y deja el animal negro.
+- Al apagarse la luz, para: con ISO 12800 y una barca en movimiento ya no sale
+  nada nítido.
+
 ## Etiqueta en la charca
 
 - **Flash prohibido** — y aunque no lo estuviera, nunca con fauna nocturna.
 - Frontal solo en **luz roja** y hacia el suelo.
-- Obturador electrónico y hablar en susurros: el mirador de Okaukuejo
-  funciona toda la noche y la gente duerme a 50 metros.
+- Obturador electrónico y hablar en susurros: los miradores de los
+  campamentos funcionan toda la noche y la gente duerme cerca.
 
 ## Y el Pixel, mientras tanto
 
@@ -162,11 +175,12 @@ movido siempre ([la guía del Pixel](../manejo-pixel-10-pro/README.md)).
 
 ## Combinar con astro
 
-Los campamentos de Etosha también dan cielo oscuro lejos de los focos. Plan
-realista: la Vía Láctea en la primera hora oscura (hasta el 10 es cuando está,
-[capítulo 9](09-astrofotografia-namibia.md)), la charca de 21:00 a medianoche,
-y de madrugada círculos de estrellas o las Nubes de Magallanes desde la zona
-oscura del campamento.
+Lejos de los focos, el cielo de una sabana o de un delta es oscuro. Plan
+realista: la Vía Láctea en la primera hora oscura ([astrofotografía](10-astrofotografia.md)),
+la charca o la salida nocturna después, y de madrugada círculos de estrellas
+desde la zona más oscura del campamento. En el hemisferio sur (Botswana, el
+Pantanal), las Nubes de Magallanes se ven buena parte de la noche, mejor de
+octubre a febrero.
 
 ## Ejercicio (una noche, en tu ciudad)
 
@@ -191,7 +205,7 @@ en cualquier parque con una farola:
   se queda en unos +0,3 EV, la penumbra de la charca ([por qué funciona §7](../conceptos/09-por-que-funciona.md#7--el-autofoco-por-dentro-y-por-qué-muere-en-la-charca)).
   De ahí el punto único sobre una zona iluminada.
 - **1/60 como mínimo.** Un animal que bebe se mueve poco, pero se mueve. En
-  Namibia, 116 de las 122 fotos de la charca se hicieron más lentas que 1/60
+  tu viaje anterior, 116 de las 122 fotos de la charca se hicieron más lentas que 1/60
   ([lo que enseñan tus fotos](../retoques/15-disparar-mejores-jpeg.md#154-lo-que-enseñan-tus-fotos-de-namibia)):
   el ISO alto tiene arreglo en Luminar y el movimiento no ([§9](../conceptos/09-por-que-funciona.md#9--el-tiempo-qué-congela-y-qué-dibuja-la-velocidad)).
 - **Expón bien en la cámara.** En RAW, por encima de ISO ~400 la a6700 es casi
@@ -204,10 +218,9 @@ en cualquier parque con una farola:
 
 ## Referencias
 
-- Campamentos, miradores y night drives (NWR): <https://www.nwr.com.na/>
-- Charcas y fauna de Etosha: <https://www.etoshanationalpark.org/>
+- Salidas nocturnas: parques frente a concesiones privadas en Botswana (Africa Geographic): <https://travel.africageographic.com/destinations/botswana/okavango-delta/moremi-vs-khwai-vs-concessions>
 - Fase lunar y planificación nocturna (PhotoPills): <https://www.photopills.com/>
 
 <!-- nav -->
-[← Anterior](06-safari-diurno.md) · [Índice](README.md) · [Siguiente →](08-estrellas-con-tierra.md)
+[← Anterior](06-safari-diurno.md) · [Índice](README.md) · [Siguiente →](08-aves.md)
 <!-- /nav -->

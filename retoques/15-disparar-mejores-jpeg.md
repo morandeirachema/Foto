@@ -6,6 +6,8 @@
 
 # 15. Disparar mejores JPEG la próxima vez
 
+> 🔵 **Básico** · Da por sabido: el [capítulo 1](01-conceptos-basicos.md) · Te desbloquea: ajustar la cámara para que el JPEG llegue con margen, y lo que enseñan tus fotos de Namibia.
+
 La mejor edición empieza en la cámara. Si disparas en JPEG, estos ajustes amplían el margen para editar en Luminar.
 
 > ⚠️ **Lo primero, con la a6700: que dispare en RAW.** En Namibia todas las fotos salieron solo en JPEG por un error de configuración. Comprueba `Formato archivo` = **RAW** (también después de cargar cada memoria) y que tus archivos sean **`.ARW`**: [configuración básica](../manejo-a6700/04-configuracion-basica.md). Los ajustes de esta página son para cuando, por lo que sea, solo tengas JPEG.
@@ -48,9 +50,9 @@ Medidas las 2.731 fotos del viaje (noviembre de 2026), salen seis cosas que se a
 
 | Lo que pasó | Cómo se ve | Para la próxima vez |
 |---|---|---|
-| **Polvo en el sensor** | Una mancha gris fija en el cielo, arriba, en el tercio izquierdo: aparece en 99 de las 147 fotos con cielo liso, en seis días distintos | Comprueba y limpia el sensor antes de salir ([equipo, polvo en el sensor](../manejo-a6700/14-equipo-accesorios.md#polvo-en-el-sensor-comprobarlo-y-limpiarlo)) |
-| **Vía Láctea oscura** (20 s, f/2, ISO 1600) | Cielo casi negro; al aclarar en Luminar salen bandas y ruido | Mira el **histograma** tras la primera toma: si la montaña está pegada al borde izquierdo, sube a **ISO 3200** ([astro](../manejo-a6700/09-astrofotografia-namibia.md)). En JPEG, la luz que falta no se recupera después |
-| **Charca con focos, todo naranja** | Animales de un solo color; no se puede neutralizar | Balance de blancos en **Kelvin**, bajando hacia 3200 K hasta que el color sea creíble **en la revisión**, antes de la serie ([charcas](../manejo-a6700/07-safari-nocturno-charcas.md)) |
+| **Polvo en el sensor** | Una mancha gris fija en el cielo, arriba, en el tercio izquierdo: aparece en 99 de las 147 fotos con cielo liso, en seis días distintos | Comprueba y limpia el sensor antes de salir ([equipo, polvo en el sensor](../manejo-a6700/15-equipo-accesorios.md#polvo-en-el-sensor-comprobarlo-y-limpiarlo)) |
+| **Vía Láctea oscura** (20 s, f/2, ISO 1600) | Cielo casi negro; al aclarar en Luminar salen bandas y ruido | Mira el **histograma** tras la primera toma: si la montaña está pegada al borde izquierdo, sube a **ISO 3200** ([astro](../manejo-a6700/10-astrofotografia.md)). En JPEG, la luz que falta no se recupera después |
+| **Charca con focos, todo naranja** | Animales de un solo color; no se puede neutralizar | Balance de blancos en **Kelvin**, bajando hacia 3200 K hasta que el color sea creíble **en la revisión**, antes de la serie ([charcas](../manejo-a6700/07-fauna-de-noche.md)) |
 | **Charca por debajo de 1/60 s** | 116 de las 122 fotos nocturnas de la charca se hicieron más lentas que 1/60 s (algunas, a 1/25 s): riesgo de animales movidos | **1/60 s** como mínimo con el animal quieto; si se mueve, más rápido y más ISO: el ruido tiene arreglo y el movimiento no |
 | **Fotos azuladas a la sombra** | Dominante fría medida en el león a la sombra (18:24, antes de la puesta de sol); la última hora de la tarde sale algo más fría que el resto. El 91 % del viaje se hizo con un balance de blancos **fijo**, sin que se sepa cuál | El fijo es la regla de esta guía, pero **cambia con la luz**: "Sombra" (7000 K) con el animal a la sombra, "Nublado" (6000 K) con el cielo tapado o el sol ya puesto ([balance de blancos](../conceptos/04-balance-de-blancos.md)). Dime qué balance tenías puesto ([PENDIENTES](../PENDIENTES.md)). Lo bueno del fijo: la dominante es igual en toda la sesión y se corrige una vez y se sincroniza ([11.1](11-trabajar-en-serie.md)) |
 | **Animales muy pequeños** en el encuadre | Recortes de 2–3 veces: solo valen para el móvil | A 350 mm y aun así lejos: espera a que se acerque, o cuenta la escena con el animal pequeño a propósito ([composición](../conceptos/06-composicion.md)) |

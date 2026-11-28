@@ -6,6 +6,8 @@
 
 # 18. Glosario
 
+> 📋 **Referencia** · Da por sabido: nada · Te desbloquea: entender cualquier palabra de Luminar y del retoque.
+
 Los términos de Luminar y del retoque. Los de cámara, luz y exposición (ISO, apertura, ETTR, hiperfocal…) están en el [glosario de conceptos](../conceptos/13-glosario.md).
 
 | Término | Significado |

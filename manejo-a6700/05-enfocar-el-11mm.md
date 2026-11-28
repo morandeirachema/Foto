@@ -20,7 +20,7 @@
 | **Noche sin estrellas brillantes** | **MF** + lupa sobre una **luz lejana** (una farola a cientos de metros, una antena con luz) o la Luna |
 | **Árbol o roca bajo las estrellas** | El mismo enfoque a la estrella: con el 11 mm a f/1.8, todo lo que esté a **más de ~4 m** sale nítido también. **Nunca reenfoques al objeto** |
 
-> **Cuanto más larga la focal, más lejos tiene que estar el primer plano.** Enfocado a las estrellas y con el diafragma abierto, queda nítido lo que está más allá de **~4 m con el 11 mm** y de **~18 m con el Viltrox 25 mm** ([su guía](15-viltrox-25mm.md)). Por eso la foto de estrellas con un árbol se hace con el 11 mm.
+> **Cuanto más larga la focal, más lejos tiene que estar el primer plano.** Enfocado a las estrellas y con el diafragma abierto, queda nítido lo que está más allá de **~4 m con el 11 mm** y de **~18 m con el Viltrox 25 mm** ([su guía](16-viltrox-25mm.md)). Por eso la foto de estrellas con un árbol se hace con el 11 mm.
 
 ## El objetivo, en lo que importa para enfocar
 
@@ -28,7 +28,7 @@
 - **Botón de retención de foco** en el barrilete (de fábrica, `Retención enfoque`): mientras lo pulsas, el foco no se mueve.
 - **Anillo de enfoque electrónico.** Girarlo hasta el final no garantiza estar en el infinito: hay que enfocar mirando. La cinta adhesiva evita que lo gires sin querer, pero **no bloquea el foco**. Si cambias la batería o la cámara se apaga sola, compruébalo otra vez con la lupa (5 segundos).
 - **Sin estabilizador en el objetivo:** lo pone el IBIS de la cámara. En trípode, **SteadyShot OFF**.
-- **f/1.8** de apertura máxima, que se pone con la rueda de la cámara. Si las estrellas de las esquinas salen con "alitas", cierra a f/2.8 ([capítulo 9](09-astrofotografia-namibia.md)).
+- **f/1.8** de apertura máxima, que se pone con la rueda de la cámara. Si las estrellas de las esquinas salen con "alitas", cierra a f/2.8 ([capítulo 10](10-astrofotografia.md)).
 
 ## Prepara la cámara una vez (10 minutos, en casa)
 
@@ -44,7 +44,7 @@
 | Botón C3 | `Ajustes → [Personal. operac.] → [Ajuste t. pers./dial]` → `Botón personaliz. 3` | **`Amplific. enfoque`** | La lupa, a un botón |
 | Botón C1 | Misma pantalla → `Botón personaliz. 1` | **`Verificac. luminosa`** | Ver la escena a oscuras para encuadrar (solo funciona en **MF**) |
 
-Todos estos ajustes, en contexto: [el menú completo](18-menu-completo.md) y [diales y botones](03-diales-y-botones.md).
+Todos estos ajustes, en contexto: [el menú completo](20-menu-completo.md) y [diales y botones](03-diales-y-botones.md).
 
 ## Método 1 · De día (autofoco)
 
@@ -92,7 +92,7 @@ Cielo de ciudad, bruma o nubes: no hay ninguna estrella que se vea en la lupa.
 | La cámara no enfoca de día | Interruptor en **MF**, o estás pulsando el disparador en lugar de AF-ON | Interruptor en AF y enfoca con AF-ON |
 | El primer plano sale blando bajo las estrellas | Está a menos de ~4 m, o reenfocaste al objeto | Aléjate un paso y vuelve a enfocar a la estrella |
 | Estrellas de las esquinas con "alitas" | La apertura máxima (f/1.8) | Cierra a f/2.8 |
-| Estrellas como rayitas | La exposición fue demasiado larga, no es el foco | Baja de 20 s a 15 s ([capítulo 9](09-astrofotografia-namibia.md)) |
+| Estrellas como rayitas | La exposición fue demasiado larga, no es el foco | Baja de 20 s a 15 s ([capítulo 10](10-astrofotografia.md)) |
 
 ## Ejercicio para esta noche (20 minutos, desde casa)
 
@@ -102,7 +102,7 @@ Cielo de ciudad, bruma o nubes: no hay ninguna estrella que se vea en la lupa.
 4. Haz una foto de 20 s a f/1.8 e ISO 1600 y amplíala al máximo en la revisión.
 5. Desenfoca a propósito girando el anillo y **vuelve a enfocar**. Repítelo **cinco veces**.
 
-**Aprobado cuando:** las cinco veces llegas al punto más fino en menos de dos minutos, sin mirar esta guía. Después pasa a [Estrellas con la tierra dentro](08-estrellas-con-tierra.md), la noche 1.
+**Aprobado cuando:** las cinco veces llegas al punto más fino en menos de dos minutos, sin mirar esta guía. Después pasa a [Estrellas con la tierra dentro](09-estrellas-con-tierra.md), la noche 1.
 
 ## Referencias
 

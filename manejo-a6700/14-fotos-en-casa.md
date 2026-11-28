@@ -1,10 +1,10 @@
 <!-- nav -->
-[← Anterior](12-calle-y-arquitectura.md) · [Índice](README.md) · [Siguiente →](14-equipo-accesorios.md)
+[← Anterior](13-calle-y-arquitectura.md) · [Índice](README.md) · [Siguiente →](15-equipo-accesorios.md)
 <!-- /nav -->
 
 *Parte II · Recetas · La ciudad y la casa*
 
-# 13. Fotos en casa — ideas creativas para practicar sin salir
+# 14. Fotos en casa — ideas creativas para practicar sin salir
 
 > 🟢 **Iniciación** → 🔵 básico en las últimas ideas · Da por sabido: los tres números ([capítulo 1](01-de-movil-a-la-a6700.md)) · Te desbloquea: practicar la luz, la exposición, el enfoque y la composición cualquier tarde, con lo que hay en casa, y llegar a la próxima salida con las manos entrenadas.
 
@@ -153,8 +153,8 @@ apuntando a la cámara, o **ilumina un objeto** con barridos lentos de la
 linterna, de lado. Tú no sales si te mueves y no te iluminas.
 
 **Entrenas:** la exposición larga, que luego usarás en las estelas
-([capítulo 11](11-estelas-de-trafico.md)) y en las estrellas
-([capítulo 8](08-estrellas-con-tierra.md)).
+([capítulo 12](12-estelas-de-trafico.md)) y en las estrellas
+([capítulo 9](09-estrellas-con-tierra.md)).
 
 **Aprobado cuando** el dibujo es una línea continua y el fondo queda negro.
 
@@ -165,14 +165,14 @@ linterna, de lado. Tú no sales si te mueves y no te iluminas.
 **Cómo:**
 
 - **Estelas**: si ves una calle con tráfico, la receta del
-  [capítulo 11](11-estelas-de-trafico.md) tal cual (M · f/8 · ISO 100 ·
+  [capítulo 12](12-estelas-de-trafico.md) tal cual (M · f/8 · ISO 100 ·
   15 s). Apaga la luz de la habitación y pega el objetivo al cristal para
   que no salgan reflejos.
 - **Time-lapse de nubes o de la puesta**: A · f/8 · ISO AUTO · balance fijo
   en Luz de día, y el intervalómetro (`Func. capt. interv.`) con
   `Intervalo de toma` de **3 s** y **200** fotos: 10 minutos que se ven en
   8 s de vídeo. Es el ensayo de la receta B del
-  [capítulo 10](10-time-lapse-del-cielo.md).
+  [capítulo 11](11-time-lapse-del-cielo.md).
 
 **Entrenas:** las dos recetas de exposición larga sin salir de casa.
 
@@ -315,5 +315,5 @@ Para la **composición** fuera de casa, el complemento es el
 - Sony, Guía de ayuda a6700 — `Func. capt. interv.` (para el autorretrato y el time-lapse): <https://helpguide.sony.net/ilc/2320/v1/es/contents/0407P_interval_shoot_setting.html>
 
 <!-- nav -->
-[← Anterior](12-calle-y-arquitectura.md) · [Índice](README.md) · [Siguiente →](14-equipo-accesorios.md)
+[← Anterior](13-calle-y-arquitectura.md) · [Índice](README.md) · [Siguiente →](15-equipo-accesorios.md)
 <!-- /nav -->

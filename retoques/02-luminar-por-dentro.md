@@ -6,6 +6,8 @@
 
 # 2. Luminar por dentro
 
+> 🟢 **Iniciación** · Da por sabido: el [capítulo 1](01-conceptos-basicos.md) · Te desbloquea: moverte por Luminar sin perderte: catálogo, edición, pestañas y copias virtuales.
+
 ## 2.1. Catálogo y edición
 
 - **Catálogo** (**`L`**): aquí ves, seleccionas y organizas. Añades carpetas (**`⌥⇧N`**), creas álbumes (**`⌘N`**) y marcas favoritas.

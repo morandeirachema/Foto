@@ -6,6 +6,8 @@
 
 # 1. Conceptos básicos
 
+> 🟢 **Iniciación** · Da por sabido: nada · Te desbloquea: entender qué le pasa a un JPEG cuando lo editas: histograma, balance, contraste, ruido, máscaras y color.
+
 Antes de mover un deslizador, conviene entender **qué estás tocando**. Este capítulo resume lo imprescindible para retocar; la explicación completa, con la cámara, está en [Conceptos](../conceptos/README.md): [la luz](../conceptos/01-la-luz.md), [el histograma](../conceptos/03-histograma.md), [el balance de blancos](../conceptos/04-balance-de-blancos.md) y [por qué funciona](../conceptos/09-por-que-funciona.md). Si entiendes estos conceptos, sabrás qué herramienta de Luminar usar en cada caso.
 
 ## 1.1. Qué tiene de especial un JPEG

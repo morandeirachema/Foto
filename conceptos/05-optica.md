@@ -113,7 +113,7 @@ Ninguno de tus objetivos tiene escala de distancias, así que la distancia se po
 1. Elige la apertura (f/8 es el punto dulce: más cerrado, la difracción ablanda toda la foto, [por qué funciona §4](09-por-que-funciona.md#4--difracción-por-qué-f16-no-es-más-nítido)).
 2. Busca algo a la distancia de la tabla: tu mochila, una piedra, el pie del trípode. **Mide con el cuerpo**: un paso normal son unos 0,75 m y un brazo estirado, unos 0,6 m.
 3. Enfoca ahí con **AF-ON** (el pulgar) y **suelta**. Con `AF c/obturador` desactivado ([configuración básica](../manejo-a6700/04-configuracion-basica.md)), el disparador ya no vuelve a enfocar: el foco se queda donde lo dejaste.
-4. Para no tocarlo sin querer, pasa a **MF**: en el 11 mm con su interruptor; en el Viltrox con `Modo de enfoque` → `Enfoque man.` (no tiene interruptor, [su guía](../manejo-a6700/15-viltrox-25mm.md)).
+4. Para no tocarlo sin querer, pasa a **MF**: en el 11 mm con su interruptor; en el Viltrox con `Modo de enfoque` → `Enfoque man.` (no tiene interruptor, [su guía](../manejo-a6700/16-viltrox-25mm.md)).
 5. Compón y dispara sin volver a enfocar.
 
 **Sin tabla, la regla del doble.** ¿Lo más cercano que quieres nítido está a 0,5 m? **Enfoca al doble (1 m)** y cierra hasta la apertura cuya hiperfocal sea 1 m o menos (con el 11 mm, f/5.6 o f/8). Funciona con cualquier objetivo y no hay que memorizar nada.
@@ -122,7 +122,7 @@ Ninguno de tus objetivos tiene escala de distancias, así que la distancia se po
 
 - **"Nítido" no es "lo más nítido posible".** La hiperfocal deja el infinito en el **borde** de la zona nítida: aceptable, no perfecto. Para una copia grande o si vas a mirar al 100 %, **enfoca donde dice la fila de dos pasos más abierta**: a f/8, enfoca a la distancia de f/4 (1,5 m con el 11 mm). Lo nítido empieza entonces en ~0,75 m, y el fondo y el horizonte ganan detalle.
 - **Si te quedas corto, lo que sufre es el fondo.** Enfocar **por delante** de la hiperfocal saca el infinito de la zona nítida y las montañas se ablandan. Enfocar un poco **por detrás** solo te cuesta unos centímetros delante. En la duda, **pásate, no te quedes corto**.
-- **No sirve para todo.** Si lo importante es una cara o un animal, se enfoca a la cara o al animal. La hiperfocal es para cuando **todo** importa: un paisaje con algo cerca, una calle donde no sabes dónde aparecerá la gente ([enfoque por zonas](../manejo-a6700/12-calle-y-arquitectura.md#enfocar-sin-mirar-el-enfoque-por-zonas)) o la noche.
+- **No sirve para todo.** Si lo importante es una cara o un animal, se enfoca a la cara o al animal. La hiperfocal es para cuando **todo** importa: un paisaje con algo cerca, una calle donde no sabes dónde aparecerá la gente ([enfoque por zonas](../manejo-a6700/13-calle-y-arquitectura.md#enfocar-sin-mirar-el-enfoque-por-zonas)) o la noche.
 
 ### Con las estrellas, al revés
 

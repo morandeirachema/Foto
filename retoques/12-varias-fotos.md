@@ -6,6 +6,8 @@
 
 # 12. Varias fotos en una, ampliar y generar
 
+> 🔴 **Avanzado** · Da por sabido: el [flujo base](04-flujo-base.md) · Te desbloquea: HDR, panorámicas, apilado de enfoque, ampliar y las herramientas generativas.
+
 Estas herramientas están en la pestaña **Extra**. La documentación de Skylum no detalla qué formatos de entrada admite cada una. Con RAW hay más margen, pero puedes probar con tus JPEG.
 
 ## 12.1. HDR Merge

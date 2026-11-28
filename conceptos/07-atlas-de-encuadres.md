@@ -79,7 +79,7 @@ mirada, no de identificar la especie.
 - **Cámara**: 350 mm a tope · 1/500 · **el ojo enfocado o no hay foto**.
 - **La clave**: cortar **por dentro** de la figura es válido y deliberado.
   Los dos ojos, o uno solo bien colocado.
-- **Dónde**: elefantes en Nebrownii y Kalkheuwel, que se acercan de verdad.
+- **Dónde**: elefantes en una charca pequeña o cruzando un río, que se acercan de verdad.
 - **El error que lo mata**: quedarse a medias — cortar solo un poquito las
   orejas parece un despiste; cortar de verdad parece una decisión.
 
@@ -99,11 +99,11 @@ El opuesto exacto del anterior: el bicho diminuto y el sitio enorme. Cuenta
 ```
 
 - **Cámara**: 70–135 mm (o el 11 mm si estás cerca) · 1/1000 · **+1 de
-  compensación** si el fondo es calcreta o arena.
+  compensación** si el fondo es arena, sal o barro seco.
 - **La clave**: que el animal ocupe **menos de un décimo** del encuadre y
   esté descentrado. Y que el espacio vacío se vea limpio.
-- **Dónde**: el pan de Etosha (Okondeka, Salvadora), las llanuras de
-  Namutoni, el órix en las dunas de Sossusvlei.
+- **Dónde**: las llanuras abiertas, las playas de arena de un río, las
+  láminas de agua de un delta, las dunas.
 - **El error que lo mata**: dejarlo demasiado grande. Si dudas, está grande.
 
 ## 4 · La silueta
@@ -125,8 +125,8 @@ y en ninguna más.
 - **La clave**: la silueta tiene que ser **legible sola**. Perfil, no de
   frente; patas separadas del cuerpo; cuernos o trompa recortados contra el
   cielo, nunca contra el monte.
-- **Dónde**: Klein Namutoni y Namutoni a contraluz al ocaso; Okaukuejo desde
-  el mirador.
+- **Dónde**: cualquier horizonte limpio a contraluz al ocaso: una charca,
+  una orilla, la cresta de una loma.
 - **El error que lo mata**: un fondo que no es cielo. Una silueta contra
   matorral es una mancha.
 
@@ -148,8 +148,9 @@ Simetría gratis, y solo en las charcas quietas de primera hora.
   murete o del marco de la ventanilla) · 1/500.
 - **La clave**: animal **y** reflejo enteros, con la línea del agua en el
   centro. O solo el reflejo, que luego se gira en edición y nadie lo sabe.
-- **Dónde**: Chudop y Klein Namutoni al amanecer, sin viento. Y de noche,
-  Okaukuejo, donde el foco hace el trabajo.
+- **Dónde**: charcas, remansos y canales al amanecer, sin viento; desde una
+  barca, el reflejo está a ras de agua. Y de noche, una charca con focos,
+  donde el foco hace el trabajo.
 - **El error que lo mata**: cortar el reflejo. O disparar desde alto, que lo
   hace desaparecer.
 
@@ -219,7 +220,7 @@ desdibujado detrás.
 - **La clave**: **tres planos**, no dos. Hierba desenfocada delante, animal
   nítido, monte azulado detrás.
 - **Dónde**: manadas en profundidad, la fila india hacia el agua, las capas
-  de sierra desde Spreetshoogte.
+  de sierra desde un mirador alto.
 - **El error que lo mata**: que los tres planos estén igual de nítidos. Si
   cierras el diafragma, se acabó el efecto.
 
@@ -272,7 +273,7 @@ Dos animales que se relacionan. Vale más que dos retratos.
 
 ## 11 · El contraluz con polvo
 
-El truco más agradecido del atardecer en Etosha, y el más fácil de fallar.
+El truco más agradecido del atardecer en un safari, y el más fácil de fallar.
 
 ```
 ┌──────────────────────────────┐
@@ -288,8 +289,8 @@ El truco más agradecido del atardecer en Etosha, y el más fácil de fallar.
   parasol puesto y limpio.
 - **La clave**: necesitas **polvo o pelo** en el aire para que la luz se vea.
   Sin partículas no hay foto: espera a que el grupo camine.
-- **Dónde**: la última hora en cualquier charca, y Okaukuejo, donde el
-  atardecer es a contraluz desde el mirador.
+- **Dónde**: la última hora en cualquier charca o pista con polvo, o sobre
+  el agua salpicada de un río.
 - **El error que lo mata**: un destello por luz parásita. Tapa el sol con el
   propio animal o con una rama.
 
@@ -314,7 +315,7 @@ Existe, y casi nadie lo usa.
 - **La clave**: cuellos, troncos y árboles piden vertical. De cada escena
   buena, saca la horizontal **y** la vertical.
 - **Dónde**: jirafa bebiendo o de cuerpo entero, leopardo en rama, elefante
-  de frente, las acacias de Deadvlei.
+  de frente, un árbol aislado.
 - **El error que lo mata**: no hacerla. Se te olvidará; ponlo en la rutina.
 
 ## 13 · A ras de suelo
@@ -370,8 +371,8 @@ guardado la cámara.
 
 ## 15 · La banda diagonal
 
-La composición de Vía Láctea que encaja con **tu** noviembre, en el que el
-núcleo sale bajo y tumbado.
+La composición de Vía Láctea para cuando el núcleo sale bajo y tumbado: fuera
+de temporada, o desde latitudes altas como España.
 
 ```
 ┌──────────────────────────────┐
@@ -386,7 +387,8 @@ núcleo sale bajo y tumbado.
 - **Cámara**: 11 mm · 20 s · f/1.8 · ISO 1600 · WB 3900 K.
 - **La clave**: la banda **entra por una esquina y no corta** tu silueta.
   Primer plano a un lado, cielo fluyendo al otro.
-- **Dónde**: Spreetshoogte las noches 1 y 2, y Hoada la 8, con el granito.
+- **Dónde**: un mirador con el horizonte despejado hacia donde sale o se pone
+  el núcleo.
 - **El error que lo mata**: poner la banda vertical en el centro. Parte la
   foto en dos.
 
@@ -406,9 +408,9 @@ Cielo con tierra dentro, en su versión más simple y más segura.
 
 - **Cámara**: 11 mm · 20 s · f/1.8 · horizonte en el **tercio inferior**.
 - **La clave**: **un quinto de suelo, cuatro quintos de cielo**. Y el objeto
-  a un lado, con perfil simple y suelto: un árbol aislado, el depósito de
-  agua de Okaukuejo, la muralla del fuerte de Namutoni.
-- **Dónde**: todas las noches del viaje. Es la postal.
+  a un lado, con perfil simple y suelto: un árbol aislado, un depósito de
+  agua, una muralla, una cabaña.
+- **Dónde**: cualquier noche oscura de un viaje. Es la postal.
 - **El error que lo mata**: elegir el objeto de noche. Se elige **de día**,
   con luz, y se vuelve luego.
 
@@ -428,10 +430,12 @@ Star trails con el polo dentro del encuadre.
 
 - **Cámara**: 11 mm · serie de 90–180 tomas de 30 s · f/2.8 · ISO 800–1600 ·
   intervalo 31 s.
-- **La clave**: el polo sur celeste queda a solo **~19° de altura** en
-  Etosha, así que el centro de giro cae **bajo** — hay sitio de sobra para
-  meter un objeto debajo. Cámara nivelada y horizonte en el tercio bajo.
-- **Dónde**: Namutoni (la muralla blanca), Hoada (el granito).
+- **La clave**: el polo celeste queda a **tantos grados de altura como tu
+  latitud** (unos 20° en Botswana o en el Pantanal, unos 40° en España), así
+  que cerca del ecuador el centro de giro cae **bajo** y hay sitio de sobra
+  para meter un objeto debajo. Cámara nivelada y horizonte en el tercio bajo.
+- **Dónde**: una muralla, un árbol o una roca en el lado del polo (el sur en
+  el hemisferio sur, el norte en España).
 - **El error que lo mata**: el objeto tapando el centro de giro. Ponlo
   debajo o a un lado, nunca encima.
 
@@ -458,7 +462,8 @@ Cuando el cielo es más ancho que el 11 mm.
 
 ## 19 · Las dos Nubes con tierra
 
-La foto que solo puedes hacer en el hemisferio sur, y noviembre es su mes.
+La foto que solo puedes hacer en el hemisferio sur; las noches de octubre a
+febrero son las mejores.
 
 ```
 ┌──────────────────────────────┐
@@ -496,9 +501,9 @@ más de cuatro metros, que a f/1.8 es "cerca".
 - **Cámara**: 11 mm · enfoca a las **estrellas**, no al primer plano ·
   el objeto a **más de 4 metros** para que entre en la profundidad de campo
   a f/1.8.
-- **La clave**: da escala y profundidad de golpe. Una roca, una bola de
-  granito de Hoada, la rueda del coche.
-- **Dónde**: Hoada y Spreetshoogte, donde hay roca cerca.
+- **La clave**: da escala y profundidad de golpe. Una roca, un tronco,
+  la rueda del coche.
+- **Dónde**: donde haya roca o árboles cerca del sitio desde el que disparas.
 - **El error que lo mata**: poner el objeto a menos de cuatro metros — sale
   borroso y no hay arreglo (el porqué, en [por qué funciona](09-por-que-funciona.md)).
 

@@ -65,8 +65,8 @@ flowchart LR
 | | [8. Cuaderno de composición](08-cuaderno-de-composicion.md) | 🔵 | 20 ejercicios en escalera ([PDF](../pdf/cuaderno-de-composicion.pdf)) |
 | **III · A fondo** | [9. Por qué funciona](09-por-que-funciona.md) | 🔴 | ETTR, profundidad de campo con números reales, difracción, compresión, invarianza ISO, el AF por dentro, los objetivos y **el tiempo**: qué congela y qué dibuja la velocidad |
 | | [10. La mirada](10-la-mirada.md) | 🔴 | Cómo piensan los que hacen las fotos que te gustan |
-| | [11. Los maestros, foto a foto](11-los-maestros.md) 🆕 | 🔴 | Cinco fotógrafos de fauna, cinco de cielo nocturno, cinco de calle y cinco de arquitectura, más paisaje y el tiempo: cada foto, por qué funciona, su edición y qué decisión copiarle |
-| | [12. Cómo mejorar](12-como-mejorar.md) 🆕 | 🔴 | El método de una semana, tu diagnóstico con las 2.731 fotos de Namibia, los cinco escalones, la escalera de cada tema y un plan de doce semanas |
+| | [11. Los maestros, foto a foto](11-los-maestros.md) | 🔴 | Cinco fotógrafos de fauna, cinco de cielo nocturno, cinco de calle y cinco de arquitectura, más paisaje y el tiempo: cada foto, por qué funciona, su edición y qué decisión copiarle |
+| | [12. Cómo mejorar](12-como-mejorar.md) | 🔴 | El método de una semana, tu diagnóstico con las 2.731 fotos de Namibia, los cinco escalones, la escalera de cada tema y un plan de doce semanas |
 | **IV · Referencia** | [13. Glosario](13-glosario.md) | 🟢 | Todas las palabras raras (las de Luminar, en el [glosario de retoques](../retoques/18-glosario.md)) |
 
 **Niveles:** 🟢 iniciación (nunca has manejado una cámara en serio) · 🔵 básico (las recetas) · 🔴 avanzado (el porqué, y la foto que no es correcta sino buena).

@@ -1,12 +1,12 @@
 <!-- nav -->
-[← Anterior](09-astrofotografia-namibia.md) · [Índice](README.md) · [Siguiente →](11-estelas-de-trafico.md)
+[← Anterior](10-astrofotografia.md) · [Índice](README.md) · [Siguiente →](12-estelas-de-trafico.md)
 <!-- /nav -->
 
 *Parte II · Recetas · El cielo de noche*
 
-# 10. Time-lapse del cielo — las estrellas en movimiento, y del atardecer a la noche
+# 11. Time-lapse del cielo — las estrellas en movimiento, y del atardecer a la noche
 
-> 🔵 **Básico** → 🔴 avanzado en la receta B · Da por sabido: el [capítulo 4](04-configuracion-basica.md) (memoria MR2 guardada) y montar el trípode; mejor si ya hiciste la noche 1 del [capítulo 8](08-estrellas-con-tierra.md) · Te desbloquea: un vídeo de 10–20 s con el cielo girando sobre el paisaje, la serie que pasa sola del atardecer a la noche, y dos fotos más sacadas de la misma serie.
+> 🔵 **Básico** → 🔴 avanzado en la receta B · Da por sabido: el [capítulo 4](04-configuracion-basica.md) (memoria MR2 guardada) y montar el trípode; mejor si ya hiciste la noche 1 del [capítulo 9](09-estrellas-con-tierra.md) · Te desbloquea: un vídeo de 10–20 s con el cielo girando sobre el paisaje, la serie que pasa sola del atardecer a la noche, y dos fotos más sacadas de la misma serie.
 
 Un time-lapse son **cientos de fotos iguales, hechas una cada pocos
 segundos desde el mismo sitio**, que luego se ven seguidas como un vídeo.
@@ -31,7 +31,7 @@ ruido** (apilando unas pocas).
 - **La a6700 con el 11 mm F1.8** (16,5 mm eq): cabe el cielo entero y las
   estrellas aguantan 15 s como puntos. Con el Viltrox 25 mm (37,5 mm eq) las
   estrellas se alargan antes: mira su capítulo
-  ([capítulo 15](15-viltrox-25mm.md)).
+  ([capítulo 16](16-viltrox-25mm.md)).
 - **Trípode firme**. No lo vas a tocar en una o dos horas: patas sin
   extender del todo, la columna central abajo.
 - **Batería llena y un power bank USB-C**. Sony recomienda alimentar la
@@ -161,7 +161,7 @@ exacta (fin del crepúsculo astronómico).
 
 **Antes de la serie larga, una de prueba**: 60 fotos con `Intervalo de toma`
 de 5 s durante el atardecer, desde casa si quieres
-([capítulo 13](13-fotos-en-casa.md)). Así ves cómo reacciona tu cámara
+([capítulo 14](14-fotos-en-casa.md)). Así ves cómo reacciona tu cámara
 sin perder una noche.
 
 > **Lo que no está escrito.** Sony no detalla qué hace la cámara con la
@@ -181,7 +181,7 @@ consigas en la cámara es lo que tendrás.
 | Problema | Causa | Solución |
 |---|---|---|
 | Fogonazos de luz en algunos fotogramas | Un coche, un frontal o una pantalla iluminaron el encuadre | Borra esos fotogramas antes de montar el vídeo; la próxima vez, luces apagadas y lejos |
-| Las estrellas salen como rayitas en cada foto | Exposición larga para la focal | 15 s con el 11 mm; con el 25 mm, menos ([capítulo 15](15-viltrox-25mm.md)) |
+| Las estrellas salen como rayitas en cada foto | Exposición larga para la focal | 15 s con el 11 mm; con el 25 mm, menos ([capítulo 16](16-viltrox-25mm.md)) |
 | La serie se cortó a mitad | Batería, tarjeta llena o calor | Power bank con `Alimentación USB` en `Activar`; mira el contador de fotos antes; en intervalos cortos la cámara puede calentarse y parar |
 | Las últimas fotos salen lechosas | Rocío en el cristal | Banda calefactora, o mira el cristal cada 20 minutos |
 | La serie va más lenta de lo que pusiste | Exposición más larga que el intervalo | Intervalo = exposición + 2 s; en la receta B, `Prior. intervalo toma` en `Activar` |
@@ -251,7 +251,7 @@ camino. Lo que en el vídeo es movimiento, en la foto son arcos.
 
 300 fotos de 15 s son 75 minutos de cielo: arcos de unos 19° (el cielo gira
 15° por hora). Para arcos más largos y sin huecos, la receta propia de star
-trails está en el [capítulo 8](08-estrellas-con-tierra.md) (noche 3).
+trails está en el [capítulo 9](09-estrellas-con-tierra.md) (noche 3).
 
 ### 3 · Una foto del cielo limpia de ruido
 
@@ -288,8 +288,8 @@ de star trails sacada de la misma serie.
   `ISO AUTO VO mín.` en 15" hace que primero alargue el tiempo, que es gratis
   en trípode, y solo después suba el ISO, que cuesta ruido.
 - **De la misma serie salen fotos fijas**: apilar en *Lighten* suma los rastros
-  (star trails); hacer la media quita ruido. Es lo que hacen, a lo grande,
-  Wilkes y Molloy ([los maestros, el tiempo](../conceptos/11-los-maestros.md#el-tiempo)).
+  (star trails); hacer la media quita ruido. Es lo que hace Molloy con sus
+  puestas de sol ([los maestros, el tiempo](../conceptos/11-los-maestros.md#el-tiempo)).
 
 ## Referencias
 
@@ -303,5 +303,5 @@ de star trails sacada de la misma serie.
 - DaVinci Resolve (gratis, para Mac): <https://www.blackmagicdesign.com/products/davinciresolve>
 
 <!-- nav -->
-[← Anterior](09-astrofotografia-namibia.md) · [Índice](README.md) · [Siguiente →](11-estelas-de-trafico.md)
+[← Anterior](10-astrofotografia.md) · [Índice](README.md) · [Siguiente →](12-estelas-de-trafico.md)
 <!-- /nav -->

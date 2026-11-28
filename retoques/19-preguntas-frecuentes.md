@@ -6,6 +6,8 @@
 
 # 19. Preguntas frecuentes
 
+> 📋 **Referencia** · Da por sabido: nada · Te desbloquea: las respuestas rápidas a las dudas más frecuentes.
+
 **¿Merece la pena editar JPEG, o debería pasarme a RAW?**
 Merece la pena: un JPEG se puede mejorar mucho. Pero si tu cámara lo permite, dispara en **RAW + JPEG** en los viajes importantes. El RAW es el seguro para las fotos que de verdad te importan.
 

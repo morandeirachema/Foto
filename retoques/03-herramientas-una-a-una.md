@@ -6,6 +6,8 @@
 
 # 3. Las herramientas, una a una: dónde están, qué hacen y cuánto mover
 
+> 🟢 **Iniciación** → 🔵 · Da por sabido: el [capítulo 2](02-luminar-por-dentro.md) · Te desbloquea: saber dónde está cada herramienta, qué hace y con qué número empezar.
+
 Si no conoces Luminar, este es el capítulo de consulta. Para cada herramienta que usa la guía encontrarás **dónde está**, **qué hace en palabras sencillas**, **con qué valor empezar**, **hasta dónde llegar con un JPEG** y **cómo saber que te has pasado**. Tenlo abierto al lado mientras editas.
 
 ## 3.1. Antes de empezar: cómo se usa una herramienta

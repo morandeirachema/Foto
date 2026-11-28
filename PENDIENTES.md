@@ -2,6 +2,25 @@
 
 Cosas que el repo **no puede verificar por sí solo**: hacen falta tu cámara, tus objetivos, tu Luminar o una decisión tuya. Cuando cierres una, marca la casilla. Si el resultado no coincide con la guía, **manda lo que ves**: anótalo aquí y corrijo la guía.
 
+## Resumen
+
+| Sección | Qué hace falta | Por dónde empezar |
+|---|---|---|
+| [1 · RAW](#1--urgente-que-la-cámara-dispare-en-raw) | La cámara | **Lo primero de todo**: un archivo `.ARW` |
+| [2 · Nombres de menú](#2--la-cámara-11-nombres-de-menú-por-confirmar) | La cámara | Hecho |
+| [3 · El Viltrox](#3--el-viltrox-25-mm) | El objetivo | Firmware y prueba de enfoque |
+| [4 · Luminar](#4--luminar) | Luminar | Los rangos de los deslizadores y Develop dos veces |
+| [5 · Fotos de muestra](#5--fotos-de-muestra-para-las-recetas) | Tus fotos | Elegir las fotos de las recetas |
+| [6 · Equipo y repo](#6--el-equipo-y-el-estado-del-repo) | Tú | — |
+| [7 · Decisiones](#7--decisiones) | Tú | — |
+| [8 · Verificación](#8--verificación-del-22-de-noviembre-de-2026) | Tú | — |
+| [9 · El Pixel](#9--el-pixel-10-pro) | El móvil | Los nombres de la aplicación |
+| [10 · Time-lapse y estelas](#10--time-lapse-estelas-y-fotos-en-casa) | La cámara y el Mac | La serie de prueba de la receta B |
+| [11 · Calle, arquitectura y maestros](#11--calle-arquitectura-la-hiperfocal-y-los-maestros-28-de-noviembre-de-2026) | La cámara y Luminar | Transform con un JPEG |
+| [12 · Equipo y destinos](#12--equipo-y-destinos-28-de-noviembre-de-2026) | Tú | **El modelo de tu trípode** |
+
+Cuántas quedan abiertas en cada sección: `python3 tools/comprobar.py` lo cuenta al final.
+
 ## 1 · Urgente: que la cámara dispare en RAW
 
 Las fotos de Namibia salieron **solo en JPEG** por un error de configuración. Antes de la próxima salida:
@@ -14,7 +33,7 @@ Las fotos de Namibia salieron **solo en JPEG** por un error de configuración. A
 
 ## 2 · La cámara: 11 nombres de menú por confirmar
 
-La auditoría confirmó las 79 rutas, pero estos nombres no se pudieron localizar ([verificación de los menús](manejo-a6700/19-verificacion-de-menus.md)). Ponte sobre cada línea y pulsa **C3**: la Guía en la cámara muestra el nombre oficial.
+La auditoría confirmó las 79 rutas, pero estos nombres no se pudieron localizar ([verificación de los menús](manejo-a6700/21-verificacion-de-menus.md)). Ponte sobre cada línea y pulsa **C3**: la Guía en la cámara muestra el nombre oficial.
 
 > **Confirmados el 22 de noviembre de 2026** en las fichas de la Guía de ayuda de Sony ([verificación](notas-de-investigacion/verificacion-de-datos/menus-de-la-a6700.md)). Si la pantalla de tu cámara dice otra cosa, manda la pantalla.
 
@@ -32,7 +51,7 @@ La auditoría confirmó las 79 rutas, pero estos nombres no se pudieron localiza
 
 ## 3 · El Viltrox 25 mm
 
-- [ ] ¿Es el **AF 25 mm F1.7 Air**? Lo pone en el barrilete o en la caja. Si es otro modelo, la ficha de [su guía](manejo-a6700/15-viltrox-25mm.md) puede cambiar.
+- [ ] ¿Es el **AF 25 mm F1.7 Air**? Lo pone en el barrilete o en la caja. Si es otro modelo, la ficha de [su guía](manejo-a6700/16-viltrox-25mm.md) puede cambiar.
 - [ ] Haz una foto y mira su información: ¿dice **25 mm** de focal? (Para el estabilizador y para los datos de la foto.)
 - [ ] **Firmware:** anota la versión instalada y compárala con la última de la web de Viltrox.
 - [ ] Asigna **`Alter. select. AF/MF`** a un botón libre (no C1 ni C3) y anota cuál: lo pongo en la guía.
@@ -71,7 +90,7 @@ Las [recetas completas](retoques/10-recetas.md) están marcadas como provisional
 ## 6 · El equipo y el estado del repo
 
 - [x] **El 70-350 prestado**: sigue contigo una temporada (18 de noviembre de 2026). Las guías siguen contando con él; si lo devuelves, avisa y las ajusto.
-- [ ] El estado del equipo de [equipo y accesorios](manejo-a6700/14-equipo-accesorios.md) es del **25 de octubre**. ¿Ha cambiado algo?
+- [ ] El estado del equipo de [equipo y accesorios](manejo-a6700/15-equipo-accesorios.md) es del **25 de octubre**. ¿Ha cambiado algo?
 - [ ] **Capturas de los menús:** el [guion](manejo-a6700/img/menus/) tiene 14 imprescindibles (marcadas ★). Hazlas con el móvil y ejecuta `python3 manejo-a6700/img/menus/insertar.py`.
 - [ ] **Quitar la ubicación de una foto:** Apple documenta cómo en la app Fotos (Imagen → Ubicación → Ocultar ubicación). ¿Se puede también desde Vista Previa (Herramientas → Mostrar inspector)? ([retoques, 14.3](retoques/14-etica.md))
 
@@ -79,7 +98,7 @@ Las [recetas completas](retoques/10-recetas.md) están marcadas como provisional
 
 - [ ] ¿Traigo las guías **"después del viaje"** de a6700-namibia (el archivo y la selección: copias 3-2-1, criba en dos pasadas, las 20 finales)?
 - [ ] ¿Escribo un capítulo de **Luminar con RAW** para las próximas salidas? (Depende de la comprobación de la sección 4.)
-- [ ] ¿Añado el **Viltrox** a la [chuleta](manejo-a6700/20-chuleta.md)? Tiene que seguir cabiendo en una cara.
+- [ ] ¿Añado el **Viltrox** a la [chuleta](manejo-a6700/22-chuleta.md)? Tiene que seguir cabiendo en una cara.
 - [ ] Hay 81 enlaces que llevan a **a6700-namibia** para guías no copiadas. ¿Mantienes ese repo publicado, o traigo lo que te interese?
 
 ## 8 · Verificación del 22 de noviembre de 2026
@@ -110,17 +129,25 @@ La [guía del Pixel](manejo-pixel-10-pro/README.md) se escribió el 22 de noviem
 
 ## 10 · Time-lapse, estelas y fotos en casa
 
-- [ ] **Time-lapse, receta B** ([capítulo 10](manejo-a6700/10-time-lapse-del-cielo.md#receta-b--del-atardecer-a-la-noche-la-cámara-lleva-la-exposición)): haz la serie de prueba de 60 fotos durante una puesta. ¿Cómo salen las últimas, ya de noche: demasiado oscuras, bien o grises? ¿Se nota parpadeo en el vídeo? Con eso ajusto la compensación (−0,7) y el máximo de ISO AUTO (3200) de la receta.
+- [ ] **Time-lapse, receta B** ([capítulo 11](manejo-a6700/11-time-lapse-del-cielo.md#receta-b--del-atardecer-a-la-noche-la-cámara-lleva-la-exposición)): haz la serie de prueba de 60 fotos durante una puesta. ¿Cómo salen las últimas, ya de noche: demasiado oscuras, bien o grises? ¿Se nota parpadeo en el vídeo? Con eso ajusto la compensación (−0,7) y el máximo de ISO AUTO (3200) de la receta.
 - [ ] Con `Prior. intervalo toma` en `Activar`, ¿qué hace la cámara cuando la exposición ya no cabe en el intervalo: sube el ISO, oscurece la foto o acorta la velocidad? Mira la velocidad y el ISO de las últimas fotos de la serie. Sony no lo explica.
-- [ ] **Luminar, capas:** al añadir una foto como capa (**My Images**), ¿qué modos salen en **Blend Modes**? ¿Hay **Lighten**? La documentación de Skylum no los enumera ([estelas de tráfico](manejo-a6700/11-estelas-de-trafico.md#varias-fotos-para-una-apilar-las-estelas)).
-- [ ] **Imaging Edge Desktop** (*Viewer*): Sony lo da como compatible con macOS 14, 15 y 26, y tu Mac tiene macOS 27.2. ¿Se instala y funciona? Si funciona, ¿ordena bien los JPEG exportados de Luminar? Viewer los ordena por la fecha y la hora de la toma, así que Luminar tiene que conservarlas al exportar ([capítulo 10](manejo-a6700/10-time-lapse-del-cielo.md#1--el-vídeo)).
-- [ ] **DaVinci Resolve** (la alternativa si Viewer no funciona): al importar la carpeta de un time-lapse, ¿reconoce las fotos numeradas como un solo clip, como dice el [capítulo 10](manejo-a6700/10-time-lapse-del-cielo.md#1--el-vídeo)? No está comprobado en tu Mac.
+- [ ] **Luminar, capas:** al añadir una foto como capa (**My Images**), ¿qué modos salen en **Blend Modes**? ¿Hay **Lighten**? La documentación de Skylum no los enumera ([estelas de tráfico](manejo-a6700/12-estelas-de-trafico.md#varias-fotos-para-una-apilar-las-estelas)).
+- [ ] **Imaging Edge Desktop** (*Viewer*): Sony lo da como compatible con macOS 14, 15 y 26, y tu Mac tiene macOS 27.2. ¿Se instala y funciona? Si funciona, ¿ordena bien los JPEG exportados de Luminar? Viewer los ordena por la fecha y la hora de la toma, así que Luminar tiene que conservarlas al exportar ([capítulo 11](manejo-a6700/11-time-lapse-del-cielo.md#1--el-vídeo)).
+- [ ] **DaVinci Resolve** (la alternativa si Viewer no funciona): al importar la carpeta de un time-lapse, ¿reconoce las fotos numeradas como un solo clip, como dice el [capítulo 11](manejo-a6700/11-time-lapse-del-cielo.md#1--el-vídeo)? No está comprobado en tu Mac.
 
 ## 11 · Calle, arquitectura, la hiperfocal y los maestros (28 de noviembre de 2026)
 
 - [ ] **Luminar, Transform con JPEG:** abre un JPEG y mira si en **Develop** aparece la sección **Transform** (**Vertical**, **Horizontal**, **Aspect**). Skylum dice que los controles de Develop cambian entre RAW y no RAW, y no aclara este ([retoques 8.4](retoques/08-paisaje.md#84-ciudad-calle-y-arquitectura)). Si no aparece, la guía dejará solo **Crop AI → Straighten** y "cámara a nivel".
-- [ ] **El enfoque por zonas con el Viltrox:** pon la zona a 3 m con AF-ON, apaga y enciende la cámara, y amplía una foto de prueba. ¿Conserva la distancia o hay que volver a ponerla? ([calle](manejo-a6700/12-calle-y-arquitectura.md#enfocar-sin-mirar-el-enfoque-por-zonas)). La guía, por prudencia, dice que la vuelvas a poner.
+- [ ] **El enfoque por zonas con el Viltrox:** pon la zona a 3 m con AF-ON, apaga y enciende la cámara, y amplía una foto de prueba. ¿Conserva la distancia o hay que volver a ponerla? ([calle](manejo-a6700/13-calle-y-arquitectura.md#enfocar-sin-mirar-el-enfoque-por-zonas)). La guía, por prudencia, dice que la vuelvas a poner.
 - [ ] **El enfoque por zonas en AF-C:** con MR1 cargada (AF-C) y sin pulsar AF-ON, ¿se queda el foco quieto al disparar con el disparador? Debería, con `AF c/obturador` desactivado; compruébalo con 10 fotos a algo que pasa.
 - [ ] **La distancia de enfoque en pantalla:** al girar el anillo en MF con el 11 mm o con el Viltrox, ¿muestra la a6700 una escala o un número de distancia? Si lo hace, poner la hiperfocal es más fácil que con "un paso = 0,75 m" ([óptica §5](conceptos/05-optica.md#5--la-hiperfocal-todo-nítido-de-cerca-al-infinito)).
 - [ ] **Obturador electrónico en la calle:** una foto de un coche o de una bici que pasa, con el electrónico y con el mecánico. ¿Sale torcida con el electrónico? Con eso se ajusta la recomendación de la receta.
 - [x] **El test interactivo:** republicado el 28 de noviembre de 2026 con las 7 preguntas nuevas (C1–C4, A4–A6) y los enlaces renumerados, después de subir los archivos.
+
+## 12 · Equipo y destinos (28 de noviembre de 2026)
+
+- [ ] **Tu trípode de aluminio:** marca y modelo, tipo de rótula y de placa (¿tipo Arca?). Con eso, la [guía de mejoras de equipo](manejo-a6700/18-mejoras-de-equipo.md#el-trípode-de-aluminio) puede darte su carga y su límite real.
+- [ ] **La prueba de los tres soportes** (GorillaPod, trípode y bean bag) de [mejoras de equipo](manejo-a6700/18-mejoras-de-equipo.md#ejercicio-una-tarde): ¿qué tiempo aguanta cada uno sin moverse?
+- [ ] **El mando Bluetooth RMT-P1BT**, si algún día lo compras: la lista oficial de compatibles de Sony no se pudo leer; los usuarios dicen que funciona con la a6700.
+- [ ] **Antes de cada viaje**, confirma con el operador: el límite de equipaje de las avionetas (en Botswana suelen ser 20 kg en bolsa blanda, cámara incluida), si las salidas nocturnas están permitidas donde vas y las fechas de cierre de los parques (Yala, en Sri Lanka).
+- [ ] **El 70-350:** apunta la fecha en que lo devuelves y cuenta, hasta entonces, cuántas fotos haces con él en cada salida ([la regla para decidir](manejo-a6700/18-mejoras-de-equipo.md#las-opciones)).

@@ -1,10 +1,10 @@
 <!-- nav -->
-[← Anterior](15-viltrox-25mm.md) · [Índice](README.md) · [Siguiente →](17-ajustes-a6700.md)
+[← Anterior](16-viltrox-25mm.md) · [Índice](README.md) · [Siguiente →](18-mejoras-de-equipo.md)
 <!-- /nav -->
 
 *Parte III · Equipo y objetivos*
 
-# 16. El AF y la exposición a fondo — la máquina, a tu medida
+# 17. El AF y la exposición a fondo — la máquina, a tu medida
 
 > 🔴 **Avanzado** · Da por sabido: [capítulo 4](04-configuracion-basica.md) y [capítulo 6](06-safari-diurno.md) · Te desbloquea: sacarle a la cámara lo que la receta base deja sobre la mesa.
 
@@ -18,7 +18,7 @@ aves.
 **El resto del nivel avanzado**: el porqué de todo esto está en
 [por qué funciona](../conceptos/09-por-que-funciona.md); lo creativo, en
 [safari a fondo](https://github.com/morandeirachema/a6700-namibia/blob/main/mejora/safari-a-fondo.md); el astro avanzado se mudó a
-[estrellas con la tierra dentro](08-estrellas-con-tierra.md) y el paisaje de
+[estrellas con la tierra dentro](09-estrellas-con-tierra.md) y el paisaje de
 los maestros, a [paisaje a fondo](https://github.com/morandeirachema/a6700-namibia/blob/main/mejora/paisaje-a-fondo.md).
 
 ## Safari avanzado
@@ -60,7 +60,7 @@ El metaconsejo: no memorices combinaciones — mete estos tres ajustes en
 
 - **Compensación también en M + ISO Auto**: en esta cámara la compensación
   (±5 EV en foto; en vídeo, ±2) funciona en todos los modos, incluido M con ISO Auto — tu modo
-  safari. Animal oscuro sobre calcreta blanca → +0.7 y a otra cosa. Sin
+  safari. Animal oscuro sobre suelo claro → +0.7 y a otra cosa. Sin
   trucos ni rodeos.
 - **Puntual ligada al punto de enfoque**: `Exposición/color → [Medición] →
   [Punto med. punt.] → Vínc. punto enf.` hace que la medición puntual siga a tu punto AF —
@@ -95,7 +95,7 @@ El metaconsejo: no memorices combinaciones — mete estos tres ajustes en
 - **MR3 = preajuste de vuelo**: guarda 1/2500 · apertura mínima · ISO Auto ·
   reconocimiento **Ave** · área Zona · Sens. Seguim. 3 · ráfaga Hi+ — un
   giro de dial y estás en modo "despegue". Se guarda igual que MR1 y MR2
-  ([las tres memorias](17-ajustes-a6700.md#las-tres-memorias-del-dial)).
+  ([las tres memorias](19-ajustes-a6700.md#las-tres-memorias-del-dial)).
 - **Valoración con estrellas** en la revisión de cada noche: marca ★ los
   aciertos y el cribado en casa empieza hecho.
 
@@ -170,5 +170,5 @@ sabes decir en una frase cuándo bajas la sensibilidad a 1 y cuándo la subes.
 - La imagen de Deadvlei de Lanting, contada por Nat Geo: <https://www.nationalgeographic.com/magazine/article/frans-lanting-behind-the-photo>
 
 <!-- nav -->
-[← Anterior](15-viltrox-25mm.md) · [Índice](README.md) · [Siguiente →](17-ajustes-a6700.md)
+[← Anterior](16-viltrox-25mm.md) · [Índice](README.md) · [Siguiente →](18-mejoras-de-equipo.md)
 <!-- /nav -->
