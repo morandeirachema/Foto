@@ -58,7 +58,7 @@ Es **luz dura**: la fuente (el sol despejado) es pequeña vista desde el sujeto.
 <details><summary>Respuesta</summary>
 
 Con un objetivo tan angular, enfocado a las estrellas, todo lo que está a **más de unos 4 m** queda nítido (es la **hiperfocal**). Con el **25 mm** a f/1.7 haría falta que el árbol estuviera a **más de unos 18 m**: a 10 m saldría blando.
-→ [Manejo 5 · Enfocar el 11 mm](manejo-a6700/05-enfocar-el-11mm.md) · [Manejo 11 · Viltrox](manejo-a6700/11-viltrox-25mm.md)
+→ [Manejo 5 · Enfocar el 11 mm](manejo-a6700/05-enfocar-el-11mm.md) · [Manejo 14 · Viltrox](manejo-a6700/14-viltrox-25mm.md)
 </details>
 
 **6. ¿Por qué un JPEG aguanta peor que un RAW cuando intentas recuperar un cielo o aclarar una sombra?**
@@ -72,7 +72,7 @@ El JPEG ya está **revelado por la cámara** y guarda **256 niveles por color (8
 <details><summary>Respuesta</summary>
 
 Que la cámara esté en **enfoque manual**: solo funciona en MF (y con el selector en Foto, en P/A/S/M). Con el 11 mm o el 70-350, el **interruptor AF/MF** del objetivo; con el Viltrox, que no tiene interruptor, **`Modo de enfoque` → `Enfoque man.`**
-→ [Manejo 3 · Diales y botones](manejo-a6700/03-diales-y-botones.md) · [Manejo 11 · Viltrox](manejo-a6700/11-viltrox-25mm.md)
+→ [Manejo 3 · Diales y botones](manejo-a6700/03-diales-y-botones.md) · [Manejo 14 · Viltrox](manejo-a6700/14-viltrox-25mm.md)
 </details>
 
 **8. ¿Cómo compruebas, sin dudas, que tu cámara está grabando en RAW?**
@@ -143,7 +143,7 @@ La regla directa: **¿el sujeto sale quemado (demasiado blanco)? → −. ¿Sale
 <details><summary>Respuesta</summary>
 
 **`Modo de enfoque` → `Enfoque man.`** en el menú. C1 solo funciona en MF, y el Viltrox no tiene interruptor AF/MF en el objetivo.
-→ [Manejo 11 · Viltrox](manejo-a6700/11-viltrox-25mm.md)
+→ [Manejo 14 · Viltrox](manejo-a6700/14-viltrox-25mm.md)
 </details>
 
 ---
@@ -192,7 +192,14 @@ Porque la máscara limita **ese** ajuste: toda tu corrección global pasaría a 
 → [Retoques 5.2](retoques/05-ajustes-locales.md#52-cómo-funcionan-las-máscaras-en-luminar)
 </details>
 
-**5c. Unas estrellas salen como bolas o donuts y otras fotos con trazos alargados en la misma dirección. ¿Qué causa cada cosa?**
+**5c. Usaste Structure AI +20 en toda la foto y luego le pones a esa misma Structure AI una máscara solo sobre el cielo. ¿Qué le pasa a la textura del animal?**
+<details><summary>Respuesta</summary>
+
+**La pierde:** el +20 queda solo en el cielo. Es la misma regla que con Develop: la máscara limita el efecto de esa herramienta a la zona marcada. Para dar textura solo al cielo sin quitársela al animal, usa otra herramienta con su propia máscara.
+→ [Retoques 5.2](retoques/05-ajustes-locales.md#52-cómo-funcionan-las-máscaras-en-luminar)
+</details>
+
+**5d. Unas estrellas salen como bolas o donuts y otras fotos con trazos alargados en la misma dirección. ¿Qué causa cada cosa?**
 <details><summary>Respuesta</summary>
 
 **Bolas o donuts: desenfoque** (vuelve a enfocar con la lupa). **Trazos en la misma dirección: movimiento** (la Tierra giró; baja el tiempo, por ejemplo de 20 s a 15 s).
@@ -298,7 +305,7 @@ Con pruebas que no dependen del ojo cansado: **antes y después** (**`\`**), **d
 <details><summary>Respuesta</summary>
 
 **Polvo en el sensor.** En Luminar: **Remove Dust Spots** y Erase en las que queden, **foto a foto** (Erase no se sincroniza), y vuelve a mirar el cielo después de Dehaze. En la cámara: limpia el sensor antes de la próxima salida.
-→ [Retoques 4 · Rescatar un JPEG](retoques/04-flujo-base.md#rescatar-un-jpeg-difícil) · [Manejo 10 · Polvo en el sensor](manejo-a6700/10-equipo-accesorios.md#polvo-en-el-sensor-comprobarlo-y-limpiarlo)
+→ [Retoques 4 · Rescatar un JPEG](retoques/04-flujo-base.md#rescatar-un-jpeg-difícil) · [Manejo 13 · Polvo en el sensor](manejo-a6700/13-equipo-accesorios.md#polvo-en-el-sensor-comprobarlo-y-limpiarlo)
 </details>
 
 **L10. Un elefante de noche bajo el foco de la charca sale todo naranja, a ISO 12800. ¿Puedes dejarlo con colores neutros?**
@@ -313,6 +320,29 @@ Con pruebas que no dependen del ojo cansado: **antes y después** (**`\`**), **d
 
 **Apilarlas**, sin editarlas antes, en un programa aparte (Luminar no lo hace): en Mac, Starry Landscape Stacker o Siril. El resultado, un TIFF de 16 bits con mucho menos ruido, es el que editas en Luminar.
 → [Retoques 9.2 · Apilar una serie](retoques/09-noche.md#apilar-una-serie-fuera-de-luminar)
+</details>
+
+### Práctica extra: time-lapse y estelas
+
+**T1. Quieres 12 s de time-lapse de estrellas, con una foto cada 17 s. ¿Cuántas fotos necesitas y cuánto dura la serie?**
+<details><summary>Respuesta</summary>
+
+**300 fotos y unos 85 minutos.** El vídeo va a 25 fotos por segundo: 12 × 25 = 300. La serie dura 300 × 17 s = 5.100 s, una hora y 25 minutos.
+→ [Manejo 10 · La cuenta](manejo-a6700/10-time-lapse-del-cielo.md#la-cuenta-antes-de-salir)
+</details>
+
+**T2. En la serie, cada foto dura 15 s. ¿Qué `Intervalo de toma` pones y por qué?**
+<details><summary>Respuesta</summary>
+
+**17 s.** El intervalo se cuenta de inicio a inicio, así que tiene que ser **más largo que la exposición**: 15 s de foto y 2 s de margen. Mucho más largo (30 s) deja huecos: las estrellas saltan de una foto a otra.
+→ [Manejo 10 · Receta A](manejo-a6700/10-time-lapse-del-cielo.md#receta-a--noche-cerrada-el-cielo-girando)
+</details>
+
+**T3. Fotografías la misma calle de noche desde el trípode, a 5 s y a 30 s. ¿Qué cambia entre las dos fotos?**
+<details><summary>Respuesta</summary>
+
+A **30 s** pasan más coches: las estelas son **más largas y continuas**, y el cielo sale **más claro**. A **5 s**, estelas sueltas y cortas. Los edificios salen igual de nítidos en las dos: están quietos y la cámara también.
+→ [Manejo 11 · Estelas de tráfico](manejo-a6700/11-estelas-de-trafico.md) · [Conceptos 2 · La exposición](conceptos/02-exposicion.md)
 </details>
 
 ---
@@ -389,6 +419,13 @@ Exponer lo más a la derecha posible del histograma **sin quemar**, porque el **
 
 **Te alejas y usas el tele.** La perspectiva la decide la distancia: desde lejos, persona y montaña parecen del mismo tamaño. Con el gran angular desde cerca, la montaña sale diminuta.
 → [Conceptos 5 · Óptica](conceptos/05-optica.md#3--la-perspectiva-la-hace-la-distancia)
+</details>
+
+**A3. Para tener la avenida llena de estelas, ¿por qué juntar 20 fotos de 15 s en vez de hacer una sola de 5 minutos?**
+<details><summary>Respuesta</summary>
+
+Porque en una de 5 minutos **el cielo y las fachadas se queman**, y no eliges qué coches entran. Apiladas en modo **aclarar** (*Lighten*, con StarStaX), las estelas se suman y el cielo queda como en una sola foto de 15 s. Además, dejas fuera la foto del coche parado o del camión que lo tapa todo.
+→ [Manejo 11 · Apilar las estelas](manejo-a6700/11-estelas-de-trafico.md#varias-fotos-para-una-apilar-las-estelas)
 </details>
 
 ---
