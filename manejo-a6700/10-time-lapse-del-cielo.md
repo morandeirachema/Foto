@@ -208,15 +208,23 @@ tres resultados distintos.
    ([retoques, sección 13](../retoques/13-exportar.md)) a una carpeta
    vacía. Los archivos tienen que quedar ordenados por nombre: los de la
    cámara (`DSC…`) ya lo están, así que no los renombres.
-4. **Móntalas** en un programa de vídeo. En Mac, uno gratuito:
-   **DaVinci Resolve**. Importa la carpeta (reconoce las fotos numeradas como
-   un solo clip), pon el proyecto a **25 fotogramas por segundo** y exporta.
-   Es el único paso de vídeo de este repo.
+4. **Móntalas en vídeo** con el programa gratuito de Sony,
+   **Imaging Edge Desktop** (*Viewer*). La cámara no puede hacerlo (lo dice la
+   Guía de ayuda), pero Viewer sí: según Sony, crea un time-lapse con
+   **15 fotos o más**, en JPEG o RAW, sean de una serie de intervalo o
+   elegidas por ti. Selecciónalas en la vista de miniaturas y usa
+   **Tools → Create Time-lapse Movie** (los nombres son los de las
+   instrucciones de Sony en inglés). Las ordena por la fecha y la hora de la
+   toma, y el vídeo sale en sRGB. Es el único paso de vídeo de este repo.
 
-**Sin editar, más rápido:** la cámara no monta vídeos con las fotos de
-intervalo (lo dice la Guía de ayuda), pero el programa gratuito de Sony
-para el ordenador, **Imaging Edge Desktop** (*Viewer*), sí: según Sony, crea
-el vídeo a partir de la serie tal como sale de la tarjeta.
+**Ojo con la versión de macOS:** Sony da Imaging Edge Desktop como
+compatible con macOS 14, 15 y 26 (consultado el 28 de noviembre de 2026).
+Si en tu Mac no funciona, la alternativa gratuita es **DaVinci Resolve**:
+importa la carpeta (reconoce las fotos numeradas como un solo clip), pon el
+proyecto a **25 fotogramas por segundo** y exporta.
+
+**Sin editar, más rápido:** dale a Viewer la serie tal como sale de la
+tarjeta, sin pasar por Luminar. Los RAW los convierte a JPEG él mismo.
 
 **Y sin ordenador:** la a6700 también graba un time-lapse directamente en
 vídeo (dial en **S&Q**, `Modo de toma` → **Time-lapse**; ajustes en
@@ -274,7 +282,7 @@ de star trails sacada de la misma serie.
 - PhotoPills (realidad aumentada y horas del crepúsculo): <https://www.photopills.com/>
 - StarStaX: <https://starstax.net/> · Starry Landscape Stacker (macOS): <https://sites.google.com/site/starrylandscapestacker/>
 - Sony, Guía de ayuda a6700 — `Repr. cont. interv.` (la cámara no crea vídeos con las fotos; Imaging Edge Desktop sí): <https://helpguide.sony.net/ilc/2320/v1/es/contents/0506P_interval_playback.html> · Time-lapse en vídeo (`Ajust. time-lapse`): <https://helpguide.sony.net/ilc/2320/v1/es/contents/221h_timelapse_movie_settings.html>
-- Imaging Edge Desktop (Sony, gratis): <https://imagingedge.sony.net/>
+- Imaging Edge Desktop (Sony, gratis): <https://imagingedge.sony.net/> · Crear un time-lapse en Viewer (en inglés): <https://support.d-imaging.sony.co.jp/app/imagingedge/en/instruction/2_3_timelapse.php> · Sistemas compatibles: <https://support.d-imaging.sony.co.jp/www/disoft/int/pcenv/index.html?j-short=pcenv>
 - DaVinci Resolve (gratis, para Mac): <https://www.blackmagicdesign.com/products/davinciresolve>
 
 <!-- nav -->
