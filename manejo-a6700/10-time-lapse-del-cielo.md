@@ -213,6 +213,18 @@ tres resultados distintos.
    un solo clip), pon el proyecto a **25 fotogramas por segundo** y exporta.
    Es el único paso de vídeo de este repo.
 
+**Sin editar, más rápido:** la cámara no monta vídeos con las fotos de
+intervalo (lo dice la Guía de ayuda), pero el programa gratuito de Sony
+para el ordenador, **Imaging Edge Desktop** (*Viewer*), sí: según Sony, crea
+el vídeo a partir de la serie tal como sale de la tarjeta.
+
+**Y sin ordenador:** la a6700 también graba un time-lapse directamente en
+vídeo (dial en **S&Q**, `Modo de toma` → **Time-lapse**; ajustes en
+`Toma → [Calid. img/grab.] → [Ajust. time-lapse]`). No quedan fotos que
+editar ni con las que sacar star trails, y Sony lo plantea para unas
+decenas de minutos: para una noche entera, el intervalómetro de este
+capítulo.
+
 Si el vídeo parpadea tras la edición, quita primero las herramientas que
 deciden según el contenido de cada foto (máscaras automáticas, Sky AI) y
 vuelve a sincronizar.
@@ -261,6 +273,8 @@ de star trails sacada de la misma serie.
 - Sony, Guía de ayuda a6700 — `Alimentación USB` (con la batería dentro): <https://helpguide.sony.net/ilc/2320/v1/es/contents/0601B_usb_power_supply.html>
 - PhotoPills (realidad aumentada y horas del crepúsculo): <https://www.photopills.com/>
 - StarStaX: <https://starstax.net/> · Starry Landscape Stacker (macOS): <https://sites.google.com/site/starrylandscapestacker/>
+- Sony, Guía de ayuda a6700 — `Repr. cont. interv.` (la cámara no crea vídeos con las fotos; Imaging Edge Desktop sí): <https://helpguide.sony.net/ilc/2320/v1/es/contents/0506P_interval_playback.html> · Time-lapse en vídeo (`Ajust. time-lapse`): <https://helpguide.sony.net/ilc/2320/v1/es/contents/221h_timelapse_movie_settings.html>
+- Imaging Edge Desktop (Sony, gratis): <https://imagingedge.sony.net/>
 - DaVinci Resolve (gratis, para Mac): <https://www.blackmagicdesign.com/products/davinciresolve>
 
 <!-- nav -->

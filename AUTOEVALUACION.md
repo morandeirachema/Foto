@@ -146,6 +146,13 @@ La regla directa: **¿el sujeto sale quemado (demasiado blanco)? → −. ¿Sale
 → [Manejo 14 · Viltrox](manejo-a6700/14-viltrox-25mm.md)
 </details>
 
+**E3. En casa quieres que la guirnalda de luces del fondo salga en círculos grandes detrás de una taza. ¿Qué haces?**
+<details><summary>Respuesta</summary>
+
+**Viltrox a f/1.7, la taza cerca de la cámara (unos 0,4 m) y la guirnalda lejos, a 2–3 m por detrás.** Cuanto más cerca está el objeto y más lejos el fondo, más grandes y suaves salen los círculos. A f/8, o con las luces pegadas a la taza, salen pequeñas y nítidas.
+→ [Manejo 12 · Bokeh de luces](manejo-a6700/12-fotos-en-casa.md#4--bokeh-de-luces-de-navidad) · [Conceptos 5 · Óptica](conceptos/05-optica.md)
+</details>
+
 ---
 
 ## Etapa 2 · Básico

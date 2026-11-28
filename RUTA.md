@@ -8,7 +8,7 @@
 
 ---
 
-Este repo tiene más de cuarenta capítulos repartidos en tres secciones: [conceptos](conceptos/README.md), [manejo de la a6700](manejo-a6700/README.md) y [retoques con Luminar](retoques/README.md). Esta página es el **orden** para leerlos si empiezas de cero. Avanza por etapas: no pases a la siguiente hasta poder responder a las preguntas de **"Lo dominas cuando…"** de la etapa en la que estás.
+Este repo tiene más de sesenta capítulos. Esta ruta recorre las tres secciones de la cámara: [conceptos](conceptos/README.md), [manejo de la a6700](manejo-a6700/README.md) y [retoques con Luminar](retoques/README.md) (el [Pixel 10 Pro](manejo-pixel-10-pro/README.md) va aparte). Esta página es el **orden** para leerlos si empiezas de cero. Avanza por etapas: no pases a la siguiente hasta poder responder a las preguntas de **"Lo dominas cuando…"** de la etapa en la que estás.
 
 ```mermaid
 flowchart LR

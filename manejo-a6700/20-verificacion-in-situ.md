@@ -257,6 +257,32 @@ El repaso que separa "creo que la tengo" de "la tengo":
   qué:* del frío exterior al cuarto caliente, el equipo suda; dentro de la
   bolsa se aclimata sin condensación).
 
+## 12 · Antes de una serie larga (time-lapse o estelas apiladas)
+
+- [ ] **Corriente para toda la serie**: batería llena **dentro** y power
+  bank por USB-C con `Ajustes → [USB] → [Alimentación USB]` en **Activar**
+  (*por qué:* una serie de time-lapse dura de una a dos horas; sin batería
+  dentro, la cámara no se enciende solo con el USB).
+- [ ] **Hueco en la tarjeta**: el contador de fotos restantes, mayor que el
+  `Número de capturas`.
+- [ ] **Intervalo mayor que la exposición**: 15 s de foto → `Intervalo de
+  toma` **17 s** (se cuenta de inicio a inicio).
+- [ ] `RR exposic. larga` **Desactivar** y RAW (*por qué:* con la reducción
+  de ruido activa, cada foto va seguida de otra igual de larga a oscuras).
+- [ ] **Enfoque fijado**: MF y cinta en el anillo. En la serie del
+  atardecer a la noche, enfocado con luz a un punto lejano.
+- [ ] **Balance fijo**, nunca AWB (*por qué:* el color saltaría de una foto
+  a otra).
+- [ ] **Nadie ilumina el encuadre**: frontales apagados o hacia el suelo, y
+  el coche lejos (*por qué:* cada luz es un fogonazo en el vídeo).
+- [ ] **Con humedad**, banda antirrocío puesta, o mirar el cristal cada
+  20 minutos sin tocar el trípode.
+- [ ] **En un puente o una pasarela** (estelas): el trípode apoyado en la
+  parte firme, no en el centro; si pasan camiones, espera (*por qué:*
+  vibra todo y los edificios salen movidos).
+- [ ] Al terminar: `Reproducc. → [Visualización] → [Repr. cont. interv.]`
+  para ver la serie seguida antes de recoger.
+
 ---
 
 ## Señales de alarma — diagnóstico rápido

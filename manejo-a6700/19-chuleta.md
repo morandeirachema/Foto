@@ -65,6 +65,10 @@ Volver a MR1 (restaura todo) · **formato RAW** (foto de prueba = `.ARW`) · bat
 
 MR2 → Verificac. luminosa para encuadrar → lupa sobre la estrella más brillante → anillo hasta el punto mínimo → cinta en el anillo → prueba 20 s → histograma primer tercio. **Con el Viltrox 25 mm:** `Modo de enfoque` → `Enfoque man.` (no tiene interruptor) y 10–13 s.
 
+## Time-lapse y estelas (trípode)
+
+**Time-lapse de noche:** MR2 con **15 s** · `Func. capt. interv.`: intervalo **17 s**, **300** fotos (12 s de vídeo, 1 h 25 min) · power bank + `Alimentación USB` · ninguna luz en el encuadre. **Del atardecer a la noche:** A · f/2 · ISO AUTO 100–3200 · `ISO AUTO VO mín.` 15" · −0,7 · Luz de día · `Sensib. Seguim. AE` Bajo · `Prior. intervalo toma` Activar. **Estelas:** MR2 con **f/8 · ISO 100** · 15 s en la hora azul, 20–30 s de noche · AF a una farola y MF · más de 30 s: BULB (obturador mecánico) · para apilar: 20 × 15 s, intervalo 17 s → StarStaX, Lighten.
+
 <!-- nav -->
 [← Anterior](18-verificacion-de-menus.md) · [Índice](README.md) · [Siguiente →](20-verificacion-in-situ.md)
 <!-- /nav -->

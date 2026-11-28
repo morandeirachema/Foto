@@ -168,10 +168,13 @@ Dos caminos para el cielo en movimiento, ya montados en la cámara:
   este capítulo, y la del [time-lapse del cielo](10-time-lapse-del-cielo.md),
   que lo explica entero: la cuenta de fotos, la serie del atardecer a la
   noche y cómo se monta el vídeo.
-- **Película time-lapse en cámara**: la cámara graba y monta ella sola el
-  clip. Cero edición, menos control — perfecta como serie "pon y olvida"
-  la noche que no quieras revelar nada (es una cámara: o una serie u otra,
-  no las dos a la vez).
+- **Película time-lapse en cámara**: con el dial Foto/Vídeo/S&Q en **S&Q**
+  y `Modo de toma` en **Time-lapse**, la cámara graba directamente un vídeo
+  (ajustes en `MENU → Toma → [Calid. img/grab.] → [Ajust. time-lapse]`,
+  con un intervalo de 1 a 60 s). Cero edición, menos control: no hay fotos
+  ni RAW que revelar. Sony la plantea para condensar unas decenas de
+  minutos y recomienda `Func. capt. interv.` para series más largas. Es
+  una cámara: o una serie u otra, no las dos a la vez.
 
 ## Vía Láctea desde Etosha en noches sin luna
 

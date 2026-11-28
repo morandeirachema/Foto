@@ -1478,10 +1478,13 @@ Dos caminos para el cielo en movimiento, ya montados en la cámara:
   este capítulo, y la del [time-lapse del cielo](10-time-lapse-del-cielo.md),
   que lo explica entero: la cuenta de fotos, la serie del atardecer a la
   noche y cómo se monta el vídeo.
-- **Película time-lapse en cámara**: la cámara graba y monta ella sola el
-  clip. Cero edición, menos control — perfecta como serie "pon y olvida"
-  la noche que no quieras revelar nada (es una cámara: o una serie u otra,
-  no las dos a la vez).
+- **Película time-lapse en cámara**: con el dial Foto/Vídeo/S&Q en **S&Q**
+  y `Modo de toma` en **Time-lapse**, la cámara graba directamente un vídeo
+  (ajustes en `MENU → Toma → [Calid. img/grab.] → [Ajust. time-lapse]`,
+  con un intervalo de 1 a 60 s). Cero edición, menos control: no hay fotos
+  ni RAW que revelar. Sony la plantea para condensar unas decenas de
+  minutos y recomienda `Func. capt. interv.` para series más largas. Es
+  una cámara: o una serie u otra, no las dos a la vez.
 
 ## Vía Láctea desde Etosha en noches sin luna
 
@@ -2541,6 +2544,18 @@ tres resultados distintos.
    un solo clip), pon el proyecto a **25 fotogramas por segundo** y exporta.
    Es el único paso de vídeo de este repo.
 
+**Sin editar, más rápido:** la cámara no monta vídeos con las fotos de
+intervalo (lo dice la Guía de ayuda), pero el programa gratuito de Sony
+para el ordenador, **Imaging Edge Desktop** (*Viewer*), sí: según Sony, crea
+el vídeo a partir de la serie tal como sale de la tarjeta.
+
+**Y sin ordenador:** la a6700 también graba un time-lapse directamente en
+vídeo (dial en **S&Q**, `Modo de toma` → **Time-lapse**; ajustes en
+`Toma → [Calid. img/grab.] → [Ajust. time-lapse]`). No quedan fotos que
+editar ni con las que sacar star trails, y Sony lo plantea para unas
+decenas de minutos: para una noche entera, el intervalómetro de este
+capítulo.
+
 Si el vídeo parpadea tras la edición, quita primero las herramientas que
 deciden según el contenido de cada foto (máscaras automáticas, Sky AI) y
 vuelve a sincronizar.
@@ -2589,6 +2604,8 @@ de star trails sacada de la misma serie.
 - Sony, Guía de ayuda a6700 — `Alimentación USB` (con la batería dentro): <https://helpguide.sony.net/ilc/2320/v1/es/contents/0601B_usb_power_supply.html>
 - PhotoPills (realidad aumentada y horas del crepúsculo): <https://www.photopills.com/>
 - StarStaX: <https://starstax.net/> · Starry Landscape Stacker (macOS): <https://sites.google.com/site/starrylandscapestacker/>
+- Sony, Guía de ayuda a6700 — `Repr. cont. interv.` (la cámara no crea vídeos con las fotos; Imaging Edge Desktop sí): <https://helpguide.sony.net/ilc/2320/v1/es/contents/0506P_interval_playback.html> · Time-lapse en vídeo (`Ajust. time-lapse`): <https://helpguide.sony.net/ilc/2320/v1/es/contents/221h_timelapse_movie_settings.html>
+- Imaging Edge Desktop (Sony, gratis): <https://imagingedge.sony.net/>
 - DaVinci Resolve (gratis, para Mac): <https://www.blackmagicdesign.com/products/davinciresolve>
 
 ---
@@ -4771,6 +4788,10 @@ Volver a MR1 (restaura todo) · **formato RAW** (foto de prueba = `.ARW`) · bat
 
 MR2 → Verificac. luminosa para encuadrar → lupa sobre la estrella más brillante → anillo hasta el punto mínimo → cinta en el anillo → prueba 20 s → histograma primer tercio. **Con el Viltrox 25 mm:** `Modo de enfoque` → `Enfoque man.` (no tiene interruptor) y 10–13 s.
 
+## Time-lapse y estelas (trípode)
+
+**Time-lapse de noche:** MR2 con **15 s** · `Func. capt. interv.`: intervalo **17 s**, **300** fotos (12 s de vídeo, 1 h 25 min) · power bank + `Alimentación USB` · ninguna luz en el encuadre. **Del atardecer a la noche:** A · f/2 · ISO AUTO 100–3200 · `ISO AUTO VO mín.` 15" · −0,7 · Luz de día · `Sensib. Seguim. AE` Bajo · `Prior. intervalo toma` Activar. **Estelas:** MR2 con **f/8 · ISO 100** · 15 s en la hora azul, 20–30 s de noche · AF a una farola y MF · más de 30 s: BULB (obturador mecánico) · para apilar: 20 × 15 s, intervalo 17 s → StarStaX, Lighten.
+
 ---
 
 *Parte V · Hojas de campo*
@@ -5027,6 +5048,32 @@ El repaso que separa "creo que la tengo" de "la tengo":
 - [ ] Pera sopladora a cuerpo y lentes; todo a la bolsa **cerrada** (*por
   qué:* del frío exterior al cuarto caliente, el equipo suda; dentro de la
   bolsa se aclimata sin condensación).
+
+## 12 · Antes de una serie larga (time-lapse o estelas apiladas)
+
+- [ ] **Corriente para toda la serie**: batería llena **dentro** y power
+  bank por USB-C con `Ajustes → [USB] → [Alimentación USB]` en **Activar**
+  (*por qué:* una serie de time-lapse dura de una a dos horas; sin batería
+  dentro, la cámara no se enciende solo con el USB).
+- [ ] **Hueco en la tarjeta**: el contador de fotos restantes, mayor que el
+  `Número de capturas`.
+- [ ] **Intervalo mayor que la exposición**: 15 s de foto → `Intervalo de
+  toma` **17 s** (se cuenta de inicio a inicio).
+- [ ] `RR exposic. larga` **Desactivar** y RAW (*por qué:* con la reducción
+  de ruido activa, cada foto va seguida de otra igual de larga a oscuras).
+- [ ] **Enfoque fijado**: MF y cinta en el anillo. En la serie del
+  atardecer a la noche, enfocado con luz a un punto lejano.
+- [ ] **Balance fijo**, nunca AWB (*por qué:* el color saltaría de una foto
+  a otra).
+- [ ] **Nadie ilumina el encuadre**: frontales apagados o hacia el suelo, y
+  el coche lejos (*por qué:* cada luz es un fogonazo en el vídeo).
+- [ ] **Con humedad**, banda antirrocío puesta, o mirar el cristal cada
+  20 minutos sin tocar el trípode.
+- [ ] **En un puente o una pasarela** (estelas): el trípode apoyado en la
+  parte firme, no en el centro; si pasan camiones, espera (*por qué:*
+  vibra todo y los edificios salen movidos).
+- [ ] Al terminar: `Reproducc. → [Visualización] → [Repr. cont. interv.]`
+  para ver la serie seguida antes de recoger.
 
 ---
 
