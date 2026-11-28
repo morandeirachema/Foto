@@ -40,7 +40,7 @@ De 299 enlaces, **275 responden bien**. Los demás son sitios que rechazan petic
 
 ## Lo que queda
 
-- **El test interactivo** está preparado con las 67 preguntas, pero se republica **después de subir** los archivos renombrados, porque sus enlaces van a GitHub `main`.
+- **El test interactivo** quedó republicado con las 67 preguntas (versión 7) después de subir los archivos renombrados.
 - **PENDIENTES § 11 y § 12**: Transform con un JPEG, la zona del Viltrox tras apagar, el modelo del trípode, la prueba de los tres soportes y los datos de cada viaje que hay que confirmar con el operador.
 - **Calle y arquitectura modernas sin ajustes**: los premios de 2025 consultados no publican la cámara ni los ajustes. Solo *Focus In* (Tokyo Foto Awards) los da.
 - **El Pixel** sigue sin ejercicios en sus capítulos de recetas; sus fuentes están centralizadas en su [capítulo 12](../manejo-pixel-10-pro/12-verificacion.md).
