@@ -1,10 +1,10 @@
 <!-- nav -->
-[← Anterior](08-safari-diurno.md) · [Índice](README.md) · [Siguiente →](10-time-lapse-del-cielo.md)
+[← Anterior](06-safari-diurno.md) · [Índice](README.md) · [Siguiente →](08-estrellas-con-tierra.md)
 <!-- /nav -->
 
-*Parte II · Recetas por escenario*
+*Parte II · Recetas · Fauna*
 
-# 9. Safari nocturno en charcas con la a6700 — paso a paso
+# 7. Safari nocturno en charcas con la a6700 — paso a paso
 
 > 🔵 **Básico** · Da por sabido: el capítulo 4 y saber usar el trípode · Te desbloquea: el rinoceronte de Okaukuejo a medianoche.
 
@@ -38,7 +38,7 @@ Info de campamentos: <https://www.nwr.com.na/>
 | Obturador | **Electrónico** (`Tipo de obturador`): disparo totalmente mudo |
 
 > Cada ajuste con su **ruta de menú**, en
-> [la referencia de ajustes](16-ajustes-a6700.md#c1-charca-nocturna-okaukuejo-halali-onguma).
+> [la referencia de ajustes](17-ajustes-a6700.md#c1-charca-nocturna-okaukuejo-halali-onguma).
 
 ## Al llegar al mirador (10 minutos de preparación)
 
@@ -55,7 +55,7 @@ Info de campamentos: <https://www.nwr.com.na/>
    `Obturad. electr.` no están disponibles el flash, `RR exposic. larga`,
    `e-Prim. cortin. obtur.`, la toma BULB ni la toma sin parpadeo — el
    anti-parpadeo solo funciona con el mecánico
-   ([verificación de los menús](18-verificacion-de-menus.md)).
+   ([verificación de los menús](19-verificacion-de-menus.md)).
 3. **Prueba de color**: foto a la zona iluminada, revisa en pantalla y ajusta
    el balance de blancos en Kelvin hasta que el agua no salga naranja butano.
    Suele quedar entre 3200 y 4000 K. (El visor electrónico ya te enseña la
@@ -97,7 +97,7 @@ Tres números que multiplicados dan tu techo real:
 3. **Lo que devuelve la IA**: la reducción de ruido por IA (en Luminar,
    **Noiseless AI**: [retoques, paso 2](../retoques/04-flujo-base.md)) recupera mucho
    detalle a ISO alto. Cuánto, depende de la foto: compruébalo al 100 % con
-   tus propios archivos antes del viaje.
+   tus propios archivos antes de un viaje.
 
 **Conclusión práctica**: techo de trabajo **12800** (con Noiseless AI después,
 foto totalmente presentable), **25600 solo como rescate** de un momento
@@ -164,11 +164,11 @@ movido siempre ([la guía del Pixel](../manejo-pixel-10-pro/README.md)).
 
 Los campamentos de Etosha también dan cielo oscuro lejos de los focos. Plan
 realista: la Vía Láctea en la primera hora oscura (hasta el 10 es cuando está,
-[capítulo 6](06-astrofotografia-namibia.md)), la charca de 21:00 a medianoche,
+[capítulo 9](09-astrofotografia-namibia.md)), la charca de 21:00 a medianoche,
 y de madrugada círculos de estrellas o las Nubes de Magallanes desde la zona
 oscura del campamento.
 
-## Ejercicio antes de volar (una noche, en tu ciudad)
+## Ejercicio (una noche, en tu ciudad)
 
 La charca es luz escasa, sujeto que se mueve poco y silencio. Eso se ensaya
 en cualquier parque con una farola:
@@ -181,8 +181,26 @@ en cualquier parque con una farola:
 3. **Enfoque en penumbra**: prueba punto único sobre un borde iluminado y
    luego MF prefijado. Cronometra cuál es más rápido para ti.
 4. **La cuenta del ISO**: haz la misma foto a 6400, 12800 y 25600 y pásalas
-   por reducción de ruido por IA. Decide **tu** techo antes del viaje, no
+   por reducción de ruido por IA. Decide **tu** techo antes de un viaje, no
    con el rinoceronte delante.
+
+## Por qué funciona
+
+- **El AF muere en la charca** porque la ficha mide su sensibilidad a f/2 y el
+  tele abre a f/6.3: algo más de tres pasos menos de luz. El AF que ve a −3 EV
+  se queda en unos +0,3 EV, la penumbra de la charca ([por qué funciona §7](../conceptos/09-por-que-funciona.md#7--el-autofoco-por-dentro-y-por-qué-muere-en-la-charca)).
+  De ahí el punto único sobre una zona iluminada.
+- **1/60 como mínimo.** Un animal que bebe se mueve poco, pero se mueve. En
+  Namibia, 116 de las 122 fotos de la charca se hicieron más lentas que 1/60
+  ([lo que enseñan tus fotos](../retoques/15-disparar-mejores-jpeg.md#154-lo-que-enseñan-tus-fotos-de-namibia)):
+  el ISO alto tiene arreglo en Luminar y el movimiento no ([§9](../conceptos/09-por-que-funciona.md#9--el-tiempo-qué-congela-y-qué-dibuja-la-velocidad)).
+- **Expón bien en la cámara.** En RAW, por encima de ISO ~400 la a6700 es casi
+  invariante; en JPEG no lo es: aclarar después saca ruido y bandas ([§6](../conceptos/09-por-que-funciona.md#6--ruido-iso-y-el-punto-en-que-deja-de-importar)).
+- **Kelvin ~3500 y no automático.** Los focos son naranjas y casi no tienen
+  azul: si no lo corriges al disparar, el canal azul queda vacío y ya no hay
+  arreglo ([retoques 9.3](../retoques/09-noche.md#animales-en-una-charca-iluminada-con-focos)).
+- **El electrónico es silencioso, pero lee la imagen por líneas**: con LED
+  parpadeantes salen franjas. Plan B, el mecánico.
 
 ## Referencias
 
@@ -191,5 +209,5 @@ en cualquier parque con una farola:
 - Fase lunar y planificación nocturna (PhotoPills): <https://www.photopills.com/>
 
 <!-- nav -->
-[← Anterior](08-safari-diurno.md) · [Índice](README.md) · [Siguiente →](10-time-lapse-del-cielo.md)
+[← Anterior](06-safari-diurno.md) · [Índice](README.md) · [Siguiente →](08-estrellas-con-tierra.md)
 <!-- /nav -->

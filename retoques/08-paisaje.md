@@ -4,7 +4,7 @@
 
 *Parte III · Por tipo de foto*
 
-# 8. Paisaje
+# 8. Paisaje y ciudad
 
 ## 8.1. Problemas típicos
 
@@ -107,6 +107,27 @@
 - **Twilight Enhancer AI**, preset **Blue**, con **Amount** 20–30, si quieres reforzarlo.
 
 **Cambiar el cielo (Sky AI):** técnicamente es fácil, pero en una foto documental o de viaje **convierte la foto en un montaje**. Úsalo solo en fotos creativas y dilo si las compartes.
+
+## 8.4. Ciudad: calle y arquitectura
+
+Cómo se hacen estas fotos con la cámara: [manejo 12 · Calle y arquitectura](../manejo-a6700/12-calle-y-arquitectura.md). Aquí, lo que cambia al editarlas.
+
+**Verticales y horizonte:**
+- **Horizonte:** **Crop AI** → **Straighten** o **Auto Straighten** (sección 4, paso 3).
+- **Verticales que se caen:** en **Develop**, la sección **Transform** tiene **Vertical** (inclina la foto para enderezar un edificio fotografiado desde la calle), **Horizontal** y **Aspect** (compensa el estiramiento que deja la corrección). Según Skylum son controles manuales ("use these sliders to adjust perspective distortion manually"). Al corregir se pierden los bordes: deja margen al disparar. Skylum dice que los controles de Develop **cambian entre archivos RAW y no RAW** y no aclara si Transform aparece con un JPEG: compruébalo ([PENDIENTES](../PENDIENTES.md)).
+- **Barriles y cojines** (líneas rectas que se curvan en los bordes): **Develop → Lens Distortion**. Con el JPEG de la a6700 la cámara ya corrige la distorsión del objetivo, así que normalmente no hace falta.
+- **No lo enderezes todo.** Un contrapicado fuerte hecho a propósito se deja como está.
+
+**Calle:**
+- **Blanco y negro** (sección 6.6) cuando la foto es de luz y sombra, no de color. Sube el contraste con **Curves** en S suave (6.1).
+- **Dodge & Burn** (6.4): aclara la cara o el gesto y oscurece lo que distrae en los bordes. Es lo que hacían en el laboratorio Cartier-Bresson, Fan Ho y Adams ([los maestros](../conceptos/11-los-maestros.md)).
+- **Ruido de ISO alto de noche:** **Noiseless AI** al principio (paso 2). Un poco de grano en la calle de noche es aceptable; las caras de cera no.
+- **No borres a la gente con GenErase** en una foto de calle documental: deja de ser lo que pasó (sección 14).
+
+**Arquitectura:**
+- **Cielo sin quemar y fachada con detalle:** **Highlights** abajo y **Shadows** arriba con moderación; si la foto viene de un horquillado, **HDR Merge** (12.1).
+- **Hora azul:** no calientes el balance de blancos; el contraste entre ventanas naranjas y cielo azul es la foto.
+- **Textura de la piedra:** **Structure AI** con máscara sobre la fachada, no sobre el cielo.
 
 ## Ejercicio (una tarde)
 

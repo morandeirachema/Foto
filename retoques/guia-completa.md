@@ -21,7 +21,7 @@
 **Parte III · Por tipo de foto**
 
 7. Safari (fauna)
-8. Paisaje
+8. Paisaje y ciudad
 9. Fotografía nocturna
 
 **Parte IV · Más allá de una foto**
@@ -645,6 +645,8 @@ Antes, dos comprobaciones de 20 segundos que deciden casi todo:
 | **Una persona o un árbol a contraluz, con el fondo iluminado** (Deadvlei) | **10** polvo del cielo → **4** ajusta la foto entera para la duna y el cielo, que son lo claro → **9** aclara **solo** el sujeto en sombra con una máscara ([5.5](05-ajustes-locales.md)), como mucho un paso de luz; con la misma máscara, quita el tono azulado del suelo en sombra → opcional: **Erase** sobre turistas lejanos | Subir Shadows en toda la foto. Si al aclarar sale ruido, deja el sujeto en silueta |
 | **Atardecer, amanecer o una silueta buscada** | **3** horizonte nivelado → **5** conserva la calidez: no neutralices → **4** baja un poco Whites cerca del sol; deja las siluetas negras → **7** Vibrance en pequeña cantidad → **10** Film Grain para el degradado del cielo | Balance de blancos neutro; subir Exposure junto al sol; Sky AI o Sunrays si la foto se presenta como lo que viste |
 | **Estrellas o Vía Láctea** | Si hay una serie, [apílala antes](09-noche.md#apilar-una-serie-fuera-de-luminar) → después, toda la [sección 9.2](09-noche.md): color hacia un gris neutro, luz con Curves poco a poco, contraste solo en el núcleo con una máscara Radial, ruido con mano ligera, Film Grain contra las bandas | Sky Enhancer AI; Dehaze o Structure AI en toda la foto; enfocar el cielo; un cielo azul saturado; aclarar el suelo negro |
+| **Gente en la calle** (luz dura, sombras, un gesto) | **3** recorte que deje el gesto con aire, y el horizonte o las verticales rectas → **4** contraste con una curva en S suave → si la foto es de luz y sombra, **blanco y negro** ([6.6](06-herramientas-avanzadas.md#66-black--white-essentials)) → **9** **Dodge & Burn**: aclara la cara o el gesto, oscurece los bordes que distraen → **2** ruido, si es de noche, con mano ligera | Borrar a gente con GenErase en una foto documental; caras de cera por exceso de Noiseless AI; enfocar el grano |
+| **Un edificio, una fachada o un interior** | **3** **Crop AI → Straighten** y, si se caen las verticales, **Develop → Transform → Vertical** ([8.4](08-paisaje.md#84-ciudad-calle-y-arquitectura)) → **4** Highlights abajo para el cielo y las ventanas → **5** en la hora azul, no calientes → **8** Structure AI con máscara solo en la fachada; si hay horquillado, **HDR Merge** antes de todo ([12.1](12-varias-fotos.md#121-hdr-merge)) | Enderezar un contrapicado hecho a propósito; Structure AI sobre el cielo; HDR con halos alrededor del edificio |
 | **Fuego, linternas o luces del lodge** | **5** deja la luz cálida; si importa el cielo, enfríalo aparte con una máscara → **4** baja un poco Whites; el centro de la llama puede quedar blanco → **7** naranja algo menos saturado para recuperar textura en caras y suelo → **10** Film Grain en la zona donde la luz se apaga | Bajar mucho Highlights sobre llamas quemadas (se vuelven grises); enfocar llamas y chispas |
 
 **Qué decide el contenido, en resumen:** dónde va la máscara (paso 9), qué color está en riesgo (pasos 5 y 7) y a qué tamaño puede verse la foto (pasos 1 y 10). Lo demás no cambia. La mayoría de las fotos de día necesitan solo polvo, recorte, balance de blancos, luz y exportar.
@@ -1137,7 +1139,7 @@ El blanco y negro no es quitar el color, sino **decidir qué gris recibe cada co
 
 *Parte III · Por tipo de foto*
 
-# 8. Paisaje
+# 8. Paisaje y ciudad
 
 ## 8.1. Problemas típicos
 
@@ -1240,6 +1242,27 @@ El blanco y negro no es quitar el color, sino **decidir qué gris recibe cada co
 - **Twilight Enhancer AI**, preset **Blue**, con **Amount** 20–30, si quieres reforzarlo.
 
 **Cambiar el cielo (Sky AI):** técnicamente es fácil, pero en una foto documental o de viaje **convierte la foto en un montaje**. Úsalo solo en fotos creativas y dilo si las compartes.
+
+## 8.4. Ciudad: calle y arquitectura
+
+Cómo se hacen estas fotos con la cámara: [manejo 12 · Calle y arquitectura](../manejo-a6700/12-calle-y-arquitectura.md). Aquí, lo que cambia al editarlas.
+
+**Verticales y horizonte:**
+- **Horizonte:** **Crop AI** → **Straighten** o **Auto Straighten** (sección 4, paso 3).
+- **Verticales que se caen:** en **Develop**, la sección **Transform** tiene **Vertical** (inclina la foto para enderezar un edificio fotografiado desde la calle), **Horizontal** y **Aspect** (compensa el estiramiento que deja la corrección). Según Skylum son controles manuales ("use these sliders to adjust perspective distortion manually"). Al corregir se pierden los bordes: deja margen al disparar. Skylum dice que los controles de Develop **cambian entre archivos RAW y no RAW** y no aclara si Transform aparece con un JPEG: compruébalo ([PENDIENTES](../PENDIENTES.md)).
+- **Barriles y cojines** (líneas rectas que se curvan en los bordes): **Develop → Lens Distortion**. Con el JPEG de la a6700 la cámara ya corrige la distorsión del objetivo, así que normalmente no hace falta.
+- **No lo enderezes todo.** Un contrapicado fuerte hecho a propósito se deja como está.
+
+**Calle:**
+- **Blanco y negro** (sección 6.6) cuando la foto es de luz y sombra, no de color. Sube el contraste con **Curves** en S suave (6.1).
+- **Dodge & Burn** (6.4): aclara la cara o el gesto y oscurece lo que distrae en los bordes. Es lo que hacían en el laboratorio Cartier-Bresson, Fan Ho y Adams ([los maestros](../conceptos/11-los-maestros.md)).
+- **Ruido de ISO alto de noche:** **Noiseless AI** al principio (paso 2). Un poco de grano en la calle de noche es aceptable; las caras de cera no.
+- **No borres a la gente con GenErase** en una foto de calle documental: deja de ser lo que pasó (sección 14).
+
+**Arquitectura:**
+- **Cielo sin quemar y fachada con detalle:** **Highlights** abajo y **Shadows** arriba con moderación; si la foto viene de un horquillado, **HDR Merge** (12.1).
+- **Hora azul:** no calientes el balance de blancos; el contraste entre ventanas naranjas y cielo azul es la foto.
+- **Textura de la piedra:** **Structure AI** con máscara sobre la fachada, no sobre el cielo.
 
 ## Ejercicio (una tarde)
 
@@ -1819,9 +1842,9 @@ Medidas las 2.731 fotos del viaje (noviembre de 2026), salen seis cosas que se a
 
 | Lo que pasó | Cómo se ve | Para la próxima vez |
 |---|---|---|
-| **Polvo en el sensor** | Una mancha gris fija en el cielo, arriba, en el tercio izquierdo: aparece en 99 de las 147 fotos con cielo liso, en seis días distintos | Comprueba y limpia el sensor antes de salir ([equipo, polvo en el sensor](../manejo-a6700/13-equipo-accesorios.md#polvo-en-el-sensor-comprobarlo-y-limpiarlo)) |
-| **Vía Láctea oscura** (20 s, f/2, ISO 1600) | Cielo casi negro; al aclarar en Luminar salen bandas y ruido | Mira el **histograma** tras la primera toma: si la montaña está pegada al borde izquierdo, sube a **ISO 3200** ([astro](../manejo-a6700/06-astrofotografia-namibia.md)). En JPEG, la luz que falta no se recupera después |
-| **Charca con focos, todo naranja** | Animales de un solo color; no se puede neutralizar | Balance de blancos en **Kelvin**, bajando hacia 3200 K hasta que el color sea creíble **en la revisión**, antes de la serie ([charcas](../manejo-a6700/09-safari-nocturno-charcas.md)) |
+| **Polvo en el sensor** | Una mancha gris fija en el cielo, arriba, en el tercio izquierdo: aparece en 99 de las 147 fotos con cielo liso, en seis días distintos | Comprueba y limpia el sensor antes de salir ([equipo, polvo en el sensor](../manejo-a6700/14-equipo-accesorios.md#polvo-en-el-sensor-comprobarlo-y-limpiarlo)) |
+| **Vía Láctea oscura** (20 s, f/2, ISO 1600) | Cielo casi negro; al aclarar en Luminar salen bandas y ruido | Mira el **histograma** tras la primera toma: si la montaña está pegada al borde izquierdo, sube a **ISO 3200** ([astro](../manejo-a6700/09-astrofotografia-namibia.md)). En JPEG, la luz que falta no se recupera después |
+| **Charca con focos, todo naranja** | Animales de un solo color; no se puede neutralizar | Balance de blancos en **Kelvin**, bajando hacia 3200 K hasta que el color sea creíble **en la revisión**, antes de la serie ([charcas](../manejo-a6700/07-safari-nocturno-charcas.md)) |
 | **Charca por debajo de 1/60 s** | 116 de las 122 fotos nocturnas de la charca se hicieron más lentas que 1/60 s (algunas, a 1/25 s): riesgo de animales movidos | **1/60 s** como mínimo con el animal quieto; si se mueve, más rápido y más ISO: el ruido tiene arreglo y el movimiento no |
 | **Fotos azuladas a la sombra** | Dominante fría medida en el león a la sombra (18:24, antes de la puesta de sol); la última hora de la tarde sale algo más fría que el resto. El 91 % del viaje se hizo con un balance de blancos **fijo**, sin que se sepa cuál | El fijo es la regla de esta guía, pero **cambia con la luz**: "Sombra" (7000 K) con el animal a la sombra, "Nublado" (6000 K) con el cielo tapado o el sol ya puesto ([balance de blancos](../conceptos/04-balance-de-blancos.md)). Dime qué balance tenías puesto ([PENDIENTES](../PENDIENTES.md)). Lo bueno del fijo: la dominante es igual en toda la sesión y se corrige una vez y se sincroniza ([11.1](11-trabajar-en-serie.md)) |
 | **Animales muy pequeños** en el encuadre | Recortes de 2–3 veces: solo valen para el móvil | A 350 mm y aun así lejos: espera a que se acerque, o cuenta la escena con el animal pequeño a propósito ([composición](../conceptos/06-composicion.md)) |
@@ -2030,7 +2053,7 @@ La documentación de Skylum no dice si Luminar reconoce estos atajos cuando el c
 
 # 18. Glosario
 
-Los términos de Luminar y del retoque. Los de cámara, luz y exposición (ISO, apertura, ETTR, hiperfocal…) están en el [glosario de conceptos](../conceptos/11-glosario.md).
+Los términos de Luminar y del retoque. Los de cámara, luz y exposición (ISO, apertura, ETTR, hiperfocal…) están en el [glosario de conceptos](../conceptos/13-glosario.md).
 
 | Término | Significado |
 |---|---|

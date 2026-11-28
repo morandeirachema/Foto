@@ -1,10 +1,10 @@
 <!-- nav -->
-[← Anterior](10-la-mirada.md) · [Índice](README.md)
+[← Anterior](12-como-mejorar.md) · [Índice](README.md)
 <!-- /nav -->
 
 *Parte IV · Referencia*
 
-# 11. Glosario — todas las palabras raras de este repo, en una línea
+# 13. Glosario — todas las palabras raras de este repo, en una línea
 
 > 🟢 **Iniciación** · Da por sabido: nada · Te desbloquea: leer cualquier guía del repo (y cualquier foro de fotografía) sin perderte.
 
@@ -56,8 +56,11 @@ español e inglés, en el [capítulo 4](../manejo-a6700/04-configuracion-basica.
 | **Apertura** (número f) | El tamaño del agujero por el que entra la luz. Número **pequeño** = agujero grande = más luz |
 | **Apertura variable** | Los zoom baratos y ligeros pierden luz al alargarse: el 70-350 va de f/4.5 a f/6.3 según la focal |
 | **Profundidad de campo** | Cuánto sale nítido delante y detrás de donde enfocaste. Depende de la distancia, la focal y la apertura; a igual tamaño del sujeto en el encuadre, casi solo de la apertura |
-| **Hiperfocal** | La distancia a la que enfocar para que todo salga nítido desde su mitad hasta el infinito. Con el 11 mm a f/8: enfoca a 0,8 m |
-| **Círculo de confusión** | El tamaño a partir del cual un punto desenfocado "se nota". Es la letra pequeña de las cuentas de profundidad |
+| **Hiperfocal** | La distancia a la que enfocar para que todo salga nítido desde su mitad hasta el infinito. Con el 11 mm a f/8: enfoca a 0,8 m; con el 25 mm a f/8, a 3,9 m ([explicada a fondo](05-optica.md#5--la-hiperfocal-todo-nítido-de-cerca-al-infinito)) |
+| **Enfoque por zonas** | Dejar el enfoque puesto a una distancia y cerrar el diafragma para que todo lo que pase por una franja salga nítido. Con el 25 mm a f/8 enfocado a 3 m: de 1,7 a 12,7 m ([calle](../manejo-a6700/12-calle-y-arquitectura.md#enfocar-sin-mirar-el-enfoque-por-zonas)) |
+| **Regla del doble** | Sin tabla: enfoca al doble de la distancia de lo más cercano que quieres nítido, y cierra hasta que su hiperfocal quede por debajo |
+| **Círculo de confusión** | El tamaño a partir del cual un punto desenfocado "se nota". En la a6700 se usa 0,020 mm, unos 5 píxeles: nítido en pantalla y en copias pequeñas, justo al 100 % |
+| **Verticales que se caen** | Las aristas de un edificio que se juntan hacia arriba porque la cámara apunta hacia arriba. Es perspectiva, no defecto del objetivo: cámara a nivel, o **Develop → Transform → Vertical** en Luminar |
 | **Difracción** | El emborronado que aparece al cerrar mucho el diafragma. En tu cámara se nota desde f/11; f/16 es pérdida clara |
 | **Compresión de perspectiva** | Que el fondo parezca "pegado" al sujeto. **La hace la distancia**, no el teleobjetivo |
 | **Coma** | Estrellas de las esquinas con "alitas" a máxima apertura. Se corrige cerrando un tercio o dos tercios |
@@ -72,6 +75,8 @@ español e inglés, en el [capítulo 4](../manejo-a6700/04-configuracion-basica.
 | **Banding** (franjas) | Rayas horizontales al usar obturador electrónico bajo focos LED que parpadean. Se arregla pasando a mecánico |
 | **Rolling shutter** | Deformación de objetos muy rápidos con obturador electrónico, porque el sensor se lee de arriba abajo |
 | **Regla 1/focal** | A pulso, no bajes de 1/focal **equivalente**: a 350 mm (525 eq), no bajes de ~1/500 |
+| **Regla del 500 y regla NPF** | Cuánto puedes exponer las estrellas sin que se alarguen. La del 500 (500 ÷ focal equivalente) da 30 s con el 11 mm y vale a tamaño pantalla; la NPF, que cuenta el tamaño del píxel, da ~16 s al 100 % ([el tiempo](09-por-que-funciona.md#9--el-tiempo-qué-congela-y-qué-dibuja-la-velocidad)) |
+| **Barrido** | Seguir con la cámara algo que se mueve, a velocidad lenta (1/30 con un ciclista): el sujeto sale nítido y el fondo, en rayas |
 | **Ráfaga Hi / Hi+** | Disparo continuo. En **Hi+** (11 fps) el visor no va en tiempo real durante la ráfaga |
 | **Buffer** | La memoria intermedia donde se acumulan las fotos antes de escribirse en la tarjeta. Cuando se llena, la ráfaga se ahoga |
 
@@ -79,6 +84,7 @@ español e inglés, en el [capítulo 4](../manejo-a6700/04-configuracion-basica.
 
 | Término | Qué es |
 |---|---|
+| **Luz rasante** | Luz baja que roza una superficie de lado: saca la textura de la arena, la piedra o una fachada |
 | **Luz dura / luz suave** | Dura: fuente pequeña o lejana (el sol despejado), sombras de borde nítido y mucho contraste. Suave: fuente grande (nublado, ventana, sombra abierta), sombras graduales ([la luz](01-la-luz.md)) |
 | **Dirección de la luz** | De dónde llega respecto al sujeto: frontal (plana), lateral (volumen), rasante (textura), contraluz (siluetas), cenital (sombras bajo los ojos) ([la luz](01-la-luz.md)) |
 | **Sombra abierta** | Un sitio a la sombra que ve mucho cielo: luz suave en un día de sol, ideal para retratos |
@@ -87,7 +93,7 @@ español e inglés, en el [capítulo 4](../manejo-a6700/04-configuracion-basica.
 | **Hora dorada / hora azul** | La hora de luz cálida y rasante tras el amanecer o antes del ocaso; y el rato azulado anterior al amanecer y posterior al ocaso |
 | **Contraluz** | El sol detrás del sujeto: siluetas, bordes encendidos y polvo dorado |
 | **Clave alta** | Foto deliberadamente muy clara, casi sin sombras. La estrategia del mediodía en la calcreta blanca |
-| **Clave baja** | Lo contrario: foto deliberadamente oscura, con el sujeto iluminado sobre un fondo casi negro ([fotos en casa](../manejo-a6700/12-fotos-en-casa.md)) |
+| **Clave baja** | Lo contrario: foto deliberadamente oscura, con el sujeto iluminado sobre un fondo casi negro ([fotos en casa](../manejo-a6700/13-fotos-en-casa.md)) |
 | **ISO base** | El ISO de máxima calidad del sensor: **100** en la a6700 |
 | **ISO invariante** | Que dé casi igual subir el ISO en cámara o levantar la exposición en revelado. Tu cámara lo es a partir de ~320–400, en RAW |
 | **Ruido de lectura** | El ruido que añade la propia electrónica al leer el sensor, independiente de la luz |
@@ -132,5 +138,5 @@ español e inglés, en el [capítulo 4](../manejo-a6700/04-configuracion-basica.
 - Escala Bortle y mapa de contaminación lumínica: <https://www.lightpollutionmap.info/>
 
 <!-- nav -->
-[← Anterior](10-la-mirada.md) · [Índice](README.md)
+[← Anterior](12-como-mejorar.md) · [Índice](README.md)
 <!-- /nav -->

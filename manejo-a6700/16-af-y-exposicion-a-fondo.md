@@ -1,14 +1,14 @@
 <!-- nav -->
-[← Anterior](14-viltrox-25mm.md) · [Índice](README.md) · [Siguiente →](16-ajustes-a6700.md)
+[← Anterior](15-viltrox-25mm.md) · [Índice](README.md) · [Siguiente →](17-ajustes-a6700.md)
 <!-- /nav -->
 
 *Parte III · Equipo y objetivos*
 
-# 15. El AF y la exposición a fondo — la máquina, a tu medida
+# 16. El AF y la exposición a fondo — la máquina, a tu medida
 
-> 🔴 **Avanzado** · Da por sabido: [capítulo 4](04-configuracion-basica.md) y [capítulo 8](08-safari-diurno.md) · Te desbloquea: sacarle a la cámara lo que la receta base deja sobre la mesa.
+> 🔴 **Avanzado** · Da por sabido: [capítulo 4](04-configuracion-basica.md) y [capítulo 6](06-safari-diurno.md) · Te desbloquea: sacarle a la cámara lo que la receta base deja sobre la mesa.
 
-Las recetas del capítulo 8 funcionan siempre y por eso son la base. Esto es
+Las recetas del capítulo 6 funcionan siempre y por eso son la base. Esto es
 lo que hay **por encima**: los tres mandos del autofoco que casi nadie toca,
 la medición ligada al punto de enfoque, una botonera pensada para no apartar
 el ojo del visor y los límites reales del 70-350. Todo verificado contra el
@@ -18,7 +18,7 @@ aves.
 **El resto del nivel avanzado**: el porqué de todo esto está en
 [por qué funciona](../conceptos/09-por-que-funciona.md); lo creativo, en
 [safari a fondo](https://github.com/morandeirachema/a6700-namibia/blob/main/mejora/safari-a-fondo.md); el astro avanzado se mudó a
-[estrellas con la tierra dentro](07-estrellas-con-tierra.md) y el paisaje de
+[estrellas con la tierra dentro](08-estrellas-con-tierra.md) y el paisaje de
 los maestros, a [paisaje a fondo](https://github.com/morandeirachema/a6700-namibia/blob/main/mejora/paisaje-a-fondo.md).
 
 ## Safari avanzado
@@ -95,7 +95,7 @@ El metaconsejo: no memorices combinaciones — mete estos tres ajustes en
 - **MR3 = preajuste de vuelo**: guarda 1/2500 · apertura mínima · ISO Auto ·
   reconocimiento **Ave** · área Zona · Sens. Seguim. 3 · ráfaga Hi+ — un
   giro de dial y estás en modo "despegue". Se guarda igual que MR1 y MR2
-  ([las tres memorias](16-ajustes-a6700.md#las-tres-memorias-del-dial)).
+  ([las tres memorias](17-ajustes-a6700.md#las-tres-memorias-del-dial)).
 - **Valoración con estrellas** en la revisión de cada noche: marca ★ los
   aciertos y el cribado en casa empieza hecho.
 
@@ -138,7 +138,7 @@ El metaconsejo: no memorices combinaciones — mete estos tres ajustes en
 | `Verificac. luminosa` no hace nada, o se apaga sola | Solo funciona en foto, en P/A/S/M y con el enfoque en **MF**: con AF, al abrir la lupa (`Amplific. enfoque`) o al apagar la cámara se cancela. Encuadra primero, enfoca después |
 | A f/8 el ISO se dispara y la foto sale ruidosa | Compraste nitidez de borde pagándola con ruido: vuelve a f/6.3 — la regla es nunca cerrar a costa del ISO o de la obturación |
 
-## Ejercicio (una tarde, antes de volar)
+## Ejercicio (una tarde)
 
 Un parque con una valla o unos arbustos, y un perro (o palomas, o bicis):
 
@@ -170,5 +170,5 @@ sabes decir en una frase cuándo bajas la sensibilidad a 1 y cuándo la subes.
 - La imagen de Deadvlei de Lanting, contada por Nat Geo: <https://www.nationalgeographic.com/magazine/article/frans-lanting-behind-the-photo>
 
 <!-- nav -->
-[← Anterior](14-viltrox-25mm.md) · [Índice](README.md) · [Siguiente →](16-ajustes-a6700.md)
+[← Anterior](15-viltrox-25mm.md) · [Índice](README.md) · [Siguiente →](17-ajustes-a6700.md)
 <!-- /nav -->

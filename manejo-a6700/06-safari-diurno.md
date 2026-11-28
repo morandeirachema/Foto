@@ -1,10 +1,10 @@
 <!-- nav -->
-[← Anterior](07-estrellas-con-tierra.md) · [Índice](README.md) · [Siguiente →](09-safari-nocturno-charcas.md)
+[← Anterior](05-enfocar-el-11mm.md) · [Índice](README.md) · [Siguiente →](07-safari-nocturno-charcas.md)
 <!-- /nav -->
 
-*Parte II · Recetas por escenario*
+*Parte II · Recetas · Fauna*
 
-# 8. Safari diurno con la a6700 — recetas desde el coche
+# 6. Safari diurno con la a6700 — recetas desde el coche
 
 > 🔵 **Básico** · Da por sabido: el capítulo 4 (memoria MR1 guardada) · Te desbloquea: fauna nítida desde el coche, con el AF trabajando para ti.
 
@@ -22,7 +22,7 @@ luz durísima a mediodía y polvo en todas partes. La cámara va preconfigurada
 | Enfoque | **AF-C** + AF-ON con el pulgar ([capítulo 4](04-configuracion-basica.md)) |
 | Reconocimiento de sujeto | **Animal** (cámbialo a Ave para aves) |
 | Área AF | Zona — o Ancha si la escena está limpia |
-| Sensibilidad de seguimiento | **3** (la estándar); con hierba/ramas robando el foco, **1** ([AF y exposición a fondo](15-af-y-exposicion-a-fondo.md)) |
+| Sensibilidad de seguimiento | **3** (la estándar); con hierba/ramas robando el foco, **1** ([AF y exposición a fondo](16-af-y-exposicion-a-fondo.md)) |
 | Ráfaga | **Hi+** (11 fps) — en Hi+ el visor no va en tiempo real durante la ráfaga; si te cuesta seguir al animal, baja a Hi |
 | Formato | RAW en la SD (UHS-II, con hueco) |
 | Estabilizador | **OSS del objetivo en ON**; el IBIS de la cámara se suma solo (los dos, OFF en trípode) |
@@ -37,7 +37,7 @@ según el movimiento.
 > [la fauna, animal por animal](https://github.com/morandeirachema/a6700-namibia/blob/main/tecnica/fauna-de-namibia.md).
 
 > Cada uno de estos ajustes, con su **ruta exacta de menú**, en
-> [la referencia de ajustes](16-ajustes-a6700.md#bloque-b-fauna-la-receta-de-mr1).
+> [la referencia de ajustes](17-ajustes-a6700.md#bloque-b-fauna-la-receta-de-mr1).
 
 ## La rutina de 10 segundos (cada vez que llegas a una escena)
 
@@ -81,7 +81,7 @@ En M con ISO Auto la compensación de exposición **funciona con normalidad**
 oscuro (sombra, noche) → **−0.7 a −1**; escena normal → 0. Es la única
 corrección que necesitas de día. Para casos finos (animal pequeño a
 contraluz), la medición **puntual vinculada al punto de enfoque** mide justo
-donde enfocas ([AF y exposición a fondo](15-af-y-exposicion-a-fondo.md)).
+donde enfocas ([AF y exposición a fondo](16-af-y-exposicion-a-fondo.md)).
 
 ## Configurar una sola vez
 
@@ -163,7 +163,7 @@ Cinco reglas que no requieren técnica, solo acordarse:
 ## Práctica desde el coche
 
 - **Bean bag** en la ventanilla (mejor que trípode dentro del coche; qué es
-  y cómo se usa: [equipo](13-equipo-accesorios.md)). Llévalo
+  y cómo se usa: [equipo](14-equipo-accesorios.md)). Llévalo
   vacío y rellénalo allí con arroz o alubias.
 - **Motor apagado** en las tomas importantes: la vibración se nota a 525 mm
   equivalentes.
@@ -202,6 +202,26 @@ Y si el tele **no está** —no ha llegado, falla o se quedó en la bolsa— el
 móvil a 5x es un 70 mm de bolsillo: hasta dónde llega y qué le pides con cada
 animal, en [el Pixel de día](../manejo-pixel-10-pro/07-lo-que-se-mueve.md).
 
+## Por qué funciona
+
+- **1/1000 al caminar, 1/2000 al correr.** Un león que camina a 30 m, a
+  350 mm, se desplaza unos 5 píxeles en 1/1000 s y unos 18 en 1/250: lo
+  primero se ve nítido y lo segundo, movido ([por qué funciona §9](../conceptos/09-por-que-funciona.md#9--el-tiempo-qué-congela-y-qué-dibuja-la-velocidad)).
+- **M con ISO AUTO.** Fijas las dos cosas que deciden la foto, el movimiento
+  (velocidad) y la luz máxima del tele (apertura), y el ISO paga la
+  diferencia. Por eso subir la velocidad no oscurece la foto: sube el ISO
+  ([§1](../conceptos/09-por-que-funciona.md#1--el-paso-la-única-moneda-del-sistema)). Un poco de ruido se
+  arregla; una foto movida, no.
+- **El ojo, siempre.** A 350 mm y f/6.3, con el animal a 15 m, la zona nítida
+  mide **medio metro**: el ojo o la oreja ([§3](../conceptos/09-por-que-funciona.md#3--profundidad-de-campo-tres-palancas-y-una-pesa-más)).
+- **+0,7 con fondo claro.** El medidor busca el gris medio y oscurece todo
+  lo que es claro ([el gris medio](../conceptos/01-la-luz.md#por-qué-la-cámara-se-equivoca-el-gris-medio)).
+- **Recoger el zoom es luz gratis.** Por debajo de 200 mm el 70-350 abre a
+  f/5.6, y por debajo de 114 mm a f/5 ([§8](../conceptos/09-por-que-funciona.md#8--los-objetivos-sin-marketing)).
+- **La receta es el punto de partida, no el techo.** Los grandes la rompen a
+  propósito: un 24 mm a ras de suelo o 1/30 con flash
+  ([los maestros, fauna](../conceptos/11-los-maestros.md#fauna)).
+
 ## Referencias
 
 - Charcas y fauna de Etosha: <https://www.etoshanationalpark.org/>
@@ -210,5 +230,5 @@ animal, en [el Pixel de día](../manejo-pixel-10-pro/07-lo-que-se-mueve.md).
 - Sony E 70-350mm F4.5-6.3 G OSS (ficha oficial): <https://www.sony.es/lenses/products/sel70350g>
 
 <!-- nav -->
-[← Anterior](07-estrellas-con-tierra.md) · [Índice](README.md) · [Siguiente →](09-safari-nocturno-charcas.md)
+[← Anterior](05-enfocar-el-11mm.md) · [Índice](README.md) · [Siguiente →](07-safari-nocturno-charcas.md)
 <!-- /nav -->

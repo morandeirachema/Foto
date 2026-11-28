@@ -73,7 +73,7 @@ borde**. En la práctica de este viaje:
   si parpadea sobre algo que debe tener detalle, baja.
 - Un animal oscuro sobre fondo claro no es un problema de exposición: es un
   problema de **medición** (medición puntual vinculada al punto de enfoque,
-  [AF y exposición a fondo](../manejo-a6700/15-af-y-exposicion-a-fondo.md)).
+  [AF y exposición a fondo](../manejo-a6700/16-af-y-exposicion-a-fondo.md)).
 - **Dónde NO se aplica**: en astro no hay derecha a la que exponer — el cielo
   es oscuro de verdad. Ahí la montaña del histograma va en el **primer
   tercio**, separada del borde izquierdo, y punto.
@@ -106,6 +106,10 @@ desde su mitad hasta el infinito:
 Por eso la receta de paisaje del repo dice "f/8, enfoca a ~1 m y pasa a MF":
 no es magia, es esa fila. Y por eso puedes poner una piedra a medio metro de
 la lente sin perder las dunas del fondo.
+
+> Qué es exactamente "nítido" (el círculo de confusión de 0,020 mm, unos 5
+> píxeles), cómo se pone la hiperfocal sin escala de distancias y sus tres
+> trampas: [óptica §5](05-optica.md#5--la-hiperfocal-todo-nítido-de-cerca-al-infinito).
 
 Con **el 70-350** la misma cuenta da un susto sano, a 30 m del animal:
 
@@ -191,7 +195,7 @@ levantar la exposición después en el revelado dan casi el mismo resultado.
   entre quemar la orilla iluminada o dejar la foto un poco oscura: **déjala
   oscura y levántala en revelado**. Lo quemado no vuelve; el ruido que añades
   al levantar es pequeño y la reducción por IA se lo come.
-- Y antes de cruzar ningún techo de ISO, el orden del [capítulo 9](../manejo-a6700/09-safari-nocturno-charcas.md)
+- Y antes de cruzar ningún techo de ISO, el orden del [capítulo 7](../manejo-a6700/07-safari-nocturno-charcas.md)
   sigue mandando: con trípode y animal quieto, **baja la obturación primero**.
   Eso es luz gratis; el ISO nunca lo es.
 
@@ -215,7 +219,7 @@ es, exactamente, la penumbra de la charca de Okaukuejo.
 
 - En la charca, no es que el AF "falle": es que está fuera de su rango.
   **Punto único sobre una zona iluminada y con borde**, o enfoque manual
-  prefijado a la orilla. Las dos cosas que dice el capítulo 9, ahora con el
+  prefijado a la orilla. Las dos cosas que dice el capítulo 7, ahora con el
   porqué.
 - Con el 11 mm (f/1.8) el AF ve muchísimo mejor, pero en astro tampoco hay
   contraste: por eso ahí siempre es **manual con lupa y peaking**.
@@ -234,7 +238,7 @@ IBIS), rosca de 55 mm.
   sufre** en astro: las estrellas del borde pueden salir con "alitas" (coma).
   Si te pasa, cierra a **f/2.2–f/2.8** y sube el ISO un paso: pierdes menos
   que ganas. Compruébalo en casa con la prueba de punto de luz de la
-  [hoja de verificación](../manejo-a6700/20-verificacion-in-situ.md), no en Namibia.
+  [hoja de verificación](../manejo-a6700/21-verificacion-in-situ.md), no en Namibia.
 - Para paisaje, f/8 con la hiperfocal de la tabla del punto 3.
 
 **Sony E 70-350mm F4.5-6.3 G OSS** — 105–525 mm equivalentes, y el objetivo
@@ -258,7 +262,53 @@ sin estabilizador propio y **sin interruptor AF/MF**.
   misma cuenta del punto 3): el fondo se va, pero un paso en falso también.
 - La hiperfocal pide cerrar mucho más que con el 11 mm: a f/8 se enfoca a
   ~3,9 m y queda nítido desde ~2 m. Tabla completa y receta en
-  [su guía](../manejo-a6700/14-viltrox-25mm.md).
+  [su guía](../manejo-a6700/15-viltrox-25mm.md).
+
+---
+
+## 9 · El tiempo: qué congela y qué dibuja la velocidad
+
+La velocidad de obturación no es solo "cuánta luz": es **cuánto tiempo mira
+la cámara**. Todo lo que se mueve en ese tiempo deja rastro. La cuenta es
+siempre la misma: **cuánto se mueve el sujeto en el sensor durante la
+exposición, medido en píxeles**. Por debajo de unos 5 píxeles (el círculo de
+confusión, [óptica §5](05-optica.md#5--la-hiperfocal-todo-nítido-de-cerca-al-infinito))
+se ve congelado; por encima, movido. Con los números de tu equipo:
+
+| Escena | Lo que se mueve | Rastro en el sensor | La decisión |
+|---|---|---|---|
+| León caminando (1,5 m/s) a 30 m, 350 mm | 1,5 mm en 1/1000 s | **~5 px** a 1/1000 · ~18 px a 1/250 | 1/1000 al caminar: es la fila de la [receta de safari](../manejo-a6700/06-safari-diurno.md#receta-por-escena-solo-tocas-la-rueda-delantera) |
+| Persona que cruza la calle (1,4 m/s) a 3 m, 25 mm | 5,6 mm en 1/250 s | ~12 px a 1/250 · **~6 px a 1/500** | **1/500** si cruza; 1/250 basta si viene hacia ti |
+| Ciclista (5 m/s) a 4 m, 25 mm | 5 mm en 1/1000 s | **~8 px** a 1/1000 · ~16 px a 1/500 | 1/1000, o el barrido de la [calle](../manejo-a6700/12-calle-y-arquitectura.md) |
+| Coche por la ciudad (14 m/s, 50 km/h) | 280 m en 20 s | Cruza el encuadre entero | La estela es el coche: [estelas de tráfico](../manejo-a6700/11-estelas-de-trafico.md) |
+| Estrellas (la Tierra gira 15° por hora) | 1/4 de grado por minuto | Con el 11 mm a f/1.8, ~16 s antes de que se note al 100 % | 15–20 s con el 11 mm; ~7 s al 100 % con el 25 mm (10–13 s si la ves a tamaño pantalla) |
+| El cielo entero en una serie | 15° por hora, durante horas | Cada foto, un punto; todas juntas, un arco | 30 min = un arco de 7,5°: [star trails](../manejo-a6700/08-estrellas-con-tierra.md) |
+| Nubes en un time-lapse | Mucho en minutos | Entre foto y foto, no en cada foto | El **intervalo** decide la velocidad del vídeo: 2–5 s para nubes, 17 s para estrellas ([time-lapse](../manejo-a6700/10-time-lapse-del-cielo.md#la-cuenta-antes-de-salir)) |
+
+**De dónde sale el tiempo de las estrellas.** La famosa **regla del 500**
+(500 ÷ focal equivalente) da 30 s con el 11 mm: es de la época del carrete y
+deja rayitas al 100 %. La **regla NPF**, pensada para sensores digitales
+(*tiempo ≈ (35 × número f + 30 × tamaño del píxel en micras) ÷ focal*), da
+**~16 s** con el 11 mm a f/1.8 y **~7 s** con el 25 mm a f/1.7. Por eso la
+receta del repo es 20 s, y **15 s si al ampliar ves rayitas**: entre la
+pantalla y el 100 %. Aplicaciones como [PhotoPills](https://www.photopills.com/)
+la calculan por ti.
+
+**Las decisiones:**
+
+- **Congelar** cuesta luz: cada paso más rápido es la mitad de luz y, con el
+  ISO Auto, el doble de ISO ([§1](#1--el-paso-la-única-moneda-del-sistema)).
+  Págalo: un poco de ruido se arregla y una foto movida, no.
+- **Dibujar el movimiento** es la otra mitad de la fotografía: la estela, el
+  barrido, el agua sedosa y el giro del cielo son **decisiones**, no
+  accidentes. Si quieres que algo se mueva en la foto, elige **cuánto**:
+  1/30 s es un ciclista con el fondo barrido y 20 s es un coche convertido en
+  una raya.
+- **La distancia y la dirección cuentan tanto como la velocidad.** Lo que
+  viene hacia ti apenas se desplaza en el encuadre; lo que cruza, mucho. Lo
+  lejano se mueve poco; lo cercano, mucho. Con el 11 mm a 1,5 m, una persona
+  que cruza deja ~11 px a 1/250: el gran angular **no** perdona el
+  movimiento cercano.
 
 ---
 
@@ -273,8 +323,11 @@ sin estabilizador propio y **sin interruptor AF/MF**.
 | Quieres todo nítido en paisaje | La difracción castiga a partir de f/11 | f/8 e hiperfocal; si no llega, aleja el primer plano |
 | Quieres el sujeto pequeño en un fondo enorme | La compresión es distancia, no focal | Aléjate y zoomea |
 | El AF caza y no fija de noche | Con f/6.3 pierdes algo más de 3 pasos de sensibilidad | Punto único a un borde iluminado, o MF prefijado |
+| La gente de la calle sale movida | Una persona que cruza a 3 m deja ~12 px a 1/250 | 1/500 si cruza; o barrido a 1/30 si quieres el movimiento |
+| No sabes dónde aparecerá el sujeto | Con 25 mm a f/8 la hiperfocal está a 3,9 m | Enfoque por zonas: enfoca a 3 m y todo va nítido de 1,7 a 12,7 m |
+| Las estrellas salen con rayitas al 100 % | La regla NPF da ~16 s con el 11 mm, no los 30 s de la regla del 500 | Baja de 20 a 15 s, o acepta las rayitas si la foto es para pantalla |
 
-## Ejercicios (tres tardes, antes de volar)
+## Ejercicios (tres tardes)
 
 1. **La tarde del paso** (ejercicio del punto 1): cuatro exposiciones
    equivalentes de la misma escena. Aprendes a pensar en pasos, no en números

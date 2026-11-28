@@ -1,8 +1,8 @@
 <!-- nav -->
-[← Anterior](10-time-lapse-del-cielo.md) · [Índice](README.md) · [Siguiente →](12-fotos-en-casa.md)
+[← Anterior](10-time-lapse-del-cielo.md) · [Índice](README.md) · [Siguiente →](12-calle-y-arquitectura.md)
 <!-- /nav -->
 
-*Parte II · Recetas por escenario*
+*Parte II · Recetas · La ciudad y la casa*
 
 # 11. Estelas de tráfico — los coches convertidos en ríos de luz
 
@@ -36,7 +36,7 @@ Es el mejor ejercicio para entender la velocidad de obturación
 - **Opcional**: un filtro **ND8** (3 pasos; 15–25 €) si quieres exposiciones
   de 30 s en la hora azul. El 11 mm tiene rosca de 55 mm y el Viltrox de
   52 mm; el truco del anillo para usar un solo filtro en los tres objetivos
-  está en el [capítulo 13](13-equipo-accesorios.md). De noche, **quita el
+  está en el [capítulo 14](14-equipo-accesorios.md). De noche, **quita el
   filtro protector** si llevas uno: con farolas en el encuadre da reflejos.
 
 ## Cuándo
@@ -177,7 +177,7 @@ queda como en una sola foto.
   inmóvil toda la exposición, o saldrá transparente. Con 2–4 s y luz de una
   farola sobre ella, sale.
 - **Desde casa**: si ves una calle desde la ventana o el balcón, tienes
-  estudio de estelas sin salir ([capítulo 12](12-fotos-en-casa.md)).
+  estudio de estelas sin salir ([capítulo 13](13-fotos-en-casa.md)).
 
 ## Si sale mal…
 
@@ -204,6 +204,23 @@ queda como en una sola foto.
 los edificios nítidos al 100 % y el cielo con color (ni blanco ni negro del
 todo), y sabes explicar qué cambió entre la foto de 5 s y la de 30 s.
 
+## Por qué funciona
+
+- **La estela es el coche.** A 50 km/h un coche recorre unos 14 m por segundo:
+  en 20 s, 280 m. En el sensor, cruza el encuadre entero ([por qué funciona §9](../conceptos/09-por-que-funciona.md#9--el-tiempo-qué-congela-y-qué-dibuja-la-velocidad)).
+- **Alargar el tiempo aclara la calle, no la estela.** Cada punto de la
+  carretera recibe los faros solo mientras pasa el coche, así que cada coche
+  deja la misma estela con 10 s que con 30 s: más tiempo solo añade **más
+  coches**. Lo que sí se aclara es lo quieto: edificios, cielo y farolas. Por eso la hora azul es la buena: la
+  calle y el cielo aún tienen luz propia.
+- **ISO 100 y f/8** para poder alargar el tiempo sin quemar, y porque f/8 es
+  el punto más nítido de tus objetivos; a f/16 la difracción ablanda toda la
+  foto ([§4](../conceptos/09-por-que-funciona.md#4--difracción-por-qué-f16-no-es-más-nítido)).
+- **Todo nítido sin buscar el foco**: el 11 mm a f/8, enfocado a 0,8 m, es
+  nítido desde 0,4 m hasta el infinito ([óptica §5](../conceptos/05-optica.md#5--la-hiperfocal-todo-nítido-de-cerca-al-infinito)).
+- **Apilar en *Lighten*** se queda, píxel a píxel, con el más brillante de
+  todas las fotos: las estelas de cada foto se suman y lo quieto no cambia.
+
 ## Referencias
 
 - Sony, Guía de ayuda a6700 — disparo BULB y `Aj. temporiz. BULB` (2–900 s; no disponible con obturador electrónico): <https://helpguide.sony.net/ilc/2320/v1/en/contents/0302C_bulb.html> · <https://helpguide.sony.net/ilc/2320/v1/en/contents/211h_bulb_timer.html>
@@ -212,5 +229,5 @@ todo), y sabes explicar qué cambió entre la foto de 5 s y la de 30 s.
 - PhotoPills (hora azul y puesta de sol): <https://www.photopills.com/>
 
 <!-- nav -->
-[← Anterior](10-time-lapse-del-cielo.md) · [Índice](README.md) · [Siguiente →](12-fotos-en-casa.md)
+[← Anterior](10-time-lapse-del-cielo.md) · [Índice](README.md) · [Siguiente →](12-calle-y-arquitectura.md)
 <!-- /nav -->

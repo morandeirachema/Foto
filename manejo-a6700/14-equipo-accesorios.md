@@ -1,10 +1,10 @@
 <!-- nav -->
-[← Anterior](12-fotos-en-casa.md) · [Índice](README.md) · [Siguiente →](14-viltrox-25mm.md)
+[← Anterior](13-fotos-en-casa.md) · [Índice](README.md) · [Siguiente →](15-viltrox-25mm.md)
 <!-- /nav -->
 
 *Parte III · Equipo y objetivos*
 
-# 13. Equipo y accesorios para la a6700 (enfoque budget)
+# 14. Equipo y accesorios para la a6700 (enfoque budget)
 
 > 🔵 **Básico** · Da por sabido: nada · Te desbloquea: saber qué comprar, qué no, y por qué.
 
@@ -38,7 +38,7 @@ un 20–40 %.
 > equivalentes, 170 g, filtro de 52 mm). Cubre el hueco entre el 11 mm y el
 > 70-350: retrato, calle, interiores y poca luz. No tiene interruptor
 > AF/MF: el enfoque manual se pone desde el menú. Todo en
-> [su guía](14-viltrox-25mm.md).
+> [su guía](15-viltrox-25mm.md).
 
 ## El cuerpo: Sony a6700
 
@@ -49,11 +49,11 @@ esta y no otra:
 - **AF con reconocimiento de animales y pájaros**: la cámara encuentra el
   ojo del animal y lo sigue sola. Para un novato en safari es la función más
   valiosa que existe — hace por ti la habilidad que antes llevaba años
-  entrenar ([capítulo 8](08-safari-diurno.md)).
+  entrenar ([capítulo 6](06-safari-diurno.md)).
 - **Estabilizador en el cuerpo (IBIS)** de ~5 pasos: suma con el del tele y
   estabiliza también el 11 mm, que no lleva estabilizador propio.
 - **Intervalómetro integrado**: los timelapses y star trails del
-  [capítulo 6](06-astrofotografia-namibia.md) sin comprar ni un cable.
+  [capítulo 9](09-astrofotografia-namibia.md) sin comprar ni un cable.
 - **26 Mpx APS-C**: margen de recorte en edición, y su recorte 1.5x
   multiplica el alcance aparente de cualquier tele.
 
@@ -121,7 +121,7 @@ Etosha y una sola bolsa vale oro.
 
 - **f/6.3 en el extremo largo** es lento para la charca nocturna: allí
   trabajarás a ISO 6400–12800 y salvarás las fotos con reducción de ruido
-  por IA (ver [capítulo 9](09-safari-nocturno-charcas.md)). La alternativa
+  por IA (ver [capítulo 7](07-safari-nocturno-charcas.md)). La alternativa
   luminosa (un 70-200 f/2.8) se sale de presupuesto; el enfoque budget es
   asumir el ISO alto. Consuelo real: por debajo de **200 mm** abre a f/5.6 y
   por debajo de 114 mm a f/5 — encuadrar un poco más ancho es luz gratis.
@@ -259,7 +259,7 @@ Las fotos de Namibia tienen **una mancha gris en el cielo, siempre en el mismo s
 4. Apaga, monta el objetivo y repite la comprobación.
 5. Si sigue habiendo polvo, no frotes: servicio técnico o una tienda que limpie sensores.
 
-**Para que entre menos:** cambia de objetivo con la cámara apagada, mirando hacia abajo, a resguardo del viento y nunca con las ventanillas abiertas en una pista ([safari de día](08-safari-diurno.md)).
+**Para que entre menos:** cambia de objetivo con la cámara apagada, mirando hacia abajo, a resguardo del viento y nunca con las ventanillas abiertas en una pista ([safari de día](06-safari-diurno.md)).
 
 ## Referencias
 
@@ -276,5 +276,5 @@ Las fotos de Namibia tienen **una mancha gris en el cielo, siempre en el mismo s
 - Soporte oficial Sony (a6700 y firmware de objetivos): <https://www.sony.es/electronics/support>
 
 <!-- nav -->
-[← Anterior](12-fotos-en-casa.md) · [Índice](README.md) · [Siguiente →](14-viltrox-25mm.md)
+[← Anterior](13-fotos-en-casa.md) · [Índice](README.md) · [Siguiente →](15-viltrox-25mm.md)
 <!-- /nav -->

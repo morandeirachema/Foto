@@ -6,7 +6,7 @@
 
 # 7. Atlas de encuadres — el repertorio, encuadre a encuadre
 
-> 🔵 **Básico** · Da por sabido: el [capítulo 8](../manejo-a6700/08-safari-diurno.md) · Te desbloquea: mirar lo que tienes delante y saber **qué foto cabe ahí**, en vez de disparar a ver qué sale.
+> 🔵 **Básico** · Da por sabido: el [capítulo 6](../manejo-a6700/06-safari-diurno.md) · Te desbloquea: mirar lo que tienes delante y saber **qué foto cabe ahí**, en vez de disparar a ver qué sale.
 
 Las reglas de composición te dicen qué **no** hacer. Esto es lo contrario: un
 **catálogo de fotos posibles**. Veinte encuadres —catorce de fauna, seis de

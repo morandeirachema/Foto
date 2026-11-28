@@ -130,7 +130,7 @@ Con esas cinco respuestas sabes qué foto te da esa luz, qué ajuste tendrás qu
 
 ## Referencias
 
-- Glosario de términos de luz y color: [el glosario](11-glosario.md)
+- Glosario de términos de luz y color: [el glosario](13-glosario.md)
 - La luz como decisión creativa: [La mirada](10-la-mirada.md)
 
 <!-- nav -->

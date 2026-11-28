@@ -26,14 +26,16 @@
 
 9. Por qué funciona: el modelo detrás de las recetas
 10. La mirada
+11. Los maestros, foto a foto
+12. Cómo mejorar: tu diagnóstico, tu escalera y tu plan
 
 **Parte IV · Referencia**
 
-11. Glosario
+13. Glosario
 
 ## Cómo leerla
 
-- **En orden, de la 1 a la 10:** cada capítulo se apoya en los anteriores. Las partes I y II son los fundamentos (🟢 y 🔵); la parte III, el dominio (🔴).
+- **En orden, de la 1 a la 12:** cada capítulo se apoya en los anteriores. Las partes I y II son los fundamentos (🟢 y 🔵); la parte III, el dominio (🔴).
 - **Cada capítulo abre con su nivel:** 🟢 **Iniciación** (nunca has manejado una cámara en serio) · 🔵 **Básico** (las recetas) · 🔴 **Avanzado** (el porqué, y la foto que no es correcta sino buena). Debajo indica qué da por sabido y qué te desbloquea.
 - **Cada capítulo (salvo el glosario) termina con un ejercicio** de una tarde o menos, con criterio de aprobado.
 - **Los ejemplos son de un viaje real** (safari, paisaje y cielos nocturnos en Namibia), pero los conceptos valen en cualquier sitio.

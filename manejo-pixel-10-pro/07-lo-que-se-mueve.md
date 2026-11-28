@@ -93,7 +93,7 @@ La rutina es la de la cámara, con otros botones:
 Lo que no cambia respecto a la a6700: la cámara **a la altura del ojo** del
 animal, **aire hacia donde mira** y **mirar el fondo** antes de disparar. Los
 encuadres están en el [atlas](../conceptos/07-atlas-de-encuadres.md), y la
-receta con la cámara, en [safari diurno](../manejo-a6700/08-safari-diurno.md).
+receta con la cámara, en [safari diurno](../manejo-a6700/06-safari-diurno.md).
 
 ## Si sale mal…
 

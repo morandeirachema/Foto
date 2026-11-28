@@ -58,7 +58,7 @@ Es **luz dura**: la fuente (el sol despejado) es pequeña vista desde el sujeto.
 <details><summary>Respuesta</summary>
 
 Con un objetivo tan angular, enfocado a las estrellas, todo lo que está a **más de unos 4 m** queda nítido (es la **hiperfocal**). Con el **25 mm** a f/1.7 haría falta que el árbol estuviera a **más de unos 18 m**: a 10 m saldría blando.
-→ [Manejo 5 · Enfocar el 11 mm](manejo-a6700/05-enfocar-el-11mm.md) · [Manejo 14 · Viltrox](manejo-a6700/14-viltrox-25mm.md)
+→ [Manejo 5 · Enfocar el 11 mm](manejo-a6700/05-enfocar-el-11mm.md) · [Manejo 15 · Viltrox](manejo-a6700/15-viltrox-25mm.md)
 </details>
 
 **6. ¿Por qué un JPEG aguanta peor que un RAW cuando intentas recuperar un cielo o aclarar una sombra?**
@@ -72,7 +72,7 @@ El JPEG ya está **revelado por la cámara** y guarda **256 niveles por color (8
 <details><summary>Respuesta</summary>
 
 Que la cámara esté en **enfoque manual**: solo funciona en MF (y con el selector en Foto, en P/A/S/M). Con el 11 mm o el 70-350, el **interruptor AF/MF** del objetivo; con el Viltrox, que no tiene interruptor, **`Modo de enfoque` → `Enfoque man.`**
-→ [Manejo 3 · Diales y botones](manejo-a6700/03-diales-y-botones.md) · [Manejo 14 · Viltrox](manejo-a6700/14-viltrox-25mm.md)
+→ [Manejo 3 · Diales y botones](manejo-a6700/03-diales-y-botones.md) · [Manejo 15 · Viltrox](manejo-a6700/15-viltrox-25mm.md)
 </details>
 
 **8. ¿Cómo compruebas, sin dudas, que tu cámara está grabando en RAW?**
@@ -113,7 +113,7 @@ La regla directa: **¿el sujeto sale quemado (demasiado blanco)? → −. ¿Sale
 <details><summary>Respuesta</summary>
 
 **Negativa (−0,7 a −1).** Igual que el león: fondo oscuro → la cámara aclara → lo iluminado se quema → restas.
-→ [Conceptos 1 · El gris medio](conceptos/01-la-luz.md#por-qué-la-cámara-se-equivoca-el-gris-medio) · [Manejo 9 · Charcas nocturnas](manejo-a6700/09-safari-nocturno-charcas.md)
+→ [Conceptos 1 · El gris medio](conceptos/01-la-luz.md#por-qué-la-cámara-se-equivoca-el-gris-medio) · [Manejo 7 · Charcas nocturnas](manejo-a6700/07-safari-nocturno-charcas.md)
 </details>
 
 **M5. Una cebra contra un cielo blanco nublado que llena casi todo el encuadre sale oscura. ¿Qué compensación?**
@@ -143,14 +143,14 @@ La regla directa: **¿el sujeto sale quemado (demasiado blanco)? → −. ¿Sale
 <details><summary>Respuesta</summary>
 
 **`Modo de enfoque` → `Enfoque man.`** en el menú. C1 solo funciona en MF, y el Viltrox no tiene interruptor AF/MF en el objetivo.
-→ [Manejo 14 · Viltrox](manejo-a6700/14-viltrox-25mm.md)
+→ [Manejo 15 · Viltrox](manejo-a6700/15-viltrox-25mm.md)
 </details>
 
 **E3. En casa quieres que la guirnalda de luces del fondo salga en círculos grandes detrás de una taza. ¿Qué haces?**
 <details><summary>Respuesta</summary>
 
 **Viltrox a f/1.7, la taza cerca de la cámara (unos 0,4 m) y la guirnalda lejos, a 2–3 m por detrás.** Cuanto más cerca está el objeto y más lejos el fondo, más grandes y suaves salen los círculos. A f/8, o con las luces pegadas a la taza, salen pequeñas y nítidas.
-→ [Manejo 12 · Bokeh de luces](manejo-a6700/12-fotos-en-casa.md#4--bokeh-de-luces-de-navidad) · [Conceptos 5 · Óptica](conceptos/05-optica.md)
+→ [Manejo 13 · Bokeh de luces](manejo-a6700/13-fotos-en-casa.md#4--bokeh-de-luces-de-navidad) · [Conceptos 5 · Óptica](conceptos/05-optica.md)
 </details>
 
 ---
@@ -161,7 +161,7 @@ La regla directa: **¿el sujeto sale quemado (demasiado blanco)? → −. ¿Sale
 <details><summary>Respuesta</summary>
 
 **Fijo**: en el atardecer, **Luz de día (5200 K)**. El automático "corrige" el dorado y te roba lo que buscabas. Para las estrellas, Kelvin a mano, en torno a **3900 K**. La regla del repo: de día, un preajuste fijo; de noche, Kelvin a mano.
-→ [Conceptos 4 · Balance de blancos](conceptos/04-balance-de-blancos.md) · [Manejo 6 · Astrofotografía](manejo-a6700/06-astrofotografia-namibia.md)
+→ [Conceptos 4 · Balance de blancos](conceptos/04-balance-de-blancos.md) · [Manejo 9 · Astrofotografía](manejo-a6700/09-astrofotografia-namibia.md)
 </details>
 
 **2. En Luminar, ¿por qué la reducción de ruido va antes que aclarar las sombras o subir el contraste?**
@@ -217,7 +217,7 @@ Porque la máscara limita **ese** ajuste: toda tu corrección global pasaría a 
 <details><summary>Respuesta</summary>
 
 **No es el enfoque**: es que la exposición fue demasiado larga y la Tierra giró. Baja el tiempo (20 → 15 → 13 s) y, si queda oscura, sube el ISO.
-→ [Manejo 6 · Astrofotografía](manejo-a6700/06-astrofotografia-namibia.md) · [Manejo 7 · Estrellas con la tierra dentro](manejo-a6700/07-estrellas-con-tierra.md)
+→ [Manejo 9 · Astrofotografía](manejo-a6700/09-astrofotografia-namibia.md) · [Manejo 8 · Estrellas con la tierra dentro](manejo-a6700/08-estrellas-con-tierra.md)
 </details>
 
 **7. ¿Qué guarda tu memoria MR2 y para qué?**
@@ -312,7 +312,7 @@ Con pruebas que no dependen del ojo cansado: **antes y después** (**`\`**), **d
 <details><summary>Respuesta</summary>
 
 **Polvo en el sensor.** En Luminar: **Remove Dust Spots** y Erase en las que queden, **foto a foto** (Erase no se sincroniza), y vuelve a mirar el cielo después de Dehaze. En la cámara: limpia el sensor antes de la próxima salida.
-→ [Retoques 4 · Rescatar un JPEG](retoques/04-flujo-base.md#rescatar-un-jpeg-difícil) · [Manejo 13 · Polvo en el sensor](manejo-a6700/13-equipo-accesorios.md#polvo-en-el-sensor-comprobarlo-y-limpiarlo)
+→ [Retoques 4 · Rescatar un JPEG](retoques/04-flujo-base.md#rescatar-un-jpeg-difícil) · [Manejo 14 · Polvo en el sensor](manejo-a6700/14-equipo-accesorios.md#polvo-en-el-sensor-comprobarlo-y-limpiarlo)
 </details>
 
 **L10. Un elefante de noche bajo el foco de la charca sale todo naranja, a ISO 12800. ¿Puedes dejarlo con colores neutros?**
@@ -350,6 +350,37 @@ Con pruebas que no dependen del ojo cansado: **antes y después** (**`\`**), **d
 
 A **30 s** pasan más coches: las estelas son **más largas y continuas**, y el cielo sale **más claro**. A **5 s**, estelas sueltas y cortas. Los edificios salen igual de nítidos en las dos: están quietos y la cámara también.
 → [Manejo 11 · Estelas de tráfico](manejo-a6700/11-estelas-de-trafico.md) · [Conceptos 2 · La exposición](conceptos/02-exposicion.md)
+</details>
+
+
+### Práctica extra: calle y arquitectura
+
+**C1. Sales a la calle con el 25 mm a f/8 y no quieres enfocar en cada foto. ¿A qué distancia dejas el enfoque, qué sale nítido y cómo lo pones?**
+<details><summary>Respuesta</summary>
+
+**A unos 3 m (cuatro pasos): sale nítido de 1,7 a 12,7 m.** Es el **enfoque por zonas**, la hiperfocal aplicada a la calle. Se pone mirando el suelo a cuatro pasos, pulsando **AF-ON** y soltando: con `AF c/obturador` desactivado, el disparador no vuelve a enfocar. Con el Viltrox, después de apagar la cámara, vuelve a ponerla.
+→ [Manejo 12 · El enfoque por zonas](manejo-a6700/12-calle-y-arquitectura.md#enfocar-sin-mirar-el-enfoque-por-zonas) · [Conceptos 5 · La hiperfocal](conceptos/05-optica.md#5--la-hiperfocal-todo-nítido-de-cerca-al-infinito)
+</details>
+
+**C2. Una persona que cruza la calle a 3 m sale movida a 1/250 s. ¿Qué velocidad pones y por qué?**
+<details><summary>Respuesta</summary>
+
+**1/500 s.** A 1/250, con el 25 mm, se desplaza unos 12 píxeles durante la foto; a 1/500, unos 6, en el límite de lo que se ve nítido. Si viene hacia ti, 1/250 basta (apenas se mueve en el encuadre); para bicis o niños corriendo, 1/1000. En M con ISO AUTO, subir la velocidad no oscurece la foto: sube el ISO.
+→ [Conceptos 9 · §9 El tiempo](conceptos/09-por-que-funciona.md#9--el-tiempo-qué-congela-y-qué-dibuja-la-velocidad) · [Manejo 12 · La receta](manejo-a6700/12-calle-y-arquitectura.md#la-receta-de-partida-mr1-con-tres-cambios)
+</details>
+
+**C3. Fotografías una torre desde la calle inclinando la cámara hacia arriba y el edificio "se cae hacia atrás". ¿Por qué pasa y qué haces?**
+<details><summary>Respuesta</summary>
+
+Es la **perspectiva de inclinar la cámara**, no un defecto del objetivo: las aristas paralelas se juntan hacia arriba. Soluciones, de mejor a peor: **cámara a nivel** y más atrás (o el 11 mm recto, y recortas el suelo que sobra); **súbete** a algo; o **exagéralo** con un contrapicado fuerte, a propósito. En Luminar, **Develop → Transform → Vertical**, dejando margen al encuadrar porque se pierden los bordes.
+→ [Manejo 12 · Las verticales](manejo-a6700/12-calle-y-arquitectura.md#las-verticales-por-qué-se-caen-y-cómo-evitarlo) · [Retoques 8.4](retoques/08-paisaje.md#84-ciudad-calle-y-arquitectura)
+</details>
+
+**C4. ¿Cuándo fotografías una fachada de piedra que mira al oeste para que se vea su textura? ¿Y cuándo el edificio iluminado de noche?**
+<details><summary>Respuesta</summary>
+
+**Por la tarde, con el sol bajo rozándola de lado** (luz rasante): saca el relieve. De frente, la luz aplana. El edificio iluminado, en la **hora azul**, entre 20 y 40 minutos después de la puesta: el cielo y las luces del edificio tienen un brillo parecido y caben en una sola foto. Más tarde, el cielo sale negro.
+→ [Manejo 12 · La luz de los edificios](manejo-a6700/12-calle-y-arquitectura.md#la-luz-de-los-edificios)
 </details>
 
 ---
@@ -402,14 +433,14 @@ La ficha de Sony da la sensibilidad del AF (**−3 EV**) **medida a f/2.0**. El 
 <details><summary>Respuesta</summary>
 
 Exponer lo más a la derecha posible del histograma **sin quemar**, porque el **RAW** guarda mucha más información en las altas luces. Después se oscurece al revelar y queda menos ruido.
-→ [Conceptos 9 · §2](conceptos/09-por-que-funciona.md#2--exponer-a-la-derecha-y-por-qué-el-histograma-manda) · [Glosario](conceptos/11-glosario.md)
+→ [Conceptos 9 · §2](conceptos/09-por-que-funciona.md#2--exponer-a-la-derecha-y-por-qué-el-histograma-manda) · [Glosario](conceptos/13-glosario.md)
 </details>
 
 **8. ¿Cuáles son los cinco escalones para mejorar, en orden, y por qué no conviene saltarse ninguno?**
 <details><summary>Respuesta</summary>
 
 **Nítida → bien expuesta → limpia → con luz → con momento.** Cada escalón se apoya en el anterior: un momento perfecto no sirve si la foto está movida o quemada.
-→ [Conceptos 10 · La mirada](conceptos/10-la-mirada.md#los-cinco-escalones-en-este-orden-no-saltes)
+→ [Conceptos 12 · Cómo mejorar](conceptos/12-como-mejorar.md#los-cinco-escalones-en-este-orden-no-saltes)
 </details>
 
 ### Práctica extra: el porqué, con tus JPEG
@@ -433,6 +464,27 @@ Exponer lo más a la derecha posible del histograma **sin quemar**, porque el **
 
 Porque en una de 5 minutos **el cielo y las fachadas se queman**, y no eliges qué coches entran. Apiladas en modo **aclarar** (*Lighten*, con StarStaX), las estelas se suman y el cielo queda como en una sola foto de 15 s. Además, dejas fuera la foto del coche parado o del camión que lo tapa todo.
 → [Manejo 11 · Apilar las estelas](manejo-a6700/11-estelas-de-trafico.md#varias-fotos-para-una-apilar-las-estelas)
+</details>
+
+**A4. Tienes el 11 mm a f/8 y una piedra a 0,5 m. No tienes la tabla. ¿Dónde enfocas? ¿Y si la foto va a ir impresa en grande?**
+<details><summary>Respuesta</summary>
+
+**Al doble de la distancia del objeto más cercano: a 1 m.** Es la regla del doble: lo nítido empieza en la mitad de donde enfocas, y a f/8 la hiperfocal del 11 mm (0,8 m) queda por debajo de 1 m, así que el infinito también sale nítido. Para una copia grande, pásate un poco: a f/8, enfoca donde dice la fila de f/4 (1,5 m). "Nítido" en la hiperfocal es borroso en menos de 0,020 mm, unos 5 píxeles: bien en pantalla, justo al 100 %.
+→ [Conceptos 5 · La hiperfocal](conceptos/05-optica.md#5--la-hiperfocal-todo-nítido-de-cerca-al-infinito)
+</details>
+
+**A5. La regla del 500 dice que con el 11 mm puedes exponer 30 s sin que las estrellas se muevan. ¿Por qué la receta dice 20 s, y 15 s si ves rayitas?**
+<details><summary>Respuesta</summary>
+
+La regla del 500 es de la época del carrete y vale **a tamaño pantalla**. La **regla NPF**, que tiene en cuenta el tamaño del píxel, da unos **16 s** con el 11 mm a f/1.8 antes de que las estrellas se alarguen **al 100 %**. 20 s es el término medio; si al ampliar ves rayitas, baja a 15 s y compensa con ISO.
+→ [Conceptos 9 · §9 El tiempo](conceptos/09-por-que-funciona.md#9--el-tiempo-qué-congela-y-qué-dibuja-la-velocidad)
+</details>
+
+**A6. El ganador absoluto del Wildlife Photographer of the Year 2018 está hecho con un 24 mm. ¿Qué decisión hay detrás y qué te enseña sobre tus fotos de Namibia?**
+<details><summary>Respuesta</summary>
+
+Van Oosten **pasó días con el grupo** hasta predecir dónde se pararían los monos, y se acercó con un **gran angular**: la foto tiene el animal y su bosque. El 95 % de tus fotos del viaje se hicieron con el tele, y ninguna con el Viltrox: cuando un animal esté cerca, prueba el 11 mm o el 25 mm. La decisión que se copia no es "un 24 mm", es **elegir la distancia a propósito**.
+→ [Conceptos 11 · Los maestros](conceptos/11-los-maestros.md#the-golden-couple-montes-qinling-china-wpy-2018) · [Conceptos 12 · Tu diagnóstico](conceptos/12-como-mejorar.md#tu-diagnóstico-lo-que-dicen-tus-2731-fotos)
 </details>
 
 ---

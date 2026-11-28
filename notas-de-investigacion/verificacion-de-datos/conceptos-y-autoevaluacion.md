@@ -239,7 +239,7 @@ De 41 preguntas, 35 coinciden con el capítulo enlazado y son correctas; 6 arras
 | E2-4 (177) | retoques 05:76-87 | OK |
 | E2-5, 5b (184, 191) | retoques 05:31-42 | OK (+0,3 literal) |
 | E2-5c (198) | manejo 05:89, 05:95 | OK |
-| E2-6 (205) | **manejo 07** | INCOHERENCIA (C3): manejo 07:88 solo dice «Baja a 15 s»; la serie «20 → 15 → 13» está en manejo 06:110. Propuesta: enlazar también [Manejo 6](../../manejo-a6700/06-astrofotografia-namibia.md) |
+| E2-6 (205) | **manejo 07** | INCOHERENCIA (C3): manejo 07:88 solo dice «Baja a 15 s»; la serie «20 → 15 → 13» está en manejo 06:110. Propuesta: enlazar también [Manejo 6](../../manejo-a6700/09-astrofotografia-namibia.md) |
 | E2-7 (212) | manejo 04:129-130 | OK (literal) |
 | E2-8 (219) | retoques 1.7; Paso 9 (04:93) | OK |
 | E2-9 (226) | 05:60 | OK |

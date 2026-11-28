@@ -1,10 +1,10 @@
 <!-- nav -->
-[← Anterior](05-enfocar-el-11mm.md) · [Índice](README.md) · [Siguiente →](07-estrellas-con-tierra.md)
+[← Anterior](08-estrellas-con-tierra.md) · [Índice](README.md) · [Siguiente →](10-time-lapse-del-cielo.md)
 <!-- /nav -->
 
-*Parte II · Recetas por escenario*
+*Parte II · Recetas · El cielo de noche*
 
-# 6. Astrofotografía en Namibia con la a6700 — paso a paso
+# 9. Astrofotografía en Namibia con la a6700 — paso a paso
 
 > 🔵 **Básico** · Da por sabido: el capítulo 4 (memoria MR2 guardada) · Te desbloquea: la Vía Láctea, las Nubes de Magallanes y los star trails.
 
@@ -20,7 +20,7 @@ visible gran parte de la noche.
 > al anochecer. Las recetas y el enfoque de este capítulo valen igual; el
 > **plan de tus noches concretas** está en
 > [la mirada](../conceptos/10-la-mirada.md), el fino en
-> [estrellas con la tierra dentro](07-estrellas-con-tierra.md), y el catálogo completo de lo
+> [estrellas con la tierra dentro](08-estrellas-con-tierra.md), y el catálogo completo de lo
 > fotografiable en tu ventana, objetivo a objetivo, en
 > [el cielo del viaje](https://github.com/morandeirachema/a6700-namibia/blob/main/plan/cielo-del-viaje.md).
 
@@ -44,7 +44,7 @@ visible gran parte de la noche.
 | `RR exposic. larga` | Desactivar |
 
 > Cada ajuste con su **ruta de menú**, en
-> [la referencia de ajustes](16-ajustes-a6700.md#c2-astro-la-receta-de-mr2).
+> [la referencia de ajustes](17-ajustes-a6700.md#c2-astro-la-receta-de-mr2).
 
 ## Antes de salir (checklist)
 
@@ -116,7 +116,7 @@ visible gran parte de la noche.
 
 La versión a fondo de las dos fotos con primer plano — la postal (cielo
 fijo con silueta) y los círculos sobre un objeto — está en
-[Estrellas con la tierra dentro](07-estrellas-con-tierra.md).
+[Estrellas con la tierra dentro](08-estrellas-con-tierra.md).
 
 ## Star trails (circumpolares del sur)
 
@@ -134,7 +134,7 @@ para un novato: círculos de estrellas girando sobre el paisaje.
    cámara nivelada y el horizonte en el tercio bajo, el 11 mm abarca 71° de
    alto: el polo entra seguro. Las cuatro formas de encontrarlo — incluida
    la **prueba de giro** de 4 minutos con `Aj. temporiz. BULB` — están en
-   [Estrellas con la tierra dentro](07-estrellas-con-tierra.md).
+   [Estrellas con la tierra dentro](08-estrellas-con-tierra.md).
 2. Receta: **30 s, f/2.8, ISO 800–1600**, balance fijo 3900 K,
    reducción de ruido de larga exposición **OFF** (o cada foto irá seguida de
    30 s a oscuras y los arcos saldrán cortados), enfoque a las estrellas como
@@ -217,7 +217,7 @@ planificador sobre mapa.
    inclúyelo asumido como "amanecer falso" naranja en el horizonte; al
    apilar, la extracción de fondo (*Background extraction*) de Siril
    ([edición](../retoques/09-noche.md#apilar-una-serie-fuera-de-luminar)) suaviza el degradado.
-5. Remata la noche en el mirador de la charca ([capítulo 9](09-safari-nocturno-charcas.md)):
+5. Remata la noche en el mirador de la charca ([capítulo 7](07-safari-nocturno-charcas.md)):
    astro y rinocerontes en la misma salida.
 
 ## Localizaciones destacadas
@@ -243,7 +243,7 @@ Es la segunda vía del [plan noche a noche](https://github.com/morandeirachema/a
 de "pon y olvida", y su receta completa está en
 [la guía del Pixel](../manejo-pixel-10-pro/README.md).
 
-## Ejercicio antes de volar (dos noches, aunque tu cielo sea malo)
+## Ejercicio (dos noches, aunque tu cielo sea malo)
 
 No hace falta un cielo oscuro para entrenar lo que de verdad falla: el
 enfoque y el manejo a tientas.
@@ -259,6 +259,26 @@ enfoque y el manejo a tientas.
    apuntando a cualquier sitio, y apílalas en StarStaX. Aunque salgan cuatro
    estrellas, habrás hecho el flujo completo una vez.
 
+## Por qué funciona
+
+- **f/1.8, o f/2.2–2.8 si hay "alitas".** Cada tercio de paso es luz, pero
+  las esquinas del 11 mm sufren primero (coma). Cerrar un poco y subir un paso
+  de ISO suele salir a cuenta ([por qué funciona §8](../conceptos/09-por-que-funciona.md#8--los-objetivos-sin-marketing)).
+- **20 s, ISO 1600–3200.** El tiempo lo limita el giro de la Tierra (unos 16 s
+  al 100 % con la regla NPF, [§9](../conceptos/09-por-que-funciona.md#9--el-tiempo-qué-congela-y-qué-dibuja-la-velocidad)),
+  así que la luz que falta la pone el ISO. En RAW, a partir de ~400 da casi
+  igual subirlo en cámara o después; en **JPEG**, súbelo en la cámara ([§6](../conceptos/09-por-que-funciona.md#6--ruido-iso-y-el-punto-en-que-deja-de-importar)).
+- **3900 K fijo.** El cielo de noche no tiene un blanco de referencia: el
+  automático cambia de color de una foto a otra y no hay forma de apilarlas
+  ([balance de blancos](../conceptos/04-balance-de-blancos.md)).
+- **Diez tomas iguales.** Al apilarlas, el ruido baja con la raíz cuadrada del
+  número de fotos: con 10, unas tres veces menos, como si hubieras recogido
+  más luz ([retoques 9](../retoques/09-noche.md#apilar-una-serie-fuera-de-luminar)).
+- **Obturador electrónico y `RR exposic. larga` desactivada.** Nada se mueve
+  dentro de la cámara, y no pierdes 20 s de procesado tras cada foto.
+- **Cómo lo hacen los grandes**, con panorámicas, mosaicos y una persona para
+  la escala: [los maestros, el cielo de noche](../conceptos/11-los-maestros.md#el-cielo-de-noche).
+
 ## Referencias
 
 - Lonely Speck, práctica de astrofotografía: <https://www.lonelyspeck.com/>
@@ -268,5 +288,5 @@ enfoque y el manejo a tientas.
 - Help Guide oficial de la a6700: <https://helpguide.sony.net/ilc/2320/v1/es/>
 
 <!-- nav -->
-[← Anterior](05-enfocar-el-11mm.md) · [Índice](README.md) · [Siguiente →](07-estrellas-con-tierra.md)
+[← Anterior](08-estrellas-con-tierra.md) · [Índice](README.md) · [Siguiente →](10-time-lapse-del-cielo.md)
 <!-- /nav -->

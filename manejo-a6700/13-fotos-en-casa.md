@@ -1,10 +1,10 @@
 <!-- nav -->
-[← Anterior](11-estelas-de-trafico.md) · [Índice](README.md) · [Siguiente →](13-equipo-accesorios.md)
+[← Anterior](12-calle-y-arquitectura.md) · [Índice](README.md) · [Siguiente →](14-equipo-accesorios.md)
 <!-- /nav -->
 
-*Parte II · Recetas por escenario*
+*Parte II · Recetas · La ciudad y la casa*
 
-# 12. Fotos en casa — ideas creativas para practicar sin salir
+# 13. Fotos en casa — ideas creativas para practicar sin salir
 
 > 🟢 **Iniciación** → 🔵 básico en las últimas ideas · Da por sabido: los tres números ([capítulo 1](01-de-movil-a-la-a6700.md)) · Te desbloquea: practicar la luz, la exposición, el enfoque y la composición cualquier tarde, con lo que hay en casa, y llegar a la próxima salida con las manos entrenadas.
 
@@ -154,7 +154,7 @@ linterna, de lado. Tú no sales si te mueves y no te iluminas.
 
 **Entrenas:** la exposición larga, que luego usarás en las estelas
 ([capítulo 11](11-estelas-de-trafico.md)) y en las estrellas
-([capítulo 7](07-estrellas-con-tierra.md)).
+([capítulo 8](08-estrellas-con-tierra.md)).
 
 **Aprobado cuando** el dibujo es una línea continua y el fondo queda negro.
 
@@ -315,5 +315,5 @@ Para la **composición** fuera de casa, el complemento es el
 - Sony, Guía de ayuda a6700 — `Func. capt. interv.` (para el autorretrato y el time-lapse): <https://helpguide.sony.net/ilc/2320/v1/es/contents/0407P_interval_shoot_setting.html>
 
 <!-- nav -->
-[← Anterior](11-estelas-de-trafico.md) · [Índice](README.md) · [Siguiente →](13-equipo-accesorios.md)
+[← Anterior](12-calle-y-arquitectura.md) · [Índice](README.md) · [Siguiente →](14-equipo-accesorios.md)
 <!-- /nav -->

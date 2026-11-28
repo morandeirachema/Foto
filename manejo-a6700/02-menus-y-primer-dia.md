@@ -135,7 +135,7 @@ salen **abreviados** en pantalla (`Obturad./silenc.`, `Rest/guard ajust`,
 
 Las rutas que de verdad vas a usar en el viaje (la lista completa, ajuste a
 ajuste y con los valores de fauna y de noche, está en
-[la referencia de ajustes](16-ajustes-a6700.md)):
+[la referencia de ajustes](17-ajustes-a6700.md)):
 
 | Lo que quieres | Ruta |
 |---|---|
@@ -181,7 +181,7 @@ recorrer pestañas.
 
 Los que merecen estar ahí, según lo que usan las guías de este repo:
 **Sens. Seguim. AF**, **Dest. reconocim.**, **Área de enfoque**
-(los tres mandos del AF de [AF y exposición a fondo](15-af-y-exposicion-a-fondo.md)),
+(los tres mandos del AF de [AF y exposición a fondo](16-af-y-exposicion-a-fondo.md)),
 **Tipo de obturador**, **Func. capt. interv.**, **Formatear** y
 **Mem. ajustes cám**
 
@@ -199,7 +199,7 @@ Los tres cambios del viaje (el porqué y el paso a paso, en
   apertura en M; el repo lo quiere en la **obturación**.
 - **`Verificac. luminosa`** (*Bright Monitoring*) a **C1** — amplifica la
   pantalla en plena oscuridad para **componer la Vía Láctea viéndola**
-  ([capítulo 6](06-astrofotografia-namibia.md)). Solo funciona en MF.
+  ([capítulo 9](09-astrofotografia-namibia.md)). Solo funciona en MF.
 - **`Amplific. enfoque`** (la lupa) a **C3**: enfocar una estrella sin
   entrar al menú. C2 se queda con `Área de enfoque`, como viene.
 

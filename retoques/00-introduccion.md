@@ -23,7 +23,7 @@
 **Parte III · Por tipo de foto**
 
 7. Safari (fauna)
-8. Paisaje
+8. Paisaje y ciudad
 9. Fotografía nocturna
 
 **Parte IV · Más allá de una foto**

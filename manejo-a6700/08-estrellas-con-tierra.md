@@ -1,10 +1,10 @@
 <!-- nav -->
-[← Anterior](06-astrofotografia-namibia.md) · [Índice](README.md) · [Siguiente →](08-safari-diurno.md)
+[← Anterior](07-safari-nocturno-charcas.md) · [Índice](README.md) · [Siguiente →](09-astrofotografia-namibia.md)
 <!-- /nav -->
 
-*Parte II · Recetas por escenario*
+*Parte II · Recetas · El cielo de noche*
 
-# 7. Estrellas con la tierra dentro — desde cero, en tres noches
+# 8. Estrellas con la tierra dentro — desde cero, en tres noches
 
 > 🔵 **Básico** → 🔴 avanzado al final · Da por sabido: nada: empieza desde cero · Te desbloquea: cielo con paisaje dentro, en tres noches de práctica.
 
@@ -81,7 +81,7 @@ Nada más.
 4. **Dispara** (el temporizador de 2 s ya evita el meneo del dedo).
 5. **Mira el histograma**, no la foto — el de la **revisión** (▶ y **DISP**):
    el histograma en vivo no acumula los 20 s de exposición y aquí no vale
-   ([capítulo 6](06-astrofotografia-namibia.md)). La montaña debe
+   ([capítulo 9](09-astrofotografia-namibia.md)). La montaña debe
    estar en el **primer tercio izquierdo, despegada del borde**. ¿Pegada al borde? Sube a ISO
    3200. La pantalla a oscuras engaña: el histograma no.
 6. **Amplía una estrella al máximo** en la revisión: ¿es un punto? Lo
@@ -98,7 +98,7 @@ Nada más.
 | Todo movido | Trípode vibrando: viento, correa suelta o lo tocaste |
 | Cielo naranja raro | WB en K = 3900 (y en RAW se corrige después) |
 
-Esto es, resumido, el [capítulo 6](06-astrofotografia-namibia.md) —
+Esto es, resumido, el [capítulo 9](09-astrofotografia-namibia.md) —
 allí está el detalle fino y el plan concreto de Namibia. Cuando esta noche
 te salga entera sin mirar la guía, pasa a la siguiente.
 
@@ -346,6 +346,22 @@ apuntando a otra parte del cielo ([su guía](../manejo-pixel-10-pro/README.md)).
 | La panorámica de la banda no cose | Cambió algo entre tomas (ISO, enfoque, el zoom) o solapaste menos de un tercio: todo fijo, gira solo el cabezal, solapa un tercio |
 | El cielo salió, el suelo negro del todo | Es la noche 2 tal cual: una silueta negra es lo esperado. Si quieres el suelo con detalle, haz una segunda toma más larga para el suelo y júntalas con capas en Luminar ([retoques, 2.4](../retoques/02-luminar-por-dentro.md)) |
 
+## Por qué funciona
+
+- **El árbol sale nítido sin enfocarlo.** Enfocado al infinito con el 11 mm a
+  f/1.8, todo lo que está a más de **3,4 m** queda nítido (la hiperfocal;
+  [óptica §5](../conceptos/05-optica.md#5--la-hiperfocal-todo-nítido-de-cerca-al-infinito)).
+  Con el 25 mm haría falta que estuviera a más de 18 m.
+- **20 s y no más.** La Tierra gira: con el 11 mm, la regla NPF da unos 16 s
+  antes de que las estrellas se alarguen al 100 %, y la del 500, 30 s a tamaño
+  pantalla. 20 s es el término medio, y 15 s si ves rayitas ([§9](../conceptos/09-por-que-funciona.md#9--el-tiempo-qué-congela-y-qué-dibuja-la-velocidad)).
+- **El histograma separado de la izquierda.** De noche no hay "derecha" a la
+  que exponer, pero tampoco puedes quedarte corto: tus exposiciones largas de
+  Namibia tienen un brillo mediano de 28 sobre 255, y en JPEG lo que falta no
+  se recupera ([§2](../conceptos/09-por-que-funciona.md#2--exponer-a-la-derecha-y-por-qué-el-histograma-manda)).
+- **Los círculos son 15° por hora.** Media hora de serie dibuja arcos de
+  7,5°; dos horas, de 30°. Por eso las series de star trails son largas.
+
 ## Referencias
 
 - Lonely Speck (nightscapes: cielo + tierra, en inglés): <https://www.lonelyspeck.com/>
@@ -356,5 +372,5 @@ apuntando a otra parte del cielo ([su guía](../manejo-pixel-10-pro/README.md)).
 - Declinación magnética en Namibia (WMM2025; ~13° O en Windhoek): <https://www.magnetic-declination.com/>
 
 <!-- nav -->
-[← Anterior](06-astrofotografia-namibia.md) · [Índice](README.md) · [Siguiente →](08-safari-diurno.md)
+[← Anterior](07-safari-nocturno-charcas.md) · [Índice](README.md) · [Siguiente →](09-astrofotografia-namibia.md)
 <!-- /nav -->

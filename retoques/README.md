@@ -40,7 +40,8 @@ flowchart LR
 | Quieres aclarar **los ojos**, abrir **una sombra** u oscurecer **el cielo** | [5. Ajustes locales](05-ajustes-locales.md) |
 | No sabes por dónde empezar con **esta** foto | [¿Qué hay en tu foto? La ruta según el contenido](04-flujo-base.md#qué-hay-en-tu-foto-la-ruta-según-el-contenido) |
 | Tienes una foto de un animal delante | [7. Safari](07-safari.md) |
-| Tienes dunas, montaña o un atardecer | [8. Paisaje](08-paisaje.md) |
+| Tienes dunas, montaña o un atardecer | [8. Paisaje y ciudad](08-paisaje.md) |
+| Tienes gente en la calle o un edificio con las verticales torcidas | [8.4. Ciudad: calle y arquitectura](08-paisaje.md#84-ciudad-calle-y-arquitectura) |
 | Tienes estrellas, luna o fuego | [9. Noche](09-noche.md) |
 | Acabas de volver del viaje | [11.4. De la tarjeta a la selección](11-trabajar-en-serie.md#114-tus-fotos-del-viaje-de-la-tarjeta-a-la-selección) |
 | No sabes si **te has pasado** editando | [16.3. ¿Me he pasado? La prueba de dos minutos](16-errores-y-lista.md#163-me-he-pasado-la-prueba-de-dos-minutos) |
@@ -62,7 +63,7 @@ flowchart LR
 | | [5. Ajustes locales](05-ajustes-locales.md) 🆕 | Aclarar u oscurecer solo una parte: ojos, sombras, cielo, sujeto y fondo. Qué, cómo y qué significa |
 | | [6. Herramientas avanzadas](06-herramientas-avanzadas.md) | Curves, Supercontrast, Color Harmony, Dodge & Burn, Light Depth, Black & White, Landscape, Creative |
 | **III · Por tipo de foto** | [7. Safari 🦁](07-safari.md) | Ruido, contraluz, luz dura, el animal como protagonista, casos concretos |
-| | [8. Paisaje 🏜️](08-paisaje.md) | Cielo y suelo, profundidad, dunas, atardecer, montaña, agua, hora azul |
+| | [8. Paisaje y ciudad 🏜️](08-paisaje.md) | Cielo y suelo, profundidad, dunas, atardecer, montaña, agua, hora azul; **calle y arquitectura**: verticales, blanco y negro, interiores |
 | | [9. Noche 🌌](09-noche.md) | Vía Láctea, apilar una serie, contaminación lumínica, luces artificiales, charca con focos, fuego, luna |
 | **IV · Más allá de una foto** | [10. Recetas completas](10-recetas.md) ⚠️ | Cinco casos de principio a fin (*provisional*) |
 | | [11. Trabajar en serie](11-trabajar-en-serie.md) | Sync Adjustments, presets propios, coherencia |

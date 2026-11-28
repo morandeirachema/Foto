@@ -1,5 +1,5 @@
 <!-- nav -->
-[← Anterior](09-por-que-funciona.md) · [Índice](README.md) · [Siguiente →](11-glosario.md)
+[← Anterior](09-por-que-funciona.md) · [Índice](README.md) · [Siguiente →](11-los-maestros.md)
 <!-- /nav -->
 
 *Parte III · A fondo*
@@ -16,8 +16,9 @@ demás.
 
 ## La mentalidad que separa las fotos buenas (lo que hacen los maestros)
 
-> Los trece fotógrafos, uno a uno, con qué robarle a cada uno y enlaces a su
-> obra: [fotógrafos de referencia](https://github.com/morandeirachema/a6700-namibia/blob/main/mejora/fotografos-de-referencia.md).
+> Sus fotos, una a una, con por qué funcionan y qué decisión copiarles (y los
+> de calle, arquitectura, cielo nocturno y el tiempo): [los maestros](11-los-maestros.md).
+> La lista del viaje, con trece fotógrafos: [fotógrafos de referencia](https://github.com/morandeirachema/a6700-namibia/blob/main/mejora/fotografos-de-referencia.md).
 
 Investigamos a grandes de la fauna africana — Frans Lanting, Marsel van
 Oosten y Peter Delaney en Namibia; Nick Brandt en África oriental — y todos
@@ -48,7 +49,7 @@ La luz decide la charca. Con fuentes de fotógrafos que las trabajan:
 | Mediodía (calor) | Cualquier charca abierta: en noviembre el calor **obliga** a beber a todas horas — elefantes, cebras y jirafas en pleno día | Congregación por sed; luz dura → clave alta B/N (abajo) |
 | Tarde | **Okondeka** (borde del pan: animales contra el vacío blanco, y manada de leones residente emboscando), **Gemsbokvlakte**, **Goas** (leones 16:00–18:00) | Mejor luz de tarde documentada |
 | Última hora | Vuelta hacia el campamento con margen; **Klein Namutoni y Namutoni a contraluz = siluetas** | Puertas cierran con el sol (~19:05) |
-| Noche | Mirador de **Okaukuejo**: rinos negros 21:00–24:00 casi garantizados; **Moringa** (Halali) para rino/hiena/leopardo al anochecer; **King Nehale**, junto al fuerte de Namutoni; y la última noche de safari, la charca iluminada de **Onguma Tamboti**, ya fuera del parque | [Capítulo 9](../manejo-a6700/09-safari-nocturno-charcas.md) |
+| Noche | Mirador de **Okaukuejo**: rinos negros 21:00–24:00 casi garantizados; **Moringa** (Halali) para rino/hiena/leopardo al anochecer; **King Nehale**, junto al fuerte de Namutoni; y la última noche de safari, la charca iluminada de **Onguma Tamboti**, ya fuera del parque | [Capítulo 7](../manejo-a6700/07-safari-nocturno-charcas.md) |
 
 - **Kalkheuwel** aparece citada como "la mejor charca para muchos
   fotógrafos" (mopane, elefantes, jirafas, rapaces): métela en ruta.
@@ -109,7 +110,7 @@ La lista completa, especie por especie y con los ajustes de cada una:
 
 El catálogo completo de tu cielo —qué hay cada noche, en qué dirección y con
 qué receta— vive en [el cielo del viaje](https://github.com/morandeirachema/a6700-namibia/blob/main/plan/cielo-del-viaje.md), y la
-técnica desde cero en [estrellas con la tierra dentro](../manejo-a6700/07-estrellas-con-tierra.md).
+técnica desde cero en [estrellas con la tierra dentro](../manejo-a6700/08-estrellas-con-tierra.md).
 Lo que importa para **la mirada**, en cinco líneas:
 
 - **Tus fechas son buenas de verdad**: luna nueva el 9 de noviembre, cielos
@@ -126,35 +127,11 @@ Lo que importa para **la mirada**, en cinco líneas:
 
 ## Cómo se mide si estás mejorando
 
-Sin esto, "practicar" es hacer más fotos iguales. El método es de una noche:
-
-1. **Cada noche, cinco minutos de criba honesta.** Del día entero, marca las
-   **tres** que salvarías. Si no hay tres, no pasa nada: apunta por qué.
-2. **A cada descarte, una causa de una palabra**: *movida*, *plana*,
-   *fondo*, *tarde*, *lejos*, *sin gesto*. Sin justificaciones.
-3. **Cuenta las causas al final de la semana.** La que más se repita es tu
-   trabajo de la semana siguiente — y casi siempre no es la cámara: es la
-   hora a la que te levantas o la distancia a la que te conformas.
-4. **Las tres buenas, mírales el porqué**: ¿qué hiciste distinto? Luz
-   lateral, esperaste el gesto, bajaste el punto de vista, limpiaste el
-   fondo. Eso es lo que hay que repetir a propósito.
-5. **La pregunta de control** (inspirada en van Oosten: "Anyone could have
-   made this shot, but very few people would have made that same decision"):
-   ¿qué decisión tomé yo que no habría tomado cualquiera? Si no hay ninguna,
-   la foto no es tuya todavía.
-
-### Los cinco escalones (en este orden, no saltes)
-
-| Escalón | Lo tienes cuando… | Dónde se entrena |
-|---|---|---|
-| **1 · Nítida** | El ojo del animal aguanta el 100 % en la mayoría de tus ráfagas | [Capítulo 8](../manejo-a6700/08-safari-diurno.md) y los deberes del [capítulo 1](../manejo-a6700/01-de-movil-a-la-a6700.md) |
-| **2 · Bien expuesta** | Miras el histograma antes de que te lo pida nadie y compensas sin pensar | [El histograma](03-histograma.md) |
-| **3 · Limpia** | Antes de disparar ya has mirado el fondo y has movido el coche medio metro | [Safari a fondo §5](https://github.com/morandeirachema/a6700-namibia/blob/main/mejora/safari-a-fondo.md) |
-| **4 · Con luz** | Dejas de disparar a mediodía sin remordimiento y madrugas sin discutirlo | [Mejores horas](https://github.com/morandeirachema/a6700-namibia/blob/main/plan/mejores-horas.md) |
-| **5 · Con momento** | Esperas el gesto que sabes que va a llegar, con el encuadre ya montado | [La fauna, animal por animal](https://github.com/morandeirachema/a6700-namibia/blob/main/tecnica/fauna-de-namibia.md) |
-
-Los cinco escalones repartidos en las once semanas previas al viaje son un ritmo realista:
-está calendarizado en el [plan de entrenamiento](https://github.com/morandeirachema/a6700-namibia/blob/main/plan/plan-de-entrenamiento.md).
+El método de una semana (la criba de tres, la causa de una palabra, la
+pregunta de control), **tu diagnóstico** con las 2.731 fotos de Namibia, los
+**cinco escalones** (nítida → bien expuesta → limpia → con luz → con momento),
+la escalera de cada tema y un plan de doce semanas están en
+[cómo mejorar](12-como-mejorar.md).
 
 ## Ejercicios (una tarde cada uno, en casa)
 
@@ -180,5 +157,5 @@ está calendarizado en el [plan de entrenamiento](https://github.com/morandeirac
 - Stellarium, para ensayar tu cielo desde casa: <https://stellarium.org/>
 
 <!-- nav -->
-[← Anterior](09-por-que-funciona.md) · [Índice](README.md) · [Siguiente →](11-glosario.md)
+[← Anterior](09-por-que-funciona.md) · [Índice](README.md) · [Siguiente →](11-los-maestros.md)
 <!-- /nav -->
