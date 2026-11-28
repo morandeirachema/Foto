@@ -1,10 +1,10 @@
 <!-- nav -->
-[← Anterior](15-verificacion-de-menus.md) · [Índice](README.md) · [Siguiente →](17-verificacion-in-situ.md)
+[← Anterior](18-verificacion-de-menus.md) · [Índice](README.md) · [Siguiente →](20-verificacion-in-situ.md)
 <!-- /nav -->
 
 *Parte V · Hojas de campo*
 
-# 16. Chuleta Sony a6700 — para imprimir y llevar en el coche
+# 19. Chuleta Sony a6700 — para imprimir y llevar en el coche
 
 ## Recetas
 
@@ -66,5 +66,5 @@ Volver a MR1 (restaura todo) · **formato RAW** (foto de prueba = `.ARW`) · bat
 MR2 → Verificac. luminosa para encuadrar → lupa sobre la estrella más brillante → anillo hasta el punto mínimo → cinta en el anillo → prueba 20 s → histograma primer tercio. **Con el Viltrox 25 mm:** `Modo de enfoque` → `Enfoque man.` (no tiene interruptor) y 10–13 s.
 
 <!-- nav -->
-[← Anterior](15-verificacion-de-menus.md) · [Índice](README.md) · [Siguiente →](17-verificacion-in-situ.md)
+[← Anterior](18-verificacion-de-menus.md) · [Índice](README.md) · [Siguiente →](20-verificacion-in-situ.md)
 <!-- /nav -->

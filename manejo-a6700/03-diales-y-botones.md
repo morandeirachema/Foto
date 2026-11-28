@@ -208,7 +208,7 @@ Dos reglas que se olvidan: **el interruptor AF/MF del objetivo manda** sobre
 el `Modo de enfoque` del menú, y con el 70-350 **el OSS del objetivo manda**
 sobre el `SteadyShot` del menú. Si "la cámara no enfoca" o "el estabilizador
 no se apaga", mira primero el barrilete. Con el **Viltrox** no hay
-interruptor: manda el menú ([su guía](11-viltrox-25mm.md)). El botón de retención es
+interruptor: manda el menú ([su guía](14-viltrox-25mm.md)). El botón de retención es
 reasignable desde `Ajuste t. pers./dial`, pero la asignación es de la
 cámara, no del objetivo: vale para los dos a la vez. Déjalo como viene.
 
@@ -294,7 +294,7 @@ menos de diez.
 - Ampliar en reproducción: <https://helpguide.sony.net/ilc/2320/v1/es/contents/0501C_playback_zoom.html>
 - Mem. ajustes cám: <https://helpguide.sony.net/ilc/2320/v1/es/contents/0413_setting_memory.html>
 - Guía en la cámara: <https://helpguide.sony.net/ilc/2320/v1/es/contents/0105C_in_camera_guide.html>
-- El menú completo, línea a línea: [referencia/14-menu-completo.md](14-menu-completo.md)
+- El menú completo, línea a línea: [referencia/17-menu-completo.md](17-menu-completo.md)
 
 <!-- nav -->
 [← Anterior](02-menus-y-primer-dia.md) · [Índice](README.md) · [Siguiente →](04-configuracion-basica.md)

@@ -1,5 +1,5 @@
 <!-- nav -->
-[← Anterior](08-safari-diurno.md) · [Índice](README.md) · [Siguiente →](10-equipo-accesorios.md)
+[← Anterior](08-safari-diurno.md) · [Índice](README.md) · [Siguiente →](10-time-lapse-del-cielo.md)
 <!-- /nav -->
 
 *Parte II · Recetas por escenario*
@@ -38,7 +38,7 @@ Info de campamentos: <https://www.nwr.com.na/>
 | Obturador | **Electrónico** (`Tipo de obturador`): disparo totalmente mudo |
 
 > Cada ajuste con su **ruta de menú**, en
-> [la referencia de ajustes](13-ajustes-a6700.md#c1-charca-nocturna-okaukuejo-halali-onguma).
+> [la referencia de ajustes](16-ajustes-a6700.md#c1-charca-nocturna-okaukuejo-halali-onguma).
 
 ## Al llegar al mirador (10 minutos de preparación)
 
@@ -55,7 +55,7 @@ Info de campamentos: <https://www.nwr.com.na/>
    `Obturad. electr.` no están disponibles el flash, `RR exposic. larga`,
    `e-Prim. cortin. obtur.`, la toma BULB ni la toma sin parpadeo — el
    anti-parpadeo solo funciona con el mecánico
-   ([verificación de los menús](15-verificacion-de-menus.md)).
+   ([verificación de los menús](18-verificacion-de-menus.md)).
 3. **Prueba de color**: foto a la zona iluminada, revisa en pantalla y ajusta
    el balance de blancos en Kelvin hasta que el agua no salga naranja butano.
    Suele quedar entre 3200 y 4000 K. (El visor electrónico ya te enseña la
@@ -191,5 +191,5 @@ en cualquier parque con una farola:
 - Fase lunar y planificación nocturna (PhotoPills): <https://www.photopills.com/>
 
 <!-- nav -->
-[← Anterior](08-safari-diurno.md) · [Índice](README.md) · [Siguiente →](10-equipo-accesorios.md)
+[← Anterior](08-safari-diurno.md) · [Índice](README.md) · [Siguiente →](10-time-lapse-del-cielo.md)
 <!-- /nav -->

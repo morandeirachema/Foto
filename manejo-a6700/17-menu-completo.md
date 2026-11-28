@@ -1,14 +1,14 @@
 <!-- nav -->
-[← Anterior](13-ajustes-a6700.md) · [Índice](README.md) · [Siguiente →](15-verificacion-de-menus.md)
+[← Anterior](16-ajustes-a6700.md) · [Índice](README.md) · [Siguiente →](18-verificacion-de-menus.md)
 <!-- /nav -->
 
 *Parte IV · Referencia*
 
-# 14. El menú completo de la a6700 — pestaña a pestaña, con tu valor
+# 17. El menú completo de la a6700 — pestaña a pestaña, con tu valor
 
 > 🟢 **Iniciación** · Da por sabido: nada (el [capítulo 2](02-menus-y-primer-dia.md) enseña a moverse; aquí basta con saber que MENU abre y vuelve atrás) · Te desbloquea: saber qué es **cada** línea del menú, cuáles importan en este viaje y cuáles puedes ignorar sin culpa.
 
-[La referencia de ajustes](13-ajustes-a6700.md) recoge los ajustes que **usa**
+[La referencia de ajustes](16-ajustes-a6700.md) recoge los ajustes que **usa**
 este viaje, con su valor de fauna y de noche. Esta página es lo contrario: el
 menú **entero**, pestaña a pestaña y grupo a grupo, tal como aparece en la
 cámara con el selector en **Foto**. Cada línea lleva una frase de qué hace y
@@ -16,7 +16,7 @@ cámara con el selector en **Foto**. Cada línea lleva una frase de qué hace y
 nada en Namibia: puedes pasar de largo.
 
 > ✅ Las rutas de esta página pasaron una auditoría independiente el 3 de
-> noviembre de 2026: [verificación de los menús](15-verificacion-de-menus.md),
+> noviembre de 2026: [verificación de los menús](18-verificacion-de-menus.md),
 > con el mapa oficial completo y las 11 subopciones que quedan por confirmar con C3.
 
 Todos los nombres están copiados de la **Guía de ayuda oficial de Sony en
@@ -33,7 +33,7 @@ Si solo tienes media hora, cambia esto y olvídate del resto de la página:
 | # | Ruta | Valor | Por qué |
 |---|---|---|---|
 | 1 | `Toma → [Calid. img/grab.] → [Formato archivo]` | **RAW** | Todo el revelado del repo asume RAW |
-| 2 | `Toma → [Calid. img/grab.] → [Tipo archivo RAW]` | **C. sin pérd.** | Máxima calidad (el búfer baja a 23: [equipo](10-equipo-accesorios.md)) |
+| 2 | `Toma → [Calid. img/grab.] → [Tipo archivo RAW]` | **C. sin pérd.** | Máxima calidad (el búfer baja a 23: [equipo](13-equipo-accesorios.md)) |
 | 3 | `Toma → [Calid. img/grab.] → [RR exposic. larga]` | **Desactivar** | Si no, cada foto de 20 s va seguida de 20 s en negro |
 | 4 | `Toma → [Obturad./silenc.] → [Liberar sin tarj. mem.]` | **Inhabilitar** | Si no, la cámara **dispara sin tarjeta y no guarda nada** |
 | 5 | `Toma → [Visualizac. toma] → [Vis. lín. cuadrícul.]` | **Activar** (`Cuadr. regl. terc.`) | Aire de la mirada y horizontes rectos |
@@ -58,7 +58,7 @@ en "Ajustes").
   así que la ruta completa es "la pestaña del título + el grupo de la tabla".
 - **Tu valor**: lo que se pone para el viaje. **Fauna** = la memoria MR1;
   **noche** = charca o MR2; los detalles por escena, en la
-  [referencia de ajustes](13-ajustes-a6700.md).
+  [referencia de ajustes](16-ajustes-a6700.md).
 - 🎥 = solo existe en vídeo; ⚠️ = se lleva por delante otra cosa (lo dice la
   columna).
 - El menú **cambia con el selector Foto / Vídeo / S&Q**: si una línea no
@@ -131,7 +131,7 @@ No tiene grupos: es una **lista de lo que tienes puesto ahora mismo**
 modo de manejo, balance, enfoque, área, batería…). Tocar cualquier valor
 abre su ajuste para cambiarlo. Úsala como **repaso de diez segundos** antes
 de la primera foto del día: si algo no cuadra con la
-[chuleta](16-chuleta.md), se ve aquí de un vistazo.
+[chuleta](19-chuleta.md), se ve aquí de un vistazo.
 
 ---
 
@@ -178,7 +178,7 @@ de la primera foto del día: si algo no cuadra con la
 | `Autom./sel. escena` | Qué hace el dial en AUTO | No lo toques (no usas AUTO) |
 | `Recup. ajust. cám.` | Recupera una memoria (1–3 del dial, M1–M4 de la tarjeta) | Las del dial se recuperan girándolo; esto solo para M1–M4 |
 | `Mem. ajustes cám` | **Guarda** lo que tienes puesto en 1, 2 o 3 | **1 = safari · 2 = astro · 3 = aves** ([capítulo 4](04-configuracion-basica.md)). Cada modo (foto, vídeo, S&Q) tiene sus tres propias |
-| `Reg ajuste toma pers` | Ajustes que solo valen mientras mantienes pulsado un botón | No lo toques (nivel avanzado: [AF a fondo](12-af-y-exposicion-a-fondo.md)) |
+| `Reg ajuste toma pers` | Ajustes que solo valen mientras mantienes pulsado un botón | No lo toques (nivel avanzado: [AF a fondo](15-af-y-exposicion-a-fondo.md)) |
 
 ### [Modo de manejo]
 
@@ -251,7 +251,7 @@ de la primera foto del día: si algo no cuadra con la
 
 | Ajuste | Qué hace | Tu valor |
 |---|---|---|
-| `Modo medición` | `Multi` · `Centro` · `Puntual` · `Prom. pant. ent.` · `Iluminación` | **Multi**; **Puntual** vinculada en el nivel avanzado ([AF a fondo](12-af-y-exposicion-a-fondo.md)) |
+| `Modo medición` | `Multi` · `Centro` · `Puntual` · `Prom. pant. ent.` · `Iluminación` | **Multi**; **Puntual** vinculada en el nivel avanzado ([AF a fondo](15-af-y-exposicion-a-fondo.md)) |
 | `Cara en multimed.` | En Multi, mide según las caras | No lo toques |
 | `Punto med. punt.` | `Centro` o `Vínc. punto enf.` (el círculo sigue al punto de enfoque) | **Vínc. punto enf.** cuando uses Puntual |
 | `AEL con obturad.` | Si medio disparador bloquea la exposición | No lo toques |
@@ -559,5 +559,5 @@ que te señalen al azar.
 - Tarjetas que sirven para cada formato: <https://helpguide.sony.net/ilc/2320/v1/es/contents/0002H_usable_memory_card.html>
 
 <!-- nav -->
-[← Anterior](13-ajustes-a6700.md) · [Índice](README.md) · [Siguiente →](15-verificacion-de-menus.md)
+[← Anterior](16-ajustes-a6700.md) · [Índice](README.md) · [Siguiente →](18-verificacion-de-menus.md)
 <!-- /nav -->

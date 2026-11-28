@@ -1,10 +1,10 @@
 <!-- nav -->
-[← Anterior](09-safari-nocturno-charcas.md) · [Índice](README.md) · [Siguiente →](11-viltrox-25mm.md)
+[← Anterior](12-fotos-en-casa.md) · [Índice](README.md) · [Siguiente →](14-viltrox-25mm.md)
 <!-- /nav -->
 
 *Parte III · Equipo y objetivos*
 
-# 10. Equipo y accesorios para la a6700 (enfoque budget)
+# 13. Equipo y accesorios para la a6700 (enfoque budget)
 
 > 🔵 **Básico** · Da por sabido: nada · Te desbloquea: saber qué comprar, qué no, y por qué.
 
@@ -38,7 +38,7 @@ un 20–40 %.
 > equivalentes, 170 g, filtro de 52 mm). Cubre el hueco entre el 11 mm y el
 > 70-350: retrato, calle, interiores y poca luz. No tiene interruptor
 > AF/MF: el enfoque manual se pone desde el menú. Todo en
-> [su guía](11-viltrox-25mm.md).
+> [su guía](14-viltrox-25mm.md).
 
 ## El cuerpo: Sony a6700
 
@@ -276,5 +276,5 @@ Las fotos de Namibia tienen **una mancha gris en el cielo, siempre en el mismo s
 - Soporte oficial Sony (a6700 y firmware de objetivos): <https://www.sony.es/electronics/support>
 
 <!-- nav -->
-[← Anterior](09-safari-nocturno-charcas.md) · [Índice](README.md) · [Siguiente →](11-viltrox-25mm.md)
+[← Anterior](12-fotos-en-casa.md) · [Índice](README.md) · [Siguiente →](14-viltrox-25mm.md)
 <!-- /nav -->

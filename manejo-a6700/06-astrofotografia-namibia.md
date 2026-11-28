@@ -44,7 +44,7 @@ visible gran parte de la noche.
 | `RR exposic. larga` | Desactivar |
 
 > Cada ajuste con su **ruta de menú**, en
-> [la referencia de ajustes](13-ajustes-a6700.md#c2-astro-la-receta-de-mr2).
+> [la referencia de ajustes](16-ajustes-a6700.md#c2-astro-la-receta-de-mr2).
 
 ## Antes de salir (checklist)
 
@@ -98,7 +98,7 @@ visible gran parte de la noche.
    Func.* en inglés): exposición de 15 s,
    intervalo de disparo 17 s (en Sony el intervalo se mide de inicio a
    inicio), 300 tomas ≈ 12 s de vídeo a 25 fps. Sin cables: le das a empezar y te
-   olvidas.
+   olvidas. Todo el time-lapse, paso a paso, en el [capítulo 10](10-time-lapse-del-cielo.md).
 9. Antes de recoger: revisa la última foto **ampliada al máximo** por si el
    enfoque se movió.
 
@@ -165,7 +165,9 @@ Dos caminos para el cielo en movimiento, ya montados en la cámara:
 - **Fotos por intervalos** (`Func. capt. interv.`, hasta 9999 tomas): la vía
   de máxima calidad — cada fotograma es un RAW que revelas y montas en vídeo
   en casa ([edición](../retoques/README.md)). Es la de las recetas de
-  este capítulo.
+  este capítulo, y la del [time-lapse del cielo](10-time-lapse-del-cielo.md),
+  que lo explica entero: la cuenta de fotos, la serie del atardecer a la
+  noche y cómo se monta el vídeo.
 - **Película time-lapse en cámara**: la cámara graba y monta ella sola el
   clip. Cero edición, menos control — perfecta como serie "pon y olvida"
   la noche que no quieras revelar nada (es una cámara: o una serie u otra,

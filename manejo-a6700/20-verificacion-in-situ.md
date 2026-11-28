@@ -1,15 +1,15 @@
 <!-- nav -->
-[← Anterior](16-chuleta.md) · [Índice](README.md)
+[← Anterior](19-chuleta.md) · [Índice](README.md)
 <!-- /nav -->
 
 *Parte V · Hojas de campo*
 
-# 17. Verificación in situ — guía de campo (para imprimir)
+# 20. Verificación in situ — guía de campo (para imprimir)
 
 Repasos por momento del día, con el **porqué** de cada comprobación: si
 entiendes qué vigila cada punto, sabrás improvisar cuando algo no cuadre.
 Cada sección acaba en segundos; el orden importa. Imprímela junto a la
-[chuleta](16-chuleta.md) y la [lista de tomas](https://github.com/morandeirachema/a6700-namibia/blob/main/plan/lista-de-tomas.md).
+[chuleta](19-chuleta.md) y la [lista de tomas](https://github.com/morandeirachema/a6700-namibia/blob/main/plan/lista-de-tomas.md).
 
 ---
 
@@ -279,5 +279,5 @@ El repaso que separa "creo que la tengo" de "la tengo":
 | La cámara "no responde" tras una ráfaga larga | Buffer volcando a tarjeta | Espera unos segundos; no apagues ni saques la tarjeta |
 
 <!-- nav -->
-[← Anterior](16-chuleta.md) · [Índice](README.md)
+[← Anterior](19-chuleta.md) · [Índice](README.md)
 <!-- /nav -->

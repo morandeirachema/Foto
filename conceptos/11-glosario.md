@@ -87,6 +87,7 @@ español e inglés, en el [capítulo 4](../manejo-a6700/04-configuracion-basica.
 | **Hora dorada / hora azul** | La hora de luz cálida y rasante tras el amanecer o antes del ocaso; y el rato azulado anterior al amanecer y posterior al ocaso |
 | **Contraluz** | El sol detrás del sujeto: siluetas, bordes encendidos y polvo dorado |
 | **Clave alta** | Foto deliberadamente muy clara, casi sin sombras. La estrategia del mediodía en la calcreta blanca |
+| **Clave baja** | Lo contrario: foto deliberadamente oscura, con el sujeto iluminado sobre un fondo casi negro ([fotos en casa](../manejo-a6700/12-fotos-en-casa.md)) |
 | **ISO base** | El ISO de máxima calidad del sensor: **100** en la a6700 |
 | **ISO invariante** | Que dé casi igual subir el ISO en cámara o levantar la exposición en revelado. Tu cámara lo es a partir de ~320–400, en RAW |
 | **Ruido de lectura** | El ruido que añade la propia electrónica al leer el sensor, independiente de la luz |
@@ -102,9 +103,9 @@ español e inglés, en el [capítulo 4](../manejo-a6700/04-configuracion-basica.
 | **Star trails** | Los círculos que dibujan las estrellas en una serie larga de fotos apiladas |
 | **Circumpolar** | Lo que gira alrededor del polo celeste sin ponerse nunca |
 | **Polo sur celeste** | El centro de giro del cielo austral. No tiene estrella brillante; en Etosha queda a ~19° sobre el sur |
-| **Apilado** (*stacking*) | Fundir muchas tomas iguales para bajar el ruido (Starry Landscape Stacker en Mac) o alargar los arcos (StarStaX) |
+| **Apilado** (*stacking*) | Fundir muchas tomas iguales para bajar el ruido (Starry Landscape Stacker en Mac) o alargar los arcos (StarStaX). Con el modo **aclarar** (*Lighten*), también suma estelas de coches ([estelas de tráfico](../manejo-a6700/11-estelas-de-trafico.md)) |
 | **Intervalómetro** | El disparador automático a intervalos. En la a6700 va **integrado** (`Func. capt. interv.`) |
-| **Timelapse** | Muchas fotos espaciadas montadas como vídeo: el tiempo acelerado |
+| **Timelapse** | Muchas fotos espaciadas montadas como vídeo: el tiempo acelerado ([time-lapse del cielo](../manejo-a6700/10-time-lapse-del-cielo.md)) |
 | **Escala Bortle** | Cuánta contaminación lumínica tiene un cielo, de 1 (perfecto) a 9 (ciudad). Namibia es **1–2** |
 | **Airglow** | Bandas verdosas o rojizas naturales de la alta atmósfera. Salen en tus fotos y **no es un fallo del sensor** |
 | **Luz zodiacal** | Cono de luz lechosa sobre el horizonte tras el ocaso: polvo del sistema solar iluminado |

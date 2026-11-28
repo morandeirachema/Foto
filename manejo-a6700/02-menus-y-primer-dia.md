@@ -135,7 +135,7 @@ salen **abreviados** en pantalla (`Obturad./silenc.`, `Rest/guard ajust`,
 
 Las rutas que de verdad vas a usar en el viaje (la lista completa, ajuste a
 ajuste y con los valores de fauna y de noche, está en
-[la referencia de ajustes](13-ajustes-a6700.md)):
+[la referencia de ajustes](16-ajustes-a6700.md)):
 
 | Lo que quieres | Ruta |
 |---|---|
@@ -181,7 +181,7 @@ recorrer pestañas.
 
 Los que merecen estar ahí, según lo que usan las guías de este repo:
 **Sens. Seguim. AF**, **Dest. reconocim.**, **Área de enfoque**
-(los tres mandos del AF de [AF y exposición a fondo](12-af-y-exposicion-a-fondo.md)),
+(los tres mandos del AF de [AF y exposición a fondo](15-af-y-exposicion-a-fondo.md)),
 **Tipo de obturador**, **Func. capt. interv.**, **Formatear** y
 **Mem. ajustes cám**
 

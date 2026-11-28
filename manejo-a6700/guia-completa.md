@@ -20,35 +20,38 @@
 7. Estrellas con la tierra dentro
 8. Safari diurno
 9. Safari nocturno en charcas
+10. Time-lapse del cielo
+11. Estelas de tráfico
+12. Fotos en casa
 
 **Parte III · Equipo y objetivos**
 
-10. Equipo y accesorios
-11. El Viltrox 25 mm F1.7
-12. El AF y la exposición a fondo
+13. Equipo y accesorios
+14. El Viltrox 25 mm F1.7
+15. El AF y la exposición a fondo
 
 **Parte IV · Referencia**
 
-13. Todos los ajustes, con su ruta de menú
-14. El menú completo
-15. Verificación de los menús
+16. Todos los ajustes, con su ruta de menú
+17. El menú completo
+18. Verificación de los menús
 
 **Parte V · Hojas de campo** *(para imprimir)*
 
-16. Chuleta
-17. Verificación in situ
+19. Chuleta
+20. Verificación in situ
 
 ## Cómo leerla
 
 - **Cada capítulo abre con su nivel:** 🟢 **Iniciación** · 🔵 **Básico** · 🔴 **Avanzado**, con qué da por sabido y qué te desbloquea.
 - **Los valores son los de tu cámara.** Las guías describen cómo está configurada. Si algún día la pantalla no coincide con una guía, manda la pantalla: anótalo en [PENDIENTES.md](../PENDIENTES.md).
-- **Los menús se escriben como en la pantalla**, abreviados y en español: `MENU → pestaña → [Grupo] → [Ajuste]`, por ejemplo `Toma → [Calid. img/grab.] → [Formato archivo]`. Están verificados con la Guía de ayuda de Sony ([capítulo 15](15-verificacion-de-menus.md)).
+- **Los menús se escriben como en la pantalla**, abreviados y en español: `MENU → pestaña → [Grupo] → [Ajuste]`, por ejemplo `Toma → [Calid. img/grab.] → [Formato archivo]`. Están verificados con la Guía de ayuda de Sony ([capítulo 18](18-verificacion-de-menus.md)).
 - **Las focales llevan su equivalencia APS-C** (×1,5): 11 mm = 16,5 mm · 25 mm = 37,5 mm · 70–350 mm = 105–525 mm.
 - **Lección de Namibia:** las fotos del viaje salieron solo en JPEG. Antes de cualquier salida, comprueba que la cámara dispara en RAW ([capítulo 4](04-configuracion-basica.md)).
 
 ## Numeración antigua
 
-El [PDF de `sources/`](../sources/README.md) y el repo [a6700-namibia](https://github.com/morandeirachema/a6700-namibia) usan la numeración anterior. Equivalencias:
+El [PDF de `sources/`](../sources/README.md) y el repo [a6700-namibia](https://github.com/morandeirachema/a6700-namibia) usan la numeración anterior. Equivalencias (el 28 de noviembre de 2026 entraron los capítulos 10, 11 y 12, y los antiguos 10–17 pasaron a ser 13–20):
 
 | Antes | Ahora |
 |---|---|
@@ -59,8 +62,8 @@ El [PDF de `sources/`](../sources/README.md) y el repo [a6700-namibia](https://g
 | 2 · Astrofotografía | 6 |
 | 3 · Safari diurno | 8 |
 | 4 · Safari nocturno en charcas | 9 |
-| 5 · Equipo y accesorios | 10 |
-| Sin número: estrellas con la tierra, AF a fondo, ajustes, menú completo, chuleta, verificación in situ | 7, 12, 13, 14, 16, 17 |
+| 5 · Equipo y accesorios | 13 |
+| Sin número: estrellas con la tierra, AF a fondo, ajustes, menú completo, chuleta, verificación in situ | 7, 15, 16, 17, 19, 20 |
 
 ---
 
@@ -126,7 +129,7 @@ principal del móvil ≈ 24 mm ≈ "1x"):
 | No existe en móvil | 350 mm = 525 mm equivalentes ≈ "21x" | El extremo largo del **70-350**: un león a 50 m llenando el encuadre |
 
 Fíjate en el hueco: entre 16,5 y 105 mm equivalentes solo está el **Viltrox
-25 mm** (37,5 mm equivalentes, [su guía](11-viltrox-25mm.md)). Ese tramo (el
+25 mm** (37,5 mm equivalentes, [su guía](14-viltrox-25mm.md)). Ese tramo (el
 retrato, el grupo, el coche en la pista) es el suyo; y cuando hay polvo en el
 aire y no quieres cambiar de objetivo, el Pixel.
 
@@ -458,7 +461,7 @@ salen **abreviados** en pantalla (`Obturad./silenc.`, `Rest/guard ajust`,
 
 Las rutas que de verdad vas a usar en el viaje (la lista completa, ajuste a
 ajuste y con los valores de fauna y de noche, está en
-[la referencia de ajustes](13-ajustes-a6700.md)):
+[la referencia de ajustes](16-ajustes-a6700.md)):
 
 | Lo que quieres | Ruta |
 |---|---|
@@ -504,7 +507,7 @@ recorrer pestañas.
 
 Los que merecen estar ahí, según lo que usan las guías de este repo:
 **Sens. Seguim. AF**, **Dest. reconocim.**, **Área de enfoque**
-(los tres mandos del AF de [AF y exposición a fondo](12-af-y-exposicion-a-fondo.md)),
+(los tres mandos del AF de [AF y exposición a fondo](15-af-y-exposicion-a-fondo.md)),
 **Tipo de obturador**, **Func. capt. interv.**, **Formatear** y
 **Mem. ajustes cám**
 
@@ -893,7 +896,7 @@ Dos reglas que se olvidan: **el interruptor AF/MF del objetivo manda** sobre
 el `Modo de enfoque` del menú, y con el 70-350 **el OSS del objetivo manda**
 sobre el `SteadyShot` del menú. Si "la cámara no enfoca" o "el estabilizador
 no se apaga", mira primero el barrilete. Con el **Viltrox** no hay
-interruptor: manda el menú ([su guía](11-viltrox-25mm.md)). El botón de retención es
+interruptor: manda el menú ([su guía](14-viltrox-25mm.md)). El botón de retención es
 reasignable desde `Ajuste t. pers./dial`, pero la asignación es de la
 cámara, no del objetivo: vale para los dos a la vez. Déjalo como viene.
 
@@ -979,7 +982,7 @@ menos de diez.
 - Ampliar en reproducción: <https://helpguide.sony.net/ilc/2320/v1/es/contents/0501C_playback_zoom.html>
 - Mem. ajustes cám: <https://helpguide.sony.net/ilc/2320/v1/es/contents/0413_setting_memory.html>
 - Guía en la cámara: <https://helpguide.sony.net/ilc/2320/v1/es/contents/0105C_in_camera_guide.html>
-- El menú completo, línea a línea: [referencia/14-menu-completo.md](14-menu-completo.md)
+- El menú completo, línea a línea: [referencia/17-menu-completo.md](17-menu-completo.md)
 
 ---
 
@@ -990,7 +993,7 @@ menos de diez.
 > 🔵 **Básico** · Da por sabido: los capítulos 1 y 2 · Te desbloquea: dejar la cámara lista para el viaje y no volver a configurarla.
 
 > **Todos los ajustes con su ruta exacta de menú, fauna y noche en dos
-> columnas**: [la referencia de ajustes](13-ajustes-a6700.md).
+> columnas**: [la referencia de ajustes](16-ajustes-a6700.md).
 
 > Si vienes del móvil y los términos (obturación, ISO, modo M) aún te bailan,
 > empieza por el [capítulo 1](01-de-movil-a-la-a6700.md): 10 minutos y listo.
@@ -1011,7 +1014,7 @@ objetivo montado en la cámara**, conectándola al ordenador por USB con el
 actualizador de la misma web de soporte (busca "SEL11F18" y "SEL70350G").
 El 70-350 es **prestado**: su dueño ya dio permiso para actualizar el suyo.
 El **Viltrox 25 mm** no se actualiza desde Sony: tiene un puerto **USB-C** en
-la montura para su firmware ([su guía](11-viltrox-25mm.md)).
+la montura para su firmware ([su guía](14-viltrox-25mm.md)).
 Hazlo en casa, con todo cargado, y no vuelvas a pensar en ello.
 
 ## Ajustes generales recomendados
@@ -1162,7 +1165,7 @@ Este capítulo se aprueba con la cámara en la mano, no leyéndolo:
 2. **Los diales intercambiados** (delantero = velocidad) y la botonera de
    [diales y botones](03-diales-y-botones.md).
 3. **La tabla de ajustes generales**, uno a uno, con la
-   [referencia de ajustes](13-ajustes-a6700.md) al lado para la
+   [referencia de ajustes](16-ajustes-a6700.md) al lado para la
    ruta exacta. Tacha cada fila.
 4. **El pulgar**: `AF c/obturador` en Desactivar y cincuenta fotos por
    casa enfocando solo con AF-ON.
@@ -1215,7 +1218,7 @@ larga de esto.)
 | **Noche sin estrellas brillantes** | **MF** + lupa sobre una **luz lejana** (una farola a cientos de metros, una antena con luz) o la Luna |
 | **Árbol o roca bajo las estrellas** | El mismo enfoque a la estrella: con el 11 mm a f/1.8, todo lo que esté a **más de ~4 m** sale nítido también. **Nunca reenfoques al objeto** |
 
-> **Cuanto más larga la focal, más lejos tiene que estar el primer plano.** Enfocado a las estrellas y con el diafragma abierto, queda nítido lo que está más allá de **~4 m con el 11 mm** y de **~18 m con el Viltrox 25 mm** ([su guía](11-viltrox-25mm.md)). Por eso la foto de estrellas con un árbol se hace con el 11 mm.
+> **Cuanto más larga la focal, más lejos tiene que estar el primer plano.** Enfocado a las estrellas y con el diafragma abierto, queda nítido lo que está más allá de **~4 m con el 11 mm** y de **~18 m con el Viltrox 25 mm** ([su guía](14-viltrox-25mm.md)). Por eso la foto de estrellas con un árbol se hace con el 11 mm.
 
 ## El objetivo, en lo que importa para enfocar
 
@@ -1239,7 +1242,7 @@ larga de esto.)
 | Botón C3 | `Ajustes → [Personal. operac.] → [Ajuste t. pers./dial]` → `Botón personaliz. 3` | **`Amplific. enfoque`** | La lupa, a un botón |
 | Botón C1 | Misma pantalla → `Botón personaliz. 1` | **`Verificac. luminosa`** | Ver la escena a oscuras para encuadrar (solo funciona en **MF**) |
 
-Todos estos ajustes, en contexto: [el menú completo](14-menu-completo.md) y [diales y botones](03-diales-y-botones.md).
+Todos estos ajustes, en contexto: [el menú completo](17-menu-completo.md) y [diales y botones](03-diales-y-botones.md).
 
 ## Método 1 · De día (autofoco)
 
@@ -1351,7 +1354,7 @@ visible gran parte de la noche.
 | `RR exposic. larga` | Desactivar |
 
 > Cada ajuste con su **ruta de menú**, en
-> [la referencia de ajustes](13-ajustes-a6700.md#c2-astro-la-receta-de-mr2).
+> [la referencia de ajustes](16-ajustes-a6700.md#c2-astro-la-receta-de-mr2).
 
 ## Antes de salir (checklist)
 
@@ -1405,7 +1408,7 @@ visible gran parte de la noche.
    Func.* en inglés): exposición de 15 s,
    intervalo de disparo 17 s (en Sony el intervalo se mide de inicio a
    inicio), 300 tomas ≈ 12 s de vídeo a 25 fps. Sin cables: le das a empezar y te
-   olvidas.
+   olvidas. Todo el time-lapse, paso a paso, en el [capítulo 10](10-time-lapse-del-cielo.md).
 9. Antes de recoger: revisa la última foto **ampliada al máximo** por si el
    enfoque se movió.
 
@@ -1472,7 +1475,9 @@ Dos caminos para el cielo en movimiento, ya montados en la cámara:
 - **Fotos por intervalos** (`Func. capt. interv.`, hasta 9999 tomas): la vía
   de máxima calidad — cada fotograma es un RAW que revelas y montas en vídeo
   en casa ([edición](../retoques/README.md)). Es la de las recetas de
-  este capítulo.
+  este capítulo, y la del [time-lapse del cielo](10-time-lapse-del-cielo.md),
+  que lo explica entero: la cuenta de fotos, la serie del atardecer a la
+  noche y cómo se monta el vídeo.
 - **Película time-lapse en cámara**: la cámara graba y monta ella sola el
   clip. Cero edición, menos control — perfecta como serie "pon y olvida"
   la noche que no quieras revelar nada (es una cámara: o una serie u otra,
@@ -1946,7 +1951,7 @@ luz durísima a mediodía y polvo en todas partes. La cámara va preconfigurada
 | Enfoque | **AF-C** + AF-ON con el pulgar ([capítulo 4](04-configuracion-basica.md)) |
 | Reconocimiento de sujeto | **Animal** (cámbialo a Ave para aves) |
 | Área AF | Zona — o Ancha si la escena está limpia |
-| Sensibilidad de seguimiento | **3** (la estándar); con hierba/ramas robando el foco, **1** ([AF y exposición a fondo](12-af-y-exposicion-a-fondo.md)) |
+| Sensibilidad de seguimiento | **3** (la estándar); con hierba/ramas robando el foco, **1** ([AF y exposición a fondo](15-af-y-exposicion-a-fondo.md)) |
 | Ráfaga | **Hi+** (11 fps) — en Hi+ el visor no va en tiempo real durante la ráfaga; si te cuesta seguir al animal, baja a Hi |
 | Formato | RAW en la SD (UHS-II, con hueco) |
 | Estabilizador | **OSS del objetivo en ON**; el IBIS de la cámara se suma solo (los dos, OFF en trípode) |
@@ -1961,7 +1966,7 @@ según el movimiento.
 > [la fauna, animal por animal](https://github.com/morandeirachema/a6700-namibia/blob/main/tecnica/fauna-de-namibia.md).
 
 > Cada uno de estos ajustes, con su **ruta exacta de menú**, en
-> [la referencia de ajustes](13-ajustes-a6700.md#bloque-b-fauna-la-receta-de-mr1).
+> [la referencia de ajustes](16-ajustes-a6700.md#bloque-b-fauna-la-receta-de-mr1).
 
 ## La rutina de 10 segundos (cada vez que llegas a una escena)
 
@@ -2005,7 +2010,7 @@ En M con ISO Auto la compensación de exposición **funciona con normalidad**
 oscuro (sombra, noche) → **−0.7 a −1**; escena normal → 0. Es la única
 corrección que necesitas de día. Para casos finos (animal pequeño a
 contraluz), la medición **puntual vinculada al punto de enfoque** mide justo
-donde enfocas ([AF y exposición a fondo](12-af-y-exposicion-a-fondo.md)).
+donde enfocas ([AF y exposición a fondo](15-af-y-exposicion-a-fondo.md)).
 
 ## Configurar una sola vez
 
@@ -2087,7 +2092,7 @@ Cinco reglas que no requieren técnica, solo acordarse:
 ## Práctica desde el coche
 
 - **Bean bag** en la ventanilla (mejor que trípode dentro del coche; qué es
-  y cómo se usa: [equipo](10-equipo-accesorios.md)). Llévalo
+  y cómo se usa: [equipo](13-equipo-accesorios.md)). Llévalo
   vacío y rellénalo allí con arroz o alubias.
 - **Motor apagado** en las tomas importantes: la vibración se nota a 525 mm
   equivalentes.
@@ -2171,7 +2176,7 @@ Info de campamentos: <https://www.nwr.com.na/>
 | Obturador | **Electrónico** (`Tipo de obturador`): disparo totalmente mudo |
 
 > Cada ajuste con su **ruta de menú**, en
-> [la referencia de ajustes](13-ajustes-a6700.md#c1-charca-nocturna-okaukuejo-halali-onguma).
+> [la referencia de ajustes](16-ajustes-a6700.md#c1-charca-nocturna-okaukuejo-halali-onguma).
 
 ## Al llegar al mirador (10 minutos de preparación)
 
@@ -2188,7 +2193,7 @@ Info de campamentos: <https://www.nwr.com.na/>
    `Obturad. electr.` no están disponibles el flash, `RR exposic. larga`,
    `e-Prim. cortin. obtur.`, la toma BULB ni la toma sin parpadeo — el
    anti-parpadeo solo funciona con el mecánico
-   ([verificación de los menús](15-verificacion-de-menus.md)).
+   ([verificación de los menús](18-verificacion-de-menus.md)).
 3. **Prueba de color**: foto a la zona iluminada, revisa en pantalla y ajusta
    el balance de blancos en Kelvin hasta que el agua no salga naranja butano.
    Suele quedar entre 3200 y 4000 K. (El visor electrónico ya te enseña la
@@ -2325,9 +2330,797 @@ en cualquier parque con una farola:
 
 ---
 
+*Parte II · Recetas por escenario*
+
+# 10. Time-lapse del cielo — las estrellas en movimiento, y del atardecer a la noche
+
+> 🔵 **Básico** → 🔴 avanzado en la receta B · Da por sabido: el [capítulo 4](04-configuracion-basica.md) (memoria MR2 guardada) y montar el trípode; mejor si ya hiciste la noche 1 del [capítulo 7](07-estrellas-con-tierra.md) · Te desbloquea: un vídeo de 10–20 s con el cielo girando sobre el paisaje, la serie que pasa sola del atardecer a la noche, y dos fotos más sacadas de la misma serie.
+
+Un time-lapse son **cientos de fotos iguales, hechas una cada pocos
+segundos desde el mismo sitio**, que luego se ven seguidas como un vídeo.
+El tiempo se acelera: una hora y media de cielo cabe en doce segundos, y lo
+que a simple vista no se mueve (las estrellas, la Vía Láctea, las nubes)
+gira y fluye.
+
+La a6700 lo hace sola: el **intervalómetro va integrado**
+(`Func. capt. interv.`), sin cables. Este capítulo tiene dos recetas:
+
+- **A · Noche cerrada**: todo fijo en manual, a partir de MR2. Es la fácil y
+  la que debes hacer primero.
+- **B · Del atardecer a la noche**: la cámara va alargando la exposición
+  sola mientras cae la luz. Es más difícil: hazla cuando la A te salga.
+
+Y al final, lo que sacas de la serie en casa: **el vídeo**, una foto de
+**star trails** (apilando las fotos) y una foto del cielo **limpia de
+ruido** (apilando unas pocas).
+
+## Lo que necesitas
+
+- **La a6700 con el 11 mm F1.8** (16,5 mm eq): cabe el cielo entero y las
+  estrellas aguantan 15 s como puntos. Con el Viltrox 25 mm (37,5 mm eq) las
+  estrellas se alargan antes: mira su capítulo
+  ([capítulo 14](14-viltrox-25mm.md)).
+- **Trípode firme**. No lo vas a tocar en una o dos horas: patas sin
+  extender del todo, la columna central abajo.
+- **Batería llena y un power bank USB-C**. Sony recomienda alimentar la
+  cámara por USB en las series a intervalos. Actívalo en
+  `MENU → Ajustes → [USB] → [Alimentación USB]` → `Activar`. La batería
+  **tiene que estar dentro**: la cámara no se enciende solo con el USB.
+- **Espacio en la tarjeta**: antes de empezar, mira el número de fotos que
+  quedan en la pantalla de toma. Tiene que ser mayor que las que vas a hacer.
+- **Frontal de luz roja** y **cinta** para fijar el anillo de enfoque.
+- **Opcional, en noches húmedas**: una **banda calefactora antirrocío USB**
+  (15–25 €) alrededor del objetivo, alimentada por el mismo power bank (si
+  tiene dos salidas). Si no, el rocío empaña el cristal a mitad de serie.
+
+## La cuenta antes de salir
+
+El vídeo se ve a **25 fotos por segundo**. De ahí salen todos los números:
+
+- **Fotos** = segundos de vídeo × 25.
+- **Duración de la serie** = fotos × intervalo.
+
+| Vídeo | Fotos | Noche (una foto cada 17 s) | Atardecer → noche (cada 17 s) |
+|---|---|---|---|
+| 10 s | 250 | 1 h 11 min | — (no da tiempo a anochecer) |
+| 12 s | 300 | 1 h 25 min | 1 h 25 min: empieza a la puesta |
+| 17 s | 420 | 2 h | **2 h**: de 30 min antes de la puesta a 1 h 30 min después |
+| 20 s | 500 | 2 h 22 min | 2 h 22 min |
+
+Un vídeo de 10–15 s ya se hace largo de ver: no necesitas más.
+
+## Receta A · Noche cerrada: el cielo girando
+
+La receta de astro de MR2, con un solo cambio: **15 s en vez de 20 s**,
+para que quepan las estrellas como puntos y el intervalo de 17 s.
+
+| Ajuste | Valor | Dónde |
+|---|---|---|
+| Modo | **MR2** en el dial, y luego M | Dial superior |
+| Obturación | **15 s** (MR2 trae 20 s) | Rueda delantera |
+| Apertura | **f/1.8** (si las estrellas de las esquinas salen con "alitas", f/2.8: [capítulo 5](05-enfocar-el-11mm.md)) | Rueda trasera |
+| ISO | **1600**; **3200** sin luna y lejos de luces | Derecha de la rueda de control |
+| Balance de blancos | K = **3900** (MR2) | Ya guardado |
+| Enfoque | Manual, a una estrella con lupa y peaking, y **cinta** | [Capítulo 5](05-enfocar-el-11mm.md) |
+| `RR exposic. larga` | **Desactivar** (ya está así en la configuración básica) | `Toma → [Calid. img/grab.]` |
+| Formato | **RAW** | Compruébalo después de cargar MR2 |
+
+**El intervalómetro:** `MENU → Toma → [Modo de manejo] → [Func. capt. interv.]`
+
+| Línea | Valor | Por qué |
+|---|---|---|
+| `Captura de intervalo` | `Activar` | Enciende el modo |
+| `Hora inicio captura` | **10 s** | Te da tiempo a apartarte sin mover el trípode (admite de 1 s a 99 min 59 s) |
+| `Intervalo de toma` | **17 s** | 15 s de foto y 2 s de margen. Admite de 1 a 60 s, contados de inicio a inicio: **nunca menos que la exposición** |
+| `Número de capturas` | **300** (12 s de vídeo) | Hasta 9999 |
+| `Sensib. Seguim. AE` | `Medio` (da igual aquí) | En M con ISO fijo la cámara no cambia la exposición |
+| `Tipo obturad. interv.` | `Obturad. electr.` (de fábrica) | Silencioso y sin desgaste. Llega a 30 s, de sobra |
+| `Prior. intervalo toma` | Da igual aquí | Solo actúa en P y A (receta B) |
+
+**Paso a paso:**
+
+1. **Con la última luz**, encuadra: algo de tierra en el tercio inferior
+   (un árbol, una roca, un tejado) y el resto, cielo. Lo que da vida al
+   vídeo es que el cielo **se mueva respecto a algo quieto**.
+2. **¿Hacia dónde mirar?** La Vía Láctea sale por el este y se pone por el
+   oeste. Con la realidad aumentada de PhotoPills ves dónde estará dentro de
+   una hora: déjale sitio en el encuadre.
+3. Gira el dial a **MR2**, cambia a **15 s**, enfoca a una estrella y pon la
+   cinta.
+4. **Una foto de prueba** y mira su histograma en la revisión (DISP). El
+   histograma **en vivo** no vale de noche: no acumula los 15 s.
+5. Ajusta el intervalómetro según la tabla y pulsa el **disparador**: la
+   serie empieza a los 10 s. Durante la serie no puedes entrar en MENU ni
+   en la pantalla de ajustes. **Para pararla, pulsa el disparador.**
+6. **No ilumines el encuadre.** Un frontal, un coche que pasa o el móvil
+   encendido junto a la cámara salen en un fotograma y en el vídeo se ven
+   como un **fogonazo**.
+7. Cada 20–30 minutos, mira el cristal con el frontal (sin tocar el
+   trípode): si hay rocío, la serie se pierde poco a poco.
+8. Al acabar, en la cámara: `Reproducc. → [Visualización] →
+   [Repr. cont. interv.]` reproduce la serie seguida, como un time-lapse de
+   prueba. Si se ve bien, recoge.
+
+## Receta B · Del atardecer a la noche (la cámara lleva la exposición)
+
+Entre una puesta de sol y la noche cerrada la luz baja **unos 18 pasos**.
+En M tendrías que cambiar la velocidad y el ISO a mano decenas de veces, y
+cada cambio sería un salto de brillo en el vídeo. La a6700 lo hace sola,
+foto a foto, con tres piezas:
+
+- **Modo A con ISO AUTO**: tú fijas la apertura; la cámara elige la
+  velocidad y el ISO de cada foto.
+- **`ISO AUTO VO mín.`** (velocidad a partir de la que sube el ISO, solo en
+  P y A): si la pones en **15"**, la cámara deja el ISO al mínimo y alarga la
+  velocidad hasta 15 s. Solo después sube el ISO. Es exactamente el orden que
+  quieres.
+- **Dos líneas del intervalómetro**: `Sensib. Seguim. AE` decide lo deprisa
+  que la exposición sigue los cambios de luz (en `Bajo`, los cambios son más
+  suaves), y `Prior. intervalo toma` en `Activar` hace que la serie mantenga
+  el intervalo aunque la cámara quisiera una exposición más larga.
+
+**La receta** (valores de partida de esta guía):
+
+| Ajuste | Valor | Por qué |
+|---|---|---|
+| Modo | **A** (`Priorid. abertura`), dial superior | La cámara elige velocidad e ISO |
+| Apertura | **f/2** | Casi toda la luz de f/1.8 y mejores esquinas. **No la toques en toda la serie** |
+| ISO | **ISO AUTO**, mínimo **100** · máximo **3200** (`Exposición/color → [Exposición] → [ISO]`, derecha sobre ISO AUTO) | 3200 es el techo de la receta de astro |
+| `ISO AUTO VO mín.` | **15"** (`Exposición/color → [Exposición] → [ISO AUTO VO mín.]`) | Primero alarga la velocidad; después, el ISO |
+| `Compensar exp.` | **−0,7** | Si no, la cámara aclara el crepúsculo hasta que parece de día. Te has pasado si la puesta sale apagada y oscura |
+| Balance de blancos | **Fijo: Luz de día (5200 K)**. Nunca AWB | Con AWB el color salta de una foto a otra. El azul de la noche es real: déjalo |
+| Enfoque | Con luz, **AF a un punto lejano** (el horizonte, un monte), pasa a **MF** y pon la cinta | De noche ya no podrás enfocar a una estrella sin mover nada |
+| Obturador de la serie | `Tipo obturad. interv.` → `Obturad. electr.` | Llega a 1/8000 s, que necesitas al principio a f/2 |
+
+**El intervalómetro:**
+
+| Línea | Valor |
+|---|---|
+| `Intervalo de toma` | **17 s** (al final, de noche, cada foto durará unos 15 s) |
+| `Número de capturas` | **420** (2 h, 17 s de vídeo) |
+| `Sensib. Seguim. AE` | **`Bajo`** |
+| `Prior. intervalo toma` | **`Activar`** |
+| `Hora inicio captura` | 10 s |
+
+**Cuándo:** empieza **30 minutos antes de la puesta**, con el sol ya bajo
+(a un palmo del horizonte). La noche es cerrada entre 1 h 15 min y 1 h 45 min
+después de la puesta, según la época y el sitio: PhotoPills te da la hora
+exacta (fin del crepúsculo astronómico).
+
+**Antes de la serie larga, una de prueba**: 60 fotos con `Intervalo de toma`
+de 5 s durante el atardecer, desde casa si quieres
+([capítulo 12](12-fotos-en-casa.md)). Así ves cómo reacciona tu cámara
+sin perder una noche.
+
+> **Lo que no está escrito.** Sony no detalla qué hace la cámara con la
+> exposición cuando `Prior. intervalo toma` recorta una foto, ni a qué paso
+> cambia la exposición. Mira las últimas fotos de tu serie de prueba: si de
+> noche salen demasiado oscuras, baja la compensación a −0,3 o sube el
+> máximo de ISO AUTO a 6400. Apunta lo que veas en [PENDIENTES](../PENDIENTES.md).
+
+**El parpadeo.** En las series de exposición automática puede verse un
+parpadeo leve en el vídeo: cambios pequeños de brillo de una foto a otra.
+Se reduce con la apertura fija, el balance fijo y `Sensib. Seguim. AE` en
+`Bajo`. Luminar no tiene una herramienta para quitarlo después: lo que
+consigas en la cámara es lo que tendrás.
+
+## Si sale mal…
+
+| Problema | Causa | Solución |
+|---|---|---|
+| Fogonazos de luz en algunos fotogramas | Un coche, un frontal o una pantalla iluminaron el encuadre | Borra esos fotogramas antes de montar el vídeo; la próxima vez, luces apagadas y lejos |
+| Las estrellas salen como rayitas en cada foto | Exposición larga para la focal | 15 s con el 11 mm; con el 25 mm, menos ([capítulo 14](14-viltrox-25mm.md)) |
+| La serie se cortó a mitad | Batería, tarjeta llena o calor | Power bank con `Alimentación USB` en `Activar`; mira el contador de fotos antes; en intervalos cortos la cámara puede calentarse y parar |
+| Las últimas fotos salen lechosas | Rocío en el cristal | Banda calefactora, o mira el cristal cada 20 minutos |
+| La serie va más lenta de lo que pusiste | Exposición más larga que el intervalo | Intervalo = exposición + 2 s; en la receta B, `Prior. intervalo toma` en `Activar` |
+| El color cambia de golpe entre fotos | Balance automático | Balance fijo (K o Luz de día) |
+| Saltos de brillo bruscos en la receta B | La exposición sigue la luz demasiado deprisa | `Sensib. Seguim. AE` en `Bajo`; no toques la apertura |
+| En la receta B, la noche sale gris y con ruido, como si fuera de día | La cámara intenta aclarar la noche hasta el gris medio | Compensación más negativa (−1) |
+| Las primeras fotos salen quemadas | Demasiada luz para 1/8000 s a f/2 | Empieza más tarde, con el sol más bajo |
+| El vídeo se ve a saltos, no fluido | Las nubes se movieron mucho entre fotos | Normal con 17 s. Para nubes, intervalos de 2–5 s (de día) |
+
+## En casa: tres cosas de la misma serie
+
+Copia la serie entera a **una carpeta sola** en el ordenador. De ahí salen
+tres resultados distintos.
+
+### 1 · El vídeo
+
+1. **Edita una foto** de la serie en Luminar, una del medio. Con suavidad:
+   luz, color, ruido ([retoques](../retoques/README.md)).
+2. **Copia sus ajustes a todas** con **Sync Adjustments**
+   (**`⇧⌘S`**; [retoques, sección 11.1](../retoques/11-trabajar-en-serie.md)).
+   **No recortes**: Crop no se sincroniza y cada foto quedaría distinta.
+3. **Exporta todas en JPEG** con **Resize → Long Edge** a **3840** píxeles
+   (vídeo 4K) o **1920** (Full HD)
+   ([retoques, sección 13](../retoques/13-exportar.md)) a una carpeta
+   vacía. Los archivos tienen que quedar ordenados por nombre: los de la
+   cámara (`DSC…`) ya lo están, así que no los renombres.
+4. **Móntalas** en un programa de vídeo. En Mac, uno gratuito:
+   **DaVinci Resolve**. Importa la carpeta (reconoce las fotos numeradas como
+   un solo clip), pon el proyecto a **25 fotogramas por segundo** y exporta.
+   Es el único paso de vídeo de este repo.
+
+Si el vídeo parpadea tras la edición, quita primero las herramientas que
+deciden según el contenido de cada foto (máscaras automáticas, Sky AI) y
+vuelve a sincronizar.
+
+### 2 · Una foto de star trails con las mismas fotos
+
+Una serie de noche cerrada (receta A) es también una serie de star trails:
+apilada en modo **aclarar** (*Lighten*), cada estrella deja el rastro de su
+camino. Lo que en el vídeo es movimiento, en la foto son arcos.
+
+1. Usa los JPEG exportados para el vídeo (de la receta B, solo los de noche
+   cerrada).
+2. Ábrelos en **StarStaX** (la versión clásica es gratuita), modo
+   **Lighten**. Si ves huecos entre los trazos, activa `Gap filling`.
+3. Guarda el resultado y termínalo en Luminar.
+
+300 fotos de 15 s son 75 minutos de cielo: arcos de unos 19° (el cielo gira
+15° por hora). Para arcos más largos y sin huecos, la receta propia de star
+trails está en el [capítulo 7](07-estrellas-con-tierra.md) (noche 3).
+
+### 3 · Una foto del cielo limpia de ruido
+
+Elige **10–20 fotos seguidas** de noche cerrada y apílalas en modo
+**promedio** con **Starry Landscape Stacker** (Mac, unos 40 USD; la versión
+de prueba pone marca de agua). Alinea el cielo, que se ha movido entre
+fotos, y deja el suelo quieto con una máscara que pintas tú. El ruido baja mucho: es como haber
+disparado a un ISO mucho más bajo. Los RAW entran directamente. Después
+terminas la foto en Luminar. Los programas de apilado para Mac, comparados,
+están en [retoques, sección 9.2](../retoques/09-noche.md).
+
+## Ejercicio (dos tardes)
+
+1. **Tarde 1, desde casa**: receta B corta en una ventana con cielo.
+   60 fotos cada 5 s durante la puesta de sol. Monta el vídeo.
+2. **Tarde 2, de noche, en un sitio oscuro**: receta A, 300 fotos. Monta el
+   vídeo y saca de la misma serie la foto de star trails.
+
+**Aprobado cuando** el vídeo de 12 s se ve sin fogonazos ni saltos de color,
+las estrellas son puntos al 100 % en cualquier fotograma, y tienes la foto
+de star trails sacada de la misma serie.
+
+## Referencias
+
+- Sony, Guía de ayuda a6700 — `Func. capt. interv.` (todas sus líneas y rangos; recomienda alimentar por USB): <https://helpguide.sony.net/ilc/2320/v1/es/contents/0407P_interval_shoot_setting.html>
+- Sony, Guía de ayuda a6700 — `ISO AUTO VO mín.` (de 1/8000 a 30", solo en P y A): <https://helpguide.sony.net/ilc/2320/v1/es/contents/0408H_ISO_auto_minimun_SS.html>
+- Sony, Guía de ayuda a6700 — `Alimentación USB` (con la batería dentro): <https://helpguide.sony.net/ilc/2320/v1/es/contents/0601B_usb_power_supply.html>
+- PhotoPills (realidad aumentada y horas del crepúsculo): <https://www.photopills.com/>
+- StarStaX: <https://starstax.net/> · Starry Landscape Stacker (macOS): <https://sites.google.com/site/starrylandscapestacker/>
+- DaVinci Resolve (gratis, para Mac): <https://www.blackmagicdesign.com/products/davinciresolve>
+
+---
+
+*Parte II · Recetas por escenario*
+
+# 11. Estelas de tráfico — los coches convertidos en ríos de luz
+
+> 🟢 **Iniciación** → 🔵 básico al apilar · Da por sabido: los tres números ([capítulo 1](01-de-movil-a-la-a6700.md)) y montar el trípode · Te desbloquea: la foto nocturna de ciudad con estelas blancas y rojas, en una sola toma larga o juntando varias, y entender de verdad qué hace la velocidad de obturación.
+
+La idea es una sola: **la cámara quieta, los coches moviéndose y una
+exposición larga**. Durante los segundos que dura la foto, el coche cruza el
+encuadre: su carrocería, oscura y en movimiento, casi no deja rastro, pero
+sus luces dibujan una línea. Los **faros** que vienen hacia ti dejan estelas
+**blancas**; los **pilotos** de los que se alejan, **rojas**. Todo lo que
+está quieto (edificios, farolas, el puente) sale nítido.
+
+Es el mejor ejercicio para entender la velocidad de obturación
+([conceptos, la exposición](../conceptos/02-exposicion.md)): la misma escena a
+1/60 s, a 5 s y a 30 s son tres fotos distintas.
+
+## Lo que necesitas
+
+- **Trípode**: obligatorio. A pulso, con 15 s, todo sale movido.
+- **Objetivo**:
+  - **11 mm** (16,5 mm eq): la avenida entera, una rotonda desde arriba,
+    el puente con el cielo.
+  - **Viltrox 25 mm** (37,5 mm eq): una curva, un tramo de calle, con menos
+    deformación en los edificios.
+  - **70-350** (105–525 mm eq; **prestado**, mientras lo tengas): desde lejos,
+    una avenida larga se comprime en un río de luz.
+- **El sitio**: una pasarela peatonal, un mirador sobre la ciudad, una acera
+  ancha en una curva, una rotonda vista desde un edificio. **Nunca en la
+  calzada ni en el arcén.** Si estás cerca del tráfico, un **chaleco
+  reflectante** (unos 5 €).
+- **Opcional**: un filtro **ND8** (3 pasos; 15–25 €) si quieres exposiciones
+  de 30 s en la hora azul. El 11 mm tiene rosca de 55 mm y el Viltrox de
+  52 mm; el truco del anillo para usar un solo filtro en los tres objetivos
+  está en el [capítulo 13](13-equipo-accesorios.md). De noche, **quita el
+  filtro protector** si llevas uno: con farolas en el encuadre da reflejos.
+
+## Cuándo
+
+- **La hora azul**, de 15 a 40 minutos después de la puesta de sol, es la
+  mejor: el cielo aún tiene un azul profundo y la luz de la calle ya está
+  encendida. Las dos luces se equilibran. PhotoPills te da la hora exacta.
+- **Más tarde**, el cielo se queda negro: las estelas lucen igual, pero la
+  foto pierde el color del cielo.
+- **En invierno, la hora azul coincide con la hora punta** (en España, entre
+  las 18:00 y las 19:00): más coches, más estelas.
+
+## La receta de partida: MR2 con dos números cambiados
+
+La memoria de astro ya trae casi todo lo que hace falta: modo M, enfoque
+manual, temporizador de 2 s, SteadyShot desactivado y RAW. Gira el dial a
+**MR2** y cambia **la apertura y el ISO**:
+
+| Ajuste | Valor | Por qué |
+|---|---|---|
+| Modo | M (**MR2** en el dial) | Tú decides el tiempo |
+| Apertura | **f/8** (MR2 trae f/1.8) | Todo nítido, y las farolas salen como estrellas de puntas. f/11 si necesitas más tiempo; **f/16 no**: la difracción ablanda toda la foto ([conceptos, por qué funciona](../conceptos/09-por-que-funciona.md)) |
+| ISO | **100** (MR2 trae 1600) | Más tiempo de exposición y nada de ruido |
+| Obturación | **15 s** en la hora azul; **20–30 s** de noche | Valores de partida: ajústalos con el histograma |
+| Balance de blancos | K = **3900** (MR2) | Si todo sale naranja, baja a 3200; si el cielo sale morado, sube a 4500 |
+| Enfoque | **AF a una farola o a un edificio iluminado**, luego MF. Con el 11 mm, pasa el interruptor del objetivo a MF; con el Viltrox, `Modo de enfoque` → `Enfoque man.` | Que no reenfoque en cada foto |
+| Disparo | `Autodisp.(senc)` de **2 s** (MR2) | Pulsar el botón mueve la cámara |
+| Estabilizador | SteadyShot **desactivado** (MR2) | En trípode, el estabilizador puede mover la imagen |
+| `RR exposic. larga` | **Desactivar** (configuración básica) | Si no, tras cada foto de 20 s la cámara se pasa otros 20 s procesando y pierdes los coches |
+| Formato | **RAW** | |
+
+Con el **11 mm a f/8** ni siquiera hace falta buscar el punto de enfoque:
+enfocado a unos 0,8 m sale nítido desde unos 0,40 m hasta el infinito (la
+hiperfocal; [conceptos, por qué funciona](../conceptos/09-por-que-funciona.md)).
+Para una calle a más de 10 m, basta con enfocar a lo lejos.
+
+Las farolas salen como estrellas porque las hojas del diafragma cerrado
+difractan la luz. Con el Viltrox, de 9 hojas, cada farola da una estrella de
+**18 puntas** (con un número impar de hojas salen el doble de puntas).
+
+## Paso a paso
+
+1. **Llega antes de la puesta** y encuadra con luz. Busca:
+   - **líneas que lleven la mirada**: una curva que entra por una esquina,
+     una avenida que se pierde al fondo, una rotonda;
+   - **algo quieto e interesante**: un edificio, un puente, una iglesia;
+   - el **horizonte recto**: nivel electrónico (DISP).
+2. Gira el dial a **MR2**, pon **f/8** e **ISO 100**, enfoca y pasa a MF.
+3. **Foto de prueba de 15 s.** Mira el histograma en la revisión (DISP).
+   Las luces de los coches y las farolas parpadean como quemadas: es normal,
+   son fuentes de luz. Lo que **no** debe quemarse es el cielo ni las
+   fachadas.
+4. **Empieza la foto cuando entren los coches**: el temporizador tarda 2 s,
+   así que pulsa un poco antes. Un autobús deja una estela gorda y llena de
+   luces; un coche parado en un semáforo deja una mancha.
+5. **Haz 10–20 fotos** a lo largo de la hora azul. El mejor cielo suele estar
+   hacia los 25 minutos después de la puesta.
+
+**¿Cuánto tiempo?**
+
+| Quieres… | Tiempo |
+|---|---|
+| La estela limpia de un solo coche | Lo que tarda en cruzar el encuadre: cuéntalo (suelen ser 3–6 s) |
+| Varias estelas en cada carril | 15–30 s |
+| Ríos de luz continuos en una avenida | 1–2 minutos en BULB, o varias fotos juntas (abajo) |
+
+**Más de 30 s (BULB):** `Tipo de obturador` → `Obturad. mecán.` (BULB no
+existe con el electrónico), gira la velocidad más allá de 30" hasta
+**BULB** y activa `Aj. temporiz. BULB`
+(`Exposición/color → [Exposición] → [Aj. temporiz. BULB]`) con el tiempo
+que quieras, de 2 a 900 s. Así no tienes que mantener el disparador
+pulsado. Al terminar, vuelve a `Obturad. electr.` si lo usas en otras
+recetas.
+
+## Cuando hay demasiada luz para el tiempo que quieres
+
+En la hora azul, a f/8 e ISO 100, quizá la foto correcta dure 5 s y tú
+quieras 30. En orden:
+
+1. **Cierra a f/11** (un paso: el tiempo se duplica).
+2. **Espera diez minutos**: en la hora azul la luz baja deprisa.
+3. **Filtro ND8**: 3 pasos, el tiempo se multiplica por 8 (4 s → 30 s).
+   Un ND1000 (10 pasos) es para exposiciones largas a pleno día, no para
+   esto: de 1 s pasarías a 17 minutos.
+
+## Varias fotos para una: apilar las estelas
+
+Una sola foto de 2 minutos tiene dos problemas: el cielo y las fachadas se
+queman, y no eliges qué coches entran. La alternativa es **hacer muchas
+fotos cortas y juntarlas**, quedándote en cada punto con el píxel más claro
+de todas (modo **aclarar**, *Lighten*). Las estelas se suman; el cielo se
+queda como en una sola foto.
+
+**En la calle:**
+
+1. Mismo encuadre, mismos ajustes, **15–20 fotos de 15 s** seguidas.
+2. Para no tocar la cámara entre fotos, usa el intervalómetro como disparador:
+   `MENU → Toma → [Modo de manejo] → [Func. capt. interv.]` →
+   `Captura de intervalo` `Activar`, `Intervalo de toma` **17 s**,
+   `Número de capturas` **20**. La serie va con obturador electrónico
+   (`Tipo obturad. interv.`, de fábrica), que llega a 30 s. Pulsa el
+   disparador para empezar y otra vez para parar.
+3. **No muevas nada** entre fotos: ni el trípode, ni el zoom, ni el enfoque.
+
+**En casa:**
+
+1. En Luminar, edita **una** foto, sincroniza los ajustes al resto
+   (**Sync Adjustments**, **`⇧⌘S`**; [retoques, sección 11.1](../retoques/11-trabajar-en-serie.md))
+   y exporta todas en **TIFF** o JPEG a máxima calidad
+   ([retoques, sección 13](../retoques/13-exportar.md)). **No recortes**:
+   Crop no se sincroniza.
+2. Abre las fotos exportadas en **StarStaX** (la versión clásica es
+   gratuita), el mismo programa de los star trails: modo **Lighten** y
+   procesa.
+3. Guarda el resultado y dale el acabado en Luminar.
+
+**Trucos de la fusión:**
+
+- **Elige las fotos**: un coche parado, una persona que se queda en medio o
+  un camión que tapa todo… deja esa foto fuera y desaparece.
+- **El cielo de la foto más clara gana**: si mezclas fotos de principio y de
+  final de la hora azul, el cielo será el del principio. Para un cielo
+  concreto, usa fotos de una misma ventana de 10–15 minutos.
+- **¿Y en Luminar?** Luminar tiene capas con modos de fusión
+  ([retoques, sección 2.4](../retoques/02-luminar-por-dentro.md)), pero la
+  documentación de Skylum no dice qué modos hay. Si tu versión tiene
+  **Lighten**, sirve para juntar 2 o 3 fotos (está en
+  [PENDIENTES](../PENDIENTES.md)). Para 20 fotos, StarStaX.
+
+## Variantes
+
+- **La rotonda desde arriba** con el 11 mm: los coches dibujan círculos.
+- **El río de luz con el tele** (70-350, prestado): desde lejos, una
+  avenida larga a 200–350 mm se comprime y las estelas se apilan. A esa
+  focal, cualquier vibración se nota: trípode firme y sin extender la
+  columna.
+- **Una persona quieta junto a la calle** (en la acera): tiene que estar
+  inmóvil toda la exposición, o saldrá transparente. Con 2–4 s y luz de una
+  farola sobre ella, sale.
+- **Desde casa**: si ves una calle desde la ventana o el balcón, tienes
+  estudio de estelas sin salir ([capítulo 12](12-fotos-en-casa.md)).
+
+## Si sale mal…
+
+| Problema | Causa | Solución |
+|---|---|---|
+| Todo movido, también los edificios | El trípode vibra: pasarelas y puentes tiemblan con los camiones; o viento | Dispara cuando no pasen camiones, apoya el trípode sobre un pilar y no en el centro del puente, cuelga la mochila del trípode; temporizador de 2 s |
+| Estelas cortas o cortadas | Exposición corta, o empezaste tarde | Más tiempo, o empieza cuando los coches entren en el encuadre |
+| Cielo blanco o fachadas quemadas | Demasiado tiempo, o es pronto | Menos tiempo, f/11, ND8, o apila fotos cortas |
+| Todo naranja | Farolas de sodio o LED cálido | Baja el balance a 3200 K, o corrígelo en Luminar |
+| Manchas de luz en la calle | Un coche paró (semáforo, atasco) | Elige otra foto o déjala fuera del apilado |
+| Reflejos verdes o fantasmas de las farolas | Un filtro delante del objetivo | Quita el filtro protector de noche |
+| La calle sale sin estelas | Había poco tráfico | Hora punta, o apila más fotos |
+| Las estelas se cortan entre fotos del apilado | Hueco entre una foto y la siguiente | `Intervalo de toma` = exposición + 2 s; activa `Gap filling` en StarStaX |
+
+## Ejercicio (una tarde)
+
+1. Busca un sitio seguro con vista a una calle con tráfico y llega 20
+   minutos antes de la puesta.
+2. Con el mismo encuadre, tres fotos: **5 s, 15 s y 30 s**. Compáralas.
+3. Ya en la hora azul, **15 fotos de 15 s** con el intervalómetro, y júntalas
+   en StarStaX en casa.
+
+**Aprobado cuando** tienes una foto con estelas continuas de borde a borde,
+los edificios nítidos al 100 % y el cielo con color (ni blanco ni negro del
+todo), y sabes explicar qué cambió entre la foto de 5 s y la de 30 s.
+
+## Referencias
+
+- Sony, Guía de ayuda a6700 — disparo BULB y `Aj. temporiz. BULB` (2–900 s; no disponible con obturador electrónico): <https://helpguide.sony.net/ilc/2320/v1/en/contents/0302C_bulb.html> · <https://helpguide.sony.net/ilc/2320/v1/en/contents/211h_bulb_timer.html>
+- Sony, Guía de ayuda a6700 — `Func. capt. interv.`: <https://helpguide.sony.net/ilc/2320/v1/es/contents/0407P_interval_shoot_setting.html>
+- StarStaX (apilado en modo Lighten): <https://starstax.net/>
+- PhotoPills (hora azul y puesta de sol): <https://www.photopills.com/>
+
+---
+
+*Parte II · Recetas por escenario*
+
+# 12. Fotos en casa — ideas creativas para practicar sin salir
+
+> 🟢 **Iniciación** → 🔵 básico en las últimas ideas · Da por sabido: los tres números ([capítulo 1](01-de-movil-a-la-a6700.md)) · Te desbloquea: practicar la luz, la exposición, el enfoque y la composición cualquier tarde, con lo que hay en casa, y llegar a la próxima salida con las manos entrenadas.
+
+En casa tienes lo que fuera no tienes: **controlas la luz, el tiempo y el
+sujeto**. La fruta no se va, la ventana está siempre en el mismo sitio y
+puedes repetir la misma foto veinte veces cambiando una sola cosa. Así se
+aprende de verdad.
+
+Aquí hay **trece ideas**. Cada una dice qué necesitas, con qué ajustes
+empezar, qué entrenas y cuándo la tienes aprobada. Al final, un **plan de
+cuatro semanas** para hacerlas en orden. Todo lo que hace falta cuesta menos
+de 15 €: cartulinas, folios, una guirnalda de luces, una linterna.
+
+> **Sobre los objetivos en casa.** El **Viltrox 25 mm** (37,5 mm eq) es el de
+> casi todas las ideas: luminoso y con un fondo que se desenfoca bien. Enfoca
+> a partir de **0,3 m**, pero **no es un macro** (ampliación 0,11x): una taza
+> llena el encuadre, una moneda no. El **11 mm** (16,5 mm eq) es para la
+> habitación entera. El **70-350** (prestado) es el que más amplía (0,23x),
+> pero desde más de un metro: útil para gotas y texturas mientras lo tengas.
+
+**Dos reglas para casa:**
+
+- **Apaga las luces que no uses.** Una bombilla cálida y la ventana fría a
+  la vez dan colores raros que no se arreglan del todo.
+- **Agua y enchufes, lejos.** En las ideas con agua, la lámpara a un lado y
+  nunca encima del recipiente.
+
+## 1 · La ventana: la luz que lo explica todo
+
+**Necesitas:** una ventana sin sol directo, una fruta o una taza, un folio
+blanco.
+
+**Ajustes:** A · **f/2.8** · ISO AUTO · Viltrox 25 mm.
+
+**Cómo:** pon el objeto en una mesa junto a la ventana y haz **cuatro fotos
+sin mover la cámara, girando solo el objeto** (o moviéndote alrededor): con
+la ventana **detrás de ti** (luz de frente), **a un lado** (luz lateral),
+**detrás del objeto** (contraluz) y **a 45°**. Repite la lateral con el folio
+blanco al otro lado, como reflector.
+
+**Entrenas:** la dirección y la calidad de la luz ([conceptos, la luz](../conceptos/01-la-luz.md)).
+
+**Aprobado cuando** sabes decir, sin mirar los datos, cuál es cuál, y por qué
+la lateral es la que da volumen.
+
+## 2 · Clave baja: fondo negro sin estudio
+
+**Necesitas:** un objeto, una lámpara de mesa o la ventana, y una habitación
+grande o un pasillo.
+
+**Ajustes:** M · **f/5.6** · ISO **100** · empieza en **1/125 s**.
+
+**Cómo:** la luz cerca del objeto y de lado; el fondo, **lejos** (2–3 m) y
+fuera de la luz. Baja la velocidad (1/60, 1/30…) hasta que el objeto tenga la
+luz que quieres. Si el fondo no se va a negro, **acerca la luz al objeto o
+aleja el fondo**: la luz cae muy deprisa con la distancia (al doble de
+distancia, la cuarta parte de luz).
+
+**Entrenas:** exponer para las luces y leer el histograma
+([conceptos, el histograma](../conceptos/03-histograma.md)).
+
+**Aprobado cuando** el fondo es negro de verdad y el objeto no tiene nada
+quemado.
+
+## 3 · Clave alta: blanco sobre blanco
+
+**Necesitas:** un objeto blanco (un huevo, una taza) sobre un folio blanco,
+junto a la ventana.
+
+**Ajustes:** A · f/4 · ISO AUTO · `Compensar exp.` de **+1 a +2** · Zebra
+activo (`Visualizac. cebra`, nivel `100 IRE o +`).
+
+**Cómo:** con la compensación en 0, el blanco sale gris: la cámara lo
+quiere todo gris medio. Sube la compensación hasta que el blanco sea blanco y
+la cebra aparezca **solo** en los brillos, no en todo el folio.
+
+**Entrenas:** el gris medio, la trampa más común de la medición
+([conceptos, la luz](../conceptos/01-la-luz.md)).
+
+**Aprobado cuando** los blancos son blancos y siguen teniendo textura.
+
+## 4 · Bokeh de luces de Navidad
+
+**Necesitas:** una guirnalda de luces LED (5–10 €) y un objeto pequeño.
+
+**Ajustes:** A · **f/1.7** · ISO AUTO · Viltrox 25 mm.
+
+**Cómo:** el objeto a 0,4 m de la cámara; la guirnalda **2–3 m detrás**. Las
+luces se convierten en círculos grandes y suaves. Cuanto más cerca estás del
+objeto y más lejos están las luces, más grandes los círculos.
+
+**Variante:** recorta una forma pequeña (un corazón, una estrella de 1 cm)
+en el centro de un círculo de cartulina negra y ponlo delante del objetivo.
+El bokeh toma esa forma.
+
+**Entrenas:** la profundidad de campo y la distancia entre el sujeto y el
+fondo ([conceptos, óptica](../conceptos/05-optica.md)).
+
+**Aprobado cuando** las luces son círculos grandes y el objeto está nítido al
+100 %.
+
+## 5 · Congelar una salpicadura
+
+**Necesitas:** un bol o un vaso grande con agua, una fruta pequeña, mucha luz
+(ventana con sol o una lámpara potente cerca), un fondo oscuro.
+
+**Ajustes:** M · **1/2000 s** · f/4 · ISO AUTO · `Captura contin.` en **Hi+**.
+
+**Cómo:** **preenfoca**: pon un lápiz donde caerá la fruta, enfoca en él,
+pasa a MF y quita el lápiz. Deja caer la fruta y dispara una ráfaga justo
+antes de que toque el agua. Repite muchas veces: es normal acertar una de
+cada diez.
+
+**Entrenas:** la velocidad que congela, la ráfaga y el enfoque manual
+anticipado. Y el precio de la velocidad: más ISO, más ruido.
+
+**Aprobado cuando** las gotas salen congeladas y nítidas, no como manchas.
+
+## 6 · Gotas y refracción
+
+**Necesitas:** gotas de agua sobre un cristal (un vaso, la ventana después de
+llover) y, detrás, a medio metro, algo de color (una flor, una pantalla).
+
+**Ajustes:** A · f/4 · ISO AUTO · MF con lupa (`Amplific. enfoque`, C3) y
+peaking.
+
+**Cómo:** cada gota funciona como una lente: dentro se ve la imagen de
+detrás, **del revés**. Con el Viltrox, a 0,3 m, solo llegas a gotas grandes;
+con el 70-350 a 350 mm (si lo tienes), mucho más cerca. Enfoca **a la gota**,
+no al fondo.
+
+**Entrenas:** el enfoque fino con lupa y peaking ([capítulo 5](05-enfocar-el-11mm.md)).
+
+**Aprobado cuando** hay una gota nítida con la imagen dentro.
+
+## 7 · Pintar con luz
+
+**Necesitas:** una habitación a oscuras, el trípode y la linterna del móvil
+o el frontal.
+
+**Ajustes:** M · **20 s** · f/8 · ISO **100** · `Autodisp.(senc)` de 2 s ·
+enfoque manual (enfoca antes con la luz encendida).
+
+**Cómo:** mientras dura la foto, **dibuja en el aire** con la linterna
+apuntando a la cámara, o **ilumina un objeto** con barridos lentos de la
+linterna, de lado. Tú no sales si te mueves y no te iluminas.
+
+**Entrenas:** la exposición larga, que luego usarás en las estelas
+([capítulo 11](11-estelas-de-trafico.md)) y en las estrellas
+([capítulo 7](07-estrellas-con-tierra.md)).
+
+**Aprobado cuando** el dibujo es una línea continua y el fondo queda negro.
+
+## 8 · La ventana como mirador: estelas y time-lapse
+
+**Necesitas:** una ventana o un balcón con vista a una calle o al cielo.
+
+**Cómo:**
+
+- **Estelas**: si ves una calle con tráfico, la receta del
+  [capítulo 11](11-estelas-de-trafico.md) tal cual (M · f/8 · ISO 100 ·
+  15 s). Apaga la luz de la habitación y pega el objetivo al cristal para
+  que no salgan reflejos.
+- **Time-lapse de nubes o de la puesta**: A · f/8 · ISO AUTO · balance fijo
+  en Luz de día, y el intervalómetro (`Func. capt. interv.`) con
+  `Intervalo de toma` de **3 s** y **200** fotos: 10 minutos que se ven en
+  8 s de vídeo. Es el ensayo de la receta B del
+  [capítulo 10](10-time-lapse-del-cielo.md).
+
+**Entrenas:** las dos recetas de exposición larga sin salir de casa.
+
+**Aprobado cuando** tienes una foto de estelas sin reflejos y un vídeo de
+nubes sin saltos.
+
+## 9 · Persianas y sombras duras
+
+**Necesitas:** sol directo entrando por una persiana o una celosía.
+
+**Ajustes:** A · f/5.6 · ISO AUTO · `Compensar exp.` **−1**.
+
+**Cómo:** las rayas de luz sobre una pared, una mano, una cara, una
+planta. Expón para las rayas iluminadas: las sombras se van a negro y eso es
+lo que hace la foto.
+
+**Entrenas:** la luz dura y la composición con formas
+([conceptos, composición](../conceptos/06-composicion.md)).
+
+**Aprobado cuando** las rayas tienen el borde nítido y no están quemadas.
+
+## 10 · Miniaturas a su altura
+
+**Necesitas:** una figura, un coche de juguete o un muñeco.
+
+**Ajustes:** A · **f/2** · ISO AUTO · Viltrox 25 mm, a 0,3–0,5 m.
+
+**Cómo:** baja la cámara **a la altura del juguete** (la pantalla abatible
+ayuda) y deja el fondo lejos. Visto desde su altura, parece que tiene su
+propio mundo; visto desde arriba, es un juguete en el suelo.
+
+**Entrenas:** el punto de vista, lo que más cambia una foto
+([conceptos, composición](../conceptos/06-composicion.md)).
+
+**Aprobado cuando** la foto parece de su tamaño, no del tuyo.
+
+## 11 · Retrato y autorretrato con luz de ventana
+
+**Necesitas:** una persona junto a una ventana (o tú).
+
+**Ajustes:** A · **f/2** · ISO AUTO · AF-C con `Dest. reconocim.` en
+**`Humano`** · Viltrox 25 mm.
+
+**Cómo:** la persona de lado a la ventana, mirando un poco hacia ella. La luz
+lateral modela la cara; un folio al otro lado abre la sombra. **Para un
+autorretrato**, usa el intervalómetro como temporizador largo:
+`Hora inicio captura` **10 s**, `Intervalo de toma` **3 s**,
+`Número de capturas` **20**. Tienes un minuto para posar sin correr hasta la
+cámara.
+
+**Variante:** con una mascota, lo mismo con `Dest. reconocim.` en `Animal`.
+
+**Entrenas:** el AF de ojos y la luz sobre una cara.
+
+**Aprobado cuando** el ojo más cercano está nítido al 100 %.
+
+## 12 · El balance de blancos como pincel
+
+**Necesitas:** cualquier escena de las anteriores.
+
+**Ajustes:** el balance en **K** y tres fotos iguales: **3200 K**,
+**5200 K** y **7500 K**.
+
+**Cómo:** con la luz del día, 3200 K da una escena **fría, azul**
+(nocturna); 7500 K, **cálida, dorada**. El balance no solo corrige: también
+decide el ambiente.
+
+**Entrenas:** qué hace de verdad el balance de blancos
+([conceptos, balance de blancos](../conceptos/04-balance-de-blancos.md)).
+
+**Aprobado cuando** sabes predecir, antes de disparar, hacia qué color irá la
+foto.
+
+## 13 · Varias fotos para una: HDR y apilado de enfoque
+
+Dos ejercicios en los que la foto final sale de **juntar varias**. Las dos se
+funden en Luminar.
+
+**A · HDR de una habitación con ventana.** La ventana está muchísimo más
+clara que la habitación: una sola foto quema la ventana o deja la habitación
+negra.
+
+1. Trípode. M · f/8 · ISO 100.
+2. **Tres fotos cambiando solo la velocidad**: una normal (por ejemplo,
+   1/15 s), una dos pasos más oscura (1/60 s) y una dos pasos más clara
+   (1/4 s). La cámara lo hace sola con `Modo manejo` → `Variación expos.`,
+   pero a mano entiendes qué pasa.
+3. En Luminar: **HDR Merge**
+   ([retoques, sección 12.1](../retoques/12-varias-fotos.md)). Edita el
+   resultado con suavidad.
+
+**B · Apilado de enfoque de un objeto pequeño.** A 0,3 m y f/2.8, la zona
+nítida mide pocos milímetros: si enfocas la parte delantera de una flor, la
+de atrás sale borrosa.
+
+1. Trípode. A · f/4 · ISO AUTO · MF con lupa.
+2. **5–10 fotos girando el anillo de enfoque un poco entre una y otra**,
+   desde lo más cercano hasta lo más lejano del objeto. La cámara también lo
+   hace sola con `Var.exp. enfoque`, pero sus ajustes no están comprobados en
+   este repo.
+3. En Luminar: **Focus Stacking**
+   ([retoques, sección 12.3](../retoques/12-varias-fotos.md)).
+
+**Entrenas:** el rango dinámico y la profundidad de campo, y cuándo una foto
+no basta.
+
+**Aprobado cuando** la ventana y la habitación tienen detalle a la vez, y el
+objeto está nítido de delante a atrás.
+
+## El plan: cuatro semanas, dos tardes por semana
+
+| Semana | Tarde 1 | Tarde 2 | Al acabar la semana… |
+|---|---|---|---|
+| 1 · **La luz** | 1 · La ventana | 9 · Persianas · 12 · El balance | Sabes dónde poner la luz y qué color le das |
+| 2 · **La exposición** | 3 · Clave alta · 2 · Clave baja | 7 · Pintar con luz | Expones para lo que importa y lees el histograma |
+| 3 · **El enfoque y el movimiento** | 4 · Bokeh · 6 · Gotas | 5 · Salpicadura | Decides qué sale nítido y qué se congela |
+| 4 · **Personas, fusión y ventana** | 11 · Retrato · 10 · Miniaturas | 13 · HDR y apilado · 8 · Mirador | Una foto puede salir de varias, y la ventana es un estudio |
+
+Para la **composición** fuera de casa, el complemento es el
+[cuaderno de composición](../conceptos/08-cuaderno-de-composicion.md):
+20 ejercicios para imprimir y tachar.
+
+## Si sale mal…
+
+| Problema | Causa | Solución |
+|---|---|---|
+| ISO altísimo y la foto con ruido | En casa hay mucha menos luz de lo que parece | Acércate a la ventana, abre el diafragma o usa el trípode y baja la velocidad |
+| Todo un poco movido | Velocidad lenta a pulso | Con el 25 mm, no bajes de 1/40 s a pulso (SteadyShot activado); si no, trípode |
+| No enfoca de cerca | Por debajo de 0,3 m el Viltrox no enfoca | Aléjate un poco y recorta después |
+| Colores raros, mitad azul mitad naranja | Luz de la ventana y bombillas a la vez | Apaga las bombillas, o usa solo la lámpara |
+| Reflejos en el cristal (gotas, ventana) | Ves la habitación reflejada | Apaga la luz de dentro y pega el objetivo al cristal, o cambia de ángulo |
+| El fondo negro sale gris | El fondo recibe luz | Aléjalo de la luz, o acerca la luz al objeto |
+| La salpicadura sale borrosa | Velocidad baja, o enfoque en otro sitio | 1/2000 s o más, y preenfoca en el lápiz |
+| HDR con fantasmas | Algo se movió entre las tres fotos | Trípode y nada que se mueva; Ghost Reduction en HDR Merge |
+
+## Referencias
+
+- Las bases de cada idea: [la luz](../conceptos/01-la-luz.md) · [la exposición](../conceptos/02-exposicion.md) · [el histograma](../conceptos/03-histograma.md) · [el balance de blancos](../conceptos/04-balance-de-blancos.md) · [óptica](../conceptos/05-optica.md) · [composición](../conceptos/06-composicion.md)
+- HDR Merge y Focus Stacking en Luminar: [retoques, capítulo 12](../retoques/12-varias-fotos.md)
+- Sony, Guía de ayuda a6700 — `Func. capt. interv.` (para el autorretrato y el time-lapse): <https://helpguide.sony.net/ilc/2320/v1/es/contents/0407P_interval_shoot_setting.html>
+
+---
+
 *Parte III · Equipo y objetivos*
 
-# 10. Equipo y accesorios para la a6700 (enfoque budget)
+# 13. Equipo y accesorios para la a6700 (enfoque budget)
 
 > 🔵 **Básico** · Da por sabido: nada · Te desbloquea: saber qué comprar, qué no, y por qué.
 
@@ -2361,7 +3154,7 @@ un 20–40 %.
 > equivalentes, 170 g, filtro de 52 mm). Cubre el hueco entre el 11 mm y el
 > 70-350: retrato, calle, interiores y poca luz. No tiene interruptor
 > AF/MF: el enfoque manual se pone desde el menú. Todo en
-> [su guía](11-viltrox-25mm.md).
+> [su guía](14-viltrox-25mm.md).
 
 ## El cuerpo: Sony a6700
 
@@ -2602,7 +3395,7 @@ Las fotos de Namibia tienen **una mancha gris en el cielo, siempre en el mismo s
 
 *Parte III · Equipo y objetivos*
 
-# 11. El Viltrox AF 25 mm F1.7 Air — el objetivo "normal" del kit
+# 14. El Viltrox AF 25 mm F1.7 Air — el objetivo "normal" del kit
 
 > 🔵 **Básico** · Da por sabido: el [capítulo 4](04-configuracion-basica.md) y [Enfocar el 11 mm](05-enfocar-el-11mm.md) (la lupa y el *peaking*) · Te desbloquea: el hueco entre el 11 mm y el 70-350 (retrato, calle, interiores y poca luz) y saber manejar un objetivo **sin interruptor AF/MF**.
 
@@ -2643,7 +3436,7 @@ Con el 11 mm y el 70-350, el interruptor del barrilete **manda** sobre el menú.
 
 - **Pasar a MF:** `Enfoque → [AF/MF] → [Modo de enfoque]` → **`Enfoque man.`** Es lo que tienes que hacer de noche: `Verificac. luminosa` (C1) **solo funciona en MF**.
 - **Volver a AF:** el mismo sitio → `AF continuo` (AF-C) o `AF toma sencilla` (AF-S).
-- **Más rápido, con un botón:** asigna **`Alter. select. AF/MF`** (alterna AF y MF con cada pulsación) o **`Reten. select. AF/MF`** (MF solo mientras mantienes pulsado) a un botón libre, en `Ajustes → [Personal. operac.] → [Ajuste t. pers./dial]`. Ambos nombres están verificados ([verificación de los menús](15-verificacion-de-menus.md)). C1 y C3 ya están ocupados por la botonera del repo ([diales y botones](03-diales-y-botones.md)), así que elige otro.
+- **Más rápido, con un botón:** asigna **`Alter. select. AF/MF`** (alterna AF y MF con cada pulsación) o **`Reten. select. AF/MF`** (MF solo mientras mantienes pulsado) a un botón libre, en `Ajustes → [Personal. operac.] → [Ajuste t. pers./dial]`. Ambos nombres están verificados ([verificación de los menús](18-verificacion-de-menus.md)). C1 y C3 ya están ocupados por la botonera del repo ([diales y botones](03-diales-y-botones.md)), así que elige otro.
 - **Al volver a un Sony**, recuerda que su interruptor vuelve a mandar. Si la cámara "no enfoca" tras cambiar de objetivo, mira primero el interruptor del Sony y luego `Modo de enfoque`.
 
 > **Ojo con MR2.** La receta de astro (MR2) está pensada para el 11 mm, que pasa a MF con su interruptor. Con el Viltrox montado, al cargar MR2 comprueba en pantalla que la cámara está de verdad en MF; si no, pon `Modo de enfoque` en `Enfoque man.`.
@@ -2702,7 +3495,7 @@ Para un primer plano a menos de ~2 m y el fondo nítido a la vez, el objetivo es
 
 *Parte III · Equipo y objetivos*
 
-# 12. El AF y la exposición a fondo — la máquina, a tu medida
+# 15. El AF y la exposición a fondo — la máquina, a tu medida
 
 > 🔴 **Avanzado** · Da por sabido: [capítulo 4](04-configuracion-basica.md) y [capítulo 8](08-safari-diurno.md) · Te desbloquea: sacarle a la cámara lo que la receta base deja sobre la mesa.
 
@@ -2793,7 +3586,7 @@ El metaconsejo: no memorices combinaciones — mete estos tres ajustes en
 - **MR3 = preajuste de vuelo**: guarda 1/2500 · apertura mínima · ISO Auto ·
   reconocimiento **Ave** · área Zona · Sens. Seguim. 3 · ráfaga Hi+ — un
   giro de dial y estás en modo "despegue". Se guarda igual que MR1 y MR2
-  ([las tres memorias](13-ajustes-a6700.md#las-tres-memorias-del-dial)).
+  ([las tres memorias](16-ajustes-a6700.md#las-tres-memorias-del-dial)).
 - **Valoración con estrellas** en la revisión de cada noche: marca ★ los
   aciertos y el cribado en casa empieza hecho.
 
@@ -2871,13 +3664,13 @@ sabes decir en una frase cuándo bajas la sensibilidad a 1 y cuándo la subes.
 
 *Parte IV · Referencia*
 
-# 13. Todos los ajustes de la a6700 — el manual de tu cámara, con tus valores
+# 16. Todos los ajustes de la a6700 — el manual de tu cámara, con tus valores
 
 > 🟢 **Iniciación** · Da por sabido: el [capítulo 2](02-menus-y-primer-dia.md) (cómo se navega el menú) · Te desbloquea: dejar de buscar ajustes y saber exactamente dónde está cada uno y qué valor lleva.
 
 El resto del repo te da los valores repartidos por escenario. Esto es la
 **referencia única** (y si quieres **el menú entero**, también lo que no
-toca este viaje, está en [el menú completo](14-menu-completo.md)): cada ajuste que toca este viaje, con su **ruta exacta
+toca este viaje, está en [el menú completo](17-menu-completo.md)): cada ajuste que toca este viaje, con su **ruta exacta
 de menú**, el valor para **fauna** y el valor para **noche**, y por qué. Para
 consultar, no para leer de seguido.
 
@@ -2939,7 +3732,7 @@ Esto se hace en casa, antes de volar, y no se vuelve a mirar en todo el viaje.
 | Ajuste | Ruta | Valor | Por qué |
 |---|---|---|---|
 | **Formato archivo** | `Toma → [Calid. img/grab.] → [Formato archivo]` | **RAW** | Todo el revelado del repo asume RAW |
-| **Tipo archivo RAW** | `Toma → [Calid. img/grab.] → [Tipo archivo RAW]` | **`C. sin pérd.`** (comprimido sin pérdida) | Máxima calidad… y ojo: es el que deja el búfer en **23 fotos** (ver [equipo](10-equipo-accesorios.md)) |
+| **Tipo archivo RAW** | `Toma → [Calid. img/grab.] → [Tipo archivo RAW]` | **`C. sin pérd.`** (comprimido sin pérdida) | Máxima calidad… y ojo: es el que deja el búfer en **23 fotos** (ver [equipo](13-equipo-accesorios.md)) |
 | **RR exposic. larga** | `Toma → [Calid. img/grab.] → [RR exposic. larga]` | **Desactivar** | Si no, tras cada foto de 20 s la cámara se pasa otros 20 s en negro: adiós star trails |
 | **RR ISO Alta** | `Toma → [Calid. img/grab.] → [RR ISO Alta]` | **Bajo / Desactivar** | Solo afecta al JPEG; el ruido del RAW lo arreglas mucho mejor en casa |
 | **Visualizac. cebra** | `Exposición/color → [Visualizac. cebra] → [Visualizac. cebra]` | **Activar** | Tu única alarma de quemados **en vivo** |
@@ -2991,7 +3784,7 @@ solo tocas la rueda delantera.
 | **Sens. Seguim. AF** | `Enfoque → [AF/MF] → [Sens. Seguim. AF]` | **3** (estándar) · **1** con hierba delante · **4–5** en persecución | 1 = tozudo, 5 = saltarín |
 | **Modo manejo** | `Toma → [Modo de manejo] → [Modo manejo]` | **`Captura contin.`** en **Hi+** | 11 fps (~10 en RAW sin pérdida). En Hi+ el visor no va en vivo durante la ráfaga: si te cuesta seguir, baja a Hi |
 | **SteadyShot** | `Toma → [Estabiliz. de img] → [SteadyShot]` | **Activar** (con el 70-350 manda solo el interruptor **OSS** del objetivo: ponlo en ON) | A pulso y desde la ventanilla |
-| **Modo medición** | `Exposición/color → [Medición] → [Modo medición]` | **Multi** de partida · **Puntual** vinculada al AF para el nivel avanzado (`[Medición] → [Punto med. punt.] → Vínc. punto enf.`; el vínculo exige área `Punto`: con Zona, la puntual mide en el centro) | El detalle, en [AF y exposición a fondo](12-af-y-exposicion-a-fondo.md) |
+| **Modo medición** | `Exposición/color → [Medición] → [Modo medición]` | **Multi** de partida · **Puntual** vinculada al AF para el nivel avanzado (`[Medición] → [Punto med. punt.] → Vínc. punto enf.`; el vínculo exige área `Punto`: con Zona, la puntual mide en el centro) | El detalle, en [AF y exposición a fondo](15-af-y-exposicion-a-fondo.md) |
 | **Balance blanco** | `Exposición/color → [Balance blancos] → [Balance blanco]` | **Luz diurna** o K fijo | Es RAW: se cambia después sin coste |
 
 **Guardarlo**: `Toma → [Modo de toma] → [Mem. ajustes cám]` → **1**.
@@ -3049,7 +3842,8 @@ Las tres son distintas de verdad: no intentes cubrirlas con una sola memoria.
 | **SteadyShot** | `Toma → [Estabiliz. de img] → [SteadyShot]` | **Desactivar** |
 | **Modo manejo** | `Toma → [Modo de manejo] → [Modo manejo]` | **`Autodisp.(senc)`** de **2 s** |
 | **Star trails** | `Toma → [Modo de manejo] → [Func. capt. interv.]` | 30 s de exposición · intervalo **31 s** · 90–180 tomas ([estrellas con la tierra dentro](07-estrellas-con-tierra.md)) |
-| **Timelapse del cielo** | `Toma → [Modo de manejo] → [Func. capt. interv.]` | 15 s de exposición · intervalo **17 s** · 300 tomas ([capítulo 6](06-astrofotografia-namibia.md)) |
+| **Timelapse del cielo** | `Toma → [Modo de manejo] → [Func. capt. interv.]` | 15 s de exposición · intervalo **17 s** · 300 tomas ([capítulo 10](10-time-lapse-del-cielo.md)) |
+| **Estelas de tráfico** | `Toma → [Modo de manejo] → [Func. capt. interv.]` (para apilar) | 15 s de exposición · intervalo **17 s** · 20 tomas, f/8 e ISO 100 ([capítulo 11](11-estelas-de-trafico.md)) |
 
 **Guardarlo**: `Toma → [Modo de toma] → [Mem. ajustes cám]` → **2**.
 
@@ -3081,7 +3875,7 @@ Estos tres son los que vas a querer a mano. Mételos en el **menú Fn** y en
   (de fábrica) y **C3 = `Amplific. enfoque`**. La **Guía en la cámara** no
   necesita botón: selecciona una línea del menú y pulsa C3.
 - Todos los botones y diales, uno a uno: [diales y botones](03-diales-y-botones.md).
-- Todo el menú, no solo lo del viaje: [el menú completo](14-menu-completo.md).
+- Todo el menú, no solo lo del viaje: [el menú completo](17-menu-completo.md).
 
 ---
 
@@ -3103,7 +3897,7 @@ formatearla.
 
 ## Con el Viltrox 25 mm montado
 
-El Viltrox **no tiene interruptor AF/MF**: con él, manda `Enfoque → [AF/MF] → [Modo de enfoque]` (para MF, `Enfoque man.`). Para cambiar rápido, asigna **`Alter. select. AF/MF`** a un botón libre en `Ajustes → [Personal. operac.] → [Ajuste t. pers./dial]`. Si cargas **MR2** (astro) con el Viltrox, comprueba en pantalla que la cámara queda en MF. Todo en [su guía](11-viltrox-25mm.md).
+El Viltrox **no tiene interruptor AF/MF**: con él, manda `Enfoque → [AF/MF] → [Modo de enfoque]` (para MF, `Enfoque man.`). Para cambiar rápido, asigna **`Alter. select. AF/MF`** a un botón libre en `Ajustes → [Personal. operac.] → [Ajuste t. pers./dial]`. Si cargas **MR2** (astro) con el Viltrox, comprueba en pantalla que la cámara queda en MF. Todo en [su guía](14-viltrox-25mm.md).
 
 ## Si un ajuste no aparece
 
@@ -3178,11 +3972,11 @@ python3 manejo-a6700/img/menus/insertar.py
 
 *Parte IV · Referencia*
 
-# 14. El menú completo de la a6700 — pestaña a pestaña, con tu valor
+# 17. El menú completo de la a6700 — pestaña a pestaña, con tu valor
 
 > 🟢 **Iniciación** · Da por sabido: nada (el [capítulo 2](02-menus-y-primer-dia.md) enseña a moverse; aquí basta con saber que MENU abre y vuelve atrás) · Te desbloquea: saber qué es **cada** línea del menú, cuáles importan en este viaje y cuáles puedes ignorar sin culpa.
 
-[La referencia de ajustes](13-ajustes-a6700.md) recoge los ajustes que **usa**
+[La referencia de ajustes](16-ajustes-a6700.md) recoge los ajustes que **usa**
 este viaje, con su valor de fauna y de noche. Esta página es lo contrario: el
 menú **entero**, pestaña a pestaña y grupo a grupo, tal como aparece en la
 cámara con el selector en **Foto**. Cada línea lleva una frase de qué hace y
@@ -3190,7 +3984,7 @@ cámara con el selector en **Foto**. Cada línea lleva una frase de qué hace y
 nada en Namibia: puedes pasar de largo.
 
 > ✅ Las rutas de esta página pasaron una auditoría independiente el 3 de
-> noviembre de 2026: [verificación de los menús](15-verificacion-de-menus.md),
+> noviembre de 2026: [verificación de los menús](18-verificacion-de-menus.md),
 > con el mapa oficial completo y las 11 subopciones que quedan por confirmar con C3.
 
 Todos los nombres están copiados de la **Guía de ayuda oficial de Sony en
@@ -3207,7 +4001,7 @@ Si solo tienes media hora, cambia esto y olvídate del resto de la página:
 | # | Ruta | Valor | Por qué |
 |---|---|---|---|
 | 1 | `Toma → [Calid. img/grab.] → [Formato archivo]` | **RAW** | Todo el revelado del repo asume RAW |
-| 2 | `Toma → [Calid. img/grab.] → [Tipo archivo RAW]` | **C. sin pérd.** | Máxima calidad (el búfer baja a 23: [equipo](10-equipo-accesorios.md)) |
+| 2 | `Toma → [Calid. img/grab.] → [Tipo archivo RAW]` | **C. sin pérd.** | Máxima calidad (el búfer baja a 23: [equipo](13-equipo-accesorios.md)) |
 | 3 | `Toma → [Calid. img/grab.] → [RR exposic. larga]` | **Desactivar** | Si no, cada foto de 20 s va seguida de 20 s en negro |
 | 4 | `Toma → [Obturad./silenc.] → [Liberar sin tarj. mem.]` | **Inhabilitar** | Si no, la cámara **dispara sin tarjeta y no guarda nada** |
 | 5 | `Toma → [Visualizac. toma] → [Vis. lín. cuadrícul.]` | **Activar** (`Cuadr. regl. terc.`) | Aire de la mirada y horizontes rectos |
@@ -3232,7 +4026,7 @@ en "Ajustes").
   así que la ruta completa es "la pestaña del título + el grupo de la tabla".
 - **Tu valor**: lo que se pone para el viaje. **Fauna** = la memoria MR1;
   **noche** = charca o MR2; los detalles por escena, en la
-  [referencia de ajustes](13-ajustes-a6700.md).
+  [referencia de ajustes](16-ajustes-a6700.md).
 - 🎥 = solo existe en vídeo; ⚠️ = se lleva por delante otra cosa (lo dice la
   columna).
 - El menú **cambia con el selector Foto / Vídeo / S&Q**: si una línea no
@@ -3305,7 +4099,7 @@ No tiene grupos: es una **lista de lo que tienes puesto ahora mismo**
 modo de manejo, balance, enfoque, área, batería…). Tocar cualquier valor
 abre su ajuste para cambiarlo. Úsala como **repaso de diez segundos** antes
 de la primera foto del día: si algo no cuadra con la
-[chuleta](16-chuleta.md), se ve aquí de un vistazo.
+[chuleta](19-chuleta.md), se ve aquí de un vistazo.
 
 ---
 
@@ -3352,7 +4146,7 @@ de la primera foto del día: si algo no cuadra con la
 | `Autom./sel. escena` | Qué hace el dial en AUTO | No lo toques (no usas AUTO) |
 | `Recup. ajust. cám.` | Recupera una memoria (1–3 del dial, M1–M4 de la tarjeta) | Las del dial se recuperan girándolo; esto solo para M1–M4 |
 | `Mem. ajustes cám` | **Guarda** lo que tienes puesto en 1, 2 o 3 | **1 = safari · 2 = astro · 3 = aves** ([capítulo 4](04-configuracion-basica.md)). Cada modo (foto, vídeo, S&Q) tiene sus tres propias |
-| `Reg ajuste toma pers` | Ajustes que solo valen mientras mantienes pulsado un botón | No lo toques (nivel avanzado: [AF a fondo](12-af-y-exposicion-a-fondo.md)) |
+| `Reg ajuste toma pers` | Ajustes que solo valen mientras mantienes pulsado un botón | No lo toques (nivel avanzado: [AF a fondo](15-af-y-exposicion-a-fondo.md)) |
 
 ### [Modo de manejo]
 
@@ -3425,7 +4219,7 @@ de la primera foto del día: si algo no cuadra con la
 
 | Ajuste | Qué hace | Tu valor |
 |---|---|---|
-| `Modo medición` | `Multi` · `Centro` · `Puntual` · `Prom. pant. ent.` · `Iluminación` | **Multi**; **Puntual** vinculada en el nivel avanzado ([AF a fondo](12-af-y-exposicion-a-fondo.md)) |
+| `Modo medición` | `Multi` · `Centro` · `Puntual` · `Prom. pant. ent.` · `Iluminación` | **Multi**; **Puntual** vinculada en el nivel avanzado ([AF a fondo](15-af-y-exposicion-a-fondo.md)) |
 | `Cara en multimed.` | En Multi, mide según las caras | No lo toques |
 | `Punto med. punt.` | `Centro` o `Vínc. punto enf.` (el círculo sigue al punto de enfoque) | **Vínc. punto enf.** cuando uses Puntual |
 | `AEL con obturad.` | Si medio disparador bloquea la exposición | No lo toques |
@@ -3736,7 +4530,7 @@ que te señalen al azar.
 
 *Parte IV · Referencia*
 
-# 15. Verificación de los menús — cada ruta, contra la Guía de ayuda de Sony
+# 18. Verificación de los menús — cada ruta, contra la Guía de ayuda de Sony
 
 > 🟢 **Iniciación** · Da por sabido: el [capítulo 2](02-menus-y-primer-dia.md) (qué es MENU y cómo se usa C3 como Guía en la cámara) · Te desbloquea: confiar en que cada línea de menú de este repo existe tal cual en tu cámara, y saber qué falta por confirmar.
 
@@ -3751,7 +4545,7 @@ que te señalen al azar.
 | Rutas `Pestaña → [Grupo] → [Ajuste]` distintas en el repo | 79 rutas, 176 apariciones en total | ✅ 79/79 coinciden |
 | Pestañas citadas | 8 de 8 (Principal, Toma, Exposición/color, Enfoque, Reproducc., Red, Ajustes, Mi Menú) | ✅ Nombres exactos |
 | Grupos que el repo usa en rutas | 33 de los 54 oficiales | ✅ Todos existen y en su pestaña |
-| Grupos y elementos de [el menú completo](14-menu-completo.md) | Las 8 pestañas, grupo a grupo | ✅ Sin elementos inventados ni mal colocados |
+| Grupos y elementos de [el menú completo](17-menu-completo.md) | Las 8 pestañas, grupo a grupo | ✅ Sin elementos inventados ni mal colocados |
 | Nombres de segundo nivel verificados | 12 nombres o familias de valores | ✅ 12 coinciden en la ficha |
 | Nombres de segundo nivel | 11 subopciones | ✅ Confirmadas el 22 de noviembre de 2026 en las fichas de la Guía de ayuda de la a6700 ([verificación](../notas-de-investigacion/verificacion-de-datos/menus-de-la-a6700.md)) |
 | Errores que impidan encontrar un ajuste | Ninguno | ✅ |
@@ -3809,7 +4603,7 @@ Estos nombres no salen en la lista principal de Sony y no se pudo abrir su ficha
 | 4 | En [diales y botones](03-diales-y-botones.md), el diagrama "la botonera en 15 minutos" no tenía la valla de cierre: en GitHub, el resto del capítulo no se veía | Valla añadida: el capítulo entero vuelve a verse |
 | 5 | La Guía consultada (5-051-980-47(1)) ya recoge el firmware 2.00 | Anotado arriba, en *Método* |
 
-**Cobertura del menú completo.** [El menú completo](14-menu-completo.md) describe el menú con el selector en **Foto**. Los grupos oficiales que no aparecen en sus tablas están justificados: `Grabac. sonido`, `TC/UB`, `Visual. marcador` y `Opción de toma` son solo de Vídeo/S&Q; `Accesibilidad` es "para algunos modelos solamente"; los elementos solo de vídeo dentro de grupos mixtos no se ven con el selector en Foto; `Calidad HEIF` y `Tamaño img HEIF` van junto a sus equivalentes JPEG; `Aviso de privacidad` y `Logotip. certificación` son informativos.
+**Cobertura del menú completo.** [El menú completo](17-menu-completo.md) describe el menú con el selector en **Foto**. Los grupos oficiales que no aparecen en sus tablas están justificados: `Grabac. sonido`, `TC/UB`, `Visual. marcador` y `Opción de toma` son solo de Vídeo/S&Q; `Accesibilidad` es "para algunos modelos solamente"; los elementos solo de vídeo dentro de grupos mixtos no se ven con el selector en Foto; `Calidad HEIF` y `Tamaño img HEIF` van junto a sus equivalentes JPEG; `Aviso de privacidad` y `Logotip. certificación` son informativos.
 
 ## Mapa oficial del menú
 
@@ -3916,7 +4710,7 @@ La estructura oficial completa, pestaña → grupo → elementos, transcrita de 
 
 *Parte V · Hojas de campo*
 
-# 16. Chuleta Sony a6700 — para imprimir y llevar en el coche
+# 19. Chuleta Sony a6700 — para imprimir y llevar en el coche
 
 ## Recetas
 
@@ -3981,12 +4775,12 @@ MR2 → Verificac. luminosa para encuadrar → lupa sobre la estrella más brill
 
 *Parte V · Hojas de campo*
 
-# 17. Verificación in situ — guía de campo (para imprimir)
+# 20. Verificación in situ — guía de campo (para imprimir)
 
 Repasos por momento del día, con el **porqué** de cada comprobación: si
 entiendes qué vigila cada punto, sabrás improvisar cuando algo no cuadre.
 Cada sección acaba en segundos; el orden importa. Imprímela junto a la
-[chuleta](16-chuleta.md) y la [lista de tomas](https://github.com/morandeirachema/a6700-namibia/blob/main/plan/lista-de-tomas.md).
+[chuleta](19-chuleta.md) y la [lista de tomas](https://github.com/morandeirachema/a6700-namibia/blob/main/plan/lista-de-tomas.md).
 
 ---
 

@@ -1,6 +1,6 @@
 # Verificación de datos: equipo, cifras técnicas, recetas de campo y referencias externas (capítulos 01, 05–11 de `manejo-a6700/`)
 
-Fecha de la verificación: 22 de noviembre de 2026. Ámbito: `01-de-movil-a-la-a6700.md`, `05-enfocar-el-11mm.md`, `06-astrofotografia-namibia.md`, `07-estrellas-con-tierra.md`, `08-safari-diurno.md`, `09-safari-nocturno-charcas.md`, `10-equipo-accesorios.md`, `11-viltrox-25mm.md`. No se han revisado nombres ni rutas de menú (otro investigador) ni `guia-completa.md`.
+Fecha de la verificación: 22 de noviembre de 2026. Ámbito: `01-de-movil-a-la-a6700.md`, `05-enfocar-el-11mm.md`, `06-astrofotografia-namibia.md`, `07-estrellas-con-tierra.md`, `08-safari-diurno.md`, `09-safari-nocturno-charcas.md`, `13-equipo-accesorios.md`, `14-viltrox-25mm.md`. No se han revisado nombres ni rutas de menú (otro investigador) ni `guia-completa.md`.
 
 **Cómo leer estas notas**
 

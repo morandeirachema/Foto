@@ -1,10 +1,10 @@
 <!-- nav -->
-[← Anterior](11-viltrox-25mm.md) · [Índice](README.md) · [Siguiente →](13-ajustes-a6700.md)
+[← Anterior](14-viltrox-25mm.md) · [Índice](README.md) · [Siguiente →](16-ajustes-a6700.md)
 <!-- /nav -->
 
 *Parte III · Equipo y objetivos*
 
-# 12. El AF y la exposición a fondo — la máquina, a tu medida
+# 15. El AF y la exposición a fondo — la máquina, a tu medida
 
 > 🔴 **Avanzado** · Da por sabido: [capítulo 4](04-configuracion-basica.md) y [capítulo 8](08-safari-diurno.md) · Te desbloquea: sacarle a la cámara lo que la receta base deja sobre la mesa.
 
@@ -95,7 +95,7 @@ El metaconsejo: no memorices combinaciones — mete estos tres ajustes en
 - **MR3 = preajuste de vuelo**: guarda 1/2500 · apertura mínima · ISO Auto ·
   reconocimiento **Ave** · área Zona · Sens. Seguim. 3 · ráfaga Hi+ — un
   giro de dial y estás en modo "despegue". Se guarda igual que MR1 y MR2
-  ([las tres memorias](13-ajustes-a6700.md#las-tres-memorias-del-dial)).
+  ([las tres memorias](16-ajustes-a6700.md#las-tres-memorias-del-dial)).
 - **Valoración con estrellas** en la revisión de cada noche: marca ★ los
   aciertos y el cribado en casa empieza hecho.
 
@@ -170,5 +170,5 @@ sabes decir en una frase cuándo bajas la sensibilidad a 1 y cuándo la subes.
 - La imagen de Deadvlei de Lanting, contada por Nat Geo: <https://www.nationalgeographic.com/magazine/article/frans-lanting-behind-the-photo>
 
 <!-- nav -->
-[← Anterior](11-viltrox-25mm.md) · [Índice](README.md) · [Siguiente →](13-ajustes-a6700.md)
+[← Anterior](14-viltrox-25mm.md) · [Índice](README.md) · [Siguiente →](16-ajustes-a6700.md)
 <!-- /nav -->

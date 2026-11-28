@@ -48,7 +48,7 @@ Medidas las 2.731 fotos del viaje (noviembre de 2026), salen seis cosas que se a
 
 | Lo que pasó | Cómo se ve | Para la próxima vez |
 |---|---|---|
-| **Polvo en el sensor** | Una mancha gris fija en el cielo, arriba, en el tercio izquierdo: aparece en 99 de las 147 fotos con cielo liso, en seis días distintos | Comprueba y limpia el sensor antes de salir ([equipo, polvo en el sensor](../manejo-a6700/10-equipo-accesorios.md#polvo-en-el-sensor-comprobarlo-y-limpiarlo)) |
+| **Polvo en el sensor** | Una mancha gris fija en el cielo, arriba, en el tercio izquierdo: aparece en 99 de las 147 fotos con cielo liso, en seis días distintos | Comprueba y limpia el sensor antes de salir ([equipo, polvo en el sensor](../manejo-a6700/13-equipo-accesorios.md#polvo-en-el-sensor-comprobarlo-y-limpiarlo)) |
 | **Vía Láctea oscura** (20 s, f/2, ISO 1600) | Cielo casi negro; al aclarar en Luminar salen bandas y ruido | Mira el **histograma** tras la primera toma: si la montaña está pegada al borde izquierdo, sube a **ISO 3200** ([astro](../manejo-a6700/06-astrofotografia-namibia.md)). En JPEG, la luz que falta no se recupera después |
 | **Charca con focos, todo naranja** | Animales de un solo color; no se puede neutralizar | Balance de blancos en **Kelvin**, bajando hacia 3200 K hasta que el color sea creíble **en la revisión**, antes de la serie ([charcas](../manejo-a6700/09-safari-nocturno-charcas.md)) |
 | **Charca por debajo de 1/60 s** | 116 de las 122 fotos nocturnas de la charca se hicieron más lentas que 1/60 s (algunas, a 1/25 s): riesgo de animales movidos | **1/60 s** como mínimo con el animal quieto; si se mueve, más rápido y más ISO: el ruido tiene arreglo y el movimiento no |

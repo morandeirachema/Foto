@@ -6,7 +6,7 @@
 
 # 9. Por qué funciona — el modelo que hay detrás de las recetas
 
-> 🔴 **Avanzado** · Da por sabido: los capítulos 1 a 10 de [manejo](../manejo-a6700/README.md) y haber disparado unas cuantas tardes · Te desbloquea: inventar **tu** receta cuando la escena no está en ninguna tabla.
+> 🔴 **Avanzado** · Da por sabido: los capítulos 1 a 9 de [manejo](../manejo-a6700/README.md) y haber disparado unas cuantas tardes · Te desbloquea: inventar **tu** receta cuando la escena no está en ninguna tabla.
 
 Todo el repo hasta aquí te da recetas: números que funcionan, comprobados,
 para las situaciones que vas a encontrar. Funcionan porque debajo hay un
@@ -73,7 +73,7 @@ borde**. En la práctica de este viaje:
   si parpadea sobre algo que debe tener detalle, baja.
 - Un animal oscuro sobre fondo claro no es un problema de exposición: es un
   problema de **medición** (medición puntual vinculada al punto de enfoque,
-  [AF y exposición a fondo](../manejo-a6700/12-af-y-exposicion-a-fondo.md)).
+  [AF y exposición a fondo](../manejo-a6700/15-af-y-exposicion-a-fondo.md)).
 - **Dónde NO se aplica**: en astro no hay derecha a la que exponer — el cielo
   es oscuro de verdad. Ahí la montaña del histograma va en el **primer
   tercio**, separada del borde izquierdo, y punto.
@@ -234,7 +234,7 @@ IBIS), rosca de 55 mm.
   sufre** en astro: las estrellas del borde pueden salir con "alitas" (coma).
   Si te pasa, cierra a **f/2.2–f/2.8** y sube el ISO un paso: pierdes menos
   que ganas. Compruébalo en casa con la prueba de punto de luz de la
-  [hoja de verificación](../manejo-a6700/17-verificacion-in-situ.md), no en Namibia.
+  [hoja de verificación](../manejo-a6700/20-verificacion-in-situ.md), no en Namibia.
 - Para paisaje, f/8 con la hiperfocal de la tabla del punto 3.
 
 **Sony E 70-350mm F4.5-6.3 G OSS** — 105–525 mm equivalentes, y el objetivo
@@ -258,7 +258,7 @@ sin estabilizador propio y **sin interruptor AF/MF**.
   misma cuenta del punto 3): el fondo se va, pero un paso en falso también.
 - La hiperfocal pide cerrar mucho más que con el 11 mm: a f/8 se enfoca a
   ~3,9 m y queda nítido desde ~2 m. Tabla completa y receta en
-  [su guía](../manejo-a6700/11-viltrox-25mm.md).
+  [su guía](../manejo-a6700/14-viltrox-25mm.md).
 
 ---
 

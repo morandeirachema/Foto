@@ -64,7 +64,7 @@ principal del móvil ≈ 24 mm ≈ "1x"):
 | No existe en móvil | 350 mm = 525 mm equivalentes ≈ "21x" | El extremo largo del **70-350**: un león a 50 m llenando el encuadre |
 
 Fíjate en el hueco: entre 16,5 y 105 mm equivalentes solo está el **Viltrox
-25 mm** (37,5 mm equivalentes, [su guía](11-viltrox-25mm.md)). Ese tramo (el
+25 mm** (37,5 mm equivalentes, [su guía](14-viltrox-25mm.md)). Ese tramo (el
 retrato, el grupo, el coche en la pista) es el suyo; y cuando hay polvo en el
 aire y no quieres cambiar de objetivo, el Pixel.
 

@@ -14,21 +14,21 @@ Qué demuestra y qué no: un 200 demuestra que la dirección existe hoy; **no** 
 
 | Estado | Enlace | Dónde se usa |
 |---|---|---|
-| 307 | <https://dustinabbott.net/2022/05/sony-e-70-350mm-f4-5-6-3-g-oss-review/> | `conceptos/09-por-que-funciona.md:296`, `manejo-a6700/10-equipo-accesorios.md:275`, `manejo-a6700/12-af-y-exposicion-a-fondo.md:167` |
-| 307 | <https://dustinabbott.net/2022/06/sony-e-11mm-f1-8-review/> | `manejo-a6700/06-astrofotografia-namibia.md:261`, `manejo-a6700/10-equipo-accesorios.md:275` |
+| 307 | <https://dustinabbott.net/2022/05/sony-e-70-350mm-f4-5-6-3-g-oss-review/> | `conceptos/09-por-que-funciona.md:296`, `manejo-a6700/13-equipo-accesorios.md:275`, `manejo-a6700/15-af-y-exposicion-a-fondo.md:167` |
+| 307 | <https://dustinabbott.net/2022/06/sony-e-11mm-f1-8-review/> | `manejo-a6700/06-astrofotografia-namibia.md:261`, `manejo-a6700/13-equipo-accesorios.md:275` |
 | 403 | <https://darksky.org/places/namibrand-dark-sky-reserve/> | `manejo-a6700/06-astrofotografia-namibia.md:221` |
 | 403 | <https://photographylife.com/preparing-for-a-safari-trip-to-africa> | `manejo-a6700/08-safari-diurno.md:208` |
-| 403 | <https://www.bhphotovideo.com/c/product/1876138-REG/viltrox_af_25_1_7_e_af_25mm_f_1_7_e.html/overview> | `manejo-a6700/11-viltrox-25mm.md:99` |
+| 403 | <https://www.bhphotovideo.com/c/product/1876138-REG/viltrox_af_25_1_7_e_af_25mm_f_1_7_e.html/overview> | `manejo-a6700/14-viltrox-25mm.md:99` |
 | 403 | <https://www.cambridgeincolour.com/tutorials/diffraction-photography.htm> | `conceptos/09-por-que-funciona.md:292` |
 | 403 | <https://www.cambridgeincolour.com/tutorials/image-sharpening.htm> | `retoques/20-fuentes.md:70` |
 | 403 | <https://www.cambridgeincolour.com/tutorials/posterization.htm> | `retoques/20-fuentes.md:70` |
 | 403 | <https://www.dpreview.com/forums/threads/a6700-iso-invariance-test.4740029/> | `conceptos/09-por-que-funciona.md:295` |
-| 403 | <https://www.mpb.com/> | `manejo-a6700/10-equipo-accesorios.md:18`, `manejo-a6700/10-equipo-accesorios.md:271`, `manejo-a6700/17-verificacion-in-situ.md:67` |
+| 403 | <https://www.mpb.com/> | `manejo-a6700/13-equipo-accesorios.md:18`, `manejo-a6700/13-equipo-accesorios.md:271`, `manejo-a6700/20-verificacion-in-situ.md:67` |
 | 403 | <https://www.photopills.com/> | `manejo-a6700/06-astrofotografia-namibia.md:183`, `manejo-a6700/06-astrofotografia-namibia.md:51`, `manejo-a6700/07-estrellas-con-tierra.md:353` |
 | 403 | <https://www.photopills.com/videos/3-tips-to-use-photopills-offline-photopills-tip-7> | `manejo-a6700/07-estrellas-con-tierra.md:353` |
 | 403 | <https://www.sony.es/electronics/support> | `README.md:190`, `manejo-a6700/01-de-movil-a-la-a6700.md:261`, `manejo-a6700/02-menus-y-primer-dia.md:363` |
 | 403 | <https://www.sony.es/lenses/products/sel11f18> | `conceptos/09-por-que-funciona.md:297`, `manejo-a6700/04-configuracion-basica.md:214`, `manejo-a6700/06-astrofotografia-namibia.md:260` |
-| 403 | <https://www.sony.es/lenses/products/sel70350g> | `manejo-a6700/04-configuracion-basica.md:215`, `manejo-a6700/08-safari-diurno.md:210`, `manejo-a6700/10-equipo-accesorios.md:106` |
+| 403 | <https://www.sony.es/lenses/products/sel70350g> | `manejo-a6700/04-configuracion-basica.md:215`, `manejo-a6700/08-safari-diurno.md:210`, `manejo-a6700/13-equipo-accesorios.md:106` |
 
 ## Los que responden, por sitio
 

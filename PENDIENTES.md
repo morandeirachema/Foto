@@ -14,7 +14,7 @@ Las fotos de Namibia salieron **solo en JPEG** por un error de configuración. A
 
 ## 2 · La cámara: 11 nombres de menú por confirmar
 
-La auditoría confirmó las 79 rutas, pero estos nombres no se pudieron localizar ([verificación de los menús](manejo-a6700/15-verificacion-de-menus.md)). Ponte sobre cada línea y pulsa **C3**: la Guía en la cámara muestra el nombre oficial.
+La auditoría confirmó las 79 rutas, pero estos nombres no se pudieron localizar ([verificación de los menús](manejo-a6700/18-verificacion-de-menus.md)). Ponte sobre cada línea y pulsa **C3**: la Guía en la cámara muestra el nombre oficial.
 
 > **Confirmados el 22 de noviembre de 2026** en las fichas de la Guía de ayuda de Sony ([verificación](notas-de-investigacion/verificacion-de-datos/menus-de-la-a6700.md)). Si la pantalla de tu cámara dice otra cosa, manda la pantalla.
 
@@ -32,7 +32,7 @@ La auditoría confirmó las 79 rutas, pero estos nombres no se pudieron localiza
 
 ## 3 · El Viltrox 25 mm
 
-- [ ] ¿Es el **AF 25 mm F1.7 Air**? Lo pone en el barrilete o en la caja. Si es otro modelo, la ficha de [su guía](manejo-a6700/11-viltrox-25mm.md) puede cambiar.
+- [ ] ¿Es el **AF 25 mm F1.7 Air**? Lo pone en el barrilete o en la caja. Si es otro modelo, la ficha de [su guía](manejo-a6700/14-viltrox-25mm.md) puede cambiar.
 - [ ] Haz una foto y mira su información: ¿dice **25 mm** de focal? (Para el estabilizador y para los datos de la foto.)
 - [ ] **Firmware:** anota la versión instalada y compárala con la última de la web de Viltrox.
 - [ ] Asigna **`Alter. select. AF/MF`** a un botón libre (no C1 ni C3) y anota cuál: lo pongo en la guía.
@@ -71,7 +71,7 @@ Las [recetas completas](retoques/10-recetas.md) están marcadas como provisional
 ## 6 · El equipo y el estado del repo
 
 - [x] **El 70-350 prestado**: sigue contigo una temporada (18 de noviembre de 2026). Las guías siguen contando con él; si lo devuelves, avisa y las ajusto.
-- [ ] El estado del equipo de [equipo y accesorios](manejo-a6700/10-equipo-accesorios.md) es del **25 de octubre**. ¿Ha cambiado algo?
+- [ ] El estado del equipo de [equipo y accesorios](manejo-a6700/13-equipo-accesorios.md) es del **25 de octubre**. ¿Ha cambiado algo?
 - [ ] **Capturas de los menús:** el [guion](manejo-a6700/img/menus/) tiene 14 imprescindibles (marcadas ★). Hazlas con el móvil y ejecuta `python3 manejo-a6700/img/menus/insertar.py`.
 - [ ] **Quitar la ubicación de una foto:** Apple documenta cómo en la app Fotos (Imagen → Ubicación → Ocultar ubicación). ¿Se puede también desde Vista Previa (Herramientas → Mostrar inspector)? ([retoques, 14.3](retoques/14-etica.md))
 
@@ -79,7 +79,7 @@ Las [recetas completas](retoques/10-recetas.md) están marcadas como provisional
 
 - [ ] ¿Traigo las guías **"después del viaje"** de a6700-namibia (el archivo y la selección: copias 3-2-1, criba en dos pasadas, las 20 finales)?
 - [ ] ¿Escribo un capítulo de **Luminar con RAW** para las próximas salidas? (Depende de la comprobación de la sección 4.)
-- [ ] ¿Añado el **Viltrox** a la [chuleta](manejo-a6700/16-chuleta.md)? Tiene que seguir cabiendo en una cara.
+- [ ] ¿Añado el **Viltrox** a la [chuleta](manejo-a6700/19-chuleta.md)? Tiene que seguir cabiendo en una cara.
 - [ ] Hay 81 enlaces que llevan a **a6700-namibia** para guías no copiadas. ¿Mantienes ese repo publicado, o traigo lo que te interese?
 
 ## 8 · Verificación del 22 de noviembre de 2026
@@ -107,3 +107,10 @@ La [guía del Pixel](manejo-pixel-10-pro/README.md) se escribió el 22 de noviem
 - [ ] `Brillo` y `Sombras`: ¿están donde dice el [capítulo 2](manejo-pixel-10-pro/02-la-aplicacion-camara.md)?
 - [ ] Las **Credenciales de Contenido**: ¿qué anota en una foto normal y en una de Zoom Pro?
 - [ ] **Decisión:** ¿quieres preguntas del Pixel en la autoevaluación y en el test interactivo? Ahora no las hay.
+
+## 10 · Time-lapse, estelas y fotos en casa
+
+- [ ] **Time-lapse, receta B** ([capítulo 10](manejo-a6700/10-time-lapse-del-cielo.md#receta-b--del-atardecer-a-la-noche-la-cámara-lleva-la-exposición)): haz la serie de prueba de 60 fotos durante una puesta. ¿Cómo salen las últimas, ya de noche: demasiado oscuras, bien o grises? ¿Se nota parpadeo en el vídeo? Con eso ajusto la compensación (−0,7) y el máximo de ISO AUTO (3200) de la receta.
+- [ ] Con `Prior. intervalo toma` en `Activar`, ¿qué hace la cámara cuando la exposición ya no cabe en el intervalo: sube el ISO, oscurece la foto o acorta la velocidad? Mira la velocidad y el ISO de las últimas fotos de la serie. Sony no lo explica.
+- [ ] **Luminar, capas:** al añadir una foto como capa (**My Images**), ¿qué modos salen en **Blend Modes**? ¿Hay **Lighten**? La documentación de Skylum no los enumera ([estelas de tráfico](manejo-a6700/11-estelas-de-trafico.md#varias-fotos-para-una-apilar-las-estelas)).
+- [ ] **DaVinci Resolve:** al importar la carpeta de un time-lapse, ¿reconoce las fotos numeradas como un solo clip, como dice el [capítulo 10](manejo-a6700/10-time-lapse-del-cielo.md#1--el-vídeo)? No está comprobado en tu Mac.

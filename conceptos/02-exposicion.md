@@ -38,7 +38,7 @@ Un **paso** (*stop*) es **el doble o la mitad de luz**. Es la misma unidad en lo
 
 - **Rápida** (1/1000 s o más): **congela** el movimiento. Un ave en vuelo o un animal corriendo salen nítidos.
 - **Media** (1/125 a 1/250 s): suficiente para personas caminando o animales tranquilos.
-- **Lenta** (1/30 s o menos): el agua se vuelve **sedosa**, las luces dejan estelas. A pulso, la foto sale **movida**: hace falta apoyo o trípode.
+- **Lenta** (1/30 s o menos): el agua se vuelve **sedosa**, las luces dejan estelas ([estelas de tráfico](../manejo-a6700/11-estelas-de-trafico.md)). A pulso, la foto sale **movida**: hace falta apoyo o trípode.
 - **Muy lenta** (segundos): fotografía nocturna y de estrellas, siempre con trípode.
 
 **Dos borrosidades distintas** que conviene no confundir:

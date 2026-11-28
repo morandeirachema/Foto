@@ -22,7 +22,7 @@ luz durísima a mediodía y polvo en todas partes. La cámara va preconfigurada
 | Enfoque | **AF-C** + AF-ON con el pulgar ([capítulo 4](04-configuracion-basica.md)) |
 | Reconocimiento de sujeto | **Animal** (cámbialo a Ave para aves) |
 | Área AF | Zona — o Ancha si la escena está limpia |
-| Sensibilidad de seguimiento | **3** (la estándar); con hierba/ramas robando el foco, **1** ([AF y exposición a fondo](12-af-y-exposicion-a-fondo.md)) |
+| Sensibilidad de seguimiento | **3** (la estándar); con hierba/ramas robando el foco, **1** ([AF y exposición a fondo](15-af-y-exposicion-a-fondo.md)) |
 | Ráfaga | **Hi+** (11 fps) — en Hi+ el visor no va en tiempo real durante la ráfaga; si te cuesta seguir al animal, baja a Hi |
 | Formato | RAW en la SD (UHS-II, con hueco) |
 | Estabilizador | **OSS del objetivo en ON**; el IBIS de la cámara se suma solo (los dos, OFF en trípode) |
@@ -37,7 +37,7 @@ según el movimiento.
 > [la fauna, animal por animal](https://github.com/morandeirachema/a6700-namibia/blob/main/tecnica/fauna-de-namibia.md).
 
 > Cada uno de estos ajustes, con su **ruta exacta de menú**, en
-> [la referencia de ajustes](13-ajustes-a6700.md#bloque-b-fauna-la-receta-de-mr1).
+> [la referencia de ajustes](16-ajustes-a6700.md#bloque-b-fauna-la-receta-de-mr1).
 
 ## La rutina de 10 segundos (cada vez que llegas a una escena)
 
@@ -81,7 +81,7 @@ En M con ISO Auto la compensación de exposición **funciona con normalidad**
 oscuro (sombra, noche) → **−0.7 a −1**; escena normal → 0. Es la única
 corrección que necesitas de día. Para casos finos (animal pequeño a
 contraluz), la medición **puntual vinculada al punto de enfoque** mide justo
-donde enfocas ([AF y exposición a fondo](12-af-y-exposicion-a-fondo.md)).
+donde enfocas ([AF y exposición a fondo](15-af-y-exposicion-a-fondo.md)).
 
 ## Configurar una sola vez
 
@@ -163,7 +163,7 @@ Cinco reglas que no requieren técnica, solo acordarse:
 ## Práctica desde el coche
 
 - **Bean bag** en la ventanilla (mejor que trípode dentro del coche; qué es
-  y cómo se usa: [equipo](10-equipo-accesorios.md)). Llévalo
+  y cómo se usa: [equipo](13-equipo-accesorios.md)). Llévalo
   vacío y rellénalo allí con arroz o alubias.
 - **Motor apagado** en las tomas importantes: la vibración se nota a 525 mm
   equivalentes.

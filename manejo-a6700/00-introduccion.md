@@ -22,35 +22,38 @@
 7. Estrellas con la tierra dentro
 8. Safari diurno
 9. Safari nocturno en charcas
+10. Time-lapse del cielo
+11. Estelas de tráfico
+12. Fotos en casa
 
 **Parte III · Equipo y objetivos**
 
-10. Equipo y accesorios
-11. El Viltrox 25 mm F1.7
-12. El AF y la exposición a fondo
+13. Equipo y accesorios
+14. El Viltrox 25 mm F1.7
+15. El AF y la exposición a fondo
 
 **Parte IV · Referencia**
 
-13. Todos los ajustes, con su ruta de menú
-14. El menú completo
-15. Verificación de los menús
+16. Todos los ajustes, con su ruta de menú
+17. El menú completo
+18. Verificación de los menús
 
 **Parte V · Hojas de campo** *(para imprimir)*
 
-16. Chuleta
-17. Verificación in situ
+19. Chuleta
+20. Verificación in situ
 
 ## Cómo leerla
 
 - **Cada capítulo abre con su nivel:** 🟢 **Iniciación** · 🔵 **Básico** · 🔴 **Avanzado**, con qué da por sabido y qué te desbloquea.
 - **Los valores son los de tu cámara.** Las guías describen cómo está configurada. Si algún día la pantalla no coincide con una guía, manda la pantalla: anótalo en [PENDIENTES.md](../PENDIENTES.md).
-- **Los menús se escriben como en la pantalla**, abreviados y en español: `MENU → pestaña → [Grupo] → [Ajuste]`, por ejemplo `Toma → [Calid. img/grab.] → [Formato archivo]`. Están verificados con la Guía de ayuda de Sony ([capítulo 15](15-verificacion-de-menus.md)).
+- **Los menús se escriben como en la pantalla**, abreviados y en español: `MENU → pestaña → [Grupo] → [Ajuste]`, por ejemplo `Toma → [Calid. img/grab.] → [Formato archivo]`. Están verificados con la Guía de ayuda de Sony ([capítulo 18](18-verificacion-de-menus.md)).
 - **Las focales llevan su equivalencia APS-C** (×1,5): 11 mm = 16,5 mm · 25 mm = 37,5 mm · 70–350 mm = 105–525 mm.
 - **Lección de Namibia:** las fotos del viaje salieron solo en JPEG. Antes de cualquier salida, comprueba que la cámara dispara en RAW ([capítulo 4](04-configuracion-basica.md)).
 
 ## Numeración antigua
 
-El [PDF de `sources/`](../sources/README.md) y el repo [a6700-namibia](https://github.com/morandeirachema/a6700-namibia) usan la numeración anterior. Equivalencias:
+El [PDF de `sources/`](../sources/README.md) y el repo [a6700-namibia](https://github.com/morandeirachema/a6700-namibia) usan la numeración anterior. Equivalencias (el 28 de noviembre de 2026 entraron los capítulos 10, 11 y 12, y los antiguos 10–17 pasaron a ser 13–20):
 
 | Antes | Ahora |
 |---|---|
@@ -61,8 +64,8 @@ El [PDF de `sources/`](../sources/README.md) y el repo [a6700-namibia](https://g
 | 2 · Astrofotografía | 6 |
 | 3 · Safari diurno | 8 |
 | 4 · Safari nocturno en charcas | 9 |
-| 5 · Equipo y accesorios | 10 |
-| Sin número: estrellas con la tierra, AF a fondo, ajustes, menú completo, chuleta, verificación in situ | 7, 12, 13, 14, 16, 17 |
+| 5 · Equipo y accesorios | 13 |
+| Sin número: estrellas con la tierra, AF a fondo, ajustes, menú completo, chuleta, verificación in situ | 7, 15, 16, 17, 19, 20 |
 
 <!-- nav -->
 [Índice](README.md) · [Siguiente →](01-de-movil-a-la-a6700.md)

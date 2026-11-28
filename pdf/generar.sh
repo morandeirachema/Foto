@@ -23,9 +23,9 @@ NOMBRES="chuleta chuleta-pixel verificacion-in-situ cuaderno-de-composicion guia
 # Sin arrays asociativos: el bash 3.2 de macOS no los tiene
 fuente() {
   case "$1" in
-    chuleta)                 echo "manejo-a6700/16-chuleta.md" ;;
+    chuleta)                 echo "manejo-a6700/19-chuleta.md" ;;
     chuleta-pixel)           echo "manejo-pixel-10-pro/13-chuleta.md" ;;
-    verificacion-in-situ)    echo "manejo-a6700/17-verificacion-in-situ.md" ;;
+    verificacion-in-situ)    echo "manejo-a6700/20-verificacion-in-situ.md" ;;
     cuaderno-de-composicion) echo "conceptos/08-cuaderno-de-composicion.md" ;;
     *) echo "Hoja desconocida: $1 (son: $NOMBRES)" >&2; exit 1 ;;
   esac

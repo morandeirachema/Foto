@@ -6,9 +6,9 @@
 
 # 10. La mirada — cómo piensan los que hacen las fotos que te gustan
 
-> 🔴 **Avanzado** · Da por sabido: los capítulos 1 a 10 de [manejo](../manejo-a6700/README.md) · Te desbloquea: decidir tú dónde ponerte y qué esperar, en vez de reaccionar a lo que aparezca.
+> 🔴 **Avanzado** · Da por sabido: los capítulos 1 a 9 de [manejo](../manejo-a6700/README.md) · Te desbloquea: decidir tú dónde ponerte y qué esperar, en vez de reaccionar a lo que aparezca.
 
-Los capítulos 1–10 hacen que la foto salga **bien**. Esta guía va de que salga
+Los capítulos 1–9 de manejo hacen que la foto salga **bien**. Esta guía va de que salga
 **buena**, y no trata de ajustes: trata de dónde estar, a qué hora, qué
 esperar y qué mirar. Es lo que separa al que vuelve con 3.000 fotos correctas
 del que vuelve con veinte que valen la pena — y se entrena, como todo lo
