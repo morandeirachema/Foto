@@ -28,7 +28,7 @@ Refactorizar y ordenar el repo; encontrar huecos para mejorar las fotos de **saf
 
 ## Lo que queda
 
-- **El test interactivo** está preparado con 63 preguntas, pero **sin republicar**: sus enlaces van a GitHub `main`, y los archivos renombrados aún no están subidos.
+- **El test interactivo** quedó republicado con 63 preguntas después de subir los archivos renombrados (sus enlaces van a GitHub `main`).
 - **Sin probar en la cámara ni en Luminar** ([PENDIENTES § 11](../PENDIENTES.md#11--calle-arquitectura-la-hiperfocal-y-los-maestros-28-de-noviembre-de-2026)): si Transform aparece con JPEG, si el Viltrox conserva la zona tras apagar, la zona en AF-C, la distancia de enfoque en pantalla y el obturador electrónico con movimiento.
 - **Los maestros:** de las 56 fotos o series analizadas, solo seis se han mirado directamente; el resto se describe con la fuente. Algunas páginas no se dejaron leer (MoMA, Art Institute of Chicago, NGA, The Met, Getty): sus datos vienen de resúmenes de buscador y están marcados en las notas. Rowell y Masats llevan una sola foto.
 - **El Pixel** no tiene capítulo de calle; el de manejo remite a sus capítulos de personas y lentes.
